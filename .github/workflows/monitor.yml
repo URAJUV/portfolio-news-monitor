@@ -14,31 +14,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Install Dependencies
-        run: npm install
+      - run: npm install
 
-      - name: Run Portfolio Monitor
-        run: node monitor.js
+      - run: node monitor.js
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
 
-      - name: Commit Updated Cache
+      - name: Commit Cache Files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
           git add seen-news.json
+          git add daily-summary.json
 
-          git diff --cached --quiet || git commit -m "Update seen news cache"
+          git diff --cached --quiet || git commit -m "Update monitor cache"
 
           git push
