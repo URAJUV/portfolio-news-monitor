@@ -1,4 +1,15 @@
 {
-  "date": "",
-  "items": []
+  "date": "2026-06-03",
+  "items": [
+    {
+      "stock": "AMD",
+      "headline": "Stock Market Today: War Fears Put S&P Streak In Danger; Broadcom Hits Highs Ahead Of Earnings (Live Coverage)",
+      "url": "https://finnhub.io/api/news?id=665c2339a3845d50b1823a80cade1cedfbbf5b84590325dd32273ab79189f6e3"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Here's Billionaire Stanley Druckenmiller's Top Holding (Hint: It's Not Alphabet or Nvidia)",
+      "url": "https://finnhub.io/api/news?id=738c275688fc6e35254ba8507f86c297cfadee31df68571155e065feadd7b7dd"
+    }
+  ]
 }
