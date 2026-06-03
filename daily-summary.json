@@ -10,6 +10,31 @@
       "stock": "GOOGL",
       "headline": "Here's Billionaire Stanley Druckenmiller's Top Holding (Hint: It's Not Alphabet or Nvidia)",
       "url": "https://finnhub.io/api/news?id=738c275688fc6e35254ba8507f86c297cfadee31df68571155e065feadd7b7dd"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Holdings Inc (NASDAQ:CRWD) Slips on Cautious Guidance Despite Strong Q1 Results and Stock Split Announcement",
+      "url": "https://finnhub.io/api/news?id=0a5362c1377a19985a07a2f2948b734a6ab6242eb2bbbb214b7a12d976b79ab9"
+    },
+    {
+      "stock": "COHR",
+      "headline": "When Nvidia's CEO Speaks, This Stock Listens",
+      "url": "https://finnhub.io/api/news?id=16d5bfe702f5a2b8f314efad66f08f200d8710a688fa19d917ecbda2fafe2ae0"
+    },
+    {
+      "stock": "AMPX",
+      "headline": "Clear Street Initiates Coverage On Amprius Technologies with Buy Rating, Announces Price Target of $33",
+      "url": "https://finnhub.io/api/news?id=2954d85ce4e720b2993c7d2549171f9d939cf7e65dcc6bd864701f7cc8b69fb8"
+    },
+    {
+      "stock": "U",
+      "headline": "Piper Sandler Assumes Unity Software at Overweight, Raises Price Target to $40",
+      "url": "https://finnhub.io/api/news?id=36437a582d5f958e9791eb2c5b3b0eab514e2772b980cdb8d738ec0ddbd8051a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google Faces New UK Rules Over AI Search Content",
+      "url": "https://finnhub.io/api/news?id=18ccb345a2b6fb905b3fc03e290924480dd943dfe2a681b18398654087988b67"
     }
   ]
 }
