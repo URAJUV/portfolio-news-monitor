@@ -1,8 +1,11 @@
 name: Portfolio Monitor
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: '0 * * * *'
 
   workflow_dispatch:
 
@@ -11,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -22,10 +25,20 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Run Monitor
+      - name: Run Portfolio Monitor
         run: node monitor.js
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Commit Updated Cache
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add seen-news.json
+
+          git diff --cached --quiet || git commit -m "Update seen news cache"
+
+          git push
