@@ -1,18 +1,20 @@
 const axios = require("axios");
 
+function formatDate(date) {
+  return date.toISOString().split("T")[0];
+}
+
 async function getNews(symbol) {
   const token = process.env.FINNHUB_KEY;
 
-  // Last 7 days
   const today = new Date();
   const from = new Date();
-  from.setDate(today.getDate() - 7);
 
-  const formatDate = (date) =>
-    date.toISOString().split("T")[0];
+  from.setDate(today.getDate() - 2);
 
   const url =
-    `https://finnhub.io/api/v1/company-news?symbol=${symbol}` +
+    `https://finnhub.io/api/v1/company-news` +
+    `?symbol=${symbol}` +
     `&from=${formatDate(from)}` +
     `&to=${formatDate(today)}` +
     `&token=${token}`;
