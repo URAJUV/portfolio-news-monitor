@@ -1,9 +1,31 @@
 {
-  "stocks": [
-    "AMD",
-    "NVDA",
-    "AAPL",
-    "GOOGL",
-    "TSLA"
-  ]
+"stocks": [
+"MU",
+"TSM",
+"CRWD",
+"AMZN",
+"COHR",
+"SHLS",
+"SNPS",
+"TSLA",
+"AMPX",
+"ARM",
+"HON",
+"HALO",
+"SONY",
+"IONQ",
+"UBER",
+"AAOI",
+"DE",
+"ADSK",
+"OMEX",
+"DPRO",
+"IBM",
+"QBTS",
+"U",
+"GOOGL",
+"TEAM",
+"NFLX",
+"RDDT"
+]
 }
