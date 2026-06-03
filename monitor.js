@@ -1,48 +1,33 @@
-/*
-const sendTelegram = require("./telegram");
-
-(async () => {
-  await sendTelegram(
-    "🚀 Portfolio Monitor Started Successfully"
-  );
-
-  console.log("Success");
-})();
-*/
 const portfolio = require("./portfolio.json");
-
 const getNews = require("./news");
-const analyze = require("./sentiment");
 const sendTelegram = require("./telegram");
 
 (async () => {
-
-
-
-
   for (const stock of portfolio.stocks) {
+    try {
+      const news = await getNews(stock);
 
-    const news = await getNews(stock);
+      if (!news || news.length === 0) {
+        continue;
+      }
 
-    const result = await analyze(stock, news);
+      let message = `📈 ${stock}\n\n`;
 
-    const parsed = JSON.parse(result);
+      news.forEach((article, index) => {
+        message += `${index + 1}. ${article.headline}\n`;
+        message += `${article.url}\n\n`;
+      });
 
-    if (
-      parsed.impact === "high" &&
-      parsed.sentiment !== "neutral"
-    ) {
+      await sendTelegram(message);
 
-      await sendTelegram(
-`
-${parsed.sentiment.toUpperCase()} ALERT
-
-${stock}
-
-${parsed.summary}
-`
+      // Avoid Telegram rate limits
+      await new Promise((resolve) =>
+        setTimeout(resolve, 2000)
       );
+    } catch (err) {
+      console.error(`Error processing ${stock}`, err.message);
     }
   }
 
+  console.log("Portfolio scan completed.");
 })();
