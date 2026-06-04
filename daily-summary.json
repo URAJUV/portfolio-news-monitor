@@ -40,6 +40,26 @@
       "stock": "NFLX",
       "headline": "Netflix Bets On AI Tools As Stock Trades Below Analyst Targets",
       "url": "https://finnhub.io/api/news?id=0c9b4efd04c0d0dd02ddbda0a0d364b0fa4138c806168fb4561716f33aa15015"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Pinterest and IBM Just Struck Massive AI Deals. Amazon and Google Are the Big Winners.",
+      "url": "https://finnhub.io/api/news?id=ab6468fd3641dc445c0a2cdc94a009fe64d830e3c6dcb715bfcbad4df26bbcd1"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "SpaceX IPO: rockets, AI losses and Musk in control",
+      "url": "https://finnhub.io/api/news?id=b71c09d61bc682f9a1b13ad3389f6b69403b8a6b0ef513e5877acea327407b87"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Dow Hits Record High And S&P 500 Gains As Oil Slides, While Chip Weakness Weighs On Nasdaq — AVGO, UNH, META, PINS, RUM In Focus",
+      "url": "https://finnhub.io/api/news?id=9ab51e02126343d860a365e6449f1472c5f214e507e3ae39cb728c4834de96ac"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Kiwi-Born Legal AI Company Ivo Partners with New Zealand Football as Global Expansion Accelerates",
+      "url": "https://finnhub.io/api/news?id=746b1e6f6cb3800514fccfed74831703f17db5476da40afdf721bfc9b33b5dd1"
     }
   ]
 }
