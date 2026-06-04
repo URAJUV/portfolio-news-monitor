@@ -1,4 +1,45 @@
 {
   "date": "2026-06-04",
-  "items": []
+  "items": [
+    {
+      "stock": "TSM",
+      "headline": "Nvidia: Blackwell, AI Inference And CUDA Keep The Growth Story Intact (Upgrade)",
+      "url": "https://finnhub.io/api/news?id=ae7a88d82212bf72a95619afc27f72dd79c44b663084f4fe7b13d9592ff25c60"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "AI Power Boom Revives Natural Gas as Infrastructure Bet",
+      "url": "https://finnhub.io/api/news?id=7c169b2ca929945602c22c25f0a7ca882d6cdeaab5dc45f51c947dfaaf7ee7d5"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Ciena Stock Plummets After Earnings Beat. Revenue Growth of 40% Wasn’t Enough.",
+      "url": "https://finnhub.io/api/news?id=55555e9070a1be1440e20b0988a3aff0c0797ab0223730b39e4a8919f1ff42bf"
+    },
+    {
+      "stock": "ARM",
+      "headline": "SoftBank Shares Plunge 10% Amid Global AI Sector Selloff",
+      "url": "https://finnhub.io/api/news?id=f493c330fde0ca1e73ac4a09fa9c45f62fcb4d2dd82539365cf8f13b6448d5cf"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Kiwi-Born Legal AI Company Ivo Partners with New Zealand Football as Global Expansion Accelerates",
+      "url": "https://finnhub.io/api/news?id=746b1e6f6cb3800514fccfed74831703f17db5476da40afdf721bfc9b33b5dd1"
+    },
+    {
+      "stock": "DE",
+      "headline": "JP Morgan Maintains Neutral on Deere, Raises Price Target to $590",
+      "url": "https://finnhub.io/api/news?id=e8be99d1de2f2fd30819dd7a336af53f8ab0cbb7f7e3a391217dd2b0c7305a02"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk (ADSK) Valuation Check As AWS Cloud Deal And Raised Guidance Draw Investor Attention",
+      "url": "https://finnhub.io/api/news?id=6a1f2b7682cbae70851f1348294d1c1e98b9a6285b7a8ffc322d65663dee2ae2"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Bets On AI Tools As Stock Trades Below Analyst Targets",
+      "url": "https://finnhub.io/api/news?id=0c9b4efd04c0d0dd02ddbda0a0d364b0fa4138c806168fb4561716f33aa15015"
+    }
+  ]
 }
