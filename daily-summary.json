@@ -1,40 +1,50 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "items": [
     {
-      "stock": "AMD",
-      "headline": "Stock Market Today: War Fears Put S&P Streak In Danger; Broadcom Hits Highs Ahead Of Earnings (Live Coverage)",
-      "url": "https://finnhub.io/api/news?id=665c2339a3845d50b1823a80cade1cedfbbf5b84590325dd32273ab79189f6e3"
+      "stock": "MU",
+      "headline": "Micron Locks In Long Term AI Memory Deals As Valuation Stretches",
+      "url": "https://finnhub.io/api/news?id=54906c3d5a07f77ac56cdcfb45df6ea0acc26903cc75dd82ac42f26d365bffc4"
     },
     {
-      "stock": "GOOGL",
-      "headline": "Here's Billionaire Stanley Druckenmiller's Top Holding (Hint: It's Not Alphabet or Nvidia)",
-      "url": "https://finnhub.io/api/news?id=738c275688fc6e35254ba8507f86c297cfadee31df68571155e065feadd7b7dd"
+      "stock": "TSM",
+      "headline": "Energy Crisis, Rising Geopolitical Risk, And AI Momentum Headwinds",
+      "url": "https://finnhub.io/api/news?id=014e42c0c8d087b245eb29af9c78b9c3743e8bb0a7d327379677c7e2d742e753"
     },
     {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Holdings Inc (NASDAQ:CRWD) Slips on Cautious Guidance Despite Strong Q1 Results and Stock Split Announcement",
-      "url": "https://finnhub.io/api/news?id=0a5362c1377a19985a07a2f2948b734a6ab6242eb2bbbb214b7a12d976b79ab9"
+      "stock": "AMZN",
+      "headline": "Big Tech's AI Spending Is on Track to Top $700 Billion This Year. Here's Who May Cash In Next.",
+      "url": "https://finnhub.io/api/news?id=e6afc7b1a44bc90390fbae719f16b0b83f82f39279e4938436deabb0d6d766ac"
     },
     {
       "stock": "COHR",
-      "headline": "When Nvidia's CEO Speaks, This Stock Listens",
-      "url": "https://finnhub.io/api/news?id=16d5bfe702f5a2b8f314efad66f08f200d8710a688fa19d917ecbda2fafe2ae0"
+      "headline": "MRVL Stock Slides Overnight After Record Close: Retail Traders Keep The Faith",
+      "url": "https://finnhub.io/api/news?id=c252d7fb95798d110736aab38f5f8536f3590a72c99a72fed430188be4732d6c"
     },
     {
-      "stock": "AMPX",
-      "headline": "Clear Street Initiates Coverage On Amprius Technologies with Buy Rating, Announces Price Target of $33",
-      "url": "https://finnhub.io/api/news?id=2954d85ce4e720b2993c7d2549171f9d939cf7e65dcc6bd864701f7cc8b69fb8"
+      "stock": "SNPS",
+      "headline": "AI Designing AI: The Hidden Reason Nvidia Owns a $2 Billion Stake in Synopsys",
+      "url": "https://finnhub.io/api/news?id=8631bae02f39731ec7f641bb2ff9c5fdbaf6733f4849d98e37236f59aec7cc2d"
     },
     {
-      "stock": "U",
-      "headline": "Piper Sandler Assumes Unity Software at Overweight, Raises Price Target to $40",
-      "url": "https://finnhub.io/api/news?id=36437a582d5f958e9791eb2c5b3b0eab514e2772b980cdb8d738ec0ddbd8051a"
+      "stock": "TSLA",
+      "headline": "ASTS, RKLB, SPCE, RDW Stocks Extend Selloff Overnight — Analyst Backs 'Betting Against Space' Trade As Jefferies Courts SpaceX Bears",
+      "url": "https://finnhub.io/api/news?id=14a7239ec0df919a9aed64db0faaff81a4a55dbdfe5bf48fd8ce50bea256310f"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ: Unique Trapped Ion Technology To Sustain Rapid Growth",
+      "url": "https://finnhub.io/api/news?id=b7d74d6e2c7135d1b3268f58953bd9ee69a285156c19cbb751cac2334fdbfe2f"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk CFO Says MaintainX Deal Extends AI Push Across Asset Lifecycle",
+      "url": "https://finnhub.io/api/news?id=0249cd3e7c46c253b552632f1c2ac7b5e2a256c5262291cc50ffac1f7dcb26e9"
     },
     {
       "stock": "GOOGL",
-      "headline": "Google Faces New UK Rules Over AI Search Content",
-      "url": "https://finnhub.io/api/news?id=18ccb345a2b6fb905b3fc03e290924480dd943dfe2a681b18398654087988b67"
+      "headline": "Google's $84 Million Capital Raise Uses Tools 'Popularized' By Michael Saylor's Strategy, Says Phong Le: Is It Just Old Wine In A New Bottle?",
+      "url": "https://finnhub.io/api/news?id=dbaf5f585dc7509d6d9b090bbb0e66389195ae1ee46223f30b90501aa2b6c2ed"
     }
   ]
 }
