@@ -135,6 +135,36 @@
       "stock": "GOOGL",
       "headline": "Apple's WWDC Hinges on Siri and AI",
       "url": "https://finnhub.io/api/news?id=4fb5026072ddf9ca2d149814ec1609bd9d25421449a7e9462ea5b3701cf5e640"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "After Months of Watching AI Innovation ETFs Run These 3 Active Funds Stand Out and the Revolution Has Barely Started",
+      "url": "https://finnhub.io/api/news?id=2fcff327cabb205e413805ba77395e0e069905a5fa8979b1a670e1dabc5909c7"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "History Says This Unstoppable Dow Juggernaut Is a No-Brainer Buy Right Now",
+      "url": "https://finnhub.io/api/news?id=fa1213dc1ae11b5339d3bb99f8c429b5607d28da09db3d60bd3fb372757bee96"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys' AI Strategy: Is it a Key Driver of Future Expansion?",
+      "url": "https://finnhub.io/api/news?id=c9cd36cff0d54110ad883a1dc37b10f5ba69ff343b110ca6f1dc2b383bf535c2"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Shares of companies within the broader tech sector are trading higher amid overall market strength in response to growing optimism for continued U.S.-Iran negotiations and sliding energy costs.",
+      "url": "https://finnhub.io/api/news?id=aaa2a7d13d1c1a5cff4fa0ba61a18582c73414d8e06f345ff6b835e366f84b65"
+    },
+    {
+      "stock": "OMEX",
+      "headline": "Shares of companies within the broader industrial sector are trading lower amid overall market weakness after unexpectedly strong U.S. job-growth data dampened expectations for a Fed rate cut.",
+      "url": "https://finnhub.io/api/news?id=8ec355cdf1bd5663ae5228cadb76d413f146a6b0f369c679a2e07c13ef9ae652"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave CEO Says Quantum Computing Is Moving Into Daily Business Operations After $10 Million Deal With Fortune 100 Firm",
+      "url": "https://finnhub.io/api/news?id=a4ce6e323bf1e0108f5b2923b9444011ea368ffa4e65141eab49b8037a4aa878"
     }
   ]
 }
