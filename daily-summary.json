@@ -1,65 +1,30 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "Nvidia: Blackwell, AI Inference And CUDA Keep The Growth Story Intact (Upgrade)",
-      "url": "https://finnhub.io/api/news?id=ae7a88d82212bf72a95619afc27f72dd79c44b663084f4fe7b13d9592ff25c60"
+      "stock": "MU",
+      "headline": "Will Broadcom Stock Recover After Its Guidance Disappointment, Or Should You Cut Your Losses?",
+      "url": "https://finnhub.io/api/news?id=265f3e61229b84a0e55f5e0ce295d4f3a755a15a85639b69506aff454ca5fe34"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Holdings, Inc. 2027 Q1 - Results - Earnings Call Presentation",
+      "url": "https://finnhub.io/api/news?id=ce933e14eddfe3c559305e2255d7f57b6ba4ca34e8dfa35711be42d7019695ae"
     },
     {
       "stock": "AMZN",
-      "headline": "AI Power Boom Revives Natural Gas as Infrastructure Bet",
-      "url": "https://finnhub.io/api/news?id=7c169b2ca929945602c22c25f0a7ca882d6cdeaab5dc45f51c947dfaaf7ee7d5"
+      "headline": "Walmart Investors Reject Proposal To Disclose AI Impact On Workers’ Safety And Well-Being: Report",
+      "url": "https://finnhub.io/api/news?id=95b50ee8d107c05097d297dffae38c6f3af0c64189c4cdaf46260d12de10bcac"
     },
     {
-      "stock": "COHR",
-      "headline": "Ciena Stock Plummets After Earnings Beat. Revenue Growth of 40% Wasn’t Enough.",
-      "url": "https://finnhub.io/api/news?id=55555e9070a1be1440e20b0988a3aff0c0797ab0223730b39e4a8919f1ff42bf"
-    },
-    {
-      "stock": "ARM",
-      "headline": "SoftBank Shares Plunge 10% Amid Global AI Sector Selloff",
-      "url": "https://finnhub.io/api/news?id=f493c330fde0ca1e73ac4a09fa9c45f62fcb4d2dd82539365cf8f13b6448d5cf"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Kiwi-Born Legal AI Company Ivo Partners with New Zealand Football as Global Expansion Accelerates",
-      "url": "https://finnhub.io/api/news?id=746b1e6f6cb3800514fccfed74831703f17db5476da40afdf721bfc9b33b5dd1"
-    },
-    {
-      "stock": "DE",
-      "headline": "JP Morgan Maintains Neutral on Deere, Raises Price Target to $590",
-      "url": "https://finnhub.io/api/news?id=e8be99d1de2f2fd30819dd7a336af53f8ab0cbb7f7e3a391217dd2b0c7305a02"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Autodesk (ADSK) Valuation Check As AWS Cloud Deal And Raised Guidance Draw Investor Attention",
-      "url": "https://finnhub.io/api/news?id=6a1f2b7682cbae70851f1348294d1c1e98b9a6285b7a8ffc322d65663dee2ae2"
+      "stock": "GOOGL",
+      "headline": "How Xcel’s Google Data Center and EV Grid Projects Will Impact Xcel Energy (XEL) Investors",
+      "url": "https://finnhub.io/api/news?id=aa2da51ec7fba2d350b84fea8b3b6c0874875a99a8a4fa67525745a9a76e8b05"
     },
     {
       "stock": "NFLX",
-      "headline": "Netflix Bets On AI Tools As Stock Trades Below Analyst Targets",
-      "url": "https://finnhub.io/api/news?id=0c9b4efd04c0d0dd02ddbda0a0d364b0fa4138c806168fb4561716f33aa15015"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Pinterest and IBM Just Struck Massive AI Deals. Amazon and Google Are the Big Winners.",
-      "url": "https://finnhub.io/api/news?id=ab6468fd3641dc445c0a2cdc94a009fe64d830e3c6dcb715bfcbad4df26bbcd1"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "SpaceX IPO: rockets, AI losses and Musk in control",
-      "url": "https://finnhub.io/api/news?id=b71c09d61bc682f9a1b13ad3389f6b69403b8a6b0ef513e5877acea327407b87"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Dow Hits Record High And S&P 500 Gains As Oil Slides, While Chip Weakness Weighs On Nasdaq — AVGO, UNH, META, PINS, RUM In Focus",
-      "url": "https://finnhub.io/api/news?id=9ab51e02126343d860a365e6449f1472c5f214e507e3ae39cb728c4834de96ac"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Kiwi-Born Legal AI Company Ivo Partners with New Zealand Football as Global Expansion Accelerates",
-      "url": "https://finnhub.io/api/news?id=746b1e6f6cb3800514fccfed74831703f17db5476da40afdf721bfc9b33b5dd1"
+      "headline": "Virtus SGA U.S. Large Cap Growth Portfolio Q1 2026: Fundamentals And Execution Remains Strong",
+      "url": "https://finnhub.io/api/news?id=5dc5d5c035e4c898d031fd6d724e2e57215723c84703044709d2fda58fc7d5d0"
     }
   ]
 }
