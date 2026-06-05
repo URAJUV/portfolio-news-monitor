@@ -85,6 +85,36 @@
       "stock": "CRWD",
       "headline": "Tesla upgraded, AppLovin initiated: Wall Street's top analyst calls",
       "url": "https://finnhub.io/api/news?id=36ec11a2c407b450f53c7d6f174dfeaa3ae2ddf57e85a2ecae63910222992539"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron’s HBM4 Certification With Nvidia Puts AI Memory Margins In Focus",
+      "url": "https://finnhub.io/api/news?id=3c8d7b4e9e955be7939c6d7e7cff19ac0d9dfc9cc77c1111ec3dfe54f12ba3a0"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Berenberg downgrades CrowdStrike to hold despite strong outlook",
+      "url": "https://finnhub.io/api/news?id=79aa3c8ed2637962c4224dbcb57ef5e35aa985680e6b3b05e000c1f011e0c829"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Lemonade Tests Tesla Usage Based Auto Cover As Losses Remain A Focus",
+      "url": "https://finnhub.io/api/news?id=88b0d3fcc547d3cc22bb5b31768148f12805d4f7995718bcd68bacee9bba846e"
+    },
+    {
+      "stock": "UBER",
+      "headline": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "url": "https://finnhub.io/api/news?id=34be1ea5ba2dcf49d05f5934ba34756fbc90d2e026f1187a69b74462ba3f20e1"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Friday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=809cc7899f17b93e7809acf4549bbe5e66e1d40842132eb8d1159a155801f8d7"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Scott Galloway Predicts AI Valuations Will Crater 50-70% Within 24 Months. Here’s Why.",
+      "url": "https://finnhub.io/api/news?id=c6f469eab700fc2bff074453eb1764c047fb749d43217d575a3f81683290c147"
     }
   ]
 }
