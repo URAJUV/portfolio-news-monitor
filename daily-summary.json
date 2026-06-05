@@ -75,6 +75,16 @@
       "stock": "GOOGL",
       "headline": "Alphabet Is Managing AI Capex Well And Seems Highly Underrated",
       "url": "https://finnhub.io/api/news?id=88a544bc13da05e36e0d05d2d49739a6aa4337e73650842e7219b043a0d61ff1"
+    },
+    {
+      "stock": "TSM",
+      "headline": "What's Going On With Taiwan Semiconductor Stock Friday?",
+      "url": "https://finnhub.io/api/news?id=492b49934e78893ad5c9daac90f9773e1cf9dd97c432f65ddc04390f7015595d"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Tesla upgraded, AppLovin initiated: Wall Street's top analyst calls",
+      "url": "https://finnhub.io/api/news?id=36ec11a2c407b450f53c7d6f174dfeaa3ae2ddf57e85a2ecae63910222992539"
     }
   ]
 }
