@@ -1,170 +1,30 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Will Broadcom Stock Recover After Its Guidance Disappointment, Or Should You Cut Your Losses?",
-      "url": "https://finnhub.io/api/news?id=265f3e61229b84a0e55f5e0ce295d4f3a755a15a85639b69506aff454ca5fe34"
-    },
-    {
       "stock": "CRWD",
-      "headline": "CrowdStrike Holdings, Inc. 2027 Q1 - Results - Earnings Call Presentation",
-      "url": "https://finnhub.io/api/news?id=ce933e14eddfe3c559305e2255d7f57b6ba4ca34e8dfa35711be42d7019695ae"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Walmart Investors Reject Proposal To Disclose AI Impact On Workers’ Safety And Well-Being: Report",
-      "url": "https://finnhub.io/api/news?id=95b50ee8d107c05097d297dffae38c6f3af0c64189c4cdaf46260d12de10bcac"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "How Xcel’s Google Data Center and EV Grid Projects Will Impact Xcel Energy (XEL) Investors",
-      "url": "https://finnhub.io/api/news?id=aa2da51ec7fba2d350b84fea8b3b6c0874875a99a8a4fa67525745a9a76e8b05"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Virtus SGA U.S. Large Cap Growth Portfolio Q1 2026: Fundamentals And Execution Remains Strong",
-      "url": "https://finnhub.io/api/news?id=5dc5d5c035e4c898d031fd6d724e2e57215723c84703044709d2fda58fc7d5d0"
-    },
-    {
-      "stock": "MU",
-      "headline": "The Dow Hit a Record. The Chip Trade Hit a Wall. And Hezbollah Said No.",
-      "url": "https://finnhub.io/api/news?id=718fc2194383f6da9b658b36dbf6544a37ee0d62972f99fae7f99a0891eaa8ef"
-    },
-    {
-      "stock": "TSM",
-      "headline": "TDVI: Option ETF That Provides AI Growth Potential And Monthly Income",
-      "url": "https://finnhub.io/api/news?id=e6c8ac20f7c453c52874d7bd52348ea797b28c76e61203b8e05feac3f13313f4"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "The Dow Hit a Record. The Chip Trade Hit a Wall. And Hezbollah Said No.",
-      "url": "https://finnhub.io/api/news?id=718fc2194383f6da9b658b36dbf6544a37ee0d62972f99fae7f99a0891eaa8ef"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "The Dow Hit a Record. The Chip Trade Hit a Wall. And Hezbollah Said No.",
-      "url": "https://finnhub.io/api/news?id=718fc2194383f6da9b658b36dbf6544a37ee0d62972f99fae7f99a0891eaa8ef"
+      "headline": "After Its AI-Powered Surge, What Next For Akamai Stock?",
+      "url": "https://finnhub.io/api/news?id=3f74fe565afa76696480704b2a69d2ffcd9bcad79620fa778443fcf733e6a2eb"
     },
     {
       "stock": "COHR",
-      "headline": "How The Coherent (COHR) Investment Story Is Evolving With An Unchanged Fair Value Target",
-      "url": "https://finnhub.io/api/news?id=68fcf9f9317a98e7ee4a58c65b6bc6a0a61ba4dc4e45931d37ffde4cb09f75be"
+      "headline": "Coherent (COHR) Up 32.2% Since Last Earnings Report: Can It Continue?",
+      "url": "https://finnhub.io/api/news?id=9e0b5ec07841b7f6ec69c1a840d2e8d1ead8ad395c224d24668497b842be1882"
     },
     {
       "stock": "ARM",
-      "headline": "The Dow Hit a Record. The Chip Trade Hit a Wall. And Hezbollah Said No.",
-      "url": "https://finnhub.io/api/news?id=718fc2194383f6da9b658b36dbf6544a37ee0d62972f99fae7f99a0891eaa8ef"
-    },
-    {
-      "stock": "HON",
-      "headline": "The Dow Hit a Record. The Chip Trade Hit a Wall. And Hezbollah Said No.",
-      "url": "https://finnhub.io/api/news?id=718fc2194383f6da9b658b36dbf6544a37ee0d62972f99fae7f99a0891eaa8ef"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Autodesk Says MaintainX Deal Opens Door to $40 Billion Operations Market",
-      "url": "https://finnhub.io/api/news?id=b40b51021fe6d2e7a84486d8fb9be2fdcd2839a2b270801d5b59d3ff94b4eb5a"
-    },
-    {
-      "stock": "IBM",
-      "headline": "After Dell And HPE's AI-Fueled Surge, Is Cisco The Next 1990s Tech Giant To Break Out?",
-      "url": "https://finnhub.io/api/news?id=2eb564537c7a5e259c371b17961b0a605496e7004b3a5ff19bc078ec83d77e1a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet Is Managing AI Capex Well And Seems Highly Underrated",
-      "url": "https://finnhub.io/api/news?id=88a544bc13da05e36e0d05d2d49739a6aa4337e73650842e7219b043a0d61ff1"
-    },
-    {
-      "stock": "TSM",
-      "headline": "What's Going On With Taiwan Semiconductor Stock Friday?",
-      "url": "https://finnhub.io/api/news?id=492b49934e78893ad5c9daac90f9773e1cf9dd97c432f65ddc04390f7015595d"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Tesla upgraded, AppLovin initiated: Wall Street's top analyst calls",
-      "url": "https://finnhub.io/api/news?id=36ec11a2c407b450f53c7d6f174dfeaa3ae2ddf57e85a2ecae63910222992539"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron’s HBM4 Certification With Nvidia Puts AI Memory Margins In Focus",
-      "url": "https://finnhub.io/api/news?id=3c8d7b4e9e955be7939c6d7e7cff19ac0d9dfc9cc77c1111ec3dfe54f12ba3a0"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Berenberg downgrades CrowdStrike to hold despite strong outlook",
-      "url": "https://finnhub.io/api/news?id=79aa3c8ed2637962c4224dbcb57ef5e35aa985680e6b3b05e000c1f011e0c829"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Lemonade Tests Tesla Usage Based Auto Cover As Losses Remain A Focus",
-      "url": "https://finnhub.io/api/news?id=88b0d3fcc547d3cc22bb5b31768148f12805d4f7995718bcd68bacee9bba846e"
+      "headline": "Arm’s AI Data Center Push Meets Export Hurdles And Lofty Valuation",
+      "url": "https://finnhub.io/api/news?id=b91a5dc9511f6f569722292c125abe48af860cf40944bdcde31543fd173ce150"
     },
     {
       "stock": "UBER",
-      "headline": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-      "url": "https://finnhub.io/api/news?id=34be1ea5ba2dcf49d05f5934ba34756fbc90d2e026f1187a69b74462ba3f20e1"
+      "headline": "2 Non-AI Tech Stocks to Buy Now for 40%+ Upside as the Nasdaq Tanks",
+      "url": "https://finnhub.io/api/news?id=9eeb3a6721594f70ae56b69c5bcbe817517971c18956bbdf641d7f3e6ee37fe6"
     },
     {
-      "stock": "IBM",
-      "headline": "Friday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=809cc7899f17b93e7809acf4549bbe5e66e1d40842132eb8d1159a155801f8d7"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Scott Galloway Predicts AI Valuations Will Crater 50-70% Within 24 Months. Here’s Why.",
-      "url": "https://finnhub.io/api/news?id=c6f469eab700fc2bff074453eb1764c047fb749d43217d575a3f81683290c147"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Jefferies Raises its Price Target on CrowdStrike (CRWD)",
-      "url": "https://finnhub.io/api/news?id=ea8b9e1c3e2afc4363ae0d65e03672f6d87efd473cedd0b8bfdb19a36bc02916"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "This AI Chip Design Stock Is 24% Below Its High While Revenue Grew 42%. Wall Street Is Focused on the Wrong Number",
-      "url": "https://finnhub.io/api/news?id=63a8ed2d9f104df849248740a61e0b1ef1e9a61676ccf8db51664914c88bc093"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Why Is Uber (UBER) Down 5.9% Since Last Earnings Report?",
-      "url": "https://finnhub.io/api/news?id=fa5a3435eac9e50aa31f1b4b50cba5e6fb7954803b28796bf47cd5c49a72c4ec"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Apple's WWDC Hinges on Siri and AI",
-      "url": "https://finnhub.io/api/news?id=4fb5026072ddf9ca2d149814ec1609bd9d25421449a7e9462ea5b3701cf5e640"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "After Months of Watching AI Innovation ETFs Run These 3 Active Funds Stand Out and the Revolution Has Barely Started",
-      "url": "https://finnhub.io/api/news?id=2fcff327cabb205e413805ba77395e0e069905a5fa8979b1a670e1dabc5909c7"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "History Says This Unstoppable Dow Juggernaut Is a No-Brainer Buy Right Now",
-      "url": "https://finnhub.io/api/news?id=fa1213dc1ae11b5339d3bb99f8c429b5607d28da09db3d60bd3fb372757bee96"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys' AI Strategy: Is it a Key Driver of Future Expansion?",
-      "url": "https://finnhub.io/api/news?id=c9cd36cff0d54110ad883a1dc37b10f5ba69ff343b110ca6f1dc2b383bf535c2"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Shares of companies within the broader tech sector are trading higher amid overall market strength in response to growing optimism for continued U.S.-Iran negotiations and sliding energy costs.",
-      "url": "https://finnhub.io/api/news?id=aaa2a7d13d1c1a5cff4fa0ba61a18582c73414d8e06f345ff6b835e366f84b65"
-    },
-    {
-      "stock": "OMEX",
-      "headline": "Shares of companies within the broader industrial sector are trading lower amid overall market weakness after unexpectedly strong U.S. job-growth data dampened expectations for a Fed rate cut.",
-      "url": "https://finnhub.io/api/news?id=8ec355cdf1bd5663ae5228cadb76d413f146a6b0f369c679a2e07c13ef9ae652"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "D-Wave CEO Says Quantum Computing Is Moving Into Daily Business Operations After $10 Million Deal With Fortune 100 Firm",
-      "url": "https://finnhub.io/api/news?id=a4ce6e323bf1e0108f5b2923b9444011ea368ffa4e65141eab49b8037a4aa878"
+      "stock": "DPRO",
+      "headline": "Shares of aerospace and defense companies are trading lower amid overall market weakness, as investors react to reports that air defenses were activated in Tehran and to President Trump's social media post. The industry may be weighed down by Lockheed Martin's Q1 earnings miss.",
+      "url": "https://finnhub.io/api/news?id=3f143d59f114ee5d91fa4db23975e72e7b04529d85fee0e124049b5febfbd049"
     }
   ]
 }
