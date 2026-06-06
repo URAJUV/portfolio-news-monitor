@@ -135,6 +135,26 @@
       "stock": "NFLX",
       "headline": "Netflix Picks Investor Jay Hoag as Chairman After Hastings",
       "url": "https://finnhub.io/api/news?id=6f13b15b162217e30495498235db3c84f7b8b8acf08fdf92bc301494c749d62c"
+    },
+    {
+      "stock": "MU",
+      "headline": "Analyst See More Upside Despite Micron Technology’s (MU) 90% Gains in May",
+      "url": "https://finnhub.io/api/news?id=60153bd0fea75ea5ed35f502d735bde8eba96328662cd42080549c958f1a9d29"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Holdings (CRWD) Reports FQ1 2027 Earnings, Here’s What’s Important to Note",
+      "url": "https://finnhub.io/api/news?id=feb36201af4b1a3f37dab3c5d3d5375f14d43bfb32e3da19798e9c3595340200"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "How many employees does Amazon have in 2026? Its workforce explained",
+      "url": "https://finnhub.io/api/news?id=cfe55c00542268ad3d6388e90233ecac636a48119505c278149298f1e604f4af"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Meta Investor Dumps Shares After AI Fundraising Report, Says Shareholders Don't Want 'Drunken Sailors' Spending: 'People Are Not Going To Invest...'",
+      "url": "https://finnhub.io/api/news?id=fb6bfe69ac8632227d95b94a7998609e5cee27ac55b974641839d698947cc1d5"
     }
   ]
 }
