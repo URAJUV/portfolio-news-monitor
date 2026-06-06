@@ -45,6 +45,41 @@
       "stock": "GOOGL",
       "headline": "Is Wall Street’s AI boom spreading to main Street?",
       "url": "https://finnhub.io/api/news?id=57044cde4c255063ff70e4df3dae5a5599149072eed349ea4751dd4cd71b355f"
+    },
+    {
+      "stock": "MU",
+      "headline": "Can AI Capex Extend The Semiconductor Cycle?",
+      "url": "https://finnhub.io/api/news?id=8bdee986167b63df2adc68059929a4658127db4a72a70e53faddc00146c1c072"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Dow Jones Hits High, Broadcom, Ciena Slam AI, Chip Stocks, SpaceX IPO Ahead: Weekly Review",
+      "url": "https://finnhub.io/api/news?id=69b4ca38f8f93887d740924ee652ad8f7ac8d83c8658803a128ef9736cf5689b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Can AI Capex Extend The Semiconductor Cycle?",
+      "url": "https://finnhub.io/api/news?id=8bdee986167b63df2adc68059929a4658127db4a72a70e53faddc00146c1c072"
+    },
+    {
+      "stock": "HON",
+      "headline": "RBC Capital Maintains Outperform on Honeywell Intl, Raises Price Target to $275",
+      "url": "https://finnhub.io/api/news?id=931bcbdb040136242f4c9fce10a9dd5558d43dcdd69e1a563b4ea44e1420f044"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Lucid Stock Is Deeply Oversold and We See 45% Gains Ahead",
+      "url": "https://finnhub.io/api/news?id=49360a2fb27f666097a2f7f0dc6302e42c9c9220fbe85bb57e0fbaeeccd25835"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Can AI Capex Extend The Semiconductor Cycle?",
+      "url": "https://finnhub.io/api/news?id=8bdee986167b63df2adc68059929a4658127db4a72a70e53faddc00146c1c072"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix names longtime director Jay Hoag as chairman, succeeding Reed Hastings",
+      "url": "https://finnhub.io/api/news?id=a4d1e95e5705e643066b340e34cad98ecd141a599305719322cdc0c1419aac2b"
     }
   ]
 }
