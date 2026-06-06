@@ -80,6 +80,26 @@
       "stock": "NFLX",
       "headline": "Netflix names longtime director Jay Hoag as chairman, succeeding Reed Hastings",
       "url": "https://finnhub.io/api/news?id=a4d1e95e5705e643066b340e34cad98ecd141a599305719322cdc0c1419aac2b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "After A 40% Gain In 10 Weeks, Where Does The S&P Tech Index Go From Here?",
+      "url": "https://finnhub.io/api/news?id=49254a69beb5085d9ae021dc45f616c560fa2080b805d66cbc7f2fe35341eb70"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Prediction: The SpaceX IPO Will Be the Greatest Fleecing of Retail Investors We've Ever Witnessed",
+      "url": "https://finnhub.io/api/news?id=fbd5026c581c4a262401c0c0b6bc202f99c755ee83b8af2dd66557a08419fa50"
+    },
+    {
+      "stock": "UBER",
+      "headline": "SpaceX and Other Mega IPOs May Wait Years to Join the S&P 500",
+      "url": "https://finnhub.io/api/news?id=fbfcb450c7317baab6fefc29f1c755651afafa36ce1bb7675dba8a87c2dd7298"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Lawmakers invest in tech, AI, and crypto as new rules for the industries are on their agenda",
+      "url": "https://finnhub.io/api/news?id=5890fdae730e63d277ff5e2096ad7920320c08909b83637c8fa0f08d15895def"
     }
   ]
 }
