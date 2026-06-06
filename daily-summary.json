@@ -25,6 +25,26 @@
       "stock": "DPRO",
       "headline": "Shares of aerospace and defense companies are trading lower amid overall market weakness, as investors react to reports that air defenses were activated in Tehran and to President Trump's social media post. The industry may be weighed down by Lockheed Martin's Q1 earnings miss.",
       "url": "https://finnhub.io/api/news?id=3f143d59f114ee5d91fa4db23975e72e7b04529d85fee0e124049b5febfbd049"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Is Wall Street’s AI boom spreading to main Street?",
+      "url": "https://finnhub.io/api/news?id=57044cde4c255063ff70e4df3dae5a5599149072eed349ea4751dd4cd71b355f"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Why Nvidia, Intel, Marvell, and Other AI Stocks Plunged Today",
+      "url": "https://finnhub.io/api/news?id=e68654367e6f119d11b638b6f2738b50fe98bb091ba6e0ac4712c268a533c1c6"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Links Google Cloud AI Push With Long Term Quantum Ambitions",
+      "url": "https://finnhub.io/api/news?id=04319065be842b524a4b4b90d458c70053026c008bfd6c9b44768ac0565b5960"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Is Wall Street’s AI boom spreading to main Street?",
+      "url": "https://finnhub.io/api/news?id=57044cde4c255063ff70e4df3dae5a5599149072eed349ea4751dd4cd71b355f"
     }
   ]
 }
