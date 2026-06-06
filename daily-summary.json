@@ -100,6 +100,41 @@
       "stock": "GOOGL",
       "headline": "Lawmakers invest in tech, AI, and crypto as new rules for the industries are on their agenda",
       "url": "https://finnhub.io/api/news?id=5890fdae730e63d277ff5e2096ad7920320c08909b83637c8fa0f08d15895def"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Investors To Watch Out For Oracle, Adobe Earnings Next Week",
+      "url": "https://finnhub.io/api/news?id=f3a1324f9164a786f20f1203aa7da0185f43333dd5f55b636a03f839f493f7af"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "The \"Magnificent Seven's\" Capex Spending Spree Has Given Birth to 2 Millionaire-Maker Stocks Hiding in Plain Sight. Here's the Best of the Bunch",
+      "url": "https://finnhub.io/api/news?id=95e17f2d71263f12840232c5f4e696ce6bdb269131d51babec36596c367398ff"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "JPMorgan sets jaw-dropping Tesla stock price target",
+      "url": "https://finnhub.io/api/news?id=acb8a612f781209b2ea6de7c883c5b9ea3daeacf43ec2661eb99c9663f062eb2"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Revenge of the AI bubble",
+      "url": "https://finnhub.io/api/news?id=116b71f0e3ea9f13e3519decff14fc52391f9cb6e98ca1a692fd42f5e036657e"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Alphabet Extends Gemini AI Deeper Into Enterprises With New Cloud Deals",
+      "url": "https://finnhub.io/api/news?id=3d18daf8ee997b8cd7b64e255c11a821ab7115d007d8bf6240d4cbff39e46c6d"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Jim Cramer Believes “Alphabet Could Raise Serious Money”",
+      "url": "https://finnhub.io/api/news?id=ea8a46890fe080e78668aa417f441a1f4365aa54ce14af54f9eb824184fbaca0"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Picks Investor Jay Hoag as Chairman After Hastings",
+      "url": "https://finnhub.io/api/news?id=6f13b15b162217e30495498235db3c84f7b8b8acf08fdf92bc301494c749d62c"
     }
   ]
 }
