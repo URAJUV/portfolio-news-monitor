@@ -35,6 +35,26 @@
       "stock": "GOOGL",
       "headline": "AIQ Turned $10,000 Into $13,400 in Six Months as AI Chips Soared 34% YTD",
       "url": "https://finnhub.io/api/news?id=8a5f452967ab88382d9ee6af480f35c41e5a7d33af644a815705694792e8ad7d"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Earnings Beat Sparks Selloff—Buy the Dip?",
+      "url": "https://finnhub.io/api/news?id=f314025f55eb86d5a67aef3d9f15cd202241b683827ad9e5e66eb5a2b5d5701c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "What Jensen Huang Just Said About Elon Musk Shows Why Tesla May Be Worth More Than SpaceX",
+      "url": "https://finnhub.io/api/news?id=25aac8f1b090b33f403a3637483f21230dc6bde3b46ccec558f2c5bdc382543f"
+    },
+    {
+      "stock": "ARM",
+      "headline": "AI stock mania is taking over the markets in 2026",
+      "url": "https://finnhub.io/api/news?id=fdc305a23976f8d22daeb078aec750df50f28e92eeb03b50057f1d59198522f7"
+    },
+    {
+      "stock": "IBM",
+      "headline": "AI stock mania is taking over the markets in 2026",
+      "url": "https://finnhub.io/api/news?id=fdc305a23976f8d22daeb078aec750df50f28e92eeb03b50057f1d59198522f7"
     }
   ]
 }
