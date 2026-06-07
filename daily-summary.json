@@ -55,6 +55,16 @@
       "stock": "IBM",
       "headline": "AI stock mania is taking over the markets in 2026",
       "url": "https://finnhub.io/api/news?id=fdc305a23976f8d22daeb078aec750df50f28e92eeb03b50057f1d59198522f7"
+    },
+    {
+      "stock": "MU",
+      "headline": "After Shares Surged 84% in a Month, Micron's CEO Just Sold $38 Million of Stock. Should Investors Be Worried?",
+      "url": "https://finnhub.io/api/news?id=5e3d10091ce61774222cb7597c477c6aa35e819bfa194d7817dccb0ba802c905"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "“Wait for the First Dip and Then Come In.” How Wall Street Experts Are Playing the SpaceX IPO.",
+      "url": "https://finnhub.io/api/news?id=5bdca86156291d876ed007305eb1e02f20ea53698ee280723e993402d126ec9d"
     }
   ]
 }
