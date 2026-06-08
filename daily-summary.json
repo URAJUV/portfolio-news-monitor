@@ -80,6 +80,61 @@
       "stock": "RDDT",
       "headline": "Super Micro Bounces Back: AI Server Maker Defies Brutal Tape After Friday's Pounding",
       "url": "https://finnhub.io/api/news?id=44d5463e49fbf0e81e8bc4f00e221d2af61f462b22c2b3e728b458d0ae0e64a3"
+    },
+    {
+      "stock": "MU",
+      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=5905c8c72a255ab121f30d83c131211ccf16b409cec7f6f4f6b6a4294a35029b"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Apple's AI Ambition Has A Picks-and-Shovels Trade —  Here's Who Could Win",
+      "url": "https://finnhub.io/api/news?id=6265a094065ec914967ae0d9406a4b7b04eca67e8b59a4fa9fac4835db4c5d3d"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Cybersecurity Goes Vertical: CIBR Just Crushed the S&P 500 by Three to One",
+      "url": "https://finnhub.io/api/news?id=c03e508c4111b5feb4e8851455108d2e9bffbd25698ce4c8b604737b2a6bd0f0"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=5905c8c72a255ab121f30d83c131211ccf16b409cec7f6f4f6b6a4294a35029b"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Nvidia Gets The Headlines. But This Optical Networking Stock Was The Bigger AI Surprise",
+      "url": "https://finnhub.io/api/news?id=b23c9cc5bde76fceda7b3c50cd9b2f18dca1c7d8fdb3e6ae077573690fe93612"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys CEO on AI outlook, Nvidia partnership",
+      "url": "https://finnhub.io/api/news?id=cd7419d4e917cefc7cedcc9063aa19a9d52da681976aba223064fa440a9f3431"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "SPACEX Heads To Nasdaq — But Steve Eisman Is ‘Not A Fan’ Of The IPO Or Potential Tesla Merger",
+      "url": "https://finnhub.io/api/news?id=72fc08e9368de0eaf0d3db87f9ffbdf8f2109abccf590e179950d4bdc6a92ead"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Apple's AI Ambition Has A Picks-and-Shovels Trade —  Here's Who Could Win",
+      "url": "https://finnhub.io/api/news?id=6265a094065ec914967ae0d9406a4b7b04eca67e8b59a4fa9fac4835db4c5d3d"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell International Inc. (HON) Q4 2026 Guidance Call Transcript",
+      "url": "https://finnhub.io/api/news?id=9a80732ea4202f513add5230ef5ec190c3d6ba464177837c847cb7da8f87718f"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=9c4007e6aa6aa9cdba4f4f1e97ea0a81c0dc5a0784e9616251e49a2223bebb1a"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM AI Upskilling Push Tests Long Term Growth Story For Investors",
+      "url": "https://finnhub.io/api/news?id=35eeeaa04caf6468e645827bb692d8bff893f58c1ced30b7466bab28f81b71e6"
     }
   ]
 }
