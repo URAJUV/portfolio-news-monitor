@@ -135,6 +135,16 @@
       "stock": "IBM",
       "headline": "IBM AI Upskilling Push Tests Long Term Growth Story For Investors",
       "url": "https://finnhub.io/api/news?id=35eeeaa04caf6468e645827bb692d8bff893f58c1ced30b7466bab28f81b71e6"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Why Is Taiwan Semiconductor Stock Surging Monday?",
+      "url": "https://finnhub.io/api/news?id=aed275de0180cebdf851d832e071906e2c3084703c11912eeedcd75300406a23"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Reflecting On Consumer Internet Stocks’ Q1 Earnings: Alphabet (NASDAQ:GOOGL)",
+      "url": "https://finnhub.io/api/news?id=c62bb66faed2fb7f6e99f8b71fbc90fa71fd672dcf55ad6c155efffce34385fc"
     }
   ]
 }
