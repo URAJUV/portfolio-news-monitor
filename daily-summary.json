@@ -50,6 +50,36 @@
       "stock": "NFLX",
       "headline": "3 Quality Compounders to Target This Week",
       "url": "https://finnhub.io/api/news?id=7550283dd30da01370f9e09f78f0c2a9a45c18862f8c6631570db1691443affd"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Elon Musk In Direct Talks With ASML For $119B TeraFab Chip Plant: CEO Calls Him 'Very Serious'",
+      "url": "https://finnhub.io/api/news?id=fa685fe58faaa532e84c7df5c441b4591ede1fa53aab12a7a4f0d73f21bc4ac1"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Gains Analyst Confidence on AI Demand and Platform Strength",
+      "url": "https://finnhub.io/api/news?id=4a90a9d247256e7c84d9e6a6a13b177616b24d019a0f0bc5a0f5625af72556b9"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Thea Energy Accelerates Fusion Energy with Helios Power Plant Digital Twin and AI Surrogate Models in Collaboration with NVIDIA, Synopsys, Argonne National Laboratory, and Princeton Plasma Physics Laboratory",
+      "url": "https://finnhub.io/api/news?id=7fc9f4d10a98403cb39d71fa14018b435301a684c37c7f3c45167804383af5e5"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Panasonic repurposes Kansas plant for AI data center batteries",
+      "url": "https://finnhub.io/api/news?id=d72dbbdcbf1c88936909bd3777b06f9ab806379cc38cf742fb2fa75d350f8858"
+    },
+    {
+      "stock": "IBM",
+      "headline": "What's Happening With BigBear.ai Stock?",
+      "url": "https://finnhub.io/api/news?id=3a53db2d5cc0f60d6ebfdc98ba3c44e718a5435ca3253e40c551551713c01809"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Super Micro Bounces Back: AI Server Maker Defies Brutal Tape After Friday's Pounding",
+      "url": "https://finnhub.io/api/news?id=44d5463e49fbf0e81e8bc4f00e221d2af61f462b22c2b3e728b458d0ae0e64a3"
     }
   ]
 }
