@@ -20,6 +20,36 @@
       "stock": "NFLX",
       "headline": "Netflix’s Underperforming Stock Needs a New Story. It Can’t Be AI.",
       "url": "https://finnhub.io/api/news?id=771c5e353b51413ab6399448b891b8330f1ebfa293d94d41d7a581b42910ab84"
+    },
+    {
+      "stock": "MU",
+      "headline": "Tech stocks gain as Trump mulls government stake in AI companies",
+      "url": "https://finnhub.io/api/news?id=e952843a1d0589972df1da8300055325847f3395a0ae7b2f441377b3b19895a6"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Alger AI Enablers & Adopters ETF Q1 2026 Portfolio Update",
+      "url": "https://finnhub.io/api/news?id=43d2b746b07d37f09f750598fe01ec802ad1a7840036e1a14b559f5cf32c5a4c"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD",
+      "url": "https://finnhub.io/api/news?id=5d96c4dcd4d171cc0bb93ea551ca202ebda993cb614a136b4b2cf23436701310"
+    },
+    {
+      "stock": "AMPX",
+      "headline": "Amprius Technologies (AMPX) Price Target Increased by% to 23.80",
+      "url": "https://finnhub.io/api/news?id=a4d7495345d4cb39cfaec41341b85e00cc05de2fa15a32ba7d4e7fd68c13392b"
+    },
+    {
+      "stock": "IBM",
+      "headline": "New IBM Study Finds CIOs and CTOs Face Growing AI Control Gap as Enterprise Deployment Scales",
+      "url": "https://finnhub.io/api/news?id=65be7edc63072bae159ce6227f0c9009a2d0bf4bac98bfe2d241d60e59699f29"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "3 Quality Compounders to Target This Week",
+      "url": "https://finnhub.io/api/news?id=7550283dd30da01370f9e09f78f0c2a9a45c18862f8c6631570db1691443affd"
     }
   ]
 }
