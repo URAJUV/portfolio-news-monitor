@@ -1,80 +1,25 @@
 {
-  "date": "2026-06-07",
+  "date": "2026-06-08",
   "items": [
     {
       "stock": "MU",
-      "headline": "Fed's Mary Daly has blunt message for AI stock investors",
-      "url": "https://finnhub.io/api/news?id=478a35d9b86b680574a94167e6b365261ed9480575a9725d60ecf88991ea2998"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "The Anthropic IPO Could Make These 5 AI Stocks Unexpected Winners",
-      "url": "https://finnhub.io/api/news?id=92080eb4af1fd11658fc43c600b5684893a8ff0683b05bc181cd9856fa08885f"
+      "headline": "3 High-Growth Artificial Intelligence (AI) Stocks to Buy With $5,000 Right Now",
+      "url": "https://finnhub.io/api/news?id=a0d9e7dbb3d30da149059a9324b0ae7b21e8b6fe595d143efa230a0aa0e1f0ab"
     },
     {
       "stock": "TSLA",
-      "headline": "Meet the AI Company That Can Thrive Even if an AI Bubble Bursts",
-      "url": "https://finnhub.io/api/news?id=196f4e863bfa0e9ce33d54c6cf6a045ffd54215580387ab39803045c4f3bec49"
+      "headline": "Prediction: SpaceX Won't Merge With Tesla. It's Going to Buy This Nvidia-Backed Artificial Intelligence (AI) Company Instead.",
+      "url": "https://finnhub.io/api/news?id=ea23c1fd91ce76f21e6b82e6751f471a946c4b8aaa64e68e0a0fa8ce6b324fde"
     },
     {
       "stock": "GOOGL",
-      "headline": "The Anthropic IPO Could Make These 5 AI Stocks Unexpected Winners",
-      "url": "https://finnhub.io/api/news?id=92080eb4af1fd11658fc43c600b5684893a8ff0683b05bc181cd9856fa08885f"
+      "headline": "Google gives Reddit surprising tailwind",
+      "url": "https://finnhub.io/api/news?id=b4c68527cd3cf1ffdfb1090d3669bd81b586c59b002c6fd30732485fc0cd080f"
     },
     {
-      "stock": "CRWD",
-      "headline": "'A splash of cold water': Wall Street gauges pause in AI trade",
-      "url": "https://finnhub.io/api/news?id=0595e99b028b2770fcaf5604e212d734e6a39e15f21c4dbe9e07d30b9c033655"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "AI Boom: Are More Equity Raises Coming?",
-      "url": "https://finnhub.io/api/news?id=3f0dc51e7cbd9275bf28e31f4ec66320c8e4d1de2f6d043e08c9cd08168f947b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "AIQ Turned $10,000 Into $13,400 in Six Months as AI Chips Soared 34% YTD",
-      "url": "https://finnhub.io/api/news?id=8a5f452967ab88382d9ee6af480f35c41e5a7d33af644a815705694792e8ad7d"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Earnings Beat Sparks Selloff—Buy the Dip?",
-      "url": "https://finnhub.io/api/news?id=f314025f55eb86d5a67aef3d9f15cd202241b683827ad9e5e66eb5a2b5d5701c"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "What Jensen Huang Just Said About Elon Musk Shows Why Tesla May Be Worth More Than SpaceX",
-      "url": "https://finnhub.io/api/news?id=25aac8f1b090b33f403a3637483f21230dc6bde3b46ccec558f2c5bdc382543f"
-    },
-    {
-      "stock": "ARM",
-      "headline": "AI stock mania is taking over the markets in 2026",
-      "url": "https://finnhub.io/api/news?id=fdc305a23976f8d22daeb078aec750df50f28e92eeb03b50057f1d59198522f7"
-    },
-    {
-      "stock": "IBM",
-      "headline": "AI stock mania is taking over the markets in 2026",
-      "url": "https://finnhub.io/api/news?id=fdc305a23976f8d22daeb078aec750df50f28e92eeb03b50057f1d59198522f7"
-    },
-    {
-      "stock": "MU",
-      "headline": "After Shares Surged 84% in a Month, Micron's CEO Just Sold $38 Million of Stock. Should Investors Be Worried?",
-      "url": "https://finnhub.io/api/news?id=5e3d10091ce61774222cb7597c477c6aa35e819bfa194d7817dccb0ba802c905"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "“Wait for the First Dip and Then Come In.” How Wall Street Experts Are Playing the SpaceX IPO.",
-      "url": "https://finnhub.io/api/news?id=5bdca86156291d876ed007305eb1e02f20ea53698ee280723e993402d126ec9d"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Elon Musk In Direct Talks With ASML For $119B TeraFab Chip Plant: CEO Calls Him 'Very Serious'",
-      "url": "https://finnhub.io/api/news?id=368b7baf123d649d18bf2b220cff5ed7b6d33ad82589c27f2ff4b3f2158101d1"
-    },
-    {
-      "stock": "ARM",
-      "headline": "The Bull Case For Arm Holdings (ARM) Could Change Following AI Chip Selloff And Rate Jitters – Learn Why",
-      "url": "https://finnhub.io/api/news?id=21069d6dfc870aa6dbe972b33d661af2dcecf7f0a7a0d1fb3cd892e8f1072522"
+      "stock": "NFLX",
+      "headline": "Netflix’s Underperforming Stock Needs a New Story. It Can’t Be AI.",
+      "url": "https://finnhub.io/api/news?id=771c5e353b51413ab6399448b891b8330f1ebfa293d94d41d7a581b42910ab84"
     }
   ]
 }
