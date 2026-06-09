@@ -1,150 +1,35 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "items": [
     {
       "stock": "MU",
-      "headline": "3 High-Growth Artificial Intelligence (AI) Stocks to Buy With $5,000 Right Now",
-      "url": "https://finnhub.io/api/news?id=a0d9e7dbb3d30da149059a9324b0ae7b21e8b6fe595d143efa230a0aa0e1f0ab"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Prediction: SpaceX Won't Merge With Tesla. It's Going to Buy This Nvidia-Backed Artificial Intelligence (AI) Company Instead.",
-      "url": "https://finnhub.io/api/news?id=ea23c1fd91ce76f21e6b82e6751f471a946c4b8aaa64e68e0a0fa8ce6b324fde"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Google gives Reddit surprising tailwind",
-      "url": "https://finnhub.io/api/news?id=b4c68527cd3cf1ffdfb1090d3669bd81b586c59b002c6fd30732485fc0cd080f"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix’s Underperforming Stock Needs a New Story. It Can’t Be AI.",
-      "url": "https://finnhub.io/api/news?id=771c5e353b51413ab6399448b891b8330f1ebfa293d94d41d7a581b42910ab84"
-    },
-    {
-      "stock": "MU",
-      "headline": "Tech stocks gain as Trump mulls government stake in AI companies",
-      "url": "https://finnhub.io/api/news?id=e952843a1d0589972df1da8300055325847f3395a0ae7b2f441377b3b19895a6"
+      "headline": "Semiconductor Stocks Just Had Their Worst Day in Years. Is the AI Chip Boom Cracking, or Is This a Buying Opportunity?",
+      "url": "https://finnhub.io/api/news?id=bef26357efcb614b9b71b4ad3502093f8d2e9823263452e5727b9e4a73ac540c"
     },
     {
       "stock": "TSM",
-      "headline": "Alger AI Enablers & Adopters ETF Q1 2026 Portfolio Update",
-      "url": "https://finnhub.io/api/news?id=43d2b746b07d37f09f750598fe01ec802ad1a7840036e1a14b559f5cf32c5a4c"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD",
-      "url": "https://finnhub.io/api/news?id=5d96c4dcd4d171cc0bb93ea551ca202ebda993cb614a136b4b2cf23436701310"
-    },
-    {
-      "stock": "AMPX",
-      "headline": "Amprius Technologies (AMPX) Price Target Increased by% to 23.80",
-      "url": "https://finnhub.io/api/news?id=a4d7495345d4cb39cfaec41341b85e00cc05de2fa15a32ba7d4e7fd68c13392b"
-    },
-    {
-      "stock": "IBM",
-      "headline": "New IBM Study Finds CIOs and CTOs Face Growing AI Control Gap as Enterprise Deployment Scales",
-      "url": "https://finnhub.io/api/news?id=65be7edc63072bae159ce6227f0c9009a2d0bf4bac98bfe2d241d60e59699f29"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "3 Quality Compounders to Target This Week",
-      "url": "https://finnhub.io/api/news?id=7550283dd30da01370f9e09f78f0c2a9a45c18862f8c6631570db1691443affd"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Elon Musk In Direct Talks With ASML For $119B TeraFab Chip Plant: CEO Calls Him 'Very Serious'",
-      "url": "https://finnhub.io/api/news?id=fa685fe58faaa532e84c7df5c441b4591ede1fa53aab12a7a4f0d73f21bc4ac1"
+      "headline": "Tracking Prem Watsa's Fairfax Financial Holdings Portfolio - Q1 2026 Update",
+      "url": "https://finnhub.io/api/news?id=549c6fc09ced3fae09edbede24be5704c12df5c592637d520b938e288ad742f0"
     },
     {
       "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) Gains Analyst Confidence on AI Demand and Platform Strength",
-      "url": "https://finnhub.io/api/news?id=4a90a9d247256e7c84d9e6a6a13b177616b24d019a0f0bc5a0f5625af72556b9"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Thea Energy Accelerates Fusion Energy with Helios Power Plant Digital Twin and AI Surrogate Models in Collaboration with NVIDIA, Synopsys, Argonne National Laboratory, and Princeton Plasma Physics Laboratory",
-      "url": "https://finnhub.io/api/news?id=7fc9f4d10a98403cb39d71fa14018b435301a684c37c7f3c45167804383af5e5"
+      "headline": "CrowdStrike Beat Earnings, Raised Guidance, and Announced a 4-for-1 Stock Split. So, Why Did the Stock Fall?",
+      "url": "https://finnhub.io/api/news?id=e9bff811c1d39d4896a0ac92e5ac8bd0f097a0b800aceedc81ae8cb467371300"
     },
     {
       "stock": "TSLA",
-      "headline": "Panasonic repurposes Kansas plant for AI data center batteries",
-      "url": "https://finnhub.io/api/news?id=d72dbbdcbf1c88936909bd3777b06f9ab806379cc38cf742fb2fa75d350f8858"
-    },
-    {
-      "stock": "IBM",
-      "headline": "What's Happening With BigBear.ai Stock?",
-      "url": "https://finnhub.io/api/news?id=3a53db2d5cc0f60d6ebfdc98ba3c44e718a5435ca3253e40c551551713c01809"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Super Micro Bounces Back: AI Server Maker Defies Brutal Tape After Friday's Pounding",
-      "url": "https://finnhub.io/api/news?id=44d5463e49fbf0e81e8bc4f00e221d2af61f462b22c2b3e728b458d0ae0e64a3"
-    },
-    {
-      "stock": "MU",
-      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=5905c8c72a255ab121f30d83c131211ccf16b409cec7f6f4f6b6a4294a35029b"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Apple's AI Ambition Has A Picks-and-Shovels Trade —  Here's Who Could Win",
-      "url": "https://finnhub.io/api/news?id=6265a094065ec914967ae0d9406a4b7b04eca67e8b59a4fa9fac4835db4c5d3d"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Cybersecurity Goes Vertical: CIBR Just Crushed the S&P 500 by Three to One",
-      "url": "https://finnhub.io/api/news?id=c03e508c4111b5feb4e8851455108d2e9bffbd25698ce4c8b604737b2a6bd0f0"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=5905c8c72a255ab121f30d83c131211ccf16b409cec7f6f4f6b6a4294a35029b"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Nvidia Gets The Headlines. But This Optical Networking Stock Was The Bigger AI Surprise",
-      "url": "https://finnhub.io/api/news?id=b23c9cc5bde76fceda7b3c50cd9b2f18dca1c7d8fdb3e6ae077573690fe93612"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys CEO on AI outlook, Nvidia partnership",
-      "url": "https://finnhub.io/api/news?id=cd7419d4e917cefc7cedcc9063aa19a9d52da681976aba223064fa440a9f3431"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "SPACEX Heads To Nasdaq — But Steve Eisman Is ‘Not A Fan’ Of The IPO Or Potential Tesla Merger",
-      "url": "https://finnhub.io/api/news?id=72fc08e9368de0eaf0d3db87f9ffbdf8f2109abccf590e179950d4bdc6a92ead"
+      "headline": "ASML Weighs Musk Terafab Talks Against Valuation And Governance Questions",
+      "url": "https://finnhub.io/api/news?id=c6d12fd63367a04d6dd66af858bde1e65ee27d7681f7cc4a2efd59b981a303f8"
     },
     {
       "stock": "ARM",
-      "headline": "Apple's AI Ambition Has A Picks-and-Shovels Trade —  Here's Who Could Win",
-      "url": "https://finnhub.io/api/news?id=6265a094065ec914967ae0d9406a4b7b04eca67e8b59a4fa9fac4835db4c5d3d"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell International Inc. (HON) Q4 2026 Guidance Call Transcript",
-      "url": "https://finnhub.io/api/news?id=9a80732ea4202f513add5230ef5ec190c3d6ba464177837c847cb7da8f87718f"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=9c4007e6aa6aa9cdba4f4f1e97ea0a81c0dc5a0784e9616251e49a2223bebb1a"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM AI Upskilling Push Tests Long Term Growth Story For Investors",
-      "url": "https://finnhub.io/api/news?id=35eeeaa04caf6468e645827bb692d8bff893f58c1ced30b7466bab28f81b71e6"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Why Is Taiwan Semiconductor Stock Surging Monday?",
-      "url": "https://finnhub.io/api/news?id=aed275de0180cebdf851d832e071906e2c3084703c11912eeedcd75300406a23"
+      "headline": "Stocks Rally as Buyers Return After AI-Led Selloff",
+      "url": "https://finnhub.io/api/news?id=4f530a3a9514d2d4081c3cb61d516b15cdd5bc0a2d649cba635c096a3283d9b4"
     },
     {
       "stock": "GOOGL",
-      "headline": "Reflecting On Consumer Internet Stocks’ Q1 Earnings: Alphabet (NASDAQ:GOOGL)",
-      "url": "https://finnhub.io/api/news?id=c62bb66faed2fb7f6e99f8b71fbc90fa71fd672dcf55ad6c155efffce34385fc"
+      "headline": "How Berkshire’s Housing and AI Bets May Reshape Its Operating Focus for Berkshire Hathaway (BRK.A) Investors",
+      "url": "https://finnhub.io/api/news?id=78fa3ca7732a3d7199d27269f82822ce69984a06ca8548693ec4c3dfbac093f3"
     }
   ]
 }
