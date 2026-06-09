@@ -60,6 +60,36 @@
       "stock": "TSM",
       "headline": "Why Is Intel Stock Gaining Tuesday?",
       "url": "https://finnhub.io/api/news?id=8b8ecf839dba694b54d1b68cb1aac998400398add783fe7264452b895e3374b6"
+    },
+    {
+      "stock": "MU",
+      "headline": "Why investors can't and shouldn't ignore the AI trade",
+      "url": "https://finnhub.io/api/news?id=7099848d6d4c98d49fc75e85ca96b26a4c7ed3622ee7837195b605a0800dcdba"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Anthropic’s Claude Mythos Launches Today: Crypto Security Shock Ahead?",
+      "url": "https://finnhub.io/api/news?id=811d3107973319efcbbb2b3a8b45d9bf7aae899db1386005293ede886f789d4b"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
+      "url": "https://finnhub.io/api/news?id=8210110561214857dbd9a3155568e2722ef3c879b25b72bc64a9e6038a275f12"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Turns Driver Downtime Into an AI Data Factory",
+      "url": "https://finnhub.io/api/news?id=28af93bc8b2e0da099d58fe7ecb0ea10db623267cca7c447f4cc6a77009354d3"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Apple's AI News Underwhelms. Siri AI Release Concerns Persist.",
+      "url": "https://finnhub.io/api/news?id=58de39e60106718d814fc6fdbc2307087344a33a9128659d1bd64f289e989df2"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Market Approves Netflix’s (NFLX) Withdrawal from the Acquisition",
+      "url": "https://finnhub.io/api/news?id=7cb2d8e9d741abef61f467a361d3b82370b7b5d59ecde3e9feb6875bc7b225ea"
     }
   ]
 }
