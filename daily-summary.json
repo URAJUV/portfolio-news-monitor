@@ -90,6 +90,26 @@
       "stock": "NFLX",
       "headline": "Market Approves Netflix’s (NFLX) Withdrawal from the Acquisition",
       "url": "https://finnhub.io/api/news?id=7cb2d8e9d741abef61f467a361d3b82370b7b5d59ecde3e9feb6875bc7b225ea"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=8b0110014d7f536d83df0eabdb5db4ee53c74d4b0f5a1c2fe4f5780d91980734"
+    },
+    {
+      "stock": "HON",
+      "headline": "Why Analysts Believe Honeywell’s (HON) Automation Story Is Gaining Strength",
+      "url": "https://finnhub.io/api/news?id=9a2a88036281c6369b83878da9ca312b597849b7e1323d3271cdf0a5f7522770"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Martin Shkreli Accuses IONQ Of Making Wild Bitcoin Mining Claims: 'They Were Lying'",
+      "url": "https://finnhub.io/api/news?id=f088601ca04c4b86e16ba184fb101101e1c77f14a7050ef2bbc993b6254ce264"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Tuesday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=acf87668e27ad9bef18fef1b66745f499e9c8e7c5cddafcffcb8997336d523a5"
     }
   ]
 }
