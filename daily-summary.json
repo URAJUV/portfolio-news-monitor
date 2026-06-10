@@ -125,6 +125,36 @@
       "stock": "GOOGL",
       "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
       "url": "https://finnhub.io/api/news?id=8f5b58d79dc418f339f13ed1641a28b7c338d0a53b51c9d58b704d98c5cd6d08"
+    },
+    {
+      "stock": "MU",
+      "headline": "The Spill: Is Broadcom (AVGO) the Other AI Trade?",
+      "url": "https://finnhub.io/api/news?id=24f0b57e6c6fb2433d376413723c0d4f5036cc9fe55212a313e03d5215f664d0"
+    },
+    {
+      "stock": "TSM",
+      "headline": "'Chip War' Author Chris Miller Says China Has Been 'Underspending' On AI For Four Years: Beijing 'Just Doesn't Believe' It Matters",
+      "url": "https://finnhub.io/api/news?id=8e184115c8910737f8ce5f2f504de259dfdec0f7fe0a62777219ff0904b312b9"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Is AAOI Stock Worth Betting on at a Premium or Should Investors Wait?",
+      "url": "https://finnhub.io/api/news?id=50beffcf10b22c72b5405c22bf4f2ff8ede34f3d510b84a30301089c572b0cb5"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Stock Surges Into Bull Case as JPMorgan Lifts Target 227%",
+      "url": "https://finnhub.io/api/news?id=ff3f8491f8801d98e31ec73d05cb3cc66eef3173c481b6778d365b5499a526a5"
+    },
+    {
+      "stock": "DE",
+      "headline": "Titan Machinery Q1 Earnings Beat Estimates on Better Equipment Margins",
+      "url": "https://finnhub.io/api/news?id=f8ca2038ffabf7f347870e52568597771543302e58e24a13fb5d6b7ad3c9d7bb"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Dow Jones Futures: Market Close To Breaking On AI Fears, Trump; Oracle Earnings Late, SpaceX IPO On Launch Pad",
+      "url": "https://finnhub.io/api/news?id=8195cbec66af6cdad266ded04fbe3bd746d1003101a83de5c96180e093da0ce8"
     }
   ]
 }
