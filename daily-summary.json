@@ -1,140 +1,25 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "items": [
     {
       "stock": "MU",
-      "headline": "Semiconductor Stocks Just Had Their Worst Day in Years. Is the AI Chip Boom Cracking, or Is This a Buying Opportunity?",
-      "url": "https://finnhub.io/api/news?id=bef26357efcb614b9b71b4ad3502093f8d2e9823263452e5727b9e4a73ac540c"
+      "headline": "MU Stock Slides 2% After-Hours As Goldman Sachs Doubles Price Target But Keeps Neutral Rating",
+      "url": "https://finnhub.io/api/news?id=3520fdce141954a5be34c6f4079a5247e53e6063172f59ca97b3c28ff7afbdc0"
     },
     {
       "stock": "TSM",
-      "headline": "Tracking Prem Watsa's Fairfax Financial Holdings Portfolio - Q1 2026 Update",
-      "url": "https://finnhub.io/api/news?id=549c6fc09ced3fae09edbede24be5704c12df5c592637d520b938e288ad742f0"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Beat Earnings, Raised Guidance, and Announced a 4-for-1 Stock Split. So, Why Did the Stock Fall?",
-      "url": "https://finnhub.io/api/news?id=e9bff811c1d39d4896a0ac92e5ac8bd0f097a0b800aceedc81ae8cb467371300"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "ASML Weighs Musk Terafab Talks Against Valuation And Governance Questions",
-      "url": "https://finnhub.io/api/news?id=c6d12fd63367a04d6dd66af858bde1e65ee27d7681f7cc4a2efd59b981a303f8"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Stocks Rally as Buyers Return After AI-Led Selloff",
-      "url": "https://finnhub.io/api/news?id=4f530a3a9514d2d4081c3cb61d516b15cdd5bc0a2d649cba635c096a3283d9b4"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "How Berkshire’s Housing and AI Bets May Reshape Its Operating Focus for Berkshire Hathaway (BRK.A) Investors",
-      "url": "https://finnhub.io/api/news?id=78fa3ca7732a3d7199d27269f82822ce69984a06ca8548693ec4c3dfbac093f3"
-    },
-    {
-      "stock": "MU",
-      "headline": "Chips Rebound, Intel Catches A $3 Million-Order Tailwind, And OpenAI Joins The IPO Queue",
-      "url": "https://finnhub.io/api/news?id=4a075424b061ff27fdab9a9e42b338a0a316be08a344feec5c6f94f25769678e"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Chips Rebound, Intel Catches A $3 Million-Order Tailwind, And OpenAI Joins The IPO Queue",
-      "url": "https://finnhub.io/api/news?id=4a075424b061ff27fdab9a9e42b338a0a316be08a344feec5c6f94f25769678e"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell International Inc. (HON) 2026 Guidance/Update Call - Slideshow",
-      "url": "https://finnhub.io/api/news?id=5a6714e50047bc7c72153f575b24cb02dbfa7d34f0ee9593955a892fad01b6bf"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Sector Update: Consumer Stocks Mixed in Afternoon Trading",
-      "url": "https://finnhub.io/api/news?id=03d239678f142ceaf1e16137a1eef6a50f2f8704a942a43ca7e36b160371861e"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Chips Rebound, Intel Catches A $3 Million-Order Tailwind, And OpenAI Joins The IPO Queue",
-      "url": "https://finnhub.io/api/news?id=4a075424b061ff27fdab9a9e42b338a0a316be08a344feec5c6f94f25769678e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Why Is Intel Stock Gaining Tuesday?",
-      "url": "https://finnhub.io/api/news?id=8b8ecf839dba694b54d1b68cb1aac998400398add783fe7264452b895e3374b6"
-    },
-    {
-      "stock": "MU",
-      "headline": "Why investors can't and shouldn't ignore the AI trade",
-      "url": "https://finnhub.io/api/news?id=7099848d6d4c98d49fc75e85ca96b26a4c7ed3622ee7837195b605a0800dcdba"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Anthropic’s Claude Mythos Launches Today: Crypto Security Shock Ahead?",
-      "url": "https://finnhub.io/api/news?id=811d3107973319efcbbb2b3a8b45d9bf7aae899db1386005293ede886f789d4b"
+      "headline": "'Taiwan Mulls Curbs on AI Chip Exports to China to Align With US' - Bloomberg",
+      "url": "https://finnhub.io/api/news?id=d03ad36c1deabf8378077cd251315ea708fdf5ebb809d3782cb7aba2d47e3c5c"
     },
     {
       "stock": "COHR",
-      "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
-      "url": "https://finnhub.io/api/news?id=8210110561214857dbd9a3155568e2722ef3c879b25b72bc64a9e6038a275f12"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Turns Driver Downtime Into an AI Data Factory",
-      "url": "https://finnhub.io/api/news?id=28af93bc8b2e0da099d58fe7ecb0ea10db623267cca7c447f4cc6a77009354d3"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Apple's AI News Underwhelms. Siri AI Release Concerns Persist.",
-      "url": "https://finnhub.io/api/news?id=58de39e60106718d814fc6fdbc2307087344a33a9128659d1bd64f289e989df2"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Market Approves Netflix’s (NFLX) Withdrawal from the Acquisition",
-      "url": "https://finnhub.io/api/news?id=7cb2d8e9d741abef61f467a361d3b82370b7b5d59ecde3e9feb6875bc7b225ea"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=8b0110014d7f536d83df0eabdb5db4ee53c74d4b0f5a1c2fe4f5780d91980734"
-    },
-    {
-      "stock": "HON",
-      "headline": "Why Analysts Believe Honeywell’s (HON) Automation Story Is Gaining Strength",
-      "url": "https://finnhub.io/api/news?id=9a2a88036281c6369b83878da9ca312b597849b7e1323d3271cdf0a5f7522770"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Martin Shkreli Accuses IONQ Of Making Wild Bitcoin Mining Claims: 'They Were Lying'",
-      "url": "https://finnhub.io/api/news?id=f088601ca04c4b86e16ba184fb101101e1c77f14a7050ef2bbc993b6254ce264"
+      "headline": "Micron, Marvell, Super Micro, Coherent, Smucker, and More Stocks That Explain Today’s Market",
+      "url": "https://finnhub.io/api/news?id=e02acf8bc9c09f844ad45c6123d966f214068b2cc54a70713cbee4d3f670661d"
     },
     {
       "stock": "IBM",
-      "headline": "Tuesday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=acf87668e27ad9bef18fef1b66745f499e9c8e7c5cddafcffcb8997336d523a5"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron stock gets a shocking Wall Street price target",
-      "url": "https://finnhub.io/api/news?id=3876d7a9d58aab230ca4c03040442b368d8eee3903c0715fdfc23a1cb46ebca4"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Tech stocks tumble again",
-      "url": "https://finnhub.io/api/news?id=e60dce2e8332568a731c274b61b79b29eed63584269086faf6a589154e735601"
-    },
-    {
-      "stock": "DE",
-      "headline": "Planet Labs CEO: Space is booming because real world applications are booming",
-      "url": "https://finnhub.io/api/news?id=df6d6280aa81ef73b818b6ba13e15e252e311d044b08463975f192f53da6933a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Stock Market Today, June 9: Apple Falls as Siri AI Update Raises iPhone Upgrade Questions",
-      "url": "https://finnhub.io/api/news?id=86a5b5323f902cb27188c45f9d70d86898bada13092e4fbfce56406a6e08fffd"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Warner Bros Stock Hits  3-Month Low. The Paramount Merger Spread Is Too Good to Pass Up.",
-      "url": "https://finnhub.io/api/news?id=8c069120f23b0c7ad11255f436918d6f70140ecee4b99f061bd37080e3d80d7d"
+      "headline": "UK firms embrace AI boom, but bosses lack training to deliver it, new report finds",
+      "url": "https://finnhub.io/api/news?id=4635be68e8049f5f1994145c66bd2e3e2c6b7099aeb342bc62926b3b24461603"
     }
   ]
 }
