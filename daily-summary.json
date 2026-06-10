@@ -20,6 +20,36 @@
       "stock": "IBM",
       "headline": "UK firms embrace AI boom, but bosses lack training to deliver it, new report finds",
       "url": "https://finnhub.io/api/news?id=4635be68e8049f5f1994145c66bd2e3e2c6b7099aeb342bc62926b3b24461603"
+    },
+    {
+      "stock": "MU",
+      "headline": "U.S.-Iran Tensions, Inflation Data and Oracle Earnings Dominate Market Focus: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+      "url": "https://finnhub.io/api/news?id=33a5b2379d1d6f31575714435eefe25deaa96a2dae828363ea296b0ca8ac6e5d"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor (NYSE:TSM) Shows Strong High-Growth Momentum Setup",
+      "url": "https://finnhub.io/api/news?id=516c87ee63b061c77c5c7cc45baad78aa38a62bb3798c8d886844eb35ec1cbed"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "5 Revealing Analyst Questions From CrowdStrike’s Q1 Earnings Call",
+      "url": "https://finnhub.io/api/news?id=0017bada500d3849c6905bb40252eb1202a2b0b8612878ce4a24e543ea3a1ad5"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Global AI debt issuance to top $500 billion in 2026, Morgan Stanley says",
+      "url": "https://finnhub.io/api/news?id=e81285d76e67d6fbfd9b849ddf7f77d62287b45eed14153e76014e4b37be56b1"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber’s European Robotaxis Test Multi Partner Path To Long Term Gains",
+      "url": "https://finnhub.io/api/news?id=122df42bb71a0e5eac447db32607a7cc0a5f51d0b024f3a8bde3c0d1e779bbd6"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Asset Management Market Surges to $18,071 Billion by 2035 as AI, IoT, and Predictive Maintenance Transform Enterprise Operations | Research by SNS Insider",
+      "url": "https://finnhub.io/api/news?id=353c4c81b572795ade3650778a3690a29c620297c744514517918d62fc10a359"
     }
   ]
 }
