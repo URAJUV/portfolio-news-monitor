@@ -95,6 +95,36 @@
       "stock": "GOOGL",
       "headline": "Apple's AI Push Deepens Alphabet Dependency",
       "url": "https://finnhub.io/api/news?id=a50a4a1671ab8a72b6d1d2721c21f3b90ea6dff5f915891006ec019ee4bc906f"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AXT's $100M Backlog Sounds Bullish, But Can Export Risks Derail Growth?",
+      "url": "https://finnhub.io/api/news?id=33c02c9f9c521eff915e5d1f3929bd557c8c7219bb134a5d17ef744ad73743e5"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Slips as BYD Raises Global Ambitions",
+      "url": "https://finnhub.io/api/news?id=18252dad4754b4ef98caf2117dbadde3ae52a61805152ad0d34fa17488174978"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme Therapeutics (HALO) Up 0.8% Since Last Earnings Report: Can It Continue?",
+      "url": "https://finnhub.io/api/news?id=c43d599a6ac1920a34258417422d84c6b0cf411929528f41363242c5899649dc"
+    },
+    {
+      "stock": "DE",
+      "headline": "How CAT Stock – An Old-School Industrial – Became An AI Darling",
+      "url": "https://finnhub.io/api/news?id=343624ca8bcb6934f8090706684e83875d0a75e66a09452a5716e25eb1374b03"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Ai4 2026 Unveils Expanded Exhibit Hall Featuring Nearly 400 Exhibitors, New Interactive Experiences, and the Industry's Leading AI Companies",
+      "url": "https://finnhub.io/api/news?id=03c51061d9a16bb1fb50a43c2d62e9ce9aa973664d525371ff06121887accda2"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=8f5b58d79dc418f339f13ed1641a28b7c338d0a53b51c9d58b704d98c5cd6d08"
     }
   ]
 }
