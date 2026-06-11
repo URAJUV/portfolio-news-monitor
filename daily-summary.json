@@ -1,160 +1,35 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "items": [
     {
       "stock": "MU",
-      "headline": "MU Stock Slides 2% After-Hours As Goldman Sachs Doubles Price Target But Keeps Neutral Rating",
-      "url": "https://finnhub.io/api/news?id=3520fdce141954a5be34c6f4079a5247e53e6063172f59ca97b3c28ff7afbdc0"
+      "headline": "Nvidia Corp (NVDA) Strengthens AI Platform with Micron HBM4",
+      "url": "https://finnhub.io/api/news?id=9c6e5fc30d833c13a06ee1686542a845d063c5501bdaee2a08f0e5099aa308c6"
     },
     {
       "stock": "TSM",
-      "headline": "'Taiwan Mulls Curbs on AI Chip Exports to China to Align With US' - Bloomberg",
-      "url": "https://finnhub.io/api/news?id=d03ad36c1deabf8378077cd251315ea708fdf5ebb809d3782cb7aba2d47e3c5c"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Micron, Marvell, Super Micro, Coherent, Smucker, and More Stocks That Explain Today’s Market",
-      "url": "https://finnhub.io/api/news?id=e02acf8bc9c09f844ad45c6123d966f214068b2cc54a70713cbee4d3f670661d"
-    },
-    {
-      "stock": "IBM",
-      "headline": "UK firms embrace AI boom, but bosses lack training to deliver it, new report finds",
-      "url": "https://finnhub.io/api/news?id=4635be68e8049f5f1994145c66bd2e3e2c6b7099aeb342bc62926b3b24461603"
-    },
-    {
-      "stock": "MU",
-      "headline": "U.S.-Iran Tensions, Inflation Data and Oracle Earnings Dominate Market Focus: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-      "url": "https://finnhub.io/api/news?id=33a5b2379d1d6f31575714435eefe25deaa96a2dae828363ea296b0ca8ac6e5d"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor (NYSE:TSM) Shows Strong High-Growth Momentum Setup",
-      "url": "https://finnhub.io/api/news?id=516c87ee63b061c77c5c7cc45baad78aa38a62bb3798c8d886844eb35ec1cbed"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "5 Revealing Analyst Questions From CrowdStrike’s Q1 Earnings Call",
-      "url": "https://finnhub.io/api/news?id=0017bada500d3849c6905bb40252eb1202a2b0b8612878ce4a24e543ea3a1ad5"
+      "headline": "No Slowing Down: Taiwan Semiconductor May Sales Leap 30% On Relentless AI Demand",
+      "url": "https://finnhub.io/api/news?id=1743243f498426af0cb14466366c5dd407abe4ba11f73b4bdee712347acd1947"
     },
     {
       "stock": "AMZN",
-      "headline": "Global AI debt issuance to top $500 billion in 2026, Morgan Stanley says",
-      "url": "https://finnhub.io/api/news?id=e81285d76e67d6fbfd9b849ddf7f77d62287b45eed14153e76014e4b37be56b1"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber’s European Robotaxis Test Multi Partner Path To Long Term Gains",
-      "url": "https://finnhub.io/api/news?id=122df42bb71a0e5eac447db32607a7cc0a5f51d0b024f3a8bde3c0d1e779bbd6"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Asset Management Market Surges to $18,071 Billion by 2035 as AI, IoT, and Predictive Maintenance Transform Enterprise Operations | Research by SNS Insider",
-      "url": "https://finnhub.io/api/news?id=353c4c81b572795ade3650778a3690a29c620297c744514517918d62fc10a359"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Credo Technology: The $3,000-Per-GPU Memory Arbitrage Demands A Strong Buy (Rating Upgrade)",
-      "url": "https://finnhub.io/api/news?id=033a4db9eae83688f259b9ba14bd203f0b2e0210787f02c3b7be0e285b71a765"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Aryon Security Raises $29 Million in Series A Funding to Bring Preventive Enforcement to Modern Cloud Security",
-      "url": "https://finnhub.io/api/news?id=148617d6c25556222a2d082a9960bb519d3c65a8fd3f5ab64226753197e60ee3"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon secures $17.5 billion loan facility for AI spending",
-      "url": "https://finnhub.io/api/news?id=0139649e72fdda5b1c384568aac6a0c27b4f8a596417327f7c1bd54477f00c0c"
+      "headline": "Amazon Is the Latest AI Giant to Sign a Blockbuster Deal With This Under-the-Radar Semiconductor Company (Behind Nvidia and Meta)",
+      "url": "https://finnhub.io/api/news?id=e2cf0352e3c6687e1c9923cb35ef15dac3af9ef0a24b51100f900d9fe158ae8a"
     },
     {
       "stock": "COHR",
-      "headline": "AI Infrastructure Short-Circuits But Now Sparks Not One, But Two Buy Points",
-      "url": "https://finnhub.io/api/news?id=7610c8d3daf3b2242a0f367f8d33e318d85cb3091e36bd3db71226431b293fc5"
+      "headline": "China's control over indium phosphide exports threatens AI data centre rollout",
+      "url": "https://finnhub.io/api/news?id=b694b3df8e6d854b42d563538f45983523fa16dbb1008d4b51fa4b453773d566"
     },
     {
-      "stock": "HON",
-      "headline": "Got $2,000? This Stock Has A 27-Year Dividend Streak And Its On Sale",
-      "url": "https://finnhub.io/api/news?id=cb06e634fde08f695c30db8c7478e8d0572896f55b1fbdbb349f35da085c2ba2"
+      "stock": "ARM",
+      "headline": "Mizuho Raises PT on Arm Holdings (ARM), Here’s What You Should Know",
+      "url": "https://finnhub.io/api/news?id=6adae3ab49bb33011ba4f9d0b1ff2a72f7693079e517329ffa0e173002e5d273"
     },
     {
       "stock": "AAOI",
-      "headline": "Caseys General Stores Upbeat Q4 Earnings, Joins Applied Optoelectronics, Clover Health Investments And Other Big Stocks Moving Higher On Wednesday",
-      "url": "https://finnhub.io/api/news?id=9e2b62d45302f7b4d04844158aa165a9d2b46e076df7a90737980b2c0e64479e"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "How Will Adobe Stock React To Its Upcoming Earnings?",
-      "url": "https://finnhub.io/api/news?id=d6c053316e575594725c526d0672523f19c7985141cb93baac6f5e0dbc67f80e"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Agassi Sports Entertainment Signs Tennis Coaching Icon Darren Cahill to Expand Global Coaching, Content and Technology Initiatives",
-      "url": "https://finnhub.io/api/news?id=6fd94e74c30625c968ca4a1f68450c8af84b35a72b63466103be2efde6578b91"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Apple's AI Push Deepens Alphabet Dependency",
-      "url": "https://finnhub.io/api/news?id=a50a4a1671ab8a72b6d1d2721c21f3b90ea6dff5f915891006ec019ee4bc906f"
-    },
-    {
-      "stock": "COHR",
-      "headline": "AXT's $100M Backlog Sounds Bullish, But Can Export Risks Derail Growth?",
-      "url": "https://finnhub.io/api/news?id=33c02c9f9c521eff915e5d1f3929bd557c8c7219bb134a5d17ef744ad73743e5"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla Slips as BYD Raises Global Ambitions",
-      "url": "https://finnhub.io/api/news?id=18252dad4754b4ef98caf2117dbadde3ae52a61805152ad0d34fa17488174978"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Halozyme Therapeutics (HALO) Up 0.8% Since Last Earnings Report: Can It Continue?",
-      "url": "https://finnhub.io/api/news?id=c43d599a6ac1920a34258417422d84c6b0cf411929528f41363242c5899649dc"
-    },
-    {
-      "stock": "DE",
-      "headline": "How CAT Stock – An Old-School Industrial – Became An AI Darling",
-      "url": "https://finnhub.io/api/news?id=343624ca8bcb6934f8090706684e83875d0a75e66a09452a5716e25eb1374b03"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Ai4 2026 Unveils Expanded Exhibit Hall Featuring Nearly 400 Exhibitors, New Interactive Experiences, and the Industry's Leading AI Companies",
-      "url": "https://finnhub.io/api/news?id=03c51061d9a16bb1fb50a43c2d62e9ce9aa973664d525371ff06121887accda2"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=8f5b58d79dc418f339f13ed1641a28b7c338d0a53b51c9d58b704d98c5cd6d08"
-    },
-    {
-      "stock": "MU",
-      "headline": "The Spill: Is Broadcom (AVGO) the Other AI Trade?",
-      "url": "https://finnhub.io/api/news?id=24f0b57e6c6fb2433d376413723c0d4f5036cc9fe55212a313e03d5215f664d0"
-    },
-    {
-      "stock": "TSM",
-      "headline": "'Chip War' Author Chris Miller Says China Has Been 'Underspending' On AI For Four Years: Beijing 'Just Doesn't Believe' It Matters",
-      "url": "https://finnhub.io/api/news?id=8e184115c8910737f8ce5f2f504de259dfdec0f7fe0a62777219ff0904b312b9"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Is AAOI Stock Worth Betting on at a Premium or Should Investors Wait?",
-      "url": "https://finnhub.io/api/news?id=50beffcf10b22c72b5405c22bf4f2ff8ede34f3d510b84a30301089c572b0cb5"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla Stock Surges Into Bull Case as JPMorgan Lifts Target 227%",
-      "url": "https://finnhub.io/api/news?id=ff3f8491f8801d98e31ec73d05cb3cc66eef3173c481b6778d365b5499a526a5"
-    },
-    {
-      "stock": "DE",
-      "headline": "Titan Machinery Q1 Earnings Beat Estimates on Better Equipment Margins",
-      "url": "https://finnhub.io/api/news?id=f8ca2038ffabf7f347870e52568597771543302e58e24a13fb5d6b7ad3c9d7bb"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Dow Jones Futures: Market Close To Breaking On AI Fears, Trump; Oracle Earnings Late, SpaceX IPO On Launch Pad",
-      "url": "https://finnhub.io/api/news?id=8195cbec66af6cdad266ded04fbe3bd746d1003101a83de5c96180e093da0ce8"
+      "headline": "Forget Chip Stocks: Shay Boloor Says AAOI Is The Secret 'Plumbing' Powering AI Data Centers",
+      "url": "https://finnhub.io/api/news?id=07bd53752d07de441ed1d498f3687ad96e254b3606de45ac22c07dff4c417144"
     }
   ]
 }
