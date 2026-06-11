@@ -65,6 +65,51 @@
       "stock": "AAOI",
       "headline": "Cramer Backs BlackBerry, Waves Off Transocean And Sends AI Investors To Corning",
       "url": "https://finnhub.io/api/news?id=a5eb7a305cc51079dbf4b54c3aad88235bad762c407ca3a11e07e93d2dfb6c54"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Bezos-Led Prometheus Raises $12 Billion At $41 Billion Valuation",
+      "url": "https://finnhub.io/api/news?id=b39f00a8557b97354b40706a5eaca0c001efbe181c4fd96a024b11ba8d0d9fb6"
+    },
+    {
+      "stock": "COHR",
+      "headline": "VSH's $1.6B Backlog Sounds Bullish, But Can Export Risks Derail Growth?",
+      "url": "https://finnhub.io/api/news?id=21d2866a7e0decc0b38730b391b910f700b601d752600a1010915f03cae7d00e"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Wells Fargo Maintains Equal-Weight on Shoals Technologies Group, Raises Price Target to $10",
+      "url": "https://finnhub.io/api/news?id=aaff4ac5298fb17a76834853d161c647d5ac3187e4a0347a0d5d071eae924568"
+    },
+    {
+      "stock": "HON",
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=c8d8c634b6c6a1ebf692382ad8bd34a663317616a3062ece7ab3d007d720be99"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Lawsuit Over New York Driver Rules Puts Safety Policy In Focus",
+      "url": "https://finnhub.io/api/news?id=db9bc2d2580dd0785b364cff95da27166b97987a20ff41714f113dd7113944fb"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Forget Micron: These Two Russell 2000 Stocks Are Quietly Delivering Triple-Digit Gains",
+      "url": "https://finnhub.io/api/news?id=acca13fd909cd29c9d90376dfb2b374d41d74a1be88518f5021a90f84731ab2f"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=58af6d7dadd9d8716f895a019cd5886ce7d3d75864614a68afa0a2fb13909d3f"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=58af6d7dadd9d8716f895a019cd5886ce7d3d75864614a68afa0a2fb13909d3f"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Shares of software and AI cloud-related companies are trading lower amid possible sympathy with Oracle after the company reported Q4 financial results and announced a $40 billion financing plan for FY27. The financing needs to fund aggressive capex spending may be giving investors pause.",
+      "url": "https://finnhub.io/api/news?id=7d7778b0745c764b502b61218d537459ca8bb7480be37fa524cd893533fb8497"
     }
   ]
 }
