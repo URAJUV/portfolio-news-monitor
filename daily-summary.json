@@ -30,6 +30,16 @@
       "stock": "AAOI",
       "headline": "Forget Chip Stocks: Shay Boloor Says AAOI Is The Secret 'Plumbing' Powering AI Data Centers",
       "url": "https://finnhub.io/api/news?id=07bd53752d07de441ed1d498f3687ad96e254b3606de45ac22c07dff4c417144"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "SpaceX: The AI IPO Wearing A Spacesuit",
+      "url": "https://finnhub.io/api/news?id=a62ee155df87540cf379ef993c6176cf6877602e643598404eb2000de5fa0170"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Stock Gets Price-Target Cut On Lack Of Catalysts",
+      "url": "https://finnhub.io/api/news?id=b557b4f05002a7e69ab36b9effa1d76866a1b833731304a0a9e770d5c0ad3487"
     }
   ]
 }
