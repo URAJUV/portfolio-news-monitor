@@ -40,6 +40,31 @@
       "stock": "NFLX",
       "headline": "Netflix Stock Gets Price-Target Cut On Lack Of Catalysts",
       "url": "https://finnhub.io/api/news?id=b557b4f05002a7e69ab36b9effa1d76866a1b833731304a0a9e770d5c0ad3487"
+    },
+    {
+      "stock": "MU",
+      "headline": "Oracle’s 20% Plunge Proves What Micron Knew All Along: AI Demand Is About to Collapse",
+      "url": "https://finnhub.io/api/news?id=432ce3efed2474007f110041458745ad4e6b1d6782a53e6c6b3bc364177e50b1"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Can CRWD Stock Deliver If The AI Boom Stalls?",
+      "url": "https://finnhub.io/api/news?id=f2bfeaee38bdf20db12b2a8f961ba8efcf233c7a49a28cd4ac3e19edb197d013"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Top Midday Stories: SpaceX IPO Said to Draw Over $70 Billion in Retail Orders; Oracle Earnings Top Estimates, Plans to Raise Another $20 Billion",
+      "url": "https://finnhub.io/api/news?id=7c80f2056b8b248a1b430beb6a8b462e7d32500b4539f5de5063018b97bc5a2c"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Citi’s Price Target On Synopsys (SNPS) Stock Still Carries Considerable Upside",
+      "url": "https://finnhub.io/api/news?id=f27d54e9404c6b2f8a24200e0912943db9ebcc79c1a81b005dda051fb66c9f3d"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Cramer Backs BlackBerry, Waves Off Transocean And Sends AI Investors To Corning",
+      "url": "https://finnhub.io/api/news?id=a5eb7a305cc51079dbf4b54c3aad88235bad762c407ca3a11e07e93d2dfb6c54"
     }
   ]
 }
