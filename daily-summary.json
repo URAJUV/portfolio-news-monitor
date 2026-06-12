@@ -1,4 +1,20 @@
 {
   "date": "2026-06-12",
-  "items": []
+  "items": [
+    {
+      "stock": "AMZN",
+      "headline": "Market Chatter: SpaceX Rents Out Data Center Capacity to Anthropic After Encountering Technical Issues",
+      "url": "https://finnhub.io/api/news?id=805ff02426857bb3e84d493eb72bd2de0d54db0341e10e294646977365e4db91"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Billionaire Brad Gerstner Dumped All of His Alphabet Then Bought 2 Stocks Nobody Expected",
+      "url": "https://finnhub.io/api/news?id=b4590d01ae042e327265f0ecb19cb11e64ee414775ceb350691c22899de77f35"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "SpaceX IPO is a model for Anthropic and OpenAI",
+      "url": "https://finnhub.io/api/news?id=059a4f8b5568d7edb1f04177bf005ddcc134dc0ecf383718fb7a49ffbebac039"
+    }
+  ]
 }
