@@ -20,6 +20,36 @@
       "stock": "NFLX",
       "headline": "Jay Hoag Takes Over as Netflix Inc. (NFLX) Chairman Amid Focus on Advertising and Live Events",
       "url": "https://finnhub.io/api/news?id=d4d3fb45d9889adabf49c6b49697112de9a967e10c64a60a3e4d37b33117dc7f"
+    },
+    {
+      "stock": "MU",
+      "headline": "2 Popular AI Stocks to Sell Before They Drop 44% and 60%, According to Wall Street",
+      "url": "https://finnhub.io/api/news?id=be0e199e76cdd1cbcbb60b02120125c806a6fe8ba028031b71c6de1d019d2f50"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "How Backlash Against Data Centers Could Start Showing Up in Hyperscalers' Earnings Reports",
+      "url": "https://finnhub.io/api/news?id=2afb8033e50f146e79c87bb02e2f6059f82322bd88fc7dc1603c2669c7676795"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "SpaceX IPO: The Great Fleecing of Retail Investors Just Took Another Dark Turn",
+      "url": "https://finnhub.io/api/news?id=125cf2594cc1e3898414ce6847183b3370da3317231f64cc8e0fda8624c1a1a0"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Stocks Supported by a Rebound in Chipmakers and AI Stocks",
+      "url": "https://finnhub.io/api/news?id=e5236e2fdf05c008a504b60a73fbe6b10f8afebb0aa20943f83dc218ff26d302"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM ServiceNow Alliance Targets Legacy Modernization And Enterprise AI Workflows",
+      "url": "https://finnhub.io/api/news?id=575315c903502b12be9f0e2407ec5f9612eefa09bd75a22a94ca76651ff16e3e"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Hitachi Deepens Google And Intel Ties To Power Industrial AI Growth",
+      "url": "https://finnhub.io/api/news?id=fea281feaff05cd0cc26914a18524b9cb9ffd923718fb42b6e8de968aa4ff4c8"
     }
   ]
 }
