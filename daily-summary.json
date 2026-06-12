@@ -1,140 +1,25 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Nvidia Corp (NVDA) Strengthens AI Platform with Micron HBM4",
-      "url": "https://finnhub.io/api/news?id=9c6e5fc30d833c13a06ee1686542a845d063c5501bdaee2a08f0e5099aa308c6"
-    },
-    {
-      "stock": "TSM",
-      "headline": "No Slowing Down: Taiwan Semiconductor May Sales Leap 30% On Relentless AI Demand",
-      "url": "https://finnhub.io/api/news?id=1743243f498426af0cb14466366c5dd407abe4ba11f73b4bdee712347acd1947"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon Is the Latest AI Giant to Sign a Blockbuster Deal With This Under-the-Radar Semiconductor Company (Behind Nvidia and Meta)",
-      "url": "https://finnhub.io/api/news?id=e2cf0352e3c6687e1c9923cb35ef15dac3af9ef0a24b51100f900d9fe158ae8a"
-    },
-    {
-      "stock": "COHR",
-      "headline": "China's control over indium phosphide exports threatens AI data centre rollout",
-      "url": "https://finnhub.io/api/news?id=b694b3df8e6d854b42d563538f45983523fa16dbb1008d4b51fa4b453773d566"
-    },
-    {
       "stock": "ARM",
-      "headline": "Mizuho Raises PT on Arm Holdings (ARM), Here’s What You Should Know",
-      "url": "https://finnhub.io/api/news?id=6adae3ab49bb33011ba4f9d0b1ff2a72f7693079e517329ffa0e173002e5d273"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Forget Chip Stocks: Shay Boloor Says AAOI Is The Secret 'Plumbing' Powering AI Data Centers",
-      "url": "https://finnhub.io/api/news?id=07bd53752d07de441ed1d498f3687ad96e254b3606de45ac22c07dff4c417144"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "SpaceX: The AI IPO Wearing A Spacesuit",
-      "url": "https://finnhub.io/api/news?id=a62ee155df87540cf379ef993c6176cf6877602e643598404eb2000de5fa0170"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix Stock Gets Price-Target Cut On Lack Of Catalysts",
-      "url": "https://finnhub.io/api/news?id=b557b4f05002a7e69ab36b9effa1d76866a1b833731304a0a9e770d5c0ad3487"
-    },
-    {
-      "stock": "MU",
-      "headline": "Oracle’s 20% Plunge Proves What Micron Knew All Along: AI Demand Is About to Collapse",
-      "url": "https://finnhub.io/api/news?id=432ce3efed2474007f110041458745ad4e6b1d6782a53e6c6b3bc364177e50b1"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Can CRWD Stock Deliver If The AI Boom Stalls?",
-      "url": "https://finnhub.io/api/news?id=f2bfeaee38bdf20db12b2a8f961ba8efcf233c7a49a28cd4ac3e19edb197d013"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Top Midday Stories: SpaceX IPO Said to Draw Over $70 Billion in Retail Orders; Oracle Earnings Top Estimates, Plans to Raise Another $20 Billion",
-      "url": "https://finnhub.io/api/news?id=7c80f2056b8b248a1b430beb6a8b462e7d32500b4539f5de5063018b97bc5a2c"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Citi’s Price Target On Synopsys (SNPS) Stock Still Carries Considerable Upside",
-      "url": "https://finnhub.io/api/news?id=f27d54e9404c6b2f8a24200e0912943db9ebcc79c1a81b005dda051fb66c9f3d"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Cramer Backs BlackBerry, Waves Off Transocean And Sends AI Investors To Corning",
-      "url": "https://finnhub.io/api/news?id=a5eb7a305cc51079dbf4b54c3aad88235bad762c407ca3a11e07e93d2dfb6c54"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Bezos-Led Prometheus Raises $12 Billion At $41 Billion Valuation",
-      "url": "https://finnhub.io/api/news?id=b39f00a8557b97354b40706a5eaca0c001efbe181c4fd96a024b11ba8d0d9fb6"
-    },
-    {
-      "stock": "COHR",
-      "headline": "VSH's $1.6B Backlog Sounds Bullish, But Can Export Risks Derail Growth?",
-      "url": "https://finnhub.io/api/news?id=21d2866a7e0decc0b38730b391b910f700b601d752600a1010915f03cae7d00e"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "Wells Fargo Maintains Equal-Weight on Shoals Technologies Group, Raises Price Target to $10",
-      "url": "https://finnhub.io/api/news?id=aaff4ac5298fb17a76834853d161c647d5ac3187e4a0347a0d5d071eae924568"
-    },
-    {
-      "stock": "HON",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=c8d8c634b6c6a1ebf692382ad8bd34a663317616a3062ece7ab3d007d720be99"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Lawsuit Over New York Driver Rules Puts Safety Policy In Focus",
-      "url": "https://finnhub.io/api/news?id=db9bc2d2580dd0785b364cff95da27166b97987a20ff41714f113dd7113944fb"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Forget Micron: These Two Russell 2000 Stocks Are Quietly Delivering Triple-Digit Gains",
-      "url": "https://finnhub.io/api/news?id=acca13fd909cd29c9d90376dfb2b374d41d74a1be88518f5021a90f84731ab2f"
+      "headline": "Arm (ARM), NVIDIA (NVDA) Executive Highlight Shift Toward Agentic AI Computing",
+      "url": "https://finnhub.io/api/news?id=41f57dfe77fdb613ee63b3417d9056e181a77a307743454185ee3d38388a14f4"
     },
     {
       "stock": "IBM",
-      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=58af6d7dadd9d8716f895a019cd5886ce7d3d75864614a68afa0a2fb13909d3f"
+      "headline": "Oink Ink Radio Founder Dan Price Announces BionicVO, an AI Voice Platform Built on Real, Licensed Voice Actors",
+      "url": "https://finnhub.io/api/news?id=ec9499a1e82fcb874ee086cf1382333925f5d884ceb775ea9dfde8c2a457e6b0"
     },
     {
       "stock": "GOOGL",
-      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=58af6d7dadd9d8716f895a019cd5886ce7d3d75864614a68afa0a2fb13909d3f"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Shares of software and AI cloud-related companies are trading lower amid possible sympathy with Oracle after the company reported Q4 financial results and announced a $40 billion financing plan for FY27. The financing needs to fund aggressive capex spending may be giving investors pause.",
-      "url": "https://finnhub.io/api/news?id=7d7778b0745c764b502b61218d537459ca8bb7480be37fa524cd893533fb8497"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Photonics Is the New Hot Cake of AI Infrastructure Space: 5 Picks",
-      "url": "https://finnhub.io/api/news?id=9bf897059d08590a25809b49c3604ae53456d69e85e64ebe659c85c40a4700be"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Shares of software and AI cloud-related companies are trading lower amid possible sympathy with Oracle after the company reported Q4 financial results and announced a $40 billion financing plan for FY27. The financing needs to fund aggressive capex spending may be giving investors pause.",
-      "url": "https://finnhub.io/api/news?id=7d7778b0745c764b502b61218d537459ca8bb7480be37fa524cd893533fb8497"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Why Intel Stock Was Just Upgraded to Buy from Sell at BofA",
-      "url": "https://finnhub.io/api/news?id=786e510f929506c5e953cec2087108a3ed6fcf39bcaadb0c57f06d6b804a2050"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Shares of software and AI cloud-related companies are trading lower amid possible sympathy with Oracle after the company reported Q4 financial results and announced a $40 billion financing plan for FY27. The financing needs to fund aggressive capex spending may be giving investors pause.",
-      "url": "https://finnhub.io/api/news?id=7d7778b0745c764b502b61218d537459ca8bb7480be37fa524cd893533fb8497"
+      "headline": "AI Integration and iPhone Growth Assert Apple Inc. (AAPL) as One of the Best Forever Stocks to Buy",
+      "url": "https://finnhub.io/api/news?id=dd0917b30e0bd4c086123764fd8fcb8aac7440c24047e8d1ded24be5471099fc"
     },
     {
       "stock": "NFLX",
-      "headline": "What Is Google Hiding Behind Its AI Silence?",
-      "url": "https://finnhub.io/api/news?id=a23c51100d1b61d140cca69d6b7cd19558a2a4ed38edb268d39435d0e8cb4b44"
+      "headline": "Jay Hoag Takes Over as Netflix Inc. (NFLX) Chairman Amid Focus on Advertising and Live Events",
+      "url": "https://finnhub.io/api/news?id=d4d3fb45d9889adabf49c6b49697112de9a967e10c64a60a3e4d37b33117dc7f"
     }
   ]
 }
