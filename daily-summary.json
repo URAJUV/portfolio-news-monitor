@@ -15,6 +15,21 @@
       "stock": "GOOGL",
       "headline": "SpaceX IPO is a model for Anthropic and OpenAI",
       "url": "https://finnhub.io/api/news?id=059a4f8b5568d7edb1f04177bf005ddcc134dc0ecf383718fb7a49ffbebac039"
+    },
+    {
+      "stock": "MU",
+      "headline": "SpaceX stock gains, space companies fall, chips mixed on IPO news",
+      "url": "https://finnhub.io/api/news?id=0e544d1fdb4814502215b7809219b96962413050d38d3d838d68e3159967e615"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Northland Power: Advanced-Stage Projects Remain Deeply Discounted",
+      "url": "https://finnhub.io/api/news?id=a207a72e29c2547a57fa01f9891608fd522ae4608a38fcd0086ae668304678b1"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet Deepens AI Bets With Waymo Testing Site And Anthropic Backing",
+      "url": "https://finnhub.io/api/news?id=c0b36f89772399823e8a4fcbad8307fc09a8a9eebce16938f76f9eb9a8b27f08"
     }
   ]
 }
