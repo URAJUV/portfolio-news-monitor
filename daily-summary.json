@@ -90,6 +90,16 @@
       "stock": "CRWD",
       "headline": "The AI Boom Has a Hidden Winner—And It's Not NVIDIA",
       "url": "https://finnhub.io/api/news?id=9c09a081ec43a0d855a1f5ade6336bfb9bc721fed0bcf6f07ac52fe8c86dc079"
+    },
+    {
+      "stock": "HON",
+      "headline": "RBC Capital Reiterates Outperform on Honeywell Intl, Maintains $275 Price Target",
+      "url": "https://finnhub.io/api/news?id=e50560042c32208128e18c26ffa713a22cd9759da84b2e8e912dac36e8e2fc5f"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Why Wells Fargo Is Warning That Surging AI Token Costs Is a Death Knell for Hyperscaler Stocks Like Meta and Microsoft",
+      "url": "https://finnhub.io/api/news?id=2114a4529bf03a258c4114248d75655d9d891bcc1a3f2797ae2a4bc00e1cfb3d"
     }
   ]
 }
