@@ -85,6 +85,11 @@
       "stock": "GOOGL",
       "headline": "RBC Capital Maintains Outperform Rating for Zillow Group (ZG)",
       "url": "https://finnhub.io/api/news?id=f925a3935187e838fc7756ec8cb9e95da6d1202cec76a30c050bde75cd7d6a71"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "The AI Boom Has a Hidden Winner—And It's Not NVIDIA",
+      "url": "https://finnhub.io/api/news?id=9c09a081ec43a0d855a1f5ade6336bfb9bc721fed0bcf6f07ac52fe8c86dc079"
     }
   ]
 }
