@@ -1,35 +1,25 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "items": [
     {
+      "stock": "MU",
+      "headline": "Forget the \"Magnificent Seven\": These 3 Hypergrowth Artificial Intelligence (AI) Stocks Are Just Getting Started",
+      "url": "https://finnhub.io/api/news?id=c3b765acc9b3ddcbc14dec370fc565022fb7dc7fd6078055c8af5ce78a081547"
+    },
+    {
       "stock": "AMZN",
-      "headline": "Market Chatter: SpaceX Rents Out Data Center Capacity to Anthropic After Encountering Technical Issues",
-      "url": "https://finnhub.io/api/news?id=805ff02426857bb3e84d493eb72bd2de0d54db0341e10e294646977365e4db91"
+      "headline": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI)",
+      "url": "https://finnhub.io/api/news?id=711f8cc4b1cf28a69dca1e6f9d943e316364eb64e483c0aaeab59b3e98e2df89"
     },
     {
       "stock": "ARM",
-      "headline": "Billionaire Brad Gerstner Dumped All of His Alphabet Then Bought 2 Stocks Nobody Expected",
-      "url": "https://finnhub.io/api/news?id=b4590d01ae042e327265f0ecb19cb11e64ee414775ceb350691c22899de77f35"
+      "headline": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today",
+      "url": "https://finnhub.io/api/news?id=abb6d39c330ea4ba4f9d7360eece965e27c82ee9a03050db1fe4acc7fa19904b"
     },
     {
       "stock": "GOOGL",
-      "headline": "SpaceX IPO is a model for Anthropic and OpenAI",
-      "url": "https://finnhub.io/api/news?id=059a4f8b5568d7edb1f04177bf005ddcc134dc0ecf383718fb7a49ffbebac039"
-    },
-    {
-      "stock": "MU",
-      "headline": "SpaceX stock gains, space companies fall, chips mixed on IPO news",
-      "url": "https://finnhub.io/api/news?id=0e544d1fdb4814502215b7809219b96962413050d38d3d838d68e3159967e615"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Northland Power: Advanced-Stage Projects Remain Deeply Discounted",
-      "url": "https://finnhub.io/api/news?id=a207a72e29c2547a57fa01f9891608fd522ae4608a38fcd0086ae668304678b1"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet Deepens AI Bets With Waymo Testing Site And Anthropic Backing",
-      "url": "https://finnhub.io/api/news?id=c0b36f89772399823e8a4fcbad8307fc09a8a9eebce16938f76f9eb9a8b27f08"
+      "headline": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI)",
+      "url": "https://finnhub.io/api/news?id=711f8cc4b1cf28a69dca1e6f9d943e316364eb64e483c0aaeab59b3e98e2df89"
     }
   ]
 }
