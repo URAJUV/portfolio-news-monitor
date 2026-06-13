@@ -20,6 +20,36 @@
       "stock": "GOOGL",
       "headline": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI)",
       "url": "https://finnhub.io/api/news?id=711f8cc4b1cf28a69dca1e6f9d943e316364eb64e483c0aaeab59b3e98e2df89"
+    },
+    {
+      "stock": "TSM",
+      "headline": "The Unit Economics Of AI Infrastructure",
+      "url": "https://finnhub.io/api/news?id=f8237074d58007743be855d7aa34870d4518d905ed5a5742d552fcf1385a3234"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "AI's True Costs Limit Its Impact On Job Displacement",
+      "url": "https://finnhub.io/api/news?id=b5acd729c14b0cce5c340bf00a1664a1aa1fd851c3472f85c21d2118de5f49ef"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings (ARM) Gets BofA Backing, 37% PT Upgrade, Climbs 11%",
+      "url": "https://finnhub.io/api/news?id=2230e84dacc82e7f9297ccf07e84b1444c8c189f7d14b3389a13f268a561b9b7"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Sector Update: Consumer Stocks Mixed Friday Afternoon",
+      "url": "https://finnhub.io/api/news?id=031e4c2a306f5ca244401eacb11e5f2494ff9f93b91ca941293de34ccaa968f5"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Oracle vs. IBM: 1 Legacy Tech Giant Is Winning the AI Race",
+      "url": "https://finnhub.io/api/news?id=d033e0fd4908f2612892ef9ef030e9afbf08ee655945171c659ecd0369a92003"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet’s US$80 Billion AI Build‑Out Funding Might Change The Case For Investing In Alphabet (GOOGL)",
+      "url": "https://finnhub.io/api/news?id=0ca0e816f1ba914fe0e65f0bc85dfe2e036a4c7199d09d8ce41dea50bd8afef3"
     }
   ]
 }
