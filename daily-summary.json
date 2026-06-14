@@ -75,6 +75,21 @@
       "stock": "IBM",
       "headline": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
       "url": "https://finnhub.io/api/news?id=64d5226568c18034e031e3c5c7565ea0ffa9229862dff02aac6fa5eec4874a83"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron Stock is Now Close to Fair Value, But Shorting 2-Week Puts Yield 7.0%",
+      "url": "https://finnhub.io/api/news?id=6857f7eea063621dd48d5433b280c9fe8ba879131663c0571bfedd0025b1f0d0"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD): ARR Growth Shows Why Falcon Still Has Room to Expand Across Cybersecurity Budgets",
+      "url": "https://finnhub.io/api/news?id=1e9e260d6a767689dae8af00080c3a752b3b94502e8c63affd3e2b96bd00ab28"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Merger Talk With SpaceX Reshapes AI And Investor Outlook",
+      "url": "https://finnhub.io/api/news?id=48517a66837cfba22a8037a987e192ff2f9f3f0e6a88d5a913d9ef55601711a6"
     }
   ]
 }
