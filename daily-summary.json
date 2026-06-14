@@ -45,6 +45,16 @@
       "stock": "GOOGL",
       "headline": "Alphabet is Raising $84.75 Billion to Win the AI Wars. Should Investors Celebrate or Worry?",
       "url": "https://finnhub.io/api/news?id=44e8aaf59b6c88a67b4f054fe7281ca1268996871ea74a2b957069461a4e563b"
+    },
+    {
+      "stock": "MU",
+      "headline": "Wolfe Research Raises PT on Micron Technology (MU) Stock",
+      "url": "https://finnhub.io/api/news?id=95771b4286c4ececc66c939d57585192e6a50acb0acd3941487cbd9529701211"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?",
+      "url": "https://finnhub.io/api/news?id=972d21e4d72ef560b0fd2b495899f7d01989a625a61005f18c20bf63460932f0"
     }
   ]
 }
