@@ -1,105 +1,20 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "items": [
     {
       "stock": "MU",
-      "headline": "Forget the \"Magnificent Seven\": These 3 Hypergrowth Artificial Intelligence (AI) Stocks Are Just Getting Started",
-      "url": "https://finnhub.io/api/news?id=c3b765acc9b3ddcbc14dec370fc565022fb7dc7fd6078055c8af5ce78a081547"
+      "headline": "How AI started turning memory into a structural bottleneck",
+      "url": "https://finnhub.io/api/news?id=becde772091461d59fba5bc533b2a509e15f1070637a871a035c479cf523bcb8"
     },
     {
       "stock": "AMZN",
-      "headline": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI)",
-      "url": "https://finnhub.io/api/news?id=711f8cc4b1cf28a69dca1e6f9d943e316364eb64e483c0aaeab59b3e98e2df89"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today",
-      "url": "https://finnhub.io/api/news?id=abb6d39c330ea4ba4f9d7360eece965e27c82ee9a03050db1fe4acc7fa19904b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI)",
-      "url": "https://finnhub.io/api/news?id=711f8cc4b1cf28a69dca1e6f9d943e316364eb64e483c0aaeab59b3e98e2df89"
-    },
-    {
-      "stock": "TSM",
-      "headline": "The Unit Economics Of AI Infrastructure",
-      "url": "https://finnhub.io/api/news?id=f8237074d58007743be855d7aa34870d4518d905ed5a5742d552fcf1385a3234"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "AI's True Costs Limit Its Impact On Job Displacement",
-      "url": "https://finnhub.io/api/news?id=b5acd729c14b0cce5c340bf00a1664a1aa1fd851c3472f85c21d2118de5f49ef"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings (ARM) Gets BofA Backing, 37% PT Upgrade, Climbs 11%",
-      "url": "https://finnhub.io/api/news?id=2230e84dacc82e7f9297ccf07e84b1444c8c189f7d14b3389a13f268a561b9b7"
+      "headline": "Amazon.com, Inc. (AMZN) Pursues Canadian Bond to Finance $200B AI Data Center Investment Spree",
+      "url": "https://finnhub.io/api/news?id=d20e8b6c5fdbc661a16bdbf66ed29f562dac31227eaa3310c5b4352eab051807"
     },
     {
       "stock": "UBER",
-      "headline": "Sector Update: Consumer Stocks Mixed Friday Afternoon",
-      "url": "https://finnhub.io/api/news?id=031e4c2a306f5ca244401eacb11e5f2494ff9f93b91ca941293de34ccaa968f5"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Oracle vs. IBM: 1 Legacy Tech Giant Is Winning the AI Race",
-      "url": "https://finnhub.io/api/news?id=d033e0fd4908f2612892ef9ef030e9afbf08ee655945171c659ecd0369a92003"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet’s US$80 Billion AI Build‑Out Funding Might Change The Case For Investing In Alphabet (GOOGL)",
-      "url": "https://finnhub.io/api/news?id=0ca0e816f1ba914fe0e65f0bc85dfe2e036a4c7199d09d8ce41dea50bd8afef3"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor-SP ADR (NYSE:TSM) Displays Perfect Technical and Strong Growth Ratings",
-      "url": "https://finnhub.io/api/news?id=8d37d1a5d001553c79e779abed653d10c655f14e3af9bd0e8d0d52bca528f9eb"
-    },
-    {
-      "stock": "UBER",
-      "headline": "The ‘AI superstar’ CEO behind a self-driving truck unicorn on why Gen Z is a better hiring bet than industry veterans",
-      "url": "https://finnhub.io/api/news?id=c1bcbad272ab6edebf35c491fb76db2ce9857c9ab7206b707a91e4d4f4e99c36"
-    },
-    {
-      "stock": "IBM",
-      "headline": "ServiceNow IBM AI Alliance Targets Legacy Bottlenecks And Valuation Expectations",
-      "url": "https://finnhub.io/api/news?id=54d5782331cd4961995b81cc352bd8c97435a8b1d1eb72560875b3d4fa7c1780"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Harvard University Likes Meta (META) Stock Despite AI CapEx Fears",
-      "url": "https://finnhub.io/api/news?id=246d69f8f982177b3b460df530d192839d23e93a3a037cbb0d38eacb9683f5cc"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "The Billionaire Move Nobody Saw Coming: Why Starboard Value Abandoned CRM For These 2 Stocks",
-      "url": "https://finnhub.io/api/news?id=7fbbe0c7c05f48cbb17b16708115d78ec554430b6b219a2a81d7a0fb852335cf"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Should IBM’s US$10 Billion Quantum and AI Expansion Require Action From International Business Machines (IBM) Investors?",
-      "url": "https://finnhub.io/api/news?id=e155fc11bd8fe23a195ac96901b0d002c447a299363a39207e4016ba3faab36a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "RBC Capital Maintains Outperform Rating for Zillow Group (ZG)",
-      "url": "https://finnhub.io/api/news?id=f925a3935187e838fc7756ec8cb9e95da6d1202cec76a30c050bde75cd7d6a71"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "The AI Boom Has a Hidden Winner—And It's Not NVIDIA",
-      "url": "https://finnhub.io/api/news?id=9c09a081ec43a0d855a1f5ade6336bfb9bc721fed0bcf6f07ac52fe8c86dc079"
-    },
-    {
-      "stock": "HON",
-      "headline": "RBC Capital Reiterates Outperform on Honeywell Intl, Maintains $275 Price Target",
-      "url": "https://finnhub.io/api/news?id=e50560042c32208128e18c26ffa713a22cd9759da84b2e8e912dac36e8e2fc5f"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Why Wells Fargo Is Warning That Surging AI Token Costs Is a Death Knell for Hyperscaler Stocks Like Meta and Microsoft",
-      "url": "https://finnhub.io/api/news?id=2114a4529bf03a258c4114248d75655d9d891bcc1a3f2797ae2a4bc00e1cfb3d"
+      "headline": "Banco Santander Extends Reach Across Mobility Energy And AI Payments",
+      "url": "https://finnhub.io/api/news?id=f456812d96600062f04b62026926859052316993a85a3671c77753c191a04fbe"
     }
   ]
 }
