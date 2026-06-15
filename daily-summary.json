@@ -1,95 +1,25 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "items": [
     {
-      "stock": "MU",
-      "headline": "How AI started turning memory into a structural bottleneck",
-      "url": "https://finnhub.io/api/news?id=becde772091461d59fba5bc533b2a509e15f1070637a871a035c479cf523bcb8"
-    },
-    {
       "stock": "AMZN",
-      "headline": "Amazon.com, Inc. (AMZN) Pursues Canadian Bond to Finance $200B AI Data Center Investment Spree",
-      "url": "https://finnhub.io/api/news?id=d20e8b6c5fdbc661a16bdbf66ed29f562dac31227eaa3310c5b4352eab051807"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Banco Santander Extends Reach Across Mobility Energy And AI Payments",
-      "url": "https://finnhub.io/api/news?id=f456812d96600062f04b62026926859052316993a85a3671c77753c191a04fbe"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron Reports Earnings June 24. Here's the One Number That May Make or Break the Stock.",
-      "url": "https://finnhub.io/api/news?id=3863521d3c466475d91dfca36cfba5bb90f8635200b80f32d60c99201081c060"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Cognizant Ties Physical AI Platform To Partnerships And Undervalued Shares",
-      "url": "https://finnhub.io/api/news?id=ea3cf12ccbddba658e87694e6217a7a6d70fd4628015b08f4a8cc72323c2a51e"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Pinterest Links Amazon Storefronts And AWS To Support AI Shopping",
-      "url": "https://finnhub.io/api/news?id=c2bff8fecce1809305375a8cc852faf643f830da2560d703c1728b5371c154ec"
+      "headline": "Amazon Graviton5 Chip Aims To Deepen AWS AI Margins And Moat",
+      "url": "https://finnhub.io/api/news?id=86b5ffbbc738329c27af45cd5c5ef0073203581ce04f235dac9e190a10618dea"
     },
     {
       "stock": "TSLA",
-      "headline": "Elon Musk Is Now the World's First Trillionaire. For Tesla Shareholders, the More Important Question Is What Comes Next.",
-      "url": "https://finnhub.io/api/news?id=d18131bc6fc8e58d8a0800d52243c23318c7d2b4a39212a25b280c3b4de0e651"
+      "headline": "Tesla Shareholders 'Don't Like Table Scraps' — Bulls Make Case Against SpaceX Merger, See Up To 800% Upside On Robotaxi And Optimus",
+      "url": "https://finnhub.io/api/news?id=e26d536b343296238f373ff82c6f5ebf494c8788a14f97d50a496ad292226bfd"
     },
     {
       "stock": "IBM",
-      "headline": "Analyst Lifts IBM Price Target by $15. Here is Why",
-      "url": "https://finnhub.io/api/news?id=eea5139a03112ea2c46688b44856ceff8e98d7547ffd2bf3000daef6d1de5263"
+      "headline": "Top Banks Rush to Fill Chief AI Roles as Talent Jumps to Rivals",
+      "url": "https://finnhub.io/api/news?id=3b0dc84994c5bf18c6b2c676152a46aae4e9a649af6381d41e9b7757cca762d3"
     },
     {
       "stock": "GOOGL",
-      "headline": "Alphabet is Raising $84.75 Billion to Win the AI Wars. Should Investors Celebrate or Worry?",
-      "url": "https://finnhub.io/api/news?id=44e8aaf59b6c88a67b4f054fe7281ca1268996871ea74a2b957069461a4e563b"
-    },
-    {
-      "stock": "MU",
-      "headline": "Wolfe Research Raises PT on Micron Technology (MU) Stock",
-      "url": "https://finnhub.io/api/news?id=95771b4286c4ececc66c939d57585192e6a50acb0acd3941487cbd9529701211"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?",
-      "url": "https://finnhub.io/api/news?id=972d21e4d72ef560b0fd2b495899f7d01989a625a61005f18c20bf63460932f0"
-    },
-    {
-      "stock": "MU",
-      "headline": "Better AI Growth Buy Right Now: Nvidia vs Micron",
-      "url": "https://finnhub.io/api/news?id=804351cb444d2ec204bade28985abaa778ff2e2771ba5e6f342e00576da0eca2"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Bill Ackman Likes This Indirect AI Play Everyone’s Ignoring",
-      "url": "https://finnhub.io/api/news?id=98eb732c63296e107e6bfbee81d9f9dcc6ab7303f9bb2528a819c722f5f2843a"
-    },
-    {
-      "stock": "MU",
-      "headline": "Samsung, SK Hynix, and Micron Are Fighting for AI Memory Dominance. Here's How You Can Buy All Three for About $65.",
-      "url": "https://finnhub.io/api/news?id=5bd55228b64a4f1a099c01f7ba76685088f82c79cb29efd407f21fbb93de5836"
-    },
-    {
-      "stock": "IBM",
-      "headline": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
-      "url": "https://finnhub.io/api/news?id=64d5226568c18034e031e3c5c7565ea0ffa9229862dff02aac6fa5eec4874a83"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron Stock is Now Close to Fair Value, But Shorting 2-Week Puts Yield 7.0%",
-      "url": "https://finnhub.io/api/news?id=6857f7eea063621dd48d5433b280c9fe8ba879131663c0571bfedd0025b1f0d0"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD): ARR Growth Shows Why Falcon Still Has Room to Expand Across Cybersecurity Budgets",
-      "url": "https://finnhub.io/api/news?id=1e9e260d6a767689dae8af00080c3a752b3b94502e8c63affd3e2b96bd00ab28"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla Merger Talk With SpaceX Reshapes AI And Investor Outlook",
-      "url": "https://finnhub.io/api/news?id=48517a66837cfba22a8037a987e192ff2f9f3f0e6a88d5a913d9ef55601711a6"
+      "headline": "Technology Leads Insurance Education: Big Jump SEO Partners with Three Major Insurance Platforms to Enhance VHIS Information Quality with Latest Gemini AI Technology",
+      "url": "https://finnhub.io/api/news?id=f2c1e41aadb7202a5a00db74806ed59026ca6d0146e682639b643a9af424eb88"
     }
   ]
 }
