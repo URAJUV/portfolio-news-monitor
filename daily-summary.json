@@ -20,6 +20,26 @@
       "stock": "IBM",
       "headline": "IBM (IBM) Stock Sinks As Market Gains: Here's Why",
       "url": "https://finnhub.io/api/news?id=1ccb43a44a0caaad8fe253666241284a4d39da8431021eada208ec7d63e6d2f4"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Why SpaceX, Anthropic, And OpenAI IPOs Are A Red Flag For The Stock Market",
+      "url": "https://finnhub.io/api/news?id=1d58a2f60710591a835ec0296c4ddbbe0c74d58a3d9f7e7d4438a4a0ec0dffdb"
+    },
+    {
+      "stock": "ARM",
+      "headline": "SpaceX becomes retail's biggest IPO trade: Chart of the Day",
+      "url": "https://finnhub.io/api/news?id=ac92a52151e0437530f4d7127c67e7f46286fd31f4db6c9cd8e3265d30e0a302"
+    },
+    {
+      "stock": "HON",
+      "headline": "Stock Market Today: Dow Jumps 650 Points On U.S.-Iran Deal; AI Stock Tests Entry, Nvidia Pops (Live Coverage)",
+      "url": "https://finnhub.io/api/news?id=d48dd6b68e66bcc4391b328656315222b5c9444885a07d22953018265ffa5459"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM: Slow, Steady With Room For Multiple Expansion (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=4a947a81c2f9188cfe94fb4ed527d5d707eb5056f7527e107364fbc40d3fce29"
     }
   ]
 }
