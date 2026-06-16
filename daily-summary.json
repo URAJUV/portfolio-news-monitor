@@ -100,6 +100,31 @@
       "stock": "NFLX",
       "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
       "url": "https://finnhub.io/api/news?id=6f252dcad088530ad3d30138a420d607aaa0775ce998d48f9a4233bfffdd18f5"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor VP Makes $75K Stock Purchase",
+      "url": "https://finnhub.io/api/news?id=62b6650d6722cc58aeeb7f68f290f93d08c8ce14cebd24f442802ded8f1468aa"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Wins Grant Thornton Role And Launches AI Agent Identity Tool",
+      "url": "https://finnhub.io/api/news?id=61e5efa2dd51f7c27fd48fbc06de0596dd405556897cd5b69d0fc09c4c48a228"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Market Chatter: Amazon.com Faces Potential FTC Ad Practices Lawsuit, Billions in Possible Penalties",
+      "url": "https://finnhub.io/api/news?id=0b7533f8b8b7f4609985b97917a1c13295c358ff3bfc299021d9ba057eb80151"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Dow Jones Hits High, SpaceX Keeps Rising, But AI Stocks Skid; Warsh's Fed Debut On Tap",
+      "url": "https://finnhub.io/api/news?id=faf68de9b828a02cf5a77a30b9624896203e0c1d16e7c7a7174f03475ed3f7f6"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Stock Market Today, June 16: Netflix Falls After Missing Out on Another Media Acquisition",
+      "url": "https://finnhub.io/api/news?id=aa61aa1cf55b43c18038342ff243e14ebbabdb6f0011b51361c37006bc428792"
     }
   ]
 }
