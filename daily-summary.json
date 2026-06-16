@@ -80,6 +80,26 @@
       "stock": "GOOGL",
       "headline": "Nvidia Latest Big Borrower: AI Data Centers, Suppliers Racking Up Debt",
       "url": "https://finnhub.io/api/news?id=7bc0c8487d248951cd7e98a5e090cdeb223f8cddb69dcc38a00c3744c02f441d"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Five International Dividend Growers Your Screen Is Distorting",
+      "url": "https://finnhub.io/api/news?id=d6422e235d93ef1eb86c7873432d9fae648b56cd421aab1d6290f0e37049fc45"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=6f252dcad088530ad3d30138a420d607aaa0775ce998d48f9a4233bfffdd18f5"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Targets Hotels With Cloud Platform",
+      "url": "https://finnhub.io/api/news?id=4419e2279b532e72cb8ac9f344b2d01e9ca550b91bf07db4182d6bf89ae282de"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=6f252dcad088530ad3d30138a420d607aaa0775ce998d48f9a4233bfffdd18f5"
     }
   ]
 }
