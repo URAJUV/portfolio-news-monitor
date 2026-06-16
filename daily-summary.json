@@ -1,110 +1,25 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "items": [
     {
-      "stock": "AMZN",
-      "headline": "Amazon Graviton5 Chip Aims To Deepen AWS AI Margins And Moat",
-      "url": "https://finnhub.io/api/news?id=86b5ffbbc738329c27af45cd5c5ef0073203581ce04f235dac9e190a10618dea"
+      "stock": "CRWD",
+      "headline": "BB vs. CRWD: Which Cybersecurity Stock Is the Better Pick at Present?",
+      "url": "https://finnhub.io/api/news?id=540929a9714c02bedb9c1d36b5b09832c769073c0337481930aa8f5899812f69"
     },
     {
-      "stock": "TSLA",
-      "headline": "Tesla Shareholders 'Don't Like Table Scraps' — Bulls Make Case Against SpaceX Merger, See Up To 800% Upside On Robotaxi And Optimus",
-      "url": "https://finnhub.io/api/news?id=e26d536b343296238f373ff82c6f5ebf494c8788a14f97d50a496ad292226bfd"
+      "stock": "HALO",
+      "headline": "Halozyme Sees Little Royalty Impact From Medicare Drug Pricing Rule, Says CMS Proposal Should Not Hurt ENHANZE Partnerships",
+      "url": "https://finnhub.io/api/news?id=f841cb065a6e26a8a0b5ba3a8b5beb58f897fa6e1bbdbfcc489e7e0454b9204d"
+    },
+    {
+      "stock": "DE",
+      "headline": "The ‘right to repair’ movement has a point, but consumers should read the warranty fine print first",
+      "url": "https://finnhub.io/api/news?id=2cf2835ac32c092a474f97689747797e879f4f750ff58ea79f2e759a9c01ab23"
     },
     {
       "stock": "IBM",
-      "headline": "Top Banks Rush to Fill Chief AI Roles as Talent Jumps to Rivals",
-      "url": "https://finnhub.io/api/news?id=3b0dc84994c5bf18c6b2c676152a46aae4e9a649af6381d41e9b7757cca762d3"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Technology Leads Insurance Education: Big Jump SEO Partners with Three Major Insurance Platforms to Enhance VHIS Information Quality with Latest Gemini AI Technology",
-      "url": "https://finnhub.io/api/news?id=f2c1e41aadb7202a5a00db74806ed59026ca6d0146e682639b643a9af424eb88"
-    },
-    {
-      "stock": "MU",
-      "headline": "This Week In AI Chips - Aymer AI Powers Up Texas for Next-Gen Infrastructure",
-      "url": "https://finnhub.io/api/news?id=3c3a839be949d2c28e451b6daa88644c2ad3ccd24821fb7e4237602168a314aa"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "The 12 Scariest Words in SpaceX's Prospectus All but Confirm an Imminent Fleecing of Retail Investors",
-      "url": "https://finnhub.io/api/news?id=f404b4eeeac06e9caa9395fcd3ac55301c5a1f032153101c10396d672b38ac55"
-    },
-    {
-      "stock": "UBER",
-      "headline": "RIVN Stock Jumps Overnight: CEO Teases Self-Driving System 'Very Similar To Tesla's FSD' This Year",
-      "url": "https://finnhub.io/api/news?id=bdddb85ea342207381c2c849ecdd7e5746b894fd3b7e742b0f38a7cab511821b"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Two Weeks Left to Enter The Global Supply Chain Awards",
-      "url": "https://finnhub.io/api/news?id=0e9732853db30fd8fe0c6ee6fbeed4f6e1cdfc27ba1171ca2027311b34d3fc5a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "SpaceX AI Megadeals With Google And Anthropic Recast Growth And Valuation",
-      "url": "https://finnhub.io/api/news?id=604cfe4f5e511c2057eb7a4225dbab790282108ca81e1e8e8aec369276f3b4f3"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor-SP ADR (NYSE:TSM) Scores Perfect Technical Rating, Flashes Bullish Consolidation Setup",
-      "url": "https://finnhub.io/api/news?id=46ec7a822348ecdee2182cad43defb97baf2c563bec6721924118a9cb2c0b8c9"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Unveils Continuous Identity for AI Agents",
-      "url": "https://finnhub.io/api/news?id=ba75de783637ad4b1740f1281da7b9251954c0ec44b1edd492f770f1ee5507ed"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Ouster, Datavault AI, Paranovus Entertainment Technology And Other Big Stocks Moving Higher On Monday",
-      "url": "https://finnhub.io/api/news?id=af60d05c3fa993d5f73fc5578c6ca1db392a4aad8be963555ba00588a8ef0f77"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "MediaTek eyes Google TPU and Musk AI rack deals in system-level pivot - Kuo",
-      "url": "https://finnhub.io/api/news?id=e28a1079955a8649bd27bf4f7d37f1d48d267c42eb7a284966d71478afbac0bd"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix Leans Into Live Podcasts As Shares Trade Below Targets",
-      "url": "https://finnhub.io/api/news?id=13cf8f11e4894193d42bb9deeeccd9289b01460a3fdbbf248b57df1c831cae83"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Team8 Announces Winners of the CISO Village Choice Awards at Annual Cybersecurity Summit",
-      "url": "https://finnhub.io/api/news?id=21bdad579d340855f8e90b43d7e9b27347d0b0e07946e4ad94f2e30dfc06d002"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Bill Ackman’s Main Fund Is Feeling the Pain. So Is His New One.",
-      "url": "https://finnhub.io/api/news?id=1a134af065f23f9dc48a1c7e7b9ab63103b74ed503948e8ff65f05221baf2d5c"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings: The AI CPU Compounder Is Becoming Indispensable",
-      "url": "https://finnhub.io/api/news?id=f8c513a74f6b66a564bb2570fad866ca7101adb58c2dbcddb598ba074c69ffcb"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Bill Ackman’s Main Fund Is Feeling the Pain. So Is His New One.",
-      "url": "https://finnhub.io/api/news?id=1a134af065f23f9dc48a1c7e7b9ab63103b74ed503948e8ff65f05221baf2d5c"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Shares of wearable health device stocks are trading higher following a post on X suggesting HHS Secretary RFK Jr. will launch a campaign to encourage Americans to use wearable health devices.",
-      "url": "https://finnhub.io/api/news?id=926ead4bfea682d676de70325e1315c1b3010ef6212ac296c4b22c292a461f6b"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Mizuho Maintains Outperform on D-Wave Quantum, Raises Price Target to $35",
-      "url": "https://finnhub.io/api/news?id=fa246b8617cdd60fc2c0093d30886e8722c29f6575fa3eaac4140c132840920a"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Shares of wearable health device stocks are trading higher following a post on X suggesting HHS Secretary RFK Jr. will launch a campaign to encourage Americans to use wearable health devices.",
-      "url": "https://finnhub.io/api/news?id=926ead4bfea682d676de70325e1315c1b3010ef6212ac296c4b22c292a461f6b"
+      "headline": "IBM (IBM) Stock Sinks As Market Gains: Here's Why",
+      "url": "https://finnhub.io/api/news?id=1ccb43a44a0caaad8fe253666241284a4d39da8431021eada208ec7d63e6d2f4"
     }
   ]
 }
