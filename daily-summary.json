@@ -40,6 +40,46 @@
       "stock": "IBM",
       "headline": "IBM: Slow, Steady With Room For Multiple Expansion (Rating Upgrade)",
       "url": "https://finnhub.io/api/news?id=4a947a81c2f9188cfe94fb4ed527d5d707eb5056f7527e107364fbc40d3fce29"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Cathie Wood Dumps Millions Worth Of Tesla, Palantir, Roku, AMD And More Even As TSLA Stock Pops On SpaceX Merger Buzz",
+      "url": "https://finnhub.io/api/news?id=ca094e068fef6a57746c34eb5a4d26a2646f6015efee790d795e287b3d87b945"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Can CrowdStrike's Next-Gen SIEM Sustain Its Strong Growth Momentum?",
+      "url": "https://finnhub.io/api/news?id=58d173bdb2da2349b27317dc3fff2167e4b174d402be9ef55725a260435b7187"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Nvidia's Huang pledges AI will boost manufacturing jobs. A test will come in Texas",
+      "url": "https://finnhub.io/api/news?id=d5fe00b50c43eae772ba4104c530f02f1eae2ccb862b19b9c3adbbcb85477501"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Paying 50x Earnings Can Still Be Cheap — If You Know This One Thing",
+      "url": "https://finnhub.io/api/news?id=b76644c566196d74038076402b78e107ca6a74713eacb1329cf8bbb83305b223"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Focus on 5 AI Behemoths Carving a Niche in the Server CPU Chip Market",
+      "url": "https://finnhub.io/api/news?id=a0163c6cde52a478890f4c59822fc25b806e1e4dc9a25eb709c3e2ffbc4cf1ed"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Sony: The Market Is Mispricing Its Entertainment Transformation",
+      "url": "https://finnhub.io/api/news?id=17fb0030050d0e2c4ddbe562a6c4dec12c87da9f9dc641babceb11e9edc4bf9d"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM (IBM) Stock Could Be 22.4% Below Fair Value as AI Narrative Builds",
+      "url": "https://finnhub.io/api/news?id=2b31656d231f81e1b17bfaea922da88bce772a5cc9ffa2fe5b2a39a19919c1bf"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Nvidia Latest Big Borrower: AI Data Centers, Suppliers Racking Up Debt",
+      "url": "https://finnhub.io/api/news?id=7bc0c8487d248951cd7e98a5e090cdeb223f8cddb69dcc38a00c3744c02f441d"
     }
   ]
 }
