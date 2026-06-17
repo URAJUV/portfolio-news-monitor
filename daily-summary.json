@@ -80,6 +80,41 @@
       "stock": "GOOGL",
       "headline": "Billionaire Dan Loeb is Buying This AI Data Center and Crypto Stock",
       "url": "https://finnhub.io/api/news?id=c27416f8091d09e4d6b5caec3e58bac67a656d96590200925be48918df024f16"
+    },
+    {
+      "stock": "MU",
+      "headline": "Wall Street Grows More Bullish on Micron Ahead of Earnings",
+      "url": "https://finnhub.io/api/news?id=12bcedec035e073227c2ae02d4962f608dc86f1af5e0213bb1be4d892edfa32e"
+    },
+    {
+      "stock": "TSM",
+      "headline": "EXCLUSIVE: Google And Meta May Have The Most To Lose In The AI‑Agent Era, Says Founder Who Rejected OpenAI",
+      "url": "https://finnhub.io/api/news?id=b93b8b64b265fd3825ec60c0d5d6acfab9a7b467dd118df7783b8d3a8f892d87"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Advances AI and Cloud Security Operations on AWS",
+      "url": "https://finnhub.io/api/news?id=a4ceb16298ae67a9d7ea5d1275145e278ec6decfd6add73d0d8c0643763ffa52"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Nvidia CEO Issues Urgent Warning on AI Power Demands",
+      "url": "https://finnhub.io/api/news?id=4d5cb52dfc7b8db2b21d69108c461fd7e53238614473a74338c9e1c16323ab7d"
+    },
+    {
+      "stock": "ARM",
+      "headline": "INTC, ARM, AMD Stocks Gain Today — Bernstein Supercharges AI Chip Bull Case",
+      "url": "https://finnhub.io/api/news?id=7a77da1b6aa7606ee8031aa8a65fb74166a313e1d1707d8589bed215957efd4a"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=e734e787c4df5d3cf8302aedf4c81bc1e4fd9794caf9a3ca0ca1943862d62fa9"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Uber Targets Houston Robotaxi Launch With Lucid, Nuro",
+      "url": "https://finnhub.io/api/news?id=ed253f4f3370c809602e09617f8b681930f8e60a515ab2f1395c4eb457a7bcc7"
     }
   ]
 }
