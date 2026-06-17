@@ -115,6 +115,26 @@
       "stock": "GOOGL",
       "headline": "Uber Targets Houston Robotaxi Launch With Lucid, Nuro",
       "url": "https://finnhub.io/api/news?id=ed253f4f3370c809602e09617f8b681930f8e60a515ab2f1395c4eb457a7bcc7"
+    },
+    {
+      "stock": "MU",
+      "headline": "Is Micron Stock's Record-Breaking Run A Cyclical Peak Or A New AI Reality?",
+      "url": "https://finnhub.io/api/news?id=dd51946ba24787e651e1287e389c3895e1d72e02f25e86fac7ec187dff2371fc"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Nvidia CEO Sees AI Reviving U.S. Manufacturing",
+      "url": "https://finnhub.io/api/news?id=0d448486d5dcea33aac5ae57fd490ec54b3116d3dd585eb1bcef613bf3676c90"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys Announces Availability of the First Wave of Multiphysics Fusion Solutions",
+      "url": "https://finnhub.io/api/news?id=e1574fd2159f78eaa754655c50fe18827213744c393cc735fceaf5b3d33ef279"
+    },
+    {
+      "stock": "ARM",
+      "headline": "AMD, Arm, Intel Get Price-Target Hikes On 'CPU Renaissance'",
+      "url": "https://finnhub.io/api/news?id=889fc6fdc19e3d4a83f0df9bc08414e0d06bcf80ae72fa8f97ee00058b2d67c3"
     }
   ]
 }
