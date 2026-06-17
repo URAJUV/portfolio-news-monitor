@@ -25,6 +25,31 @@
       "stock": "IBM",
       "headline": "IBM (IBM) Launches Big Replicate With Cirata To Tackle AI Data Bottlenecks",
       "url": "https://finnhub.io/api/news?id=90cc3597db02d439d5efe9a63469fa6f34a32101ae1eedbe1f6fe22aacb4edb8"
+    },
+    {
+      "stock": "MU",
+      "headline": "Nasdaq, S&P 500 Futures Gain Ahead Of Kevin Warsh’s First Fed Meeting: Why SPCX, ASTS, INTC, MU, SOFI, SMCI Are In Focus",
+      "url": "https://finnhub.io/api/news?id=d8fa6240c270662d2c0a5d3cb2c03d1e58d570897b2eeeaae88e13db83efc79d"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Atos joins CrowdStrike’s Project QuiltWorks to advance sovereign AI adoption and secure frontier AI risk",
+      "url": "https://finnhub.io/api/news?id=bcba406750219ef5fb4d752858a0fe0db403030e97d35ce5a14ee8bb0d375ffc"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent (COHR) Is Up 7.5% After CHIPS-Backed Texas AI Photonics Expansion - Has The Bull Case Changed?",
+      "url": "https://finnhub.io/api/news?id=7265fd5947813c25527829811612f0aef895d914f4b990e8ce85cecdbb021edc"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla (TSLA) Faces Senate Inquiry Over FSD Safety Claims In Europe Too",
+      "url": "https://finnhub.io/api/news?id=b425cb72eed682f83b72cc210939b8d239f2e7598f80dd892293b23224096900"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Europe frets about U.S. AI as tech world flocks to France for G7, VivaTech",
+      "url": "https://finnhub.io/api/news?id=9be18824288f89b32e642c368390066f6269d83c87d061565bcf0ed161239d60"
     }
   ]
 }
