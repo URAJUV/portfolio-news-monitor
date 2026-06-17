@@ -50,6 +50,36 @@
       "stock": "IBM",
       "headline": "Europe frets about U.S. AI as tech world flocks to France for G7, VivaTech",
       "url": "https://finnhub.io/api/news?id=9be18824288f89b32e642c368390066f6269d83c87d061565bcf0ed161239d60"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron shares climb as analysts raise targets on DRAM supply squeeze",
+      "url": "https://finnhub.io/api/news?id=4a1649dbf814425e09b7cbf313a6b3c2199f31332988394c666bdb30acb579f7"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent (COHR) Wins Up To $50 Million For Texas AI Chip Expansion",
+      "url": "https://finnhub.io/api/news?id=61abddedcc92bc2b249d9e5dd87109f2f1bb0e19241e0c41c2aa6ecd3571c51c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "SpaceX Heads Toward Fourth Day of Gains Since Record IPO",
+      "url": "https://finnhub.io/api/news?id=b2be2609424c17a6829142ac06bc5ee591880f902b177c569311a98b91183483"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings plc (ARM) Rallied Over Multiple Tailwinds",
+      "url": "https://finnhub.io/api/news?id=82ddb0c24bdc418b52a2d766160532b084d1f67ac4619b453964525c773ac5db"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Startling Statistics Find Nearly 7 out of 10 Executives Put Speed Ahead of AI Security",
+      "url": "https://finnhub.io/api/news?id=d2b6212b396985c3f44ed89b9f48839437ccf833a5090b36e9b5dc8183159de2"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Billionaire Dan Loeb is Buying This AI Data Center and Crypto Stock",
+      "url": "https://finnhub.io/api/news?id=c27416f8091d09e4d6b5caec3e58bac67a656d96590200925be48918df024f16"
     }
   ]
 }
