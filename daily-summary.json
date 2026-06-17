@@ -1,130 +1,30 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "items": [
     {
-      "stock": "CRWD",
-      "headline": "BB vs. CRWD: Which Cybersecurity Stock Is the Better Pick at Present?",
-      "url": "https://finnhub.io/api/news?id=540929a9714c02bedb9c1d36b5b09832c769073c0337481930aa8f5899812f69"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Halozyme Sees Little Royalty Impact From Medicare Drug Pricing Rule, Says CMS Proposal Should Not Hurt ENHANZE Partnerships",
-      "url": "https://finnhub.io/api/news?id=f841cb065a6e26a8a0b5ba3a8b5beb58f897fa6e1bbdbfcc489e7e0454b9204d"
-    },
-    {
-      "stock": "DE",
-      "headline": "The ‘right to repair’ movement has a point, but consumers should read the warranty fine print first",
-      "url": "https://finnhub.io/api/news?id=2cf2835ac32c092a474f97689747797e879f4f750ff58ea79f2e759a9c01ab23"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM (IBM) Stock Sinks As Market Gains: Here's Why",
-      "url": "https://finnhub.io/api/news?id=1ccb43a44a0caaad8fe253666241284a4d39da8431021eada208ec7d63e6d2f4"
+      "stock": "MU",
+      "headline": "Sandisk vs. Micron: Which AI Memory Stock Is the Better Buy After Their Monster Runs?",
+      "url": "https://finnhub.io/api/news?id=669594dd036dfa46555a25fb85cb761d84f563b0d307be33d22f71624687ff89"
     },
     {
       "stock": "TSM",
-      "headline": "Why SpaceX, Anthropic, And OpenAI IPOs Are A Red Flag For The Stock Market",
-      "url": "https://finnhub.io/api/news?id=1d58a2f60710591a835ec0296c4ddbbe0c74d58a3d9f7e7d4438a4a0ec0dffdb"
-    },
-    {
-      "stock": "ARM",
-      "headline": "SpaceX becomes retail's biggest IPO trade: Chart of the Day",
-      "url": "https://finnhub.io/api/news?id=ac92a52151e0437530f4d7127c67e7f46286fd31f4db6c9cd8e3265d30e0a302"
-    },
-    {
-      "stock": "HON",
-      "headline": "Stock Market Today: Dow Jumps 650 Points On U.S.-Iran Deal; AI Stock Tests Entry, Nvidia Pops (Live Coverage)",
-      "url": "https://finnhub.io/api/news?id=d48dd6b68e66bcc4391b328656315222b5c9444885a07d22953018265ffa5459"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM: Slow, Steady With Room For Multiple Expansion (Rating Upgrade)",
-      "url": "https://finnhub.io/api/news?id=4a947a81c2f9188cfe94fb4ed527d5d707eb5056f7527e107364fbc40d3fce29"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Cathie Wood Dumps Millions Worth Of Tesla, Palantir, Roku, AMD And More Even As TSLA Stock Pops On SpaceX Merger Buzz",
-      "url": "https://finnhub.io/api/news?id=ca094e068fef6a57746c34eb5a4d26a2646f6015efee790d795e287b3d87b945"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Can CrowdStrike's Next-Gen SIEM Sustain Its Strong Growth Momentum?",
-      "url": "https://finnhub.io/api/news?id=58d173bdb2da2349b27317dc3fff2167e4b174d402be9ef55725a260435b7187"
+      "headline": "Amkor And Taiwan Semiconductor Announce 10-Year Deal To Expand Semiconductor Packaging Capabilities In Arizona; Financial Terms Not Disclosed",
+      "url": "https://finnhub.io/api/news?id=35d4dd819ffcc2b740d76a3f24ebc61b5b5c4eb66516fa07de204f754672c9b1"
     },
     {
       "stock": "COHR",
-      "headline": "Nvidia's Huang pledges AI will boost manufacturing jobs. A test will come in Texas",
-      "url": "https://finnhub.io/api/news?id=d5fe00b50c43eae772ba4104c530f02f1eae2ccb862b19b9c3adbbcb85477501"
+      "headline": "Coherent Announces a CHIPS Letter of Intent for $50 Million to Expand World-Leading Manufacturing Facility for AI Infrastructure",
+      "url": "https://finnhub.io/api/news?id=1037aca8d400101bd84a7372b835f6545847223cc424fd8f954b9c435de8a225"
     },
     {
-      "stock": "TSLA",
-      "headline": "Paying 50x Earnings Can Still Be Cheap — If You Know This One Thing",
-      "url": "https://finnhub.io/api/news?id=b76644c566196d74038076402b78e107ca6a74713eacb1329cf8bbb83305b223"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Focus on 5 AI Behemoths Carving a Niche in the Server CPU Chip Market",
-      "url": "https://finnhub.io/api/news?id=a0163c6cde52a478890f4c59822fc25b806e1e4dc9a25eb709c3e2ffbc4cf1ed"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Sony: The Market Is Mispricing Its Entertainment Transformation",
-      "url": "https://finnhub.io/api/news?id=17fb0030050d0e2c4ddbe562a6c4dec12c87da9f9dc641babceb11e9edc4bf9d"
+      "stock": "UBER",
+      "headline": "Uber, Lyft use AI to charge riders more, CR says",
+      "url": "https://finnhub.io/api/news?id=c1ef52a799188064cd889d0101e48e8e0c052a2cc1be5982df1b7d479357fe69"
     },
     {
       "stock": "IBM",
-      "headline": "IBM (IBM) Stock Could Be 22.4% Below Fair Value as AI Narrative Builds",
-      "url": "https://finnhub.io/api/news?id=2b31656d231f81e1b17bfaea922da88bce772a5cc9ffa2fe5b2a39a19919c1bf"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Nvidia Latest Big Borrower: AI Data Centers, Suppliers Racking Up Debt",
-      "url": "https://finnhub.io/api/news?id=7bc0c8487d248951cd7e98a5e090cdeb223f8cddb69dcc38a00c3744c02f441d"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Five International Dividend Growers Your Screen Is Distorting",
-      "url": "https://finnhub.io/api/news?id=d6422e235d93ef1eb86c7873432d9fae648b56cd421aab1d6290f0e37049fc45"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=6f252dcad088530ad3d30138a420d607aaa0775ce998d48f9a4233bfffdd18f5"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell Targets Hotels With Cloud Platform",
-      "url": "https://finnhub.io/api/news?id=4419e2279b532e72cb8ac9f344b2d01e9ca550b91bf07db4182d6bf89ae282de"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=6f252dcad088530ad3d30138a420d607aaa0775ce998d48f9a4233bfffdd18f5"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor VP Makes $75K Stock Purchase",
-      "url": "https://finnhub.io/api/news?id=62b6650d6722cc58aeeb7f68f290f93d08c8ce14cebd24f442802ded8f1468aa"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) Wins Grant Thornton Role And Launches AI Agent Identity Tool",
-      "url": "https://finnhub.io/api/news?id=61e5efa2dd51f7c27fd48fbc06de0596dd405556897cd5b69d0fc09c4c48a228"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Market Chatter: Amazon.com Faces Potential FTC Ad Practices Lawsuit, Billions in Possible Penalties",
-      "url": "https://finnhub.io/api/news?id=0b7533f8b8b7f4609985b97917a1c13295c358ff3bfc299021d9ba057eb80151"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Dow Jones Hits High, SpaceX Keeps Rising, But AI Stocks Skid; Warsh's Fed Debut On Tap",
-      "url": "https://finnhub.io/api/news?id=faf68de9b828a02cf5a77a30b9624896203e0c1d16e7c7a7174f03475ed3f7f6"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Stock Market Today, June 16: Netflix Falls After Missing Out on Another Media Acquisition",
-      "url": "https://finnhub.io/api/news?id=aa61aa1cf55b43c18038342ff243e14ebbabdb6f0011b51361c37006bc428792"
+      "headline": "IBM (IBM) Launches Big Replicate With Cirata To Tackle AI Data Bottlenecks",
+      "url": "https://finnhub.io/api/news?id=90cc3597db02d439d5efe9a63469fa6f34a32101ae1eedbe1f6fe22aacb4edb8"
     }
   ]
 }
