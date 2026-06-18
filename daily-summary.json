@@ -20,6 +20,16 @@
       "stock": "GOOGL",
       "headline": "NETLIST EXPANDS LEGAL ACTION AGAINST SAMSUNG AND GOOGLE FOR INFRINGEMENT OF NEW AI MEMORY PATENTS",
       "url": "https://finnhub.io/api/news?id=0fb28d1cf4ba3f5c8f2182565a6219b2374973709879d553ee51e9a6438d1e4f"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor: Not Expensive When You Run The Numbers On AI Demand",
+      "url": "https://finnhub.io/api/news?id=6089d6906338fa312fa91408e740c75698c869a69c0a171c5735f7945e659cce"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Is ServiceNow (NOW) Quietly Becoming the Core Orchestrator of Enterprise AI Governance?",
+      "url": "https://finnhub.io/api/news?id=a75ab39da28c2a214f3363a3b7c024622602693e974675b973969042a39c9fa1"
     }
   ]
 }
