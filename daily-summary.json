@@ -40,6 +40,21 @@
       "stock": "NFLX",
       "headline": "NFLX Stock Gains — Netflix Seals Exclusive TV Partnership With Ryan Coogler’s Proximity Media",
       "url": "https://finnhub.io/api/news?id=ea90bd689f15d309baeeac915eb1c7f673c607f718580b2eff56c0035016bea0"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike, AWS race to fix AI security blind spot",
+      "url": "https://finnhub.io/api/news?id=51dec120ea3709b7fc40fb237483b09fdbd26a707e0f8b0605086243b9bd32e9"
+    },
+    {
+      "stock": "DE",
+      "headline": "Deere Files Shelf Prospectus For Offering Of Securities; No Terms Disclosed",
+      "url": "https://finnhub.io/api/news?id=1c5389e0b09440335d3168bef8402de0b2965b571da742842292b2eb1393568a"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "BNP Paribas Initiates Coverage On Autodesk with Outperform Rating, Announces Price Target of $295",
+      "url": "https://finnhub.io/api/news?id=e4aa42bf9477f93c3e31836309a42cbd5ff7e245d6430a8bf70b5a482d10f0e4"
     }
   ]
 }
