@@ -1,4 +1,45 @@
 {
   "date": "2026-06-18",
-  "items": []
+  "items": [
+    {
+      "stock": "MU",
+      "headline": "Sector Update: Tech Stocks Climb Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=b980d5dc805a24d44e1845d04b16eb1dd3d657ff5c6f483db0e3053087dc48c7"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Got $1,000? 1 Unstoppable Cybersecurity Pioneer to Buy Hand Over Fist and Never Sell",
+      "url": "https://finnhub.io/api/news?id=15d8adac505836ae9cf64440227aff5d355d591b4b75d10aad4f5eb7d34de82a"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Sector Update: Tech Stocks Climb Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=b980d5dc805a24d44e1845d04b16eb1dd3d657ff5c6f483db0e3053087dc48c7"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Nvidia Supply Chain Gets A Boost As Coherent Expands Texas AI Manufacturing Facility",
+      "url": "https://finnhub.io/api/news?id=6e892635fac291a117d27509cd69d65329db21e7ac3aadb553578fe16a25a8e9"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Some Call SpaceX A Meme Stock. PitchBook Sees An AI Infrastructure Boom.",
+      "url": "https://finnhub.io/api/news?id=fa6eb673df21794b8e1105968a4096efd555c3f6a7ac9272b443ae6f31e64d91"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Why Is D-Wave Quantum Stock Gaining Thursday?",
+      "url": "https://finnhub.io/api/news?id=64389f58263d73a25ffe0592f2a17b533fcbe78f2cf858dc5b397fb232f6ef02"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian: Growing 30% Amidst The SaaSpocalypse (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=89385ed9705a292fab0d754d5c2a7a07ff569f7d9f42e7ac2fc91ce72ab2d87b"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "NFLX Stock Gains — Netflix Seals Exclusive TV Partnership With Ryan Coogler’s Proximity Media",
+      "url": "https://finnhub.io/api/news?id=ea90bd689f15d309baeeac915eb1c7f673c607f718580b2eff56c0035016bea0"
+    }
+  ]
 }
