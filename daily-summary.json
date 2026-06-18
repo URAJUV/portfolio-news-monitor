@@ -1,140 +1,25 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "items": [
     {
       "stock": "MU",
-      "headline": "Sandisk vs. Micron: Which AI Memory Stock Is the Better Buy After Their Monster Runs?",
-      "url": "https://finnhub.io/api/news?id=669594dd036dfa46555a25fb85cb761d84f563b0d307be33d22f71624687ff89"
+      "headline": "Micron Technology (MU) Price Target Lifted by $675 at RBC Capital. Here is Why",
+      "url": "https://finnhub.io/api/news?id=517a2c82e99a407060b22152ea9536dbc49e164c8e68f9b2fb835b5967c14d91"
     },
     {
-      "stock": "TSM",
-      "headline": "Amkor And Taiwan Semiconductor Announce 10-Year Deal To Expand Semiconductor Packaging Capabilities In Arizona; Financial Terms Not Disclosed",
-      "url": "https://finnhub.io/api/news?id=35d4dd819ffcc2b740d76a3f24ebc61b5b5c4eb66516fa07de204f754672c9b1"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent Announces a CHIPS Letter of Intent for $50 Million to Expand World-Leading Manufacturing Facility for AI Infrastructure",
-      "url": "https://finnhub.io/api/news?id=1037aca8d400101bd84a7372b835f6545847223cc424fd8f954b9c435de8a225"
+      "stock": "ARM",
+      "headline": "Arm (ARM) Launches Neural Dawn To Show How It Wants In On Mobile AI Gaming",
+      "url": "https://finnhub.io/api/news?id=2d6419c6cbfcde1976fb641d290bd2a5a87d913bb7cfb582f75b6b85d86dc77c"
     },
     {
       "stock": "UBER",
-      "headline": "Uber, Lyft use AI to charge riders more, CR says",
-      "url": "https://finnhub.io/api/news?id=c1ef52a799188064cd889d0101e48e8e0c052a2cc1be5982df1b7d479357fe69"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM (IBM) Launches Big Replicate With Cirata To Tackle AI Data Bottlenecks",
-      "url": "https://finnhub.io/api/news?id=90cc3597db02d439d5efe9a63469fa6f34a32101ae1eedbe1f6fe22aacb4edb8"
-    },
-    {
-      "stock": "MU",
-      "headline": "Nasdaq, S&P 500 Futures Gain Ahead Of Kevin Warsh’s First Fed Meeting: Why SPCX, ASTS, INTC, MU, SOFI, SMCI Are In Focus",
-      "url": "https://finnhub.io/api/news?id=d8fa6240c270662d2c0a5d3cb2c03d1e58d570897b2eeeaae88e13db83efc79d"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Atos joins CrowdStrike’s Project QuiltWorks to advance sovereign AI adoption and secure frontier AI risk",
-      "url": "https://finnhub.io/api/news?id=bcba406750219ef5fb4d752858a0fe0db403030e97d35ce5a14ee8bb0d375ffc"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent (COHR) Is Up 7.5% After CHIPS-Backed Texas AI Photonics Expansion - Has The Bull Case Changed?",
-      "url": "https://finnhub.io/api/news?id=7265fd5947813c25527829811612f0aef895d914f4b990e8ce85cecdbb021edc"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla (TSLA) Faces Senate Inquiry Over FSD Safety Claims In Europe Too",
-      "url": "https://finnhub.io/api/news?id=b425cb72eed682f83b72cc210939b8d239f2e7598f80dd892293b23224096900"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Europe frets about U.S. AI as tech world flocks to France for G7, VivaTech",
-      "url": "https://finnhub.io/api/news?id=9be18824288f89b32e642c368390066f6269d83c87d061565bcf0ed161239d60"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron shares climb as analysts raise targets on DRAM supply squeeze",
-      "url": "https://finnhub.io/api/news?id=4a1649dbf814425e09b7cbf313a6b3c2199f31332988394c666bdb30acb579f7"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent (COHR) Wins Up To $50 Million For Texas AI Chip Expansion",
-      "url": "https://finnhub.io/api/news?id=61abddedcc92bc2b249d9e5dd87109f2f1bb0e19241e0c41c2aa6ecd3571c51c"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "SpaceX Heads Toward Fourth Day of Gains Since Record IPO",
-      "url": "https://finnhub.io/api/news?id=b2be2609424c17a6829142ac06bc5ee591880f902b177c569311a98b91183483"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings plc (ARM) Rallied Over Multiple Tailwinds",
-      "url": "https://finnhub.io/api/news?id=82ddb0c24bdc418b52a2d766160532b084d1f67ac4619b453964525c773ac5db"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Startling Statistics Find Nearly 7 out of 10 Executives Put Speed Ahead of AI Security",
-      "url": "https://finnhub.io/api/news?id=d2b6212b396985c3f44ed89b9f48839437ccf833a5090b36e9b5dc8183159de2"
+      "headline": "Tiny's Metalab Ventures Celebrates Early Investment in xAI, Now Part of Newly Public SpaceX (SPCX)",
+      "url": "https://finnhub.io/api/news?id=c226d8d7c439e8ab18edcde845450c83727d46c4ab6e1547ea02ff270d169155"
     },
     {
       "stock": "GOOGL",
-      "headline": "Billionaire Dan Loeb is Buying This AI Data Center and Crypto Stock",
-      "url": "https://finnhub.io/api/news?id=c27416f8091d09e4d6b5caec3e58bac67a656d96590200925be48918df024f16"
-    },
-    {
-      "stock": "MU",
-      "headline": "Wall Street Grows More Bullish on Micron Ahead of Earnings",
-      "url": "https://finnhub.io/api/news?id=12bcedec035e073227c2ae02d4962f608dc86f1af5e0213bb1be4d892edfa32e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "EXCLUSIVE: Google And Meta May Have The Most To Lose In The AI‑Agent Era, Says Founder Who Rejected OpenAI",
-      "url": "https://finnhub.io/api/news?id=b93b8b64b265fd3825ec60c0d5d6acfab9a7b467dd118df7783b8d3a8f892d87"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Advances AI and Cloud Security Operations on AWS",
-      "url": "https://finnhub.io/api/news?id=a4ceb16298ae67a9d7ea5d1275145e278ec6decfd6add73d0d8c0643763ffa52"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Nvidia CEO Issues Urgent Warning on AI Power Demands",
-      "url": "https://finnhub.io/api/news?id=4d5cb52dfc7b8db2b21d69108c461fd7e53238614473a74338c9e1c16323ab7d"
-    },
-    {
-      "stock": "ARM",
-      "headline": "INTC, ARM, AMD Stocks Gain Today — Bernstein Supercharges AI Chip Bull Case",
-      "url": "https://finnhub.io/api/news?id=7a77da1b6aa7606ee8031aa8a65fb74166a313e1d1707d8589bed215957efd4a"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=e734e787c4df5d3cf8302aedf4c81bc1e4fd9794caf9a3ca0ca1943862d62fa9"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Uber Targets Houston Robotaxi Launch With Lucid, Nuro",
-      "url": "https://finnhub.io/api/news?id=ed253f4f3370c809602e09617f8b681930f8e60a515ab2f1395c4eb457a7bcc7"
-    },
-    {
-      "stock": "MU",
-      "headline": "Is Micron Stock's Record-Breaking Run A Cyclical Peak Or A New AI Reality?",
-      "url": "https://finnhub.io/api/news?id=dd51946ba24787e651e1287e389c3895e1d72e02f25e86fac7ec187dff2371fc"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Nvidia CEO Sees AI Reviving U.S. Manufacturing",
-      "url": "https://finnhub.io/api/news?id=0d448486d5dcea33aac5ae57fd490ec54b3116d3dd585eb1bcef613bf3676c90"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys Announces Availability of the First Wave of Multiphysics Fusion Solutions",
-      "url": "https://finnhub.io/api/news?id=e1574fd2159f78eaa754655c50fe18827213744c393cc735fceaf5b3d33ef279"
-    },
-    {
-      "stock": "ARM",
-      "headline": "AMD, Arm, Intel Get Price-Target Hikes On 'CPU Renaissance'",
-      "url": "https://finnhub.io/api/news?id=889fc6fdc19e3d4a83f0df9bc08414e0d06bcf80ae72fa8f97ee00058b2d67c3"
+      "headline": "NETLIST EXPANDS LEGAL ACTION AGAINST SAMSUNG AND GOOGLE FOR INFRINGEMENT OF NEW AI MEMORY PATENTS",
+      "url": "https://finnhub.io/api/news?id=0fb28d1cf4ba3f5c8f2182565a6219b2374973709879d553ee51e9a6438d1e4f"
     }
   ]
 }
