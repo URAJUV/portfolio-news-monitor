@@ -40,6 +40,16 @@
       "stock": "RDDT",
       "headline": "Reddit: The Market Is Sleeping On Its True Earnings Power",
       "url": "https://finnhub.io/api/news?id=ead60d2b01e693d90a27899f2dab8a6294c0fd9329e1a0ffcf2c8de22b7c958e"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Rivian's CEO Is Taking On Elon Musk In Humanoid Robots",
+      "url": "https://finnhub.io/api/news?id=f09f7782cbfc65838ca822c7df4366ad69fdb8bbfab712e14c7b38e725cbb02c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "SpaceX stock joins AI bond frenzy",
+      "url": "https://finnhub.io/api/news?id=773da44d54d110b7ad818a794c8785dffed431b9d33af9d031297108d324ddd3"
     }
   ]
 }
