@@ -1,30 +1,4 @@
 {
   "date": "2026-06-19",
-  "items": [
-    {
-      "stock": "CRWD",
-      "headline": "Software Is Under Pressure Again- Key Levels I'm Watching",
-      "url": "https://finnhub.io/api/news?id=ff81079f5e9ae337951550629b58cf8065dc89347757435bd6acddaeb758e8eb"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Goldman Sachs Just Upgraded Its Tesla EV Delivery Forecast: Here's What Really Matters",
-      "url": "https://finnhub.io/api/news?id=c0b8969c0285ede0a46be0687c1f67fdb0cab199872cab239bf4d0cb313337cc"
-    },
-    {
-      "stock": "TSM",
-      "headline": "TSM - Taiwan Semiconductor (NYSE:TSM) Passes High Growth Momentum and Trend Template Screen Near 52-Week High",
-      "url": "https://finnhub.io/api/news?id=877d71eca0f2fa5b5b21224e5078cdcd0e8086ecd8c9b93533051393c840b3ea"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "SpaceX (SPCX) Is Up 14.9% After Record IPO And $60 Billion Cursor AI Deal - What's Changed",
-      "url": "https://finnhub.io/api/news?id=a85efb8e51f69fec6c78f611f25301cb8783ae11e5075a531e4eb9931d30930e"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix (NFLX) Secures Ryan Coogler TV Deal For Exclusive New Series",
-      "url": "https://finnhub.io/api/news?id=f952a6538837a7dc0110de4fb9402c6c184c47635bf4847991f0e5f3d7b50ba5"
-    }
-  ]
+  "items": []
 }
