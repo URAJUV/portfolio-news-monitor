@@ -55,6 +55,21 @@
       "stock": "GOOGL",
       "headline": "Google Losing Top AI Executive Is ‘The Most Significant AI Talent Move of the Year.’ Is It Time to Sell Alphabet Stock?",
       "url": "https://finnhub.io/api/news?id=5bbb5d41c0de20be489761f7c10056b6d3029fdc1f68602e147d64a8f841a9e6"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron, FedEx Set To Headline Earnings Next Week",
+      "url": "https://finnhub.io/api/news?id=06c6f9361b3967de1d4ab2912a69abb097ab86d649d79a7cb92b70968e3c84fb"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Prediction: The SpaceX Lockup Period Will Be an Absolute Train Wreck for Retail Investors",
+      "url": "https://finnhub.io/api/news?id=a7ef817b339d4352e4321c6c6aab7a7716822b566cb6bc256da7bdda0ef0e2cf"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix, Inc. (NFLX) Still One of the Best Falling Stocks to Buy despite Roku and Warner Bros Acquisition Blows",
+      "url": "https://finnhub.io/api/news?id=30ca841c91f291e71e2428c47870d3d24ed3730364a7db6b4256e6b61756014e"
     }
   ]
 }
