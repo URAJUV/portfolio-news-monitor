@@ -70,6 +70,16 @@
       "stock": "NFLX",
       "headline": "Netflix, Inc. (NFLX) Still One of the Best Falling Stocks to Buy despite Roku and Warner Bros Acquisition Blows",
       "url": "https://finnhub.io/api/news?id=30ca841c91f291e71e2428c47870d3d24ed3730364a7db6b4256e6b61756014e"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Why Bernstein Just Raised Its Price Target on Arm Stock by Nearly 70%",
+      "url": "https://finnhub.io/api/news?id=7873f1ebbaa4d4d339dc9a087e85d468627ff2c4ce7942a360bbdcb70df19b4e"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Sezzle (SEZL) Among The Tech Stocks To Sell According To Billionaires",
+      "url": "https://finnhub.io/api/news?id=5e66fe7ebecd022e5ebba0d10a5a0b77cfaa0da3e58edb45bfedff3021557495"
     }
   ]
 }
