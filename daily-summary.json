@@ -1,55 +1,20 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Micron Faces a Big Earnings Test",
-      "url": "https://finnhub.io/api/news?id=6c7d8cc4b90df75634d4b25403a503f0fafe034047a8793d6b2bd88fecb7f8c3"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "The Bull Case For CrowdStrike (CRWD) Could Change Following New AWS-Powered AI Security Push – Learn Why",
-      "url": "https://finnhub.io/api/news?id=39217380c638a8ac24206155f27bab1d51d3eb8b5e00520b25e07028a4f71f13"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Google Takes On Nvidia With Bold New AI Chip Strategy",
-      "url": "https://finnhub.io/api/news?id=ee1a80dcf558660694fe9bdf7a1fed36abffa25adb54b1bb127e27b0794ea7d7"
-    },
-    {
-      "stock": "COHR",
-      "headline": "China tightens indium export checks as AI demand increases",
-      "url": "https://finnhub.io/api/news?id=1bca6f3464e9768f662591c260ea6fd41d1d0616ed2dc0439cfd8364cea0d918"
-    },
-    {
-      "stock": "ARM",
-      "headline": "New Street Research Downgrades ARM Holdings to Neutral",
-      "url": "https://finnhub.io/api/news?id=26c0f911dc5b9236628e803fc23630551fe905d6a5d73bd20401ba3e6ed168b0"
+      "stock": "TSLA",
+      "headline": "Bernie Sanders vs. Elon Musk: Would Taxing the Rich Actually Save Social Security?",
+      "url": "https://finnhub.io/api/news?id=d9b32ab7fa1736d3ecd553aa627ccd1dc4b9afabd0957485e33e1f269e2d3e03"
     },
     {
       "stock": "UBER",
-      "headline": "Lyft Inc. (LYFT) Prepares for Baidu’s AV London Road Testing",
-      "url": "https://finnhub.io/api/news?id=b7814d9a6c524c4a023c65cde2f7da4f38b44c1c679aa874474903515a1a79e0"
+      "headline": "DoorDash (DASH) Launches AI-Powered Chatbot to Streamline Ordering and Reservations",
+      "url": "https://finnhub.io/api/news?id=43dfa6d6aed902e39dced83ec214ed501808bb15e9c16397e8c783fc103b2c64"
     },
     {
       "stock": "GOOGL",
-      "headline": "Google Takes On Nvidia With Bold New AI Chip Strategy",
-      "url": "https://finnhub.io/api/news?id=ee1a80dcf558660694fe9bdf7a1fed36abffa25adb54b1bb127e27b0794ea7d7"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit: The Market Is Sleeping On Its True Earnings Power",
-      "url": "https://finnhub.io/api/news?id=ead60d2b01e693d90a27899f2dab8a6294c0fd9329e1a0ffcf2c8de22b7c958e"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Rivian's CEO Is Taking On Elon Musk In Humanoid Robots",
-      "url": "https://finnhub.io/api/news?id=f09f7782cbfc65838ca822c7df4366ad69fdb8bbfab712e14c7b38e725cbb02c"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "SpaceX stock joins AI bond frenzy",
-      "url": "https://finnhub.io/api/news?id=773da44d54d110b7ad818a794c8785dffed431b9d33af9d031297108d324ddd3"
+      "headline": "Alphabet: Why I Am Diluting My Largest Position (Rating Downgrade)",
+      "url": "https://finnhub.io/api/news?id=a9c7d4e201207747df0957804b18840df93d4ae13bf3c0b8cfbb7b4603eea6d6"
     }
   ]
 }
