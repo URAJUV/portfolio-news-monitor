@@ -35,6 +35,26 @@
       "stock": "NFLX",
       "headline": "Netflix faces fresh trouble from new lawsuit",
       "url": "https://finnhub.io/api/news?id=f710594fe141d4ff21d163f7808ab39fe59e0de6bee2ea50516c651d65acca22"
+    },
+    {
+      "stock": "MU",
+      "headline": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
+      "url": "https://finnhub.io/api/news?id=b9528065c2716b361d6f7d2ca989d07822773d4ec7a7c490e978891bd896b52d"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Energy Expert: Electric Vehicles Are the ‘Keystone Species’ of the Next Megatrend. Will Tesla’s Stock See Massive Gains?",
+      "url": "https://finnhub.io/api/news?id=7195170147f7601c728b0821c7feebc2dd9e24d0c5e7085ce9143d4000849e51"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "MaintainX Acquisition to Bolster Autodesk, Inc. (ADSK) Prospects as One of the Best  Falling Stocks to Invest In",
+      "url": "https://finnhub.io/api/news?id=210e10fb2e45d3e30244c468f49cd4c9968f58569d65aedf857c45901d1a474b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google Losing Top AI Executive Is ‘The Most Significant AI Talent Move of the Year.’ Is It Time to Sell Alphabet Stock?",
+      "url": "https://finnhub.io/api/news?id=5bbb5d41c0de20be489761f7c10056b6d3029fdc1f68602e147d64a8f841a9e6"
     }
   ]
 }
