@@ -20,6 +20,16 @@
       "stock": "GOOGL",
       "headline": "Who needs rate cuts? Even the Fed’s new chair admits companies are easily raising capital on financial markets amid epic stock and debt binge",
       "url": "https://finnhub.io/api/news?id=9497e343f61334a7c656daf604f29103d61f58d4343a6c50baf318b2e52d239b"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC: The Buying Opportunity Is Finally Flashing (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=0ad4ce0b85a22cc899bf31fa842314b3c6ff6de05fe9a2e7eb585ff42810853a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Apple’s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
+      "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838"
     }
   ]
 }
