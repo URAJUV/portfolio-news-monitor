@@ -5,6 +5,21 @@
       "stock": "AMZN",
       "headline": "Amazon quietly building a moat to outlast the AI boom",
       "url": "https://finnhub.io/api/news?id=63c104f5b8ef2f383a1e0abd64516b25c334700c9f206220cd5a163e13df6f4a"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Nvidia, Oracle, and Now SpaceX Are Borrowing Billions Amid the AI Boom. Is This a Warning Sign?",
+      "url": "https://finnhub.io/api/news?id=a4c85abb42268e834d1eaf869f1bb6653a7978b6132dc80928583a4fab40c38d"
+    },
+    {
+      "stock": "IBM",
+      "headline": "The Next Hot Quantum Stock Is an AI Data-Center Play, Too",
+      "url": "https://finnhub.io/api/news?id=83b00fa6fc7f88b541f861bf188d54ccd6811aa38bb58a237735a71d5bf10b7c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Who needs rate cuts? Even the Fed’s new chair admits companies are easily raising capital on financial markets amid epic stock and debt binge",
+      "url": "https://finnhub.io/api/news?id=9497e343f61334a7c656daf604f29103d61f58d4343a6c50baf318b2e52d239b"
     }
   ]
 }
