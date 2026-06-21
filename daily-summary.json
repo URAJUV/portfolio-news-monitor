@@ -1,85 +1,10 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "items": [
     {
-      "stock": "TSLA",
-      "headline": "Bernie Sanders vs. Elon Musk: Would Taxing the Rich Actually Save Social Security?",
-      "url": "https://finnhub.io/api/news?id=d9b32ab7fa1736d3ecd553aa627ccd1dc4b9afabd0957485e33e1f269e2d3e03"
-    },
-    {
-      "stock": "UBER",
-      "headline": "DoorDash (DASH) Launches AI-Powered Chatbot to Streamline Ordering and Reservations",
-      "url": "https://finnhub.io/api/news?id=43dfa6d6aed902e39dced83ec214ed501808bb15e9c16397e8c783fc103b2c64"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet: Why I Am Diluting My Largest Position (Rating Downgrade)",
-      "url": "https://finnhub.io/api/news?id=a9c7d4e201207747df0957804b18840df93d4ae13bf3c0b8cfbb7b4603eea6d6"
-    },
-    {
       "stock": "AMZN",
-      "headline": "Former Connecticut Attorney General George Jepsen: Paramount-WBD Could Strengthen Hollywood Against Big Tech",
-      "url": "https://finnhub.io/api/news?id=7c49730362a60fde1cda9e1392c1c41acd78ecffdfda9e59d94bf318778b4ca3"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Former Connecticut Attorney General George Jepsen: Paramount-WBD Could Strengthen Hollywood Against Big Tech",
-      "url": "https://finnhub.io/api/news?id=7c49730362a60fde1cda9e1392c1c41acd78ecffdfda9e59d94bf318778b4ca3"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Cybersecurity Stocks Face Defining Earnings Catalyst as Okta and Zscaler Diverge",
-      "url": "https://finnhub.io/api/news?id=5c762a2e9b52fa84fcac68344710bbbcdf7e5a773297939e389ee01635782d50"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix faces fresh trouble from new lawsuit",
-      "url": "https://finnhub.io/api/news?id=f710594fe141d4ff21d163f7808ab39fe59e0de6bee2ea50516c651d65acca22"
-    },
-    {
-      "stock": "MU",
-      "headline": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
-      "url": "https://finnhub.io/api/news?id=b9528065c2716b361d6f7d2ca989d07822773d4ec7a7c490e978891bd896b52d"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Energy Expert: Electric Vehicles Are the ‘Keystone Species’ of the Next Megatrend. Will Tesla’s Stock See Massive Gains?",
-      "url": "https://finnhub.io/api/news?id=7195170147f7601c728b0821c7feebc2dd9e24d0c5e7085ce9143d4000849e51"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "MaintainX Acquisition to Bolster Autodesk, Inc. (ADSK) Prospects as One of the Best  Falling Stocks to Invest In",
-      "url": "https://finnhub.io/api/news?id=210e10fb2e45d3e30244c468f49cd4c9968f58569d65aedf857c45901d1a474b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Google Losing Top AI Executive Is ‘The Most Significant AI Talent Move of the Year.’ Is It Time to Sell Alphabet Stock?",
-      "url": "https://finnhub.io/api/news?id=5bbb5d41c0de20be489761f7c10056b6d3029fdc1f68602e147d64a8f841a9e6"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron, FedEx Set To Headline Earnings Next Week",
-      "url": "https://finnhub.io/api/news?id=06c6f9361b3967de1d4ab2912a69abb097ab86d649d79a7cb92b70968e3c84fb"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Prediction: The SpaceX Lockup Period Will Be an Absolute Train Wreck for Retail Investors",
-      "url": "https://finnhub.io/api/news?id=a7ef817b339d4352e4321c6c6aab7a7716822b566cb6bc256da7bdda0ef0e2cf"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix, Inc. (NFLX) Still One of the Best Falling Stocks to Buy despite Roku and Warner Bros Acquisition Blows",
-      "url": "https://finnhub.io/api/news?id=30ca841c91f291e71e2428c47870d3d24ed3730364a7db6b4256e6b61756014e"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Why Bernstein Just Raised Its Price Target on Arm Stock by Nearly 70%",
-      "url": "https://finnhub.io/api/news?id=7873f1ebbaa4d4d339dc9a087e85d468627ff2c4ce7942a360bbdcb70df19b4e"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Sezzle (SEZL) Among The Tech Stocks To Sell According To Billionaires",
-      "url": "https://finnhub.io/api/news?id=5e66fe7ebecd022e5ebba0d10a5a0b77cfaa0da3e58edb45bfedff3021557495"
+      "headline": "Amazon quietly building a moat to outlast the AI boom",
+      "url": "https://finnhub.io/api/news?id=63c104f5b8ef2f383a1e0abd64516b25c334700c9f206220cd5a163e13df6f4a"
     }
   ]
 }
