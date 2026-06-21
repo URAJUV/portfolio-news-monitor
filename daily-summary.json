@@ -30,6 +30,16 @@
       "stock": "GOOGL",
       "headline": "Apple’s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
       "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
+      "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Forget Ads: Alphabet’s CEO Says This Is Now the Biggest Growth Driver",
+      "url": "https://finnhub.io/api/news?id=619dadbbea4fff68530bc9c7583eb922bf0d497ce276d886bf2471e17cc0c738"
     }
   ]
 }
