@@ -70,6 +70,16 @@
       "stock": "NFLX",
       "headline": "Netflix Finally Makes an Acquisition That Wall Street Actually Likes",
       "url": "https://finnhub.io/api/news?id=03c1125565b3a3e5c0e24dd0c41bc5f52c97f11eece6452534d98bc1be7d3bf0"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
+      "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
+      "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c"
     }
   ]
 }
