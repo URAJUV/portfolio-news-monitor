@@ -110,6 +110,36 @@
       "stock": "NFLX",
       "headline": "After Missing Out on Roku, Netflix Claims It Won't Buy Lionsgate. Here's Why the Market Hates That Answer.",
       "url": "https://finnhub.io/api/news?id=1833e62d8d46e2c952a227e04f88537c516931a37c4573fcea6a8e20bb49db90"
+    },
+    {
+      "stock": "MU",
+      "headline": "Stock Market Today, June 22: Alphabet Slips on Key Departure and Defensive Blue Chips Gain",
+      "url": "https://finnhub.io/api/news?id=be57388daf95d110b3b69409c3d4164c362c3d00d89baaafe500c8936bb5968b"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike vs. Zscaler: Which Cybersecurity Stock Has an Edge?",
+      "url": "https://finnhub.io/api/news?id=d407f8a129547cc406ffcd70aa4d601f5ccbf7ac675f9c615f63f4843ef42ac2"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Michael Burry Unlocks Research For Father's Day, Says AI Will Create Software Winners And Losers: Here Are The Stocks He Highlighted",
+      "url": "https://finnhub.io/api/news?id=8223e18830122d7c60b060a89d2d22e5069d197fa30084bf726a326ca952f3f2"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Consumer Watchdog: Uber-Consumer Attorney Deal Strikes Fair Balance",
+      "url": "https://finnhub.io/api/news?id=2463eaef11cbfbc6e0672a544e42fe9de44c8548eec5594580687b1840d40245"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Michael Burry Unlocks Research For Father's Day, Says AI Will Create Software Winners And Losers: Here Are The Stocks He Highlighted",
+      "url": "https://finnhub.io/api/news?id=8223e18830122d7c60b060a89d2d22e5069d197fa30084bf726a326ca952f3f2"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google's $75M stake in A24 follows a 50% funding increase in AI content creation startups",
+      "url": "https://finnhub.io/api/news?id=82e331903739c156b28650caae32be74467cd80ddc6a7365691964a8476f7cc6"
     }
   ]
 }
