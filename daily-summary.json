@@ -25,6 +25,16 @@
       "stock": "RDDT",
       "headline": "3 Stocks To Play The AI And Data Center Boom",
       "url": "https://finnhub.io/api/news?id=0c7be6ef288726423c7b530e1af50302a423f956fc4179cc4068361023baddb9"
+    },
+    {
+      "stock": "MU",
+      "headline": "US Equity Investors to Watch Out for Micron Technology's Earnings, PCE Inflation, Iran Peace Talks This Week",
+      "url": "https://finnhub.io/api/news?id=119e9a4043c8ea213fed3d68edae0fa80dc6773de7f1987f5ed85dce4efab914"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix (NFLX) Expands Video Podcast Partnership with iHeartMedia",
+      "url": "https://finnhub.io/api/news?id=4e4b5eabc5904f459a1f5490ae2f988ed51398822ec406d90725f6489c511430"
     }
   ]
 }
