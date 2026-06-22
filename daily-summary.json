@@ -70,6 +70,46 @@
       "stock": "GOOGL",
       "headline": "Alphabet slides over 6% as AI brain drain and SpaceX slump converge",
       "url": "https://finnhub.io/api/news?id=64baa9d6dbc8e5b3358da81f66906ef3b349f3b5ff388d081bdc544c9cbad311"
+    },
+    {
+      "stock": "TSM",
+      "headline": "What's Going On With Taiwan Semiconductor Stock Monday?",
+      "url": "https://finnhub.io/api/news?id=d255971554e653bcad83641836b931d417563035b96d89ce0b7128eb1118cbce"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Monday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=ebc9b2b902d4d057f0b7586981632024e503d45a65eef814196e69484a8477d2"
+    },
+    {
+      "stock": "ARM",
+      "headline": "The Billionaire Who Called the 2008 Bubble Just Dumped Google to Buy These 5 AI Hardware Stocks",
+      "url": "https://finnhub.io/api/news?id=d28a5550017c2baaecdcb9a0bb37131dfa10348caf4afff89cbb14ec05c262dd"
+    },
+    {
+      "stock": "HON",
+      "headline": "GE Vernova Stock Raised The Bar, Now It Has To Prove It",
+      "url": "https://finnhub.io/api/news?id=cc17dabdd702724f1bca186c42bd41858babb71910e130c6773cb7a18aec4975"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ Stock Climbs After Northland Raises Price Target",
+      "url": "https://finnhub.io/api/news?id=4b853e27eeb1c79dc1f77a3e1a2b0237d31938e0e74621d47ff66f3fffc0b300"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Sector Update: Consumer Stocks Decline Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=3f8de97c73b702b2676eeed23a5bdd2945adc486f7e2dfc846fcfdc64417182f"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Berkshire Looked Like It Got a Bargain on Alphabet Stock. It Didn’t.",
+      "url": "https://finnhub.io/api/news?id=748c2343e813747629e0bef4f189b7af1db60a485ef072edc0868dc446b83199"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "After Missing Out on Roku, Netflix Claims It Won't Buy Lionsgate. Here's Why the Market Hates That Answer.",
+      "url": "https://finnhub.io/api/news?id=1833e62d8d46e2c952a227e04f88537c516931a37c4573fcea6a8e20bb49db90"
     }
   ]
 }
