@@ -80,6 +80,46 @@
       "stock": "GOOGL",
       "headline": "Quantum Computing Stocks Waver Amid Trump Executive Orders, 2028 Target",
       "url": "https://finnhub.io/api/news?id=f338e19259004ee134e545803cf50d2d88d1092dfa5ba0aedbd06663eb773114"
+    },
+    {
+      "stock": "MU",
+      "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
+      "url": "https://finnhub.io/api/news?id=55c606d263797257d962b0754f5ab27e22e1153f9a9e66ecec0ab260815912a8"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor, Primoris Services, Micron And Other Big Stocks Moving Lower In Tuesday’s Pre-Market Session",
+      "url": "https://finnhub.io/api/news?id=28584c10f2ee25c91c7067b53c936fb93f63c536ca4f9f38ab4a08affc6e17e2"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys upgraded at Piper Sandler on Intel foundry momentum, Apple opportunity",
+      "url": "https://finnhub.io/api/news?id=072eb604b75045668630444eff2176e3618e66e30f07e7c420c634b0ca0ab88b"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Trump Admits Regret Over Selling IBM Stock Too Soon After Praising CEO For 'Leading Fab' In US Chip Push— 'Not A Good Move'",
+      "url": "https://finnhub.io/api/news?id=f6e79ee237da53794d5a760aecfeb294c4ad15646eaec8b40abab25a2510683b"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber (UBER) Faces Shareholder Lawsuit Over Alleged Safety And Compliance Failures",
+      "url": "https://finnhub.io/api/news?id=e6a0b97ec8d9cd63b4899bffbb6c7a8607495228c48481ddb8a8ea32142b6ea4"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk (ADSK) Stock Gets Fair Value Trim After Q1 Beat And MaintainX Deal",
+      "url": "https://finnhub.io/api/news?id=70b58ced4025a1daa0295e454aa3543bd953022b88df2f54248966149e62ac6d"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Trump Admits Regret Over Selling IBM Stock Too Soon After Praising CEO For 'Leading Fab' In US Chip Push— 'Not A Good Move'",
+      "url": "https://finnhub.io/api/news?id=f6e79ee237da53794d5a760aecfeb294c4ad15646eaec8b40abab25a2510683b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "European Stocks Close Mixed in Tuesday Trading; Eurozone Business Activity Contracts for Third Straight Month",
+      "url": "https://finnhub.io/api/news?id=5bb86787ea26ce0c423ed85886603072e364e80b40273adad5533735fbcbfda4"
     }
   ]
 }
