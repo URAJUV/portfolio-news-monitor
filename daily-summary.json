@@ -50,6 +50,36 @@
       "stock": "NFLX",
       "headline": "1 Screaming Buy Value Stock Hiding in Plain Sight",
       "url": "https://finnhub.io/api/news?id=5814e468e157f1f99e1d18d600e4332731bc89dc1be4887fff082d306cbab379"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "IBM upgrade, SpaceX initiation among today's top calls on Wall Street",
+      "url": "https://finnhub.io/api/news?id=01e6e03b84a7b35aac28fb47af397adbda237de6cf33812e0a2da0c0696c1ae4"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Right After Becoming a Trillionaire, Elon Musk \"Sold\" 17.5 Million Tesla Shares. Here's Why This Isn't a Big Deal.",
+      "url": "https://finnhub.io/api/news?id=8c60bf979edf95c78afce71dee9134a2ba8cd60c348a9b1981e479e818f06cb4"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Northland Capital Markets Maintains Outperform on IonQ, Raises Price Target to $70",
+      "url": "https://finnhub.io/api/news?id=56509dc9dd9f610b39ad8febe08277361e68407b38483ccb81f75c6225a3fad0"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk Launches $350 Million AI Upskilling Initiative",
+      "url": "https://finnhub.io/api/news?id=f578a3b80c5dac354bb70ca503415a985ab7b66187e0f1186a0886b44cb70000"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM upgrade, SpaceX initiation among today's top calls on Wall Street",
+      "url": "https://finnhub.io/api/news?id=01e6e03b84a7b35aac28fb47af397adbda237de6cf33812e0a2da0c0696c1ae4"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Quantum Computing Stocks Waver Amid Trump Executive Orders, 2028 Target",
+      "url": "https://finnhub.io/api/news?id=f338e19259004ee134e545803cf50d2d88d1092dfa5ba0aedbd06663eb773114"
     }
   ]
 }
