@@ -130,6 +130,21 @@
       "stock": "ADSK",
       "headline": "Autodesk (ADSK) Raises Borrowing Capacity Through Revolving Credit Facility Adjustments",
       "url": "https://finnhub.io/api/news?id=b42bab00acf72c73a9d676f5c25bc6499212cbfe8d31b02182d3660810fd4f32"
+    },
+    {
+      "stock": "TSM",
+      "headline": "The Nvidia Vs. Intel Pair Trade",
+      "url": "https://finnhub.io/api/news?id=54f2f734927359bb6e4c465e52535ef89df6a29544425438826d0bb157240726"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk (ADSK) Commits $350 Million To Train The Next AI Design Workforce",
+      "url": "https://finnhub.io/api/news?id=a76693b9261a3f497ff8a284e72cb993f85005b540cc1e10c23b05cb7846f77e"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Worried About Amazon’s AI Bill? What If It’s Already Paid For?",
+      "url": "https://finnhub.io/api/news?id=e7c84be1dcb95698ef59dde151955b01f3de0ab2548d31219a9a918902e8a083"
     }
   ]
 }
