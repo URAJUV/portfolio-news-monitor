@@ -140,6 +140,36 @@
       "stock": "IBM",
       "headline": "Wednesday's session: top gainers and losers in the dow jones index",
       "url": "https://finnhub.io/api/news?id=913f41419cf207e070247f93f2e5c79a4c26c31d243a3316ddb8b0588887e264"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Forget CrowdStrike. For 0.59% This Fund Owns It Plus 30 Cybersecurity Rivals",
+      "url": "https://finnhub.io/api/news?id=84fa9fbaa6486aebddabf80641161e5c1add9f127acabefb10a7d32dbde4c94e"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Stock Market Today, June 24: Amazon Gains as Investors Monitor Strong Prime Day Demand and AI Shopping Activity",
+      "url": "https://finnhub.io/api/news?id=3ee239f41ad3250bf620f72026d42073b50fea9ab3d61cb70ed4b32ceb98a059"
+    },
+    {
+      "stock": "COHR",
+      "headline": "How Coherent’s (COHR) Texas Photonics Expansion Targets a Bottleneck in AI Optical Supply",
+      "url": "https://finnhub.io/api/news?id=35135eef6a515a386532e7e720cab2b8b090cc56427892756f9fd7b3f50974d3"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys (SNPS) Stock Gets Fair Value Trim As Analysts Weigh Ansys And IP Recovery",
+      "url": "https://finnhub.io/api/news?id=add627aa78f789aa9b81edcae973f6444c159f5a7cdd7645fccc5de3e0381164"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Bitdeer Technologies (BTDR): Top Crypto and AI Play in Situational Awareness Portfolio",
+      "url": "https://finnhub.io/api/news?id=f1a1561d844e73111febcf4b4b6f09e3f659a3ea2aca9b1a9e7e2ef725b9f88f"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit Could Charge Google And OpenAI More For Its Data",
+      "url": "https://finnhub.io/api/news?id=b6774d86c6fdab2b1859c3900d48469a89133a6e4e6ec89e09c0a297f20337cd"
     }
   ]
 }
