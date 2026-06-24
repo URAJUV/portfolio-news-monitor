@@ -60,6 +60,31 @@
       "stock": "NFLX",
       "headline": "Netflix Is Down 32% Since Reed Hastings Said He Was Leaving. Should You Buy the Dip or Is It a Red Flag?",
       "url": "https://finnhub.io/api/news?id=21b5f401cf37cce7abc69bfac28e3edca98357b4c74831ffc312ef07acbb7f93"
+    },
+    {
+      "stock": "MU",
+      "headline": "NVIDIA (NVDA) Remains a Must-Own for Bernstein Despite Tech Sell-Off",
+      "url": "https://finnhub.io/api/news?id=51dcca0e8ba804c9f7f168fe2812928add1c6895dc55b0a31f8a3718656f0fe2"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor: The AI Toll Road Keeps Widening",
+      "url": "https://finnhub.io/api/news?id=de72a39f37aac00106a92acfe74f2f6f1d0eb76ba777e726ad186934edc49707"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Comp AI Names Auburn Stevens Head of Partnerships",
+      "url": "https://finnhub.io/api/news?id=d32683e93da4c075291cdb74e9206363c584bbe011d4262edfa3367845640fb5"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Runlayer Raises $30M Series A to Help Enterprises Go All In On AI",
+      "url": "https://finnhub.io/api/news?id=28e685ae9c787b8ed8df520f4c5e382341e032d54235f3a1ee50794b14c8f645"
+    },
+    {
+      "stock": "IBM",
+      "headline": "International Business Machines (IBM) Upgraded by JPMorgan as Software Growth Boosts Outlook",
+      "url": "https://finnhub.io/api/news?id=6c510352edda261017718f6ab659893330e5e2d32b9221839a5730504b73fc11"
     }
   ]
 }
