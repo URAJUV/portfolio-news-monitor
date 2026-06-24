@@ -30,6 +30,36 @@
       "stock": "NFLX",
       "headline": "Is Omnicom (OMC) Quietly Recasting Its Competitive Edge Through Netflix And Acxiom’s AI Ad Alliance?",
       "url": "https://finnhub.io/api/news?id=b761916ca8b998dcc379a81ce07ee0f83cc3ca19774410a576ca9210d816d633"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron Earnings Are Next Major Test for AI Trade",
+      "url": "https://finnhub.io/api/news?id=d936787f8e51417fab4450ca4a8eb232c33d575e4d2722dabf9af142d740a251"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Instruqt Becomes the First and Only Platform to Pair AI-Assisted Content Creation with Native Vertex AI, Amazon Bedrock, and GPU Environments",
+      "url": "https://finnhub.io/api/news?id=fe4dd8404c888032a640a5841026c85d37da4c59dee9792a72f528098f37fc5d"
+    },
+    {
+      "stock": "COHR",
+      "headline": "PLTR vs. COHR: Which AI-Driven Tech Stock Should You Bet on?",
+      "url": "https://finnhub.io/api/news?id=b6aa9848e8de455eb3b4f0619142d48e303f8fff6ca5909f5055b8f77cde3081"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "SpaceX Is Down 32% From Its High. 4 Reasons Why a Merger with Tesla Would Make SpaceX a Better Long-Term Buy.",
+      "url": "https://finnhub.io/api/news?id=445c3e1dff72eb8a5788f255f5ec337813f23200ab08658f683ae7f2d957628b"
+    },
+    {
+      "stock": "IBM",
+      "headline": "JP Morgan Upgrades International Business Machines (IBM)",
+      "url": "https://finnhub.io/api/news?id=ffc3a7499d1dc9de51d492ab9fa224da35957c64b1278cc8264c8add48ebffe7"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Is Down 32% Since Reed Hastings Said He Was Leaving. Should You Buy the Dip or Is It a Red Flag?",
+      "url": "https://finnhub.io/api/news?id=21b5f401cf37cce7abc69bfac28e3edca98357b4c74831ffc312ef07acbb7f93"
     }
   ]
 }
