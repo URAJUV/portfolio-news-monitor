@@ -80,6 +80,36 @@
       "stock": "IBM",
       "headline": "IBM stock pops as company unveils chip 'the size of a fingernail' in AI push",
       "url": "https://finnhub.io/api/news?id=8a30da6090b45b4e9685855e9081725c2304c649dffd39e5c8050a3a35e80af2"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Why Is Taiwan Semiconductor Stock Gaining Thursday?",
+      "url": "https://finnhub.io/api/news?id=113805177fcecf3972eb8cb701a259fc21c821c516bc39300a38e89f3d735396"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Can AI Detection and Response Become CrowdStrike's Next Growth Driver?",
+      "url": "https://finnhub.io/api/news?id=79861f22891588eeab910f7f125fb675e81d43263a7ec0732721e15cde8012b4"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Qualcomm bets on AI chips to break smartphone reliance, but faces crowded race",
+      "url": "https://finnhub.io/api/news?id=fcaffd90be4044a7496b27f159d176c733c07b5f5ae0e8e833d9b90adb592552"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk: At 15x P/E, This Is A Compelling Buy At 52-Week Lows (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=d0d15dda75e66c9d04b0ded7b89edb68d754efc5951abe03cc0467c60d00b5be"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "EXCLUSIVE: Draganfly Secures Major IACLEA Win To Expand Campus Drone Programs Nationwide",
+      "url": "https://finnhub.io/api/news?id=01f413415bafa5ac30fdb7db951a245db280fb21b9d51a9fb9609ea0bec41000"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Unveils Prototype for Sub-1-Nanometer AI Chip. Why It Matters.",
+      "url": "https://finnhub.io/api/news?id=a61ac4fbc7ebf6a13e624e0685e8d64bde2f8901eedec9e92c4ce43c063cd06b"
     }
   ]
 }
