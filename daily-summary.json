@@ -125,6 +125,51 @@
       "stock": "ADSK",
       "headline": "FIG vs. ADSK: Which Design SaaS Stock is a Safer Bet in the AI Era?",
       "url": "https://finnhub.io/api/news?id=d744d8b89d4766f1bc7c22030db79aedf6ae8c32bbd71bb9511882340a34291e"
+    },
+    {
+      "stock": "MU",
+      "headline": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
+      "url": "https://finnhub.io/api/news?id=8f0ea89e5ffb21ff7580afbb7d42b5bc56647c16987198ac6197cc685eb50219"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Exclusive: Trump’s Intel Push Won’t Kill TSMC—Why The World’s ‘Indispensable Backbone’ Remains A Buy",
+      "url": "https://finnhub.io/api/news?id=21aab9b60c0f3ba13d9ba66d0c5863eec32b2d4ef118972005bbe4c995d60abb"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Stock Market Today, June 25: BlackBerry Surges After Earnings Beat and Revenue Tops Estimates",
+      "url": "https://finnhub.io/api/news?id=6e224321da04c5a92547e8dc5e1f86a960f58b53ebd1d98586e0379a0ab274c7"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon's Next Big Move Into Big-Box Retail Could Be a Smart Move",
+      "url": "https://finnhub.io/api/news?id=6d147aceb7b31f84f331289667a4f63a2076e7e39d457b570a9ac6b0194ed7aa"
+    },
+    {
+      "stock": "COHR",
+      "headline": "4 Stocks Powering the AI Revolution Behind the Scenes",
+      "url": "https://finnhub.io/api/news?id=6b0815028ffd40ccecb7f16e0edd64c37fb5306ca68b6475d61fc512163b118e"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Forget the Cellphones: BlackBerry Shares Jump 23% as an AI Play",
+      "url": "https://finnhub.io/api/news?id=0dd708035671788c5f700f796955b63aa3b0404f87afb5dc12ab367fb62f6f47"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Trading Near an All-Time Low of $5: 1 Crucial Balance Sheet Metric That Explains Why Lucid Is a Dangerous Capital-Destruction Trap",
+      "url": "https://finnhub.io/api/news?id=b19f91791ebd2bd7a522c2dbebca18c570943dfe051199810babc17947b185db"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet’s Waymo Targets Germany In Next Phase of Robotaxi Rollout",
+      "url": "https://finnhub.io/api/news?id=a39bd09875341935f4ddd9cbc7eaf03aab4dc3570b590282a56adb47d45bd9e6"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix (NFLX) Teams Up With Omnicom Media To Bring AI Ads Onto The Platform",
+      "url": "https://finnhub.io/api/news?id=bd1c07aa56bff3253bdde81ac6622c5cca80e1faffa05f451b78c0f64c63b799"
     }
   ]
 }
