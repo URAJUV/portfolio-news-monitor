@@ -70,6 +70,16 @@
       "stock": "NFLX",
       "headline": "Netflix’s Worst Slump In Years Has Retail Investors Seeing A Discount, Not A Warning Sign",
       "url": "https://finnhub.io/api/news?id=df329c3019877a080ab445f514445c98626be395bddaedda00f474605adc2b8b"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Bernstein Raises its Price Target on Arm Holdings (ARM)",
+      "url": "https://finnhub.io/api/news?id=06edea48dc3e8cc2e4336d4fe96a93c71568e5936ef80f2594323dd94e383dd9"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM stock pops as company unveils chip 'the size of a fingernail' in AI push",
+      "url": "https://finnhub.io/api/news?id=8a30da6090b45b4e9685855e9081725c2304c649dffd39e5c8050a3a35e80af2"
     }
   ]
 }
