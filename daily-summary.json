@@ -1,175 +1,50 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "Tower Semiconductor And Axiro Semiconductor Announce Availability Of Axiro's Radar Beamforming Integrated Circuits, Built On Tower's Silicon Germanium Technology",
-      "url": "https://finnhub.io/api/news?id=bfd711be048e7c8f23aeb24ed1fdd26a1e9b4a4c316314960b348073eb1128ff"
+      "stock": "MU",
+      "headline": "Dow Jones Futures: Micron Earnings Send Sandisk, Techs Soaring; Fed Inflation Data Due",
+      "url": "https://finnhub.io/api/news?id=ddf50b1ac73dc72ba5f8c158f9c66e02784aa8e5fa11b8926321ce4419feff23"
     },
     {
       "stock": "CRWD",
-      "headline": "Tuesday's after hours session: top gainers and losers",
-      "url": "https://finnhub.io/api/news?id=ee75d57bf125298443d7f2573cfc827a4166bd7a948f13a91f2f360fa8bf7ff2"
+      "headline": "CrowdStrike (CRWD) Stock Gets Fair Value Bump After Strong Q1 And AI Security Momentum",
+      "url": "https://finnhub.io/api/news?id=c23b5feb433aa1cf921cb3671419f8873b37b73ba80c8a93afc383a6fcea4c3f"
     },
     {
       "stock": "COHR",
-      "headline": "Coherent (COHR) Stock After Big AI Optics Rally Is There Still Upside?",
-      "url": "https://finnhub.io/api/news?id=f86193edc3f81318ca7b5e315219dcfb1d67510d8f83fedecb9a31a62d7553a6"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Here Are Tuesday’s Best Wall Street Analyst Research Calls: Centene, Darden Restaurants, Flutter Entertainment, GE Healthcare, IBM, Nike, SpaceX, Synopsys, Target, and More",
-      "url": "https://finnhub.io/api/news?id=28ddcf641cbfd38baeb6d9141f7527807afc96fb74ee96c5039c13c4de9d44c4"
-    },
-    {
-      "stock": "HON",
-      "headline": "GOOGL Stock Gains After-Hours As Alphabet Is Set To Replace Verizon In Dow Jones — Retail Eyes ‘$400’ Level",
-      "url": "https://finnhub.io/api/news?id=708309d13ffd50f2812ddd9e5ff0dc00630867425cb080f8b40438c9995594a9"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Is Omnicom (OMC) Quietly Recasting Its Competitive Edge Through Netflix And Acxiom’s AI Ad Alliance?",
-      "url": "https://finnhub.io/api/news?id=b761916ca8b998dcc379a81ce07ee0f83cc3ca19774410a576ca9210d816d633"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron Earnings Are Next Major Test for AI Trade",
-      "url": "https://finnhub.io/api/news?id=d936787f8e51417fab4450ca4a8eb232c33d575e4d2722dabf9af142d740a251"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Instruqt Becomes the First and Only Platform to Pair AI-Assisted Content Creation with Native Vertex AI, Amazon Bedrock, and GPU Environments",
-      "url": "https://finnhub.io/api/news?id=fe4dd8404c888032a640a5841026c85d37da4c59dee9792a72f528098f37fc5d"
-    },
-    {
-      "stock": "COHR",
-      "headline": "PLTR vs. COHR: Which AI-Driven Tech Stock Should You Bet on?",
-      "url": "https://finnhub.io/api/news?id=b6aa9848e8de455eb3b4f0619142d48e303f8fff6ca5909f5055b8f77cde3081"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "SpaceX Is Down 32% From Its High. 4 Reasons Why a Merger with Tesla Would Make SpaceX a Better Long-Term Buy.",
-      "url": "https://finnhub.io/api/news?id=445c3e1dff72eb8a5788f255f5ec337813f23200ab08658f683ae7f2d957628b"
-    },
-    {
-      "stock": "IBM",
-      "headline": "JP Morgan Upgrades International Business Machines (IBM)",
-      "url": "https://finnhub.io/api/news?id=ffc3a7499d1dc9de51d492ab9fa224da35957c64b1278cc8264c8add48ebffe7"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix Is Down 32% Since Reed Hastings Said He Was Leaving. Should You Buy the Dip or Is It a Red Flag?",
-      "url": "https://finnhub.io/api/news?id=21b5f401cf37cce7abc69bfac28e3edca98357b4c74831ffc312ef07acbb7f93"
-    },
-    {
-      "stock": "MU",
-      "headline": "NVIDIA (NVDA) Remains a Must-Own for Bernstein Despite Tech Sell-Off",
-      "url": "https://finnhub.io/api/news?id=51dcca0e8ba804c9f7f168fe2812928add1c6895dc55b0a31f8a3718656f0fe2"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor: The AI Toll Road Keeps Widening",
-      "url": "https://finnhub.io/api/news?id=de72a39f37aac00106a92acfe74f2f6f1d0eb76ba777e726ad186934edc49707"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Comp AI Names Auburn Stevens Head of Partnerships",
-      "url": "https://finnhub.io/api/news?id=d32683e93da4c075291cdb74e9206363c584bbe011d4262edfa3367845640fb5"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Runlayer Raises $30M Series A to Help Enterprises Go All In On AI",
-      "url": "https://finnhub.io/api/news?id=28e685ae9c787b8ed8df520f4c5e382341e032d54235f3a1ee50794b14c8f645"
-    },
-    {
-      "stock": "IBM",
-      "headline": "International Business Machines (IBM) Upgraded by JPMorgan as Software Growth Boosts Outlook",
-      "url": "https://finnhub.io/api/news?id=6c510352edda261017718f6ab659893330e5e2d32b9221839a5730504b73fc11"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron Is Up 268% This Year, and Stephanie Link Says Wait for a Pullback Before You Buy",
-      "url": "https://finnhub.io/api/news?id=92dafa91c85d7337b33c03c7e6c15cdf34a76c809848c58d58bf90792f211ba6"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Forget The Magnificent 7 And MANGOS—Billionaire Philippe Laffont Adds These Two 'Non-Tech' Giants To His New 'Mag 12'",
-      "url": "https://finnhub.io/api/news?id=fa5d4616e06e6ef694d837e24b09ae7d899e9799ce6f2e31449c71d0bed066f3"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Here’s Burke Wealth Management’s Concerns on CrowdStrike (CRWD) Amid AI Disruption Challenges",
-      "url": "https://finnhub.io/api/news?id=09effb1f868603c52f4a3120be990152d118b0abed1e6fcb6402e79e6f751185"
-    },
-    {
-      "stock": "DE",
-      "headline": "Amid Rising Input Costs and Market Uncertainty, Growers Edge Taps Ag Financing Expert to Expand Capital Access for Farmers",
-      "url": "https://finnhub.io/api/news?id=7f063e4c75cf48b8f728e96970a7a2157ce3552b49668f5464165170a503a232"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Is Autodesk’s (ADSK) $350 Million AI Education Push Quietly Reshaping Its Ecosystem Moat?",
-      "url": "https://finnhub.io/api/news?id=5098a813356d10416ab52ddd988c37f35ba5c97b80652464f85f794e3a6af38b"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Dan Ives Says The AI Revolution Is In The 3rd Inning, Calls Chip Sell-Off A 'Gut Check Moment' As Micron Earnings Loom",
-      "url": "https://finnhub.io/api/news?id=601fddf4fb753a12c758ec5a375f9b950464101c495a01c9228a30ceda36ae94"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Fortinet, IBD Stock Of The Day, Gets Network Firewall Boost From AI Data Centers",
-      "url": "https://finnhub.io/api/news?id=09b60e9ea4fddc7e28ce7553347b5f8974039ccef2724b6bbc2c36172b27217a"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "TSLA Stock Holds Flat — Tesla Hit With Wrongful Death Lawsuit, NTSB Probe Over Fatal Texas Crash",
-      "url": "https://finnhub.io/api/news?id=01981638987bd13c898cd7e3915a6743beb2c7731c3630d1caf4e5b19d65f604"
+      "headline": "These stocks in the S&P 500 fell the most on Tuesday as the tech sector came under pressure",
+      "url": "https://finnhub.io/api/news?id=363a0e6893e416e23f579d7186decbd84bb606017bb68fbb1baa868af7a08af0"
     },
     {
       "stock": "ARM",
-      "headline": "AMD Gets a Big Agentic AI Boost",
-      "url": "https://finnhub.io/api/news?id=2c549524c295c0d34c21f405b8a8592c811f5017c67f1578e4e996e23774f7dc"
+      "headline": "Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally",
+      "url": "https://finnhub.io/api/news?id=6a7a51757d0dacebd7266f8e267a22c4ff658e9eb327d37566d954c4010b14a5"
     },
     {
       "stock": "HON",
-      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=913f41419cf207e070247f93f2e5c79a4c26c31d243a3316ddb8b0588887e264"
+      "headline": "Top National Security Investor: Missile Production Is About to Explode as U.S. Rebuilds Arsenal",
+      "url": "https://finnhub.io/api/news?id=c3dcb8bf9a44da5e37d75426a80892754fc2c840d46d322fab29305ee5df4be1"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Sony Pictures Entertainment Invests $100M In Cosm",
+      "url": "https://finnhub.io/api/news?id=b5022b4d20cf69ae6af933ee6223db4762248beff2501baa23534a8f22e72a1b"
     },
     {
       "stock": "IBM",
-      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=913f41419cf207e070247f93f2e5c79a4c26c31d243a3316ddb8b0588887e264"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Forget CrowdStrike. For 0.59% This Fund Owns It Plus 30 Cybersecurity Rivals",
-      "url": "https://finnhub.io/api/news?id=84fa9fbaa6486aebddabf80641161e5c1add9f127acabefb10a7d32dbde4c94e"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Stock Market Today, June 24: Amazon Gains as Investors Monitor Strong Prime Day Demand and AI Shopping Activity",
-      "url": "https://finnhub.io/api/news?id=3ee239f41ad3250bf620f72026d42073b50fea9ab3d61cb70ed4b32ceb98a059"
-    },
-    {
-      "stock": "COHR",
-      "headline": "How Coherent’s (COHR) Texas Photonics Expansion Targets a Bottleneck in AI Optical Supply",
-      "url": "https://finnhub.io/api/news?id=35135eef6a515a386532e7e720cab2b8b090cc56427892756f9fd7b3f50974d3"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys (SNPS) Stock Gets Fair Value Trim As Analysts Weigh Ansys And IP Recovery",
-      "url": "https://finnhub.io/api/news?id=add627aa78f789aa9b81edcae973f6444c159f5a7cdd7645fccc5de3e0381164"
+      "headline": "Micron (MU) Q3 Earnings and Revenues Top Estimates",
+      "url": "https://finnhub.io/api/news?id=6c5de3d8a20f6f93784cc6b29143b8a17987bc84a057f9dc0a58a69e0f758704"
     },
     {
       "stock": "GOOGL",
-      "headline": "Bitdeer Technologies (BTDR): Top Crypto and AI Play in Situational Awareness Portfolio",
-      "url": "https://finnhub.io/api/news?id=f1a1561d844e73111febcf4b4b6f09e3f659a3ea2aca9b1a9e7e2ef725b9f88f"
+      "headline": "S&P 500, Nasdaq Close Lower On Tech Weakness But Recover After-Hours On Strong Micron Earnings — MU, AVGO, GOOGL In Focus",
+      "url": "https://finnhub.io/api/news?id=7fae973942e40553c863d0377f9820d34aa88257f0b102b0fb76172cd9aeb69e"
     },
     {
       "stock": "RDDT",
-      "headline": "Reddit Could Charge Google And OpenAI More For Its Data",
-      "url": "https://finnhub.io/api/news?id=b6774d86c6fdab2b1859c3900d48469a89133a6e4e6ec89e09c0a297f20337cd"
+      "headline": "Needham Reiterates Buy on Reddit, Maintains $300 Price Target",
+      "url": "https://finnhub.io/api/news?id=43f3c2a4a3db999d341961e3651f3cb4017461a8ad81766e74af0a95b4149464"
     }
   ]
 }
