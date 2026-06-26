@@ -60,6 +60,31 @@
       "stock": "IBM",
       "headline": "Nvidia: The Next Dividend Aristocrat?",
       "url": "https://finnhub.io/api/news?id=40a706bee10e63e517540ff408621dfdfa07c63e484857b8440f4e9e6fea9b22"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "AWS raising GPU instance prices 20% on July 1",
+      "url": "https://finnhub.io/api/news?id=480b623e47941d22465a09fe1cc8a75e4b2d4dc601b8abbcd6321705b831e425"
+    },
+    {
+      "stock": "HON",
+      "headline": "Mizuho Reiterates Outperform Rating on Honeywell International (HON) Following Investor Day Financial Targets",
+      "url": "https://finnhub.io/api/news?id=0dd996fa01d0db8f27a3145ae7630aed22a22d840800cd01f11a921e7e21e0bd"
+    },
+    {
+      "stock": "DE",
+      "headline": "RBC Capital and Freedom Broker Raise Price Targets on Deere (DE) After Strong Quarterly Earnings",
+      "url": "https://finnhub.io/api/news?id=34147ffd3e8cdc60e176ba7acb271fac038e5b8dd86ebd3fbca02371480ea0b7"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM, Red Hat, and Deloitte Announce Lightwell Collaboration to Help Strengthen Open Source Software Supply Chain Trust",
+      "url": "https://finnhub.io/api/news?id=6705e20055523203224ebc33b528f6fd9d459e80015cf99b962fdf41d7d73003"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Latest News In Cloud AI - Quantum-Classical Chemistry Collaboration Leverages AWS in Singapore",
+      "url": "https://finnhub.io/api/news?id=8e6893587ac4ea9ba06d116a28a5bb8b3b65f7cf369e95dc4f9911976f2928cb"
     }
   ]
 }
