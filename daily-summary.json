@@ -35,6 +35,31 @@
       "stock": "NFLX",
       "headline": "Netflix (NFLX) Stock Sees Modest Fair Value Cut As Analysts Weigh Ad Growth Risks",
       "url": "https://finnhub.io/api/news?id=c023906eb0cd7ef9ae9d3ef07e184a8a56ea01e5461e374c240376730f53fb5d"
+    },
+    {
+      "stock": "TSM",
+      "headline": "NMAI: Bonds Drag On Performance, But This Hybrid CEF Could Be Attractive For Income",
+      "url": "https://finnhub.io/api/news?id=a129f64e4dbfd24d87ff57197118d8c1a8fdd65fc169c2bfaf4b09996dc30f75"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Amazing Buying Opportunity As Software Gets Crushed Again",
+      "url": "https://finnhub.io/api/news?id=a666c3d2080720f68e64d8e9996ca7092ed92add1625aff9df8a2ca05c97ea7a"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm (ARM) Wants To Be The Next Full Stack AI Infrastructure Provider",
+      "url": "https://finnhub.io/api/news?id=3030f18ec6f437fd76a3d826ddb762cc4ac2c36f876edc984163373a1f8ff608"
+    },
+    {
+      "stock": "DE",
+      "headline": "Deere (DE) Is Up 7.0% After Raising Guidance, Expanding Buybacks And Highlighting AI Efficiency Investments",
+      "url": "https://finnhub.io/api/news?id=ba8e3a907a9eb52a24ff05583bf1b0a19990867c739246eff3ad16143b9c7d06"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Nvidia: The Next Dividend Aristocrat?",
+      "url": "https://finnhub.io/api/news?id=40a706bee10e63e517540ff408621dfdfa07c63e484857b8440f4e9e6fea9b22"
     }
   ]
 }
