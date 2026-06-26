@@ -85,6 +85,51 @@
       "stock": "GOOGL",
       "headline": "Latest News In Cloud AI - Quantum-Classical Chemistry Collaboration Leverages AWS in Singapore",
       "url": "https://finnhub.io/api/news?id=8e6893587ac4ea9ba06d116a28a5bb8b3b65f7cf369e95dc4f9911976f2928cb"
+    },
+    {
+      "stock": "MU",
+      "headline": "Sandisk Stock Limps Along. The Micron Earnings Afterglow Is Gone.",
+      "url": "https://finnhub.io/api/news?id=2bdd5d6e423b74c90277a6e19dc390b19c5840a9f15d6b2a040aa6367a1b26d5"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Is The AI / Semiconductor Rally Repeating The Dotcom Bubble?",
+      "url": "https://finnhub.io/api/news?id=ec3a35c990e2941dac032853afcbde948c9b9fcdb946e8e847eb1f2740ad8712"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Top Midday Stories: OpenAI Weighs Pushing Back IPO to 2027; ON Semiconductor Acquires Synaptics for $7 Billion",
+      "url": "https://finnhub.io/api/news?id=69085ae6aba3869b57eeb4c317397bda0e1e21067d3be6d4e80e49a955443c36"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Nvidia, Micron, AMD Lead Chip Selloff on OpenAI IPO Delay Report Rattles Tech",
+      "url": "https://finnhub.io/api/news?id=bac064bf04ec9c41a1b2304dd66c26c0a830fcd4c41148b5120be5288bdf7b9a"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Nvidia, Micron, AMD Lead Chip Selloff on OpenAI IPO Delay Report Rattles Tech",
+      "url": "https://finnhub.io/api/news?id=bac064bf04ec9c41a1b2304dd66c26c0a830fcd4c41148b5120be5288bdf7b9a"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Aseon Labs Raises $10 Million Seed Round to Build the Robotic Pit Stop Network Powering Autonomous Transportation",
+      "url": "https://finnhub.io/api/news?id=d244b5a37c9e012e2f6debd2133da0475d516febc9758da3d4565ce2a55f3f68"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Why Is Oracle’s Stock Dropping Amid Record-Breaking AI Growth?",
+      "url": "https://finnhub.io/api/news?id=fcf70a54e7c8771ee72b49d4a0631b4886acbbf4183a28347fbae788bef38384"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "SpaceX Surprise AI Pivot Could Be a Massive Win for Nvidia and Intel",
+      "url": "https://finnhub.io/api/news?id=3121684a30011f588c350f52da3f0df3392b0ccb43bf9eed98da0424ff26f396"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Bets Bigger on AI Strategy: Can It Strengthen User Retention?",
+      "url": "https://finnhub.io/api/news?id=289258aa3688c650b54840833c73fe22b8a94d2d27760cd8483148600fe04ea1"
     }
   ]
 }
