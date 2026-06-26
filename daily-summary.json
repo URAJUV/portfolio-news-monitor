@@ -165,6 +165,11 @@
       "stock": "GOOGL",
       "headline": "The Strain Inside Palantir Stock",
       "url": "https://finnhub.io/api/news?id=273494e5b5272f76027bfe3342d160db51b4d7e2287900c528764b029fd36a1d"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Xbox Prices Surge Again As Microsoft Expects Memory Costs To Double By Fall 2027, Joins Apple, Sony And Nintendo In Wave Of Hardware Price Hikes",
+      "url": "https://finnhub.io/api/news?id=01a29e2407e7aed4f851cdba5b3cb397eb06b1a8a4d87c4c952c177bb792fc15"
     }
   ]
 }
