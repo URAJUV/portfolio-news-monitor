@@ -130,6 +130,41 @@
       "stock": "NFLX",
       "headline": "Netflix Bets Bigger on AI Strategy: Can It Strengthen User Retention?",
       "url": "https://finnhub.io/api/news?id=289258aa3688c650b54840833c73fe22b8a94d2d27760cd8483148600fe04ea1"
+    },
+    {
+      "stock": "TSM",
+      "headline": "What's Going On With Taiwan Semiconductor Stock Friday?",
+      "url": "https://finnhub.io/api/news?id=fdcb9776c914423d8f5b7f68ef3a366d4cb236f54871906d157f95cae10a849d"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Moderna, Nvidia, Sandisk, Palantir, ON Semi, and More Stocks That Explain Today’s Market",
+      "url": "https://finnhub.io/api/news?id=093aa118cb2ad79fd96ec2971794ddc98a863a844a9ea0656861e49b8af7c81c"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Why Is Synopsys (SNPS) Down 5.3% Since Last Earnings Report?",
+      "url": "https://finnhub.io/api/news?id=be7e63e9a6afe301c47e7ed9a0acc1ef4a0bb4100c5dabcf51692e2c2ed56e2e"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Can SERV's AI Data Flywheel Create a Lasting Competitive Edge?",
+      "url": "https://finnhub.io/api/news?id=97c4909b258b1e1ced0617a3ea5be35c0181a4daeb07bdf104970eccfdb34c72"
+    },
+    {
+      "stock": "DE",
+      "headline": "How CAT Stock Doubles Again To Reach $2,000",
+      "url": "https://finnhub.io/api/news?id=9720e9d6b5002d8a50081b51bbacd4d94a02b45832a678ff9b99e731c35506a2"
+    },
+    {
+      "stock": "IBM",
+      "headline": "The Strain Inside Palantir Stock",
+      "url": "https://finnhub.io/api/news?id=273494e5b5272f76027bfe3342d160db51b4d7e2287900c528764b029fd36a1d"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "The Strain Inside Palantir Stock",
+      "url": "https://finnhub.io/api/news?id=273494e5b5272f76027bfe3342d160db51b4d7e2287900c528764b029fd36a1d"
     }
   ]
 }
