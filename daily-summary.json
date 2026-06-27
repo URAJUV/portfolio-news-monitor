@@ -55,6 +55,21 @@
       "stock": "GOOGL",
       "headline": "As oil fades as an inflation concern, will AI take its place? The Fed is watching closely.",
       "url": "https://finnhub.io/api/news?id=4ee5ff29664b7a4f52d1a30af9635b000d4879d3093cd8fbc811e799ca606518"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "AI’s Energy Crunch Has Investors Searching for Next IPO Winners",
+      "url": "https://finnhub.io/api/news?id=7bca6a93c8e9a40d71f05613fe38ebf8091f4a5fa507982348a18f3d75fbb090"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Mid-Year Update: Warnings On AI Hyperscalers, Private Credit, And The SpaceX IPO",
+      "url": "https://finnhub.io/api/news?id=bcf9f5445e12bc286506147da099d61cc4f36ce087d1c6a5e32182a8f3c75bb5"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Stock Market Week Ahead: Rotating, For Now, Away From The AI Boom",
+      "url": "https://finnhub.io/api/news?id=39d62f6fdbd5b6e6aa770e07566d47062372f6ac95f0d5846c7bfb842e94f821"
     }
   ]
 }
