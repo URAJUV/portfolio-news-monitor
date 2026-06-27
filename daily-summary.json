@@ -20,6 +20,31 @@
       "stock": "RDDT",
       "headline": "WEN Stock Heads For Third Weekly Gain: How It Went From A 12-Year Low To WallStreetBets' Favorite In Four Days",
       "url": "https://finnhub.io/api/news?id=c35a54d489cde7ee89b3a3bb83701717b93f272b351cc9c6033c1e0e52c410ed"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron's Explosive Earnings Report: The 1 Mind-Boggling Number You Won't Want to Miss. (Hint: It Beats Nvidia.)",
+      "url": "https://finnhub.io/api/news?id=2b04d7d97cc9b58e2e8c15e78dfb1c130f65944d00397169d45aad59fbe5d6d9"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Micron's Explosive Earnings Report: The 1 Mind-Boggling Number You Won't Want to Miss. (Hint: It Beats Nvidia.)",
+      "url": "https://finnhub.io/api/news?id=2b04d7d97cc9b58e2e8c15e78dfb1c130f65944d00397169d45aad59fbe5d6d9"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Best Dividend Aristocrats: June 2026",
+      "url": "https://finnhub.io/api/news?id=d502d3e234636610a86a46fb082cae7d5af2639e1594755baf12d54b8bc8d7f9"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "The AI Story Mutates And Divides",
+      "url": "https://finnhub.io/api/news?id=e60c0840a20c103651aebd4d1389620e0060b3ddf9c91c8ee7fb76b912145919"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Meta Platforms' AI-Push to Drive Top-Line Growth: More Upside Ahead?",
+      "url": "https://finnhub.io/api/news?id=5517a03c9d31bad718292ddecd880ef19fd06a9279d7b33faa5a51660c0112a7"
     }
   ]
 }
