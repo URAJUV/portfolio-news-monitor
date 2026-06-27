@@ -70,6 +70,16 @@
       "stock": "GOOGL",
       "headline": "Stock Market Week Ahead: Rotating, For Now, Away From The AI Boom",
       "url": "https://finnhub.io/api/news?id=39d62f6fdbd5b6e6aa770e07566d47062372f6ac95f0d5846c7bfb842e94f821"
+    },
+    {
+      "stock": "MU",
+      "headline": "The ultimate AI proxy trade isn’t a tech stock—It’s something more humble",
+      "url": "https://finnhub.io/api/news?id=bdc2bdeadb335e95059cfb485a3b108ef747490d7a48a049a5fc9278a7321d9b"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Here's What a $50,000 Investment in SpaceX Stock Could Look Like in 10 Years, According to Billionaire Investor Ron Baron",
+      "url": "https://finnhub.io/api/news?id=ac85ec2d1e7de35d0db202005b49928931dbc452022721aeffdd8512998d9d92"
     }
   ]
 }
