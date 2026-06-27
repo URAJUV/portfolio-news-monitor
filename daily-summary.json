@@ -5,6 +5,21 @@
       "stock": "TSLA",
       "headline": "After Issuing Its First Stock Split in 2020, Tesla Took Just 2 Years to Issue Its Second Split. Could a Third Stock Split Come in 2026?",
       "url": "https://finnhub.io/api/news?id=6273988d7a930dcecf47792a6241a6a100e5ad84dfc132dbca26192843914232"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "The AI Story Mutates And Divides",
+      "url": "https://finnhub.io/api/news?id=e60c0840a20c103651aebd4d1389620e0060b3ddf9c91c8ee7fb76b912145919"
+    },
+    {
+      "stock": "HON",
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=400b8fbeba786ecf7c610bc90e80c141c626af200f5bf3f8282b273c57d6e43f"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "WEN Stock Heads For Third Weekly Gain: How It Went From A 12-Year Low To WallStreetBets' Favorite In Four Days",
+      "url": "https://finnhub.io/api/news?id=c35a54d489cde7ee89b3a3bb83701717b93f272b351cc9c6033c1e0e52c410ed"
     }
   ]
 }
