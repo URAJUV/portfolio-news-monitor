@@ -95,6 +95,26 @@
       "stock": "GOOGL",
       "headline": "I Let Wayve’s AI Car Drive Me Through London’s Busiest Streets",
       "url": "https://finnhub.io/api/news?id=c87f8bc349ff660f597eefbc0183f9543ecb8935d29611acdfe0ec3080f6a868"
+    },
+    {
+      "stock": "MU",
+      "headline": "'We don't view this as a bubble' that will pop soon: Wall Street weighs surging AI costs on stock market rally",
+      "url": "https://finnhub.io/api/news?id=eea9a5ac5ffe0fc716bb6fb70b0a753faf200fd9e6d2743f8fad7f2d991548e9"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Slate's CEO on launching a $25K EV and why it's 'fun to have a contrarian point of view'",
+      "url": "https://finnhub.io/api/news?id=c25a1c125a08578f03910a0f088a0b7d2f9b37c83cdc120180ea267d769a2011"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "‘High on Coke’: Elon Musk floored by Berkshire Hathaway's Coca-Cola dividend windfall. How to tap in and get rich",
+      "url": "https://finnhub.io/api/news?id=4e29ac450b8d50378da9aeb3e80e8414a8ea9f122cc54aa625403eeda81310c8"
+    },
+    {
+      "stock": "IBM",
+      "headline": "International Business Machines (IBM) Is A Top Stock In Billionaire Richard Chilton’s Filings",
+      "url": "https://finnhub.io/api/news?id=22d74ac4bd3eb90e9d653130f0cd8192e7f13d8255dd21e6d517ca621cbc57b6"
     }
   ]
 }
