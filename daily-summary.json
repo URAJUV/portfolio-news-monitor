@@ -35,6 +35,41 @@
       "stock": "NFLX",
       "headline": "Apple Vision Pro Hardware Chief Reportedly Jumps To OpenAI As Sam Altman's AI Device Ambitions Gather Momentum",
       "url": "https://finnhub.io/api/news?id=444e311f3d16ec8ec0e379c4ca262468333a94a673112e9fc64169f660765d31"
+    },
+    {
+      "stock": "MU",
+      "headline": "Memory chip makers reap AI windfall as prices surge, WSJ reports",
+      "url": "https://finnhub.io/api/news?id=91a0218dada87b034e5d5e23f94537094e7d8a7110fbd7260625bf9ad8569608"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Check Point (CHKP) Brings AI Security To Amazon Bedrock AgentCore",
+      "url": "https://finnhub.io/api/news?id=37a7802028b0e5d14579c3d255ad1a6d5698c7d3f65ca9bf285a8c035872ab97"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry",
+      "url": "https://finnhub.io/api/news?id=c036fda3d829483ded69290295cfac3fae08fb3f76848856d1ac40bc1d051a3c"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings (ARM) Is A Part Of A Second “1776,” Says Newsletter",
+      "url": "https://finnhub.io/api/news?id=09a1b7d6d8e814bce8f5dff111087b8a3449b19816d1fbb2797575e9dc516b22"
+    },
+    {
+      "stock": "IBM",
+      "headline": "The Smartest Dividend Stocks to Buy With $5,000 Right Now",
+      "url": "https://finnhub.io/api/news?id=608c026e218138d7ed2d827c95f7f4f4b2620362568a56786f19026ed1376636"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "This Artificial Intelligence (AI) Stock Has Dropped 13% in 1 Month. Here's Why It's a Buy",
+      "url": "https://finnhub.io/api/news?id=b75c7b2fa09ac582cbc9d22804cbc2cf51452f42bc71b915efd3d6cba6b8c428"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Omnicom Media, Netflix (NFLX) Partner for AI-Powered Ad Creative Collaboration",
+      "url": "https://finnhub.io/api/news?id=9297e25f4f95e5a41197f96da20f8a835aae0af99c76d4500db8a089e8f9db74"
     }
   ]
 }
