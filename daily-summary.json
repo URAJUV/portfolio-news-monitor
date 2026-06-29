@@ -40,6 +40,31 @@
       "stock": "NFLX",
       "headline": "Investors Can Buy 5 High-Yield Dividend Stocks Trading Under $10 Hand-Over-Fist",
       "url": "https://finnhub.io/api/news?id=b75a68c6137a52ec4282e09f9c6459a58a83767804d9bb41ec2c38716c3d2696"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Launches Unified AI Security Platform And Expands AWS Coalition",
+      "url": "https://finnhub.io/api/news?id=c9c950d650a4d249abfbf793d04b95315b75d29cddb7e3b496ae900b3d7c7eda"
+    },
+    {
+      "stock": "COHR",
+      "headline": "These 7 Stocks Will Solve AI’s Most Important Bottleneck",
+      "url": "https://finnhub.io/api/news?id=9a52ec22ed5e8ade2592fd14176cbab5c35b80d206afa050f9435a0ab64151bd"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings Expands Its AI Data Center Push With AGI CPU",
+      "url": "https://finnhub.io/api/news?id=ab329f91848eb3ffd186bdb044622950a239427c753db3f795ae4d12153389d4"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Incyte (INCY) Surges 5.8%: Is This an Indication of Further Gains?",
+      "url": "https://finnhub.io/api/news?id=dff0729a53d86028bcaad627f4f79f8728e025ee987cb90e7289e1e6755a33ce"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Wall Street Just Supersized Its Price Target on Intel. Is the Stock Still Too Cheap?",
+      "url": "https://finnhub.io/api/news?id=c51f7fcc7af7e8eadccab718c1a6f44757941f237df009d3630973db4e521267"
     }
   ]
 }
