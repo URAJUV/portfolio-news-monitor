@@ -20,6 +20,26 @@
       "stock": "NFLX",
       "headline": "Citizens Maintain a Market Perform Rating on Netflix (NFLX)",
       "url": "https://finnhub.io/api/news?id=385966a49911c20f407289b937c9e7788de84c62fe3738d2aeecdc5d3ec023b6"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Samsung, SK Hynix To Build Four New Chip Plants As South Korea Unveils $520 Billion AI Push",
+      "url": "https://finnhub.io/api/news?id=29f308af332235dcc41a72ffd62ef42873cc33e807e9709f5ff028e89b83bac7"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings (ARM) Expands Its Agentic-AI CPU Ecosystem With Oracle Cloud Infrastructure",
+      "url": "https://finnhub.io/api/news?id=2c781ebe998b2e2610372446258c9e59d67dad45834a0f1c5914fb5e648cf196"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Arm Holdings (ARM) Expands Its Agentic-AI CPU Ecosystem With Oracle Cloud Infrastructure",
+      "url": "https://finnhub.io/api/news?id=2c781ebe998b2e2610372446258c9e59d67dad45834a0f1c5914fb5e648cf196"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Investors Can Buy 5 High-Yield Dividend Stocks Trading Under $10 Hand-Over-Fist",
+      "url": "https://finnhub.io/api/news?id=b75a68c6137a52ec4282e09f9c6459a58a83767804d9bb41ec2c38716c3d2696"
     }
   ]
 }
