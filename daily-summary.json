@@ -65,6 +65,41 @@
       "stock": "GOOGL",
       "headline": "Wall Street Just Supersized Its Price Target on Intel. Is the Stock Still Too Cheap?",
       "url": "https://finnhub.io/api/news?id=c51f7fcc7af7e8eadccab718c1a6f44757941f237df009d3630973db4e521267"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Palo Alto Networks Surges 9%, CrowdStrike Rises 7%, Okta Gains 5%: Can the Cybersecurity Rally Justify Its Valuations?",
+      "url": "https://finnhub.io/api/news?id=9b3947195aa914dce4b7eb6ea4c726a51da02fd44d1749872d89203a0b08df5b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Update: Strong Gains in Communication Services, Consumer Discretionary Lift US Equity Indexes; Crude Oil Heads Higher",
+      "url": "https://finnhub.io/api/news?id=82e5d37585fbf2a37f38ea65a0b19113f49bdf99881e495ea2ac6955b5b80135"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Update: Strong Gains in Communication Services, Consumer Discretionary Lift US Equity Indexes; Crude Oil Heads Higher",
+      "url": "https://finnhub.io/api/news?id=82e5d37585fbf2a37f38ea65a0b19113f49bdf99881e495ea2ac6955b5b80135"
+    },
+    {
+      "stock": "ARM",
+      "headline": "ByteDance targets CPU mass production in H2 2027 to power AI push - SCMP",
+      "url": "https://finnhub.io/api/news?id=111cc67f2c99bf2823a09b0bda957c9950a5f7d2c55bf001127f9a37e55e4644"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "'Drone Applications Are Almost Endless’: Inside Draganfly’s Campus Security Win",
+      "url": "https://finnhub.io/api/news?id=46f0b4eb83faa5b2cd31986bd02f0615f520692519ac2575aa01f36e3d201093"
+    },
+    {
+      "stock": "IBM",
+      "headline": "ServiceNow (NOW) Launches AI Cybersecurity Push With Accenture And Expands IBM Partnership",
+      "url": "https://finnhub.io/api/news?id=e6a386f97f198d2a49359b71e76df84d55574282b37d228da9a579e8af43005a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Update: Strong Gains in Communication Services, Consumer Discretionary Lift US Equity Indexes; Crude Oil Heads Higher",
+      "url": "https://finnhub.io/api/news?id=82e5d37585fbf2a37f38ea65a0b19113f49bdf99881e495ea2ac6955b5b80135"
     }
   ]
 }
