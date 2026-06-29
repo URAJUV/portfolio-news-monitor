@@ -1,4 +1,25 @@
 {
   "date": "2026-06-29",
-  "items": []
+  "items": [
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Extends Falcon AIDR to Create Unified AI Security Control Plane",
+      "url": "https://finnhub.io/api/news?id=b86f8004008b61560476a922dd332db6a1167356b0f49bc92db6f4185b0c50d3"
+    },
+    {
+      "stock": "ARM",
+      "headline": "US Equity Investors to Watch Out for Big-Tech Performance This Week While Awaiting Nonfarm Payrolls, Warsh's Speech",
+      "url": "https://finnhub.io/api/news?id=3853ef5267b357c5b3a99e50503698cbc7d9456be17f6260c36179adfaf28101"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Gaming ETF Becomes Growth Fund; Trailing Dividend Payout No Longer Reflects New Holdings",
+      "url": "https://finnhub.io/api/news?id=10f0b26bdb39783ed8f36e6a59f71b2684be8d3721ea2dba0cfce3b7ccc611be"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Citizens Maintain a Market Perform Rating on Netflix (NFLX)",
+      "url": "https://finnhub.io/api/news?id=385966a49911c20f407289b937c9e7788de84c62fe3738d2aeecdc5d3ec023b6"
+    }
+  ]
 }
