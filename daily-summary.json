@@ -100,6 +100,31 @@
       "stock": "IBM",
       "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
       "url": "https://finnhub.io/api/news?id=1360633735fb738fc330c59595c3f0f40052c3306c4f5373b496cb75f3438b42"
+    },
+    {
+      "stock": "TSM",
+      "headline": "What's Going On With Taiwan Semiconductor Stock Tuesday?",
+      "url": "https://finnhub.io/api/news?id=5aec703f9857327394690c8c07a5636feccba01139b867dce0db4aec43b5c3cc"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Can Identity Security Become a Major Growth Driver for CrowdStrike?",
+      "url": "https://finnhub.io/api/news?id=79e00f51cf2bd34a116f6feef5294850c8e7efc2d288943448131b2714d3c217"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Investors are abandoning Mag7 stocks as AI boom transforms",
+      "url": "https://finnhub.io/api/news?id=4904725d474b0cdd8240208a11f28e1e369f4dbb396a1f2b16b14fb68a753074"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Michael Burry bets against Tesla, Nvidia in new AI bubble short positions",
+      "url": "https://finnhub.io/api/news?id=f115aabb2e4518bd584ee946a5273194f534d4f89f828e3060050f0fea10c508"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Nvidia, AMD, Intel Lead AI Chip Stock Rally as Wall Street Rebounds",
+      "url": "https://finnhub.io/api/news?id=1801a253240f737b3de5e31d30a52d80be81fbf665fc143d5a5008a9c675048c"
     }
   ]
 }
