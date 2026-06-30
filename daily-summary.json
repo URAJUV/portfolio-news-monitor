@@ -1,105 +1,15 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "items": [
     {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) Extends Falcon AIDR to Create Unified AI Security Control Plane",
-      "url": "https://finnhub.io/api/news?id=b86f8004008b61560476a922dd332db6a1167356b0f49bc92db6f4185b0c50d3"
-    },
-    {
-      "stock": "ARM",
-      "headline": "US Equity Investors to Watch Out for Big-Tech Performance This Week While Awaiting Nonfarm Payrolls, Warsh's Speech",
-      "url": "https://finnhub.io/api/news?id=3853ef5267b357c5b3a99e50503698cbc7d9456be17f6260c36179adfaf28101"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Gaming ETF Becomes Growth Fund; Trailing Dividend Payout No Longer Reflects New Holdings",
-      "url": "https://finnhub.io/api/news?id=10f0b26bdb39783ed8f36e6a59f71b2684be8d3721ea2dba0cfce3b7ccc611be"
+      "stock": "MU",
+      "headline": "Wall Street Tech Analyst: Micron Could 4x If the AI Cycle Lasts Through 2030",
+      "url": "https://finnhub.io/api/news?id=aecf40934b0232ee6bdd997723cfa5618c67a20a82d7ba531be53300f3950063"
     },
     {
       "stock": "NFLX",
-      "headline": "Citizens Maintain a Market Perform Rating on Netflix (NFLX)",
-      "url": "https://finnhub.io/api/news?id=385966a49911c20f407289b937c9e7788de84c62fe3738d2aeecdc5d3ec023b6"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Samsung, SK Hynix To Build Four New Chip Plants As South Korea Unveils $520 Billion AI Push",
-      "url": "https://finnhub.io/api/news?id=29f308af332235dcc41a72ffd62ef42873cc33e807e9709f5ff028e89b83bac7"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings (ARM) Expands Its Agentic-AI CPU Ecosystem With Oracle Cloud Infrastructure",
-      "url": "https://finnhub.io/api/news?id=2c781ebe998b2e2610372446258c9e59d67dad45834a0f1c5914fb5e648cf196"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Arm Holdings (ARM) Expands Its Agentic-AI CPU Ecosystem With Oracle Cloud Infrastructure",
-      "url": "https://finnhub.io/api/news?id=2c781ebe998b2e2610372446258c9e59d67dad45834a0f1c5914fb5e648cf196"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Investors Can Buy 5 High-Yield Dividend Stocks Trading Under $10 Hand-Over-Fist",
-      "url": "https://finnhub.io/api/news?id=b75a68c6137a52ec4282e09f9c6459a58a83767804d9bb41ec2c38716c3d2696"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) Launches Unified AI Security Platform And Expands AWS Coalition",
-      "url": "https://finnhub.io/api/news?id=c9c950d650a4d249abfbf793d04b95315b75d29cddb7e3b496ae900b3d7c7eda"
-    },
-    {
-      "stock": "COHR",
-      "headline": "These 7 Stocks Will Solve AI’s Most Important Bottleneck",
-      "url": "https://finnhub.io/api/news?id=9a52ec22ed5e8ade2592fd14176cbab5c35b80d206afa050f9435a0ab64151bd"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings Expands Its AI Data Center Push With AGI CPU",
-      "url": "https://finnhub.io/api/news?id=ab329f91848eb3ffd186bdb044622950a239427c753db3f795ae4d12153389d4"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Incyte (INCY) Surges 5.8%: Is This an Indication of Further Gains?",
-      "url": "https://finnhub.io/api/news?id=dff0729a53d86028bcaad627f4f79f8728e025ee987cb90e7289e1e6755a33ce"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Wall Street Just Supersized Its Price Target on Intel. Is the Stock Still Too Cheap?",
-      "url": "https://finnhub.io/api/news?id=c51f7fcc7af7e8eadccab718c1a6f44757941f237df009d3630973db4e521267"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Palo Alto Networks Surges 9%, CrowdStrike Rises 7%, Okta Gains 5%: Can the Cybersecurity Rally Justify Its Valuations?",
-      "url": "https://finnhub.io/api/news?id=9b3947195aa914dce4b7eb6ea4c726a51da02fd44d1749872d89203a0b08df5b"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Update: Strong Gains in Communication Services, Consumer Discretionary Lift US Equity Indexes; Crude Oil Heads Higher",
-      "url": "https://finnhub.io/api/news?id=82e5d37585fbf2a37f38ea65a0b19113f49bdf99881e495ea2ac6955b5b80135"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Update: Strong Gains in Communication Services, Consumer Discretionary Lift US Equity Indexes; Crude Oil Heads Higher",
-      "url": "https://finnhub.io/api/news?id=82e5d37585fbf2a37f38ea65a0b19113f49bdf99881e495ea2ac6955b5b80135"
-    },
-    {
-      "stock": "ARM",
-      "headline": "ByteDance targets CPU mass production in H2 2027 to power AI push - SCMP",
-      "url": "https://finnhub.io/api/news?id=111cc67f2c99bf2823a09b0bda957c9950a5f7d2c55bf001127f9a37e55e4644"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "'Drone Applications Are Almost Endless’: Inside Draganfly’s Campus Security Win",
-      "url": "https://finnhub.io/api/news?id=46f0b4eb83faa5b2cd31986bd02f0615f520692519ac2575aa01f36e3d201093"
-    },
-    {
-      "stock": "IBM",
-      "headline": "ServiceNow (NOW) Launches AI Cybersecurity Push With Accenture And Expands IBM Partnership",
-      "url": "https://finnhub.io/api/news?id=e6a386f97f198d2a49359b71e76df84d55574282b37d228da9a579e8af43005a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Update: Strong Gains in Communication Services, Consumer Discretionary Lift US Equity Indexes; Crude Oil Heads Higher",
-      "url": "https://finnhub.io/api/news?id=82e5d37585fbf2a37f38ea65a0b19113f49bdf99881e495ea2ac6955b5b80135"
+      "headline": "Comcast’s NBC Spinoff Raises Questions About Businesses’ Future",
+      "url": "https://finnhub.io/api/news?id=fdb2942e762b12a6ac76f1c77e78b3fe81e1f6a57e9d07593cf2b548e7af1059"
     }
   ]
 }
