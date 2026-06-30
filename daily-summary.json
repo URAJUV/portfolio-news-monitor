@@ -25,6 +25,51 @@
       "stock": "AMZN",
       "headline": "Here is Why SentinelOne (S) is One of the AI Stocks on Wall Street’s Radar",
       "url": "https://finnhub.io/api/news?id=cc1a68b196724f447daaf2f79dd5e2aa6e9ac1bd736c2cb20b2d25718abe4b55"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron Hit With Price-Fixing Lawsuit: Real Collusion or Simple Supply and Demand?",
+      "url": "https://finnhub.io/api/news?id=5eea74d0c9dfef483fa7a25357806f60eaffc62e284b96eeeed43d571822048e"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor Manufacturing Company Limited - Depositary Receipt (TSM) Price Target Increased by 13.92% to 496.82",
+      "url": "https://finnhub.io/api/news?id=814ed8921ccf99bbd2f9fa4d3f34ae1e58107263fc2d187cce2ca1623523b91f"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Microsoft Expands Security Footprint: Is it the Next Revenue Pillar?",
+      "url": "https://finnhub.io/api/news?id=f910199345907f024bd4cf6e3c827b2a5a16afd95531b83b2331b755255bd94a"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Dan Ives Says Upcoming Earnings Season Is A Huge Validation Moment For Big Tech — Expects Significant Outperformance Of Mag 7 Ahead",
+      "url": "https://finnhub.io/api/news?id=d1e8560f0203e36c1b1d81b521e0310316454474cc318d2adf35302be5f30f15"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AXT's China AI Opportunity: Hidden Growth Driver or Geopolitical Risk?",
+      "url": "https://finnhub.io/api/news?id=ddeca50a57d1120187e53d2ec41a407f430b0555a69b5af1e11bab84e2ad2f11"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Nvidia Isn't The Expensive AI Stock Anymore—AMD, Palantir And ARM Are",
+      "url": "https://finnhub.io/api/news?id=84df75de9b46b76a25a2f9c52cbd860f3243fb9af804241ff9aed0dfc8795532"
+    },
+    {
+      "stock": "HON",
+      "headline": "Goldman downgraded, Block upgraded: Wall Street's top analyst calls",
+      "url": "https://finnhub.io/api/news?id=71cfbedbeba1f3b7748efa10f89944cfe0b1df28ab57ef8e53bdd7804a00da93"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Autonomous driving firm Autobrains eyes robotaxi growth in Europe, CEO says",
+      "url": "https://finnhub.io/api/news?id=def69d88e703165c1b0104ad77de9e19fe983abbaa4924c5bec468f525b28e49"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Dan Ives Says Upcoming Earnings Season Is A Huge Validation Moment For Big Tech — Expects Significant Outperformance Of Mag 7 Ahead",
+      "url": "https://finnhub.io/api/news?id=d1e8560f0203e36c1b1d81b521e0310316454474cc318d2adf35302be5f30f15"
     }
   ]
 }
