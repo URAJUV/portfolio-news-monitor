@@ -70,6 +70,36 @@
       "stock": "GOOGL",
       "headline": "Dan Ives Says Upcoming Earnings Season Is A Huge Validation Moment For Big Tech — Expects Significant Outperformance Of Mag 7 Ahead",
       "url": "https://finnhub.io/api/news?id=d1e8560f0203e36c1b1d81b521e0310316454474cc318d2adf35302be5f30f15"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Monolithic Power Systems shares are trading higher after Stifel maintained its Buy rating on the stock and raised its price target from $1300 to $1500.",
+      "url": "https://finnhub.io/api/news?id=3b57b0c7dd7514ef8c1daa795ed3eec0592a2b5fd811bc825795dfea389a2418"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Chinese AI Is Closing in on U.S. Rivals. That’s Good News for CrowdStrike and These 3 Stocks.",
+      "url": "https://finnhub.io/api/news?id=4b3aaa6982831672ddb08e0f13f15254b96d1f645b91095a771824c4724c10b3"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=1360633735fb738fc330c59595c3f0f40052c3306c4f5373b496cb75f3438b42"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Forget AMD And Micron — The Next Wave Of AI Winners Are The Ones Nobody Talks About",
+      "url": "https://finnhub.io/api/news?id=428b1264f5a95fff3033d23ba3a0266e70ddb43cba1d641f30f9e71ed2ae8892"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Monolithic Power Systems shares are trading higher after Stifel maintained its Buy rating on the stock and raised its price target from $1300 to $1500.",
+      "url": "https://finnhub.io/api/news?id=3b57b0c7dd7514ef8c1daa795ed3eec0592a2b5fd811bc825795dfea389a2418"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=1360633735fb738fc330c59595c3f0f40052c3306c4f5373b496cb75f3438b42"
     }
   ]
 }
