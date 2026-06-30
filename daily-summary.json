@@ -10,6 +10,11 @@
       "stock": "NFLX",
       "headline": "Comcast’s NBC Spinoff Raises Questions About Businesses’ Future",
       "url": "https://finnhub.io/api/news?id=fdb2942e762b12a6ac76f1c77e78b3fe81e1f6a57e9d07593cf2b548e7af1059"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber, Waymo end robotaxi partnership in Phoenix",
+      "url": "https://finnhub.io/api/news?id=a8d4be196e1e743b183e4ce05aa5019868a9aec0da03a66f71906886d2b1b526"
     }
   ]
 }
