@@ -75,6 +75,36 @@
       "stock": "RDDT",
       "headline": "EXCLUSIVE: Reddit Is Powering The World's AI Models — And Its Google, OpenAI Deals May Only Be The Start",
       "url": "https://finnhub.io/api/news?id=94138b10c5949103bfdd6b3f3ab6a4a1b7edc71cbbe22f51134c67fc6fe56861"
+    },
+    {
+      "stock": "TSM",
+      "headline": "AMD: Market Has Completely Misread The AI CPU Supercycle",
+      "url": "https://finnhub.io/api/news?id=ba67d929daa6328f1dfb043b73e7a2cf006a2ef796e7938df792030c9671b0f8"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Named Frost & Sullivan’s 2026 Global Enabling Technology Leader in Zero Trust Browser Security",
+      "url": "https://finnhub.io/api/news?id=d02f9f8e4a39034f54793a8ad3a8f94d55d240df0405fc55e87164ecd041bbd5"
+    },
+    {
+      "stock": "ARM",
+      "headline": "AMD: Market Has Completely Misread The AI CPU Supercycle",
+      "url": "https://finnhub.io/api/news?id=ba67d929daa6328f1dfb043b73e7a2cf006a2ef796e7938df792030c9671b0f8"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Lime raises $167M in IPO after years of teasing a public debut",
+      "url": "https://finnhub.io/api/news?id=cc42d59e287fc58008d685dc37dda718edf346dcd8b4a0dcc17bd40767927f14"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sector Update: Tech Stocks Decline Wednesday Afternoon",
+      "url": "https://finnhub.io/api/news?id=bcc64bee5aee6b52d6f6d2892357387804566077a0a59cba774fcf126b02813f"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Dow Hits Record, Meta Soars On AI-Cloud Bet: Stock Market Today",
+      "url": "https://finnhub.io/api/news?id=cc5dee1f3a72e6abbd0cdfb57cb8c548950cb6ad6d1a3c124f6f87c02c20210a"
     }
   ]
 }
