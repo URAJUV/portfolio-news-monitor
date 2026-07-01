@@ -25,6 +25,21 @@
       "stock": "UBER",
       "headline": "Uber (UBER) Stock Looks Cheap On Earnings But Weaker On Risk",
       "url": "https://finnhub.io/api/news?id=7f7a0ab6294653ffd7db62462f6451d9c21e4afcef8065aad62b7cb870bd8aea"
+    },
+    {
+      "stock": "MU",
+      "headline": "Scared of an AI stock bubble? Then don't look at this chart.",
+      "url": "https://finnhub.io/api/news?id=15c2af6a49d54b457c00e88e3b6e498310d8b542857a4630ee670553eff935b1"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Scared of an AI stock bubble? Then don't look at this chart.",
+      "url": "https://finnhub.io/api/news?id=15c2af6a49d54b457c00e88e3b6e498310d8b542857a4630ee670553eff935b1"
+    },
+    {
+      "stock": "UBER",
+      "headline": "LIME CEO Wayne Ting Explains How The Uber-Backed Bike Rental Firm Outlasted Competitors, Ahead Of IPO",
+      "url": "https://finnhub.io/api/news?id=6f0e78cba489e67dbb3962e98523f8f9de3c46085112379867c7b3c5f3f2c80d"
     }
   ]
 }
