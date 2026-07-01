@@ -105,6 +105,36 @@
       "stock": "RDDT",
       "headline": "Dow Hits Record, Meta Soars On AI-Cloud Bet: Stock Market Today",
       "url": "https://finnhub.io/api/news?id=cc5dee1f3a72e6abbd0cdfb57cb8c548950cb6ad6d1a3c124f6f87c02c20210a"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Palantir Jumps 9% on NVIDIA Sovereign-AI Deal, Palo Alto Networks Climbs 4%",
+      "url": "https://finnhub.io/api/news?id=2f2a4396fa34f624020756019633f37f21d1da517e60295ccfa267564f967975"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Meta Cloud Report Hits AI Infrastructure Stocks",
+      "url": "https://finnhub.io/api/news?id=ca3019dc899843fb984127ecac2b2dc8608bb22a6892141b7aa43d895bb6c7ac"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Meta Cloud Report Hits AI Infrastructure Stocks",
+      "url": "https://finnhub.io/api/news?id=ca3019dc899843fb984127ecac2b2dc8608bb22a6892141b7aa43d895bb6c7ac"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Robotaxi potential is 'really big': Nissan CEO on Uber partnership & autonomous demand",
+      "url": "https://finnhub.io/api/news?id=7f727b46eaa6629e37d42542cc6f95f0a18a87ec7f1cd6978c3ae67047b2a2c3"
+    },
+    {
+      "stock": "IBM",
+      "headline": "NOW Benefits From Enterprise AI Adoption: Buy, Sell, or Hold the Stock?",
+      "url": "https://finnhub.io/api/news?id=6c7cbab4f229f014c0bc39e36befe107d89292c24e831c2ec3563015cc971c20"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix gains over 3% as report refutes NBCUniversal acquisition speculation",
+      "url": "https://finnhub.io/api/news?id=960e9178c978c0840da7016d1bbe7278c3fba2711560ac1591ecfca32e71cf46"
     }
   ]
 }
