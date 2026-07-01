@@ -1,130 +1,25 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "items": [
     {
       "stock": "MU",
-      "headline": "Wall Street Tech Analyst: Micron Could 4x If the AI Cycle Lasts Through 2030",
-      "url": "https://finnhub.io/api/news?id=aecf40934b0232ee6bdd997723cfa5618c67a20a82d7ba531be53300f3950063"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Comcast’s NBC Spinoff Raises Questions About Businesses’ Future",
-      "url": "https://finnhub.io/api/news?id=fdb2942e762b12a6ac76f1c77e78b3fe81e1f6a57e9d07593cf2b548e7af1059"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber, Waymo end robotaxi partnership in Phoenix",
-      "url": "https://finnhub.io/api/news?id=a8d4be196e1e743b183e4ce05aa5019868a9aec0da03a66f71906886d2b1b526"
-    },
-    {
-      "stock": "MU",
-      "headline": "Cencora Pick of the Week at Smart Insider Following Chairman's Share Purchase",
-      "url": "https://finnhub.io/api/news?id=6da1f19181912dd63ffe08d6f250cf6fb09b3615bd9bb907a4908b31548d4916"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Here is Why SentinelOne (S) is One of the AI Stocks on Wall Street’s Radar",
-      "url": "https://finnhub.io/api/news?id=cc1a68b196724f447daaf2f79dd5e2aa6e9ac1bd736c2cb20b2d25718abe4b55"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron Hit With Price-Fixing Lawsuit: Real Collusion or Simple Supply and Demand?",
-      "url": "https://finnhub.io/api/news?id=5eea74d0c9dfef483fa7a25357806f60eaffc62e284b96eeeed43d571822048e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor Manufacturing Company Limited - Depositary Receipt (TSM) Price Target Increased by 13.92% to 496.82",
-      "url": "https://finnhub.io/api/news?id=814ed8921ccf99bbd2f9fa4d3f34ae1e58107263fc2d187cce2ca1623523b91f"
+      "headline": "Micron’s stock buybacks explained: When & why the chipmaker repurchases shares",
+      "url": "https://finnhub.io/api/news?id=c8fc4366d8c36e1f27d53a8613c06bbd8c7b6c00ae078d780126a91758e16341"
     },
     {
       "stock": "CRWD",
-      "headline": "Microsoft Expands Security Footprint: Is it the Next Revenue Pillar?",
-      "url": "https://finnhub.io/api/news?id=f910199345907f024bd4cf6e3c827b2a5a16afd95531b83b2331b755255bd94a"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Dan Ives Says Upcoming Earnings Season Is A Huge Validation Moment For Big Tech — Expects Significant Outperformance Of Mag 7 Ahead",
-      "url": "https://finnhub.io/api/news?id=d1e8560f0203e36c1b1d81b521e0310316454474cc318d2adf35302be5f30f15"
-    },
-    {
-      "stock": "COHR",
-      "headline": "AXT's China AI Opportunity: Hidden Growth Driver or Geopolitical Risk?",
-      "url": "https://finnhub.io/api/news?id=ddeca50a57d1120187e53d2ec41a407f430b0555a69b5af1e11bab84e2ad2f11"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Nvidia Isn't The Expensive AI Stock Anymore—AMD, Palantir And ARM Are",
-      "url": "https://finnhub.io/api/news?id=84df75de9b46b76a25a2f9c52cbd860f3243fb9af804241ff9aed0dfc8795532"
-    },
-    {
-      "stock": "HON",
-      "headline": "Goldman downgraded, Block upgraded: Wall Street's top analyst calls",
-      "url": "https://finnhub.io/api/news?id=71cfbedbeba1f3b7748efa10f89944cfe0b1df28ab57ef8e53bdd7804a00da93"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Autonomous driving firm Autobrains eyes robotaxi growth in Europe, CEO says",
-      "url": "https://finnhub.io/api/news?id=def69d88e703165c1b0104ad77de9e19fe983abbaa4924c5bec468f525b28e49"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Dan Ives Says Upcoming Earnings Season Is A Huge Validation Moment For Big Tech — Expects Significant Outperformance Of Mag 7 Ahead",
-      "url": "https://finnhub.io/api/news?id=d1e8560f0203e36c1b1d81b521e0310316454474cc318d2adf35302be5f30f15"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Monolithic Power Systems shares are trading higher after Stifel maintained its Buy rating on the stock and raised its price target from $1300 to $1500.",
-      "url": "https://finnhub.io/api/news?id=3b57b0c7dd7514ef8c1daa795ed3eec0592a2b5fd811bc825795dfea389a2418"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Chinese AI Is Closing in on U.S. Rivals. That’s Good News for CrowdStrike and These 3 Stocks.",
-      "url": "https://finnhub.io/api/news?id=4b3aaa6982831672ddb08e0f13f15254b96d1f645b91095a771824c4724c10b3"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=1360633735fb738fc330c59595c3f0f40052c3306c4f5373b496cb75f3438b42"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Forget AMD And Micron — The Next Wave Of AI Winners Are The Ones Nobody Talks About",
-      "url": "https://finnhub.io/api/news?id=428b1264f5a95fff3033d23ba3a0266e70ddb43cba1d641f30f9e71ed2ae8892"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Monolithic Power Systems shares are trading higher after Stifel maintained its Buy rating on the stock and raised its price target from $1300 to $1500.",
-      "url": "https://finnhub.io/api/news?id=3b57b0c7dd7514ef8c1daa795ed3eec0592a2b5fd811bc825795dfea389a2418"
+      "headline": "The AI Revolution Needs Electricity More Than Intelligence",
+      "url": "https://finnhub.io/api/news?id=8c872c586caf830f416225bb3b46e48f3a46f6bdb50bc6f5832354581c85596c"
     },
     {
       "stock": "IBM",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=1360633735fb738fc330c59595c3f0f40052c3306c4f5373b496cb75f3438b42"
+      "headline": "The GenAI Metric Accenture Stock Quietly Dropped Reveals A Much Bigger Bet",
+      "url": "https://finnhub.io/api/news?id=e59ad08cabba160c306bbc0909ce2506da8947b2a0dbff48d697217baf7bbe23"
     },
     {
-      "stock": "TSM",
-      "headline": "What's Going On With Taiwan Semiconductor Stock Tuesday?",
-      "url": "https://finnhub.io/api/news?id=5aec703f9857327394690c8c07a5636feccba01139b867dce0db4aec43b5c3cc"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Can Identity Security Become a Major Growth Driver for CrowdStrike?",
-      "url": "https://finnhub.io/api/news?id=79e00f51cf2bd34a116f6feef5294850c8e7efc2d288943448131b2714d3c217"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Investors are abandoning Mag7 stocks as AI boom transforms",
-      "url": "https://finnhub.io/api/news?id=4904725d474b0cdd8240208a11f28e1e369f4dbb396a1f2b16b14fb68a753074"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Michael Burry bets against Tesla, Nvidia in new AI bubble short positions",
-      "url": "https://finnhub.io/api/news?id=f115aabb2e4518bd584ee946a5273194f534d4f89f828e3060050f0fea10c508"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Nvidia, AMD, Intel Lead AI Chip Stock Rally as Wall Street Rebounds",
-      "url": "https://finnhub.io/api/news?id=1801a253240f737b3de5e31d30a52d80be81fbf665fc143d5a5008a9c675048c"
+      "stock": "GOOGL",
+      "headline": "SpaceX Is ‘Much More Of An AI Play’ Than A Space Company, Says Dan Ives — Here’s The Bull Case",
+      "url": "https://finnhub.io/api/news?id=24da783c10b7107a99722cbc3d80989969de87a3b1bb0a1e8c066db32e8e6cac"
     }
   ]
 }
