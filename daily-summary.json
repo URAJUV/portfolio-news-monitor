@@ -40,6 +40,41 @@
       "stock": "UBER",
       "headline": "LIME CEO Wayne Ting Explains How The Uber-Backed Bike Rental Firm Outlasted Competitors, Ahead Of IPO",
       "url": "https://finnhub.io/api/news?id=6f0e78cba489e67dbb3962e98523f8f9de3c46085112379867c7b3c5f3f2c80d"
+    },
+    {
+      "stock": "MU",
+      "headline": "Wednesday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=5c9a7cfef6c0fc975d626ccaae201391e32b905ec25080a48d19bedca5dd3bd6"
+    },
+    {
+      "stock": "TSM",
+      "headline": "What's Going on With Taiwan Semiconductor Stock Wednesday?",
+      "url": "https://finnhub.io/api/news?id=05f0c0c215ea852a821c413bdee40deaf4703662e6585f07384cc24b7eb02a9a"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Top Midday Stories: Meta Forming Cloud Business to Sell Excess AI Compute; Kroger to Buy Giant Eagle for $1.65 Billion",
+      "url": "https://finnhub.io/api/news?id=1e63694b3066f9555149df9f667ca5d38270c5422105b4113d1a0eb3fecd60d0"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Wednesday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=5c9a7cfef6c0fc975d626ccaae201391e32b905ec25080a48d19bedca5dd3bd6"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "AI EDA Market to Reach USD 15.85 Billion by 2032 with a 24.4% CAGR",
+      "url": "https://finnhub.io/api/news?id=4001feaf39e630698b92f28b2cf4f5f711706768adb67820b58596cd978e44b4"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Top Midday Stories: Meta Forming Cloud Business to Sell Excess AI Compute; Kroger to Buy Giant Eagle for $1.65 Billion",
+      "url": "https://finnhub.io/api/news?id=1e63694b3066f9555149df9f667ca5d38270c5422105b4113d1a0eb3fecd60d0"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "EXCLUSIVE: Reddit Is Powering The World's AI Models — And Its Google, OpenAI Deals May Only Be The Start",
+      "url": "https://finnhub.io/api/news?id=94138b10c5949103bfdd6b3f3ab6a4a1b7edc71cbbe22f51134c67fc6fe56861"
     }
   ]
 }
