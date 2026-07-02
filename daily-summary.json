@@ -130,6 +130,21 @@
       "stock": "IBM",
       "headline": "Global AI Orchestration Platform Market Size/Share Worth USD 72.45 Billion by 2035 at a 22.13% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
       "url": "https://finnhub.io/api/news?id=f07360b05b523ad44ea7ae2060b3141a531cf4422df0c83c2cf645b70727e447"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Arete Downgrades CrowdStrike Holdings (CRWD) Rating to Neutral From Buy",
+      "url": "https://finnhub.io/api/news?id=fbd0e3de457dec4ac999abf752aba1f643716ad86fc7236ed689a200c9f79f85"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Sector Update: Tech Stocks Fall Thursday Afternoon",
+      "url": "https://finnhub.io/api/news?id=53a59af34908081cdf4746657cdd15f515b7aefba43e20f596daeaecb861fb19"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Removes Two Leaders From AI Growth Unit",
+      "url": "https://finnhub.io/api/news?id=6df52c84f8847704fd57a6cb703efb8ea4b6b649bce122216cc3d37f3a11d857"
     }
   ]
 }
