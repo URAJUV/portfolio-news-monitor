@@ -1,140 +1,50 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "items": [
     {
       "stock": "MU",
-      "headline": "Micron’s stock buybacks explained: When & why the chipmaker repurchases shares",
-      "url": "https://finnhub.io/api/news?id=c8fc4366d8c36e1f27d53a8613c06bbd8c7b6c00ae078d780126a91758e16341"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "The AI Revolution Needs Electricity More Than Intelligence",
-      "url": "https://finnhub.io/api/news?id=8c872c586caf830f416225bb3b46e48f3a46f6bdb50bc6f5832354581c85596c"
-    },
-    {
-      "stock": "IBM",
-      "headline": "The GenAI Metric Accenture Stock Quietly Dropped Reveals A Much Bigger Bet",
-      "url": "https://finnhub.io/api/news?id=e59ad08cabba160c306bbc0909ce2506da8947b2a0dbff48d697217baf7bbe23"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "SpaceX Is ‘Much More Of An AI Play’ Than A Space Company, Says Dan Ives — Here’s The Bull Case",
-      "url": "https://finnhub.io/api/news?id=24da783c10b7107a99722cbc3d80989969de87a3b1bb0a1e8c066db32e8e6cac"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber (UBER) Stock Looks Cheap On Earnings But Weaker On Risk",
-      "url": "https://finnhub.io/api/news?id=7f7a0ab6294653ffd7db62462f6451d9c21e4afcef8065aad62b7cb870bd8aea"
-    },
-    {
-      "stock": "MU",
-      "headline": "Scared of an AI stock bubble? Then don't look at this chart.",
-      "url": "https://finnhub.io/api/news?id=15c2af6a49d54b457c00e88e3b6e498310d8b542857a4630ee670553eff935b1"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Scared of an AI stock bubble? Then don't look at this chart.",
-      "url": "https://finnhub.io/api/news?id=15c2af6a49d54b457c00e88e3b6e498310d8b542857a4630ee670553eff935b1"
-    },
-    {
-      "stock": "UBER",
-      "headline": "LIME CEO Wayne Ting Explains How The Uber-Backed Bike Rental Firm Outlasted Competitors, Ahead Of IPO",
-      "url": "https://finnhub.io/api/news?id=6f0e78cba489e67dbb3962e98523f8f9de3c46085112379867c7b3c5f3f2c80d"
-    },
-    {
-      "stock": "MU",
-      "headline": "Wednesday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=5c9a7cfef6c0fc975d626ccaae201391e32b905ec25080a48d19bedca5dd3bd6"
+      "headline": "Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move",
+      "url": "https://finnhub.io/api/news?id=3cb2c16d0f10bf8a8bd69ceb7a402f8622b81c9cb6322d722009d3dea20675f9"
     },
     {
       "stock": "TSM",
-      "headline": "What's Going on With Taiwan Semiconductor Stock Wednesday?",
-      "url": "https://finnhub.io/api/news?id=05f0c0c215ea852a821c413bdee40deaf4703662e6585f07384cc24b7eb02a9a"
+      "headline": "The Physical Limits Of AI: Where Scarcity Is Creating Opportunity",
+      "url": "https://finnhub.io/api/news?id=7cf29672f19229ad8415ba8c58e8dc297f257b3716355deef670be27aec05ede"
     },
     {
       "stock": "AMZN",
-      "headline": "Top Midday Stories: Meta Forming Cloud Business to Sell Excess AI Compute; Kroger to Buy Giant Eagle for $1.65 Billion",
-      "url": "https://finnhub.io/api/news?id=1e63694b3066f9555149df9f667ca5d38270c5422105b4113d1a0eb3fecd60d0"
+      "headline": "Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move",
+      "url": "https://finnhub.io/api/news?id=3cb2c16d0f10bf8a8bd69ceb7a402f8622b81c9cb6322d722009d3dea20675f9"
     },
     {
-      "stock": "COHR",
-      "headline": "Wednesday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=5c9a7cfef6c0fc975d626ccaae201391e32b905ec25080a48d19bedca5dd3bd6"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "AI EDA Market to Reach USD 15.85 Billion by 2032 with a 24.4% CAGR",
-      "url": "https://finnhub.io/api/news?id=4001feaf39e630698b92f28b2cf4f5f711706768adb67820b58596cd978e44b4"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Top Midday Stories: Meta Forming Cloud Business to Sell Excess AI Compute; Kroger to Buy Giant Eagle for $1.65 Billion",
-      "url": "https://finnhub.io/api/news?id=1e63694b3066f9555149df9f667ca5d38270c5422105b4113d1a0eb3fecd60d0"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "EXCLUSIVE: Reddit Is Powering The World's AI Models — And Its Google, OpenAI Deals May Only Be The Start",
-      "url": "https://finnhub.io/api/news?id=94138b10c5949103bfdd6b3f3ab6a4a1b7edc71cbbe22f51134c67fc6fe56861"
-    },
-    {
-      "stock": "TSM",
-      "headline": "AMD: Market Has Completely Misread The AI CPU Supercycle",
-      "url": "https://finnhub.io/api/news?id=ba67d929daa6328f1dfb043b73e7a2cf006a2ef796e7938df792030c9671b0f8"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Named Frost & Sullivan’s 2026 Global Enabling Technology Leader in Zero Trust Browser Security",
-      "url": "https://finnhub.io/api/news?id=d02f9f8e4a39034f54793a8ad3a8f94d55d240df0405fc55e87164ecd041bbd5"
+      "stock": "TSLA",
+      "headline": "Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move",
+      "url": "https://finnhub.io/api/news?id=3cb2c16d0f10bf8a8bd69ceb7a402f8622b81c9cb6322d722009d3dea20675f9"
     },
     {
       "stock": "ARM",
-      "headline": "AMD: Market Has Completely Misread The AI CPU Supercycle",
-      "url": "https://finnhub.io/api/news?id=ba67d929daa6328f1dfb043b73e7a2cf006a2ef796e7938df792030c9671b0f8"
+      "headline": "Arm (ARM) Stock Looks Expensive Despite Fresh Agentic AI Demand News",
+      "url": "https://finnhub.io/api/news?id=8f82de6a23b519377a9f1a1b12f9898915fbf47b5cf2f1924ff443c2dbbfdbe0"
     },
     {
-      "stock": "UBER",
-      "headline": "Lime raises $167M in IPO after years of teasing a public debut",
-      "url": "https://finnhub.io/api/news?id=cc42d59e287fc58008d685dc37dda718edf346dcd8b4a0dcc17bd40767927f14"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Sector Update: Tech Stocks Decline Wednesday Afternoon",
-      "url": "https://finnhub.io/api/news?id=bcc64bee5aee6b52d6f6d2892357387804566077a0a59cba774fcf126b02813f"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Dow Hits Record, Meta Soars On AI-Cloud Bet: Stock Market Today",
-      "url": "https://finnhub.io/api/news?id=cc5dee1f3a72e6abbd0cdfb57cb8c548950cb6ad6d1a3c124f6f87c02c20210a"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Palantir Jumps 9% on NVIDIA Sovereign-AI Deal, Palo Alto Networks Climbs 4%",
-      "url": "https://finnhub.io/api/news?id=2f2a4396fa34f624020756019633f37f21d1da517e60295ccfa267564f967975"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Meta Cloud Report Hits AI Infrastructure Stocks",
-      "url": "https://finnhub.io/api/news?id=ca3019dc899843fb984127ecac2b2dc8608bb22a6892141b7aa43d895bb6c7ac"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Meta Cloud Report Hits AI Infrastructure Stocks",
-      "url": "https://finnhub.io/api/news?id=ca3019dc899843fb984127ecac2b2dc8608bb22a6892141b7aa43d895bb6c7ac"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Robotaxi potential is 'really big': Nissan CEO on Uber partnership & autonomous demand",
-      "url": "https://finnhub.io/api/news?id=7f727b46eaa6629e37d42542cc6f95f0a18a87ec7f1cd6978c3ae67047b2a2c3"
+      "stock": "DE",
+      "headline": "Get Paid 11% To Wait For CAT Stock To Go On Sale",
+      "url": "https://finnhub.io/api/news?id=41d34e0e7ae36c2e0d16a577f954bae1012f7e528b7d0116a3c2295973efffcd"
     },
     {
       "stock": "IBM",
-      "headline": "NOW Benefits From Enterprise AI Adoption: Buy, Sell, or Hold the Stock?",
-      "url": "https://finnhub.io/api/news?id=6c7cbab4f229f014c0bc39e36befe107d89292c24e831c2ec3563015cc971c20"
+      "headline": "The One Number That Explains Oracle Stock's Entire Upside Case",
+      "url": "https://finnhub.io/api/news?id=4b026b91aacd81b93aa8f3b3f9674b2dbcdd38cc14459225d34e475505921012"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move",
+      "url": "https://finnhub.io/api/news?id=3cb2c16d0f10bf8a8bd69ceb7a402f8622b81c9cb6322d722009d3dea20675f9"
     },
     {
       "stock": "NFLX",
-      "headline": "Netflix gains over 3% as report refutes NBCUniversal acquisition speculation",
-      "url": "https://finnhub.io/api/news?id=960e9178c978c0840da7016d1bbe7278c3fba2711560ac1591ecfca32e71cf46"
+      "headline": "Hollywood director jailed for betting Netflix money on crypto",
+      "url": "https://finnhub.io/api/news?id=ae04e06ccce8823751d0d46f5779f300cdd02173893043af1579e38761916526"
     }
   ]
 }
