@@ -45,6 +45,41 @@
       "stock": "NFLX",
       "headline": "Hollywood director jailed for betting Netflix money on crypto",
       "url": "https://finnhub.io/api/news?id=ae04e06ccce8823751d0d46f5779f300cdd02173893043af1579e38761916526"
+    },
+    {
+      "stock": "MU",
+      "headline": "How to AI-Proof Your Fund Portfolio",
+      "url": "https://finnhub.io/api/news?id=76933c5eb56c441540e7d781468890b8c80bd3f892db7fd74b3e5d30d0fdb63e"
+    },
+    {
+      "stock": "TSM",
+      "headline": "6 Market Experts Sound Off On AI, Tech, Hot IPOs, And Top Stocks For 2026",
+      "url": "https://finnhub.io/api/news?id=29b6799feaf609f5f08307ce4b1b9a0bf0fe0f2c24a6c19a609429fd6e1f61f8"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Airbnb, Inc. (ABNB)’s Chesky says App can become an ‘Amazon for services’",
+      "url": "https://finnhub.io/api/news?id=66b2d3e6a5d9f58786a5732edcf6dc0530387394f51b3c6ef59c3a6ac0229f6a"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "TSLA Stock Slips Overnight: Tesla Model Y L Rumors Heat Up After ‘Long Weekend’ Tease As Investors Await Q2 Deliveries",
+      "url": "https://finnhub.io/api/news?id=1a51a4c809f846b2690b959e3a711738fa1fd16d7f349741e66d66c4d91babe0"
+    },
+    {
+      "stock": "UBER",
+      "headline": "The Pricing Crisis Clouding the AI Trade",
+      "url": "https://finnhub.io/api/news?id=f3059ba874f8e84fbfb2ccb2bdc6028f8ceaada5c9a5b6065983bd6427bf5f79"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "EU top court dismisses Google fight against record €4.1 billion EU antitrust fine",
+      "url": "https://finnhub.io/api/news?id=4734fa5f1cb41578c9e5451c4d52b883a75e2a08cde3b2ce71ec8ab385791009"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "6 Market Experts Sound Off On AI, Tech, Hot IPOs, And Top Stocks For 2026",
+      "url": "https://finnhub.io/api/news?id=29b6799feaf609f5f08307ce4b1b9a0bf0fe0f2c24a6c19a609429fd6e1f61f8"
     }
   ]
 }
