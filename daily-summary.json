@@ -80,6 +80,21 @@
       "stock": "NFLX",
       "headline": "6 Market Experts Sound Off On AI, Tech, Hot IPOs, And Top Stocks For 2026",
       "url": "https://finnhub.io/api/news?id=29b6799feaf609f5f08307ce4b1b9a0bf0fe0f2c24a6c19a609429fd6e1f61f8"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Wall Street's Blockbuster AI Stock Split of 2026 Has Arrived -- and This Supercharged Growth Stock Has Soared More Than 1,100% Since Its IPO",
+      "url": "https://finnhub.io/api/news?id=0c82bbfd037e23b04866b70e8b9c3f5ffbabdbfed0bbae68ba4c93be3939ec27"
+    },
+    {
+      "stock": "ARM",
+      "headline": "SoftBank reportedly reopens talks for $10bn loan backed by OpenAI stake",
+      "url": "https://finnhub.io/api/news?id=0088c0122662dd1841018d602d0034179526d92f9c8d71661bd4cf1c8609775f"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "South Korean government discriminated against Coupang, U.S. companies, House report finds",
+      "url": "https://finnhub.io/api/news?id=1969d53bf20327c8ebced2c1fce137a55d38289de0ec6b8f9c97bfd68052116f"
     }
   ]
 }
