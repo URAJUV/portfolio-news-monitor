@@ -95,6 +95,21 @@
       "stock": "NFLX",
       "headline": "South Korean government discriminated against Coupang, U.S. companies, House report finds",
       "url": "https://finnhub.io/api/news?id=1969d53bf20327c8ebced2c1fce137a55d38289de0ec6b8f9c97bfd68052116f"
+    },
+    {
+      "stock": "MU",
+      "headline": "Semiconductor Earnings Season Begins with AI Leaders Outpacing Peers as Valuation Concerns Loom",
+      "url": "https://finnhub.io/api/news?id=24bae746ac8b9d6689af925e316cdce01b80ca5e6ca18eba213fb7408c467b6f"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Quantum Computing Stocks Face Pivotal Week as IonQ and D-Wave Earnings Test Lofty Valuations",
+      "url": "https://finnhub.io/api/news?id=c5e04710ad2eeef3e4d5f3820dab78e89194d164ebfa20e1b0a7069372b7fcd0"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Quantum Computing Stocks Face Pivotal Week as IonQ and D-Wave Earnings Test Lofty Valuations",
+      "url": "https://finnhub.io/api/news?id=c5e04710ad2eeef3e4d5f3820dab78e89194d164ebfa20e1b0a7069372b7fcd0"
     }
   ]
 }
