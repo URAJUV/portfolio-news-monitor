@@ -145,6 +145,36 @@
       "stock": "UBER",
       "headline": "Uber Removes Two Leaders From AI Growth Unit",
       "url": "https://finnhub.io/api/news?id=6df52c84f8847704fd57a6cb703efb8ea4b6b649bce122216cc3d37f3a11d857"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Palantir stock jumps on analyst upgrade 'as profits have soared'",
+      "url": "https://finnhub.io/api/news?id=804946501fcadd996dfeec730e195c1dfcf81ee2d4fb805802f6b4c0efc50146"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Anthropic AI Ban Reversal Raises Fresh Investor Questions",
+      "url": "https://finnhub.io/api/news?id=48937d92ae94ada9e781587c3abe6e74a423b7062fbcaf82121cde979028c328"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=afc6f972edca8e59c70f0dd58bf9394983a07e6f89b0020f28d80fa3ace38c75"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell International's Q2 2026 Earnings: What to Expect",
+      "url": "https://finnhub.io/api/news?id=011ad3d5b8caf2845c04dc4607430cbbd6fd43d6c062ec6cb09bc1786eb9fbf1"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=6bea8d5ea8e9e81edb279598dd78a3d9121417ec6dffb7605ddacdfe14d13563"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=afc6f972edca8e59c70f0dd58bf9394983a07e6f89b0020f28d80fa3ace38c75"
     }
   ]
 }
