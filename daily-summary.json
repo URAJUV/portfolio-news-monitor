@@ -55,6 +55,41 @@
       "stock": "NFLX",
       "headline": "Netflix (NFLX) Is Up 9.5% After AI Ad Tie-Up With Omnicom Media Group - Has The Bull Case Changed?",
       "url": "https://finnhub.io/api/news?id=129de8ed6e8ac1f98e1af8d6a14180646d28676b23ab7005ad5179b8e838a159"
+    },
+    {
+      "stock": "MU",
+      "headline": "Michael Burry Shorts Micron, Adding to His NVIDIA and Applied Materials Short Bets Against Chip Stocks",
+      "url": "https://finnhub.io/api/news?id=7f1000e4a502b2fc99d82b99a20193a6fd3e17b6c0b218c9269f68c714afca8d"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "The Bull Case For Airbnb (ABNB) Could Change Following Its AI-Powered Shift Toward an ‘Amazon for Services’",
+      "url": "https://finnhub.io/api/news?id=becf76d6ca20cc332e9ba32a090cbb9a5f2a714787627602fd56985aeda62834"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Dow Jones Futures: Techs Rebound After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
+      "url": "https://finnhub.io/api/news?id=f29bf872ce4e799318dc82aba51e8c24832d308a23477a31b577e35fd3d81aaf"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings' Robust Licensing Business Drives AI-Fueled Growth",
+      "url": "https://finnhub.io/api/news?id=b73324c860a9625c851d8c9a4c87acdf637ea173fbc52526267e11dde2dd3ec0"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Tokenmaxxing is out, but companies are still spending on AI. What's changed?",
+      "url": "https://finnhub.io/api/news?id=2b5dad17df54697e7c5456b0c66d4082a6a86ab811ffa8030f8b1590b4791c22"
+    },
+    {
+      "stock": "DE",
+      "headline": "Is Deere (DE) Stock Reasonable Or Rich After Raised Guidance?",
+      "url": "https://finnhub.io/api/news?id=7cb57fb453c2133e973073531a0d4a88a6469bb494991df34a97182d60668596"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Forget Hewlett Packard Enterprise: 1 Dividend-Rich Tech Giant to Buy Hand Over Fist on the Structural Pivot",
+      "url": "https://finnhub.io/api/news?id=d842ba4b25d55910a13c3536c73f2dfab6450133be532addc7e3fe20b99a0f2e"
     }
   ]
 }
