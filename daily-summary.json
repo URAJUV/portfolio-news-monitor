@@ -20,6 +20,16 @@
       "stock": "DE",
       "headline": "Truist Securities Maintains Buy on Deere, Raises Price Target to $812",
       "url": "https://finnhub.io/api/news?id=6557a5b025ac51553a1264d270f0344a8c0e8049f1c138963c7206aa8e7b3678"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Walmart and Amazon remain at the top of US retail in 2026 rankings",
+      "url": "https://finnhub.io/api/news?id=41ab6c4a1c92c29f460314d1fa111734b6768c2bc453b2edc2f1c03272251731"
+    },
+    {
+      "stock": "UBER",
+      "headline": "From Punch Cards To Tokens: Some Thoughts On AI Pricing",
+      "url": "https://finnhub.io/api/news?id=0e9ba25fe3355c29261c1a666ca9beef0245cbd38beede41c83b27d641fbe595"
     }
   ]
 }
