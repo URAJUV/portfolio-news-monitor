@@ -30,6 +30,31 @@
       "stock": "UBER",
       "headline": "From Punch Cards To Tokens: Some Thoughts On AI Pricing",
       "url": "https://finnhub.io/api/news?id=0e9ba25fe3355c29261c1a666ca9beef0245cbd38beede41c83b27d641fbe595"
+    },
+    {
+      "stock": "MU",
+      "headline": "This Week In AI Chips - Blockchain Meets Stocks With Onchain Tokenization Trends",
+      "url": "https://finnhub.io/api/news?id=921923678e349f755dc283f59737135198f9286edc0a35506a384ecc66f7859e"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Dow Jones Futures Fall Techs Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
+      "url": "https://finnhub.io/api/news?id=8672db719454b9e9dceb42dcc875325376da479a7bd644de40df3597d049c69b"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings: The Valuation Is Ahead Of The Story (Rating Downgrade)",
+      "url": "https://finnhub.io/api/news?id=88b21e7031feb7574d152d32120dfcb68cb4eec96b4cf04c049065929d1b7b57"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "This Week In AI Chips - Blockchain Meets Stocks With Onchain Tokenization Trends",
+      "url": "https://finnhub.io/api/news?id=921923678e349f755dc283f59737135198f9286edc0a35506a384ecc66f7859e"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix (NFLX) Is Up 9.5% After AI Ad Tie-Up With Omnicom Media Group - Has The Bull Case Changed?",
+      "url": "https://finnhub.io/api/news?id=129de8ed6e8ac1f98e1af8d6a14180646d28676b23ab7005ad5179b8e838a159"
     }
   ]
 }
