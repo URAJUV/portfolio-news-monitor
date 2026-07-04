@@ -60,6 +60,21 @@
       "stock": "UBER",
       "headline": "Is Amazon.com, Inc. (AMZN) One of the Best AI and Technology Stocks to Buy Now?",
       "url": "https://finnhub.io/api/news?id=e7fb9ff81d9114c33ec41f20767cab6358e7f5c70b935d17269c2a2e6d791317"
+    },
+    {
+      "stock": "MU",
+      "headline": "Jim Cramer Believes “Micron’s Become a Secular Growth Story, Not a Cyclical Story”",
+      "url": "https://finnhub.io/api/news?id=4f8e34a82730dea8f0745cf1efc5caf5833854df468ce717d74505950009a737"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Robert W. Baird Maintains Buy Rating on Palo Alto Networks (PANW) Stock",
+      "url": "https://finnhub.io/api/news?id=77db09e967a7a307f7b00ac796df66805f97164361b14889ca22bbf17e894a9c"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix: Forget Subscriber Growth, AI Is The New Investment Narrative",
+      "url": "https://finnhub.io/api/news?id=edeeda48d97825e957497780934ad2867a2a68aa7e1d685608e4090209173a20"
     }
   ]
 }
