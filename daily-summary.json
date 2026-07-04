@@ -40,6 +40,16 @@
       "stock": "TSLA",
       "headline": "Rocket Lab Announces a Massive $8 Billion Satellite Acquisition. Now What?",
       "url": "https://finnhub.io/api/news?id=51a1b3cf2b9e30ec33860780c943f1ac9a616e8e6eca8db258d4cc92fc883e7c"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon, Walmart and Other Large Employers Could Face New Costs As New Jersey Targets Companies With Medicaid Workers— Will Other States Follow?",
+      "url": "https://finnhub.io/api/news?id=07ac3e3dd4904a4d454cb6bce6e1fd0c299fdcfe0e29a140b062c4828d1f1fb9"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet Officially Joins the Dow. These 3 Dow Dividend Stocks Are Better Buys for July.",
+      "url": "https://finnhub.io/api/news?id=7ba284b8deb516f2d21052297424cf0fb9c34a1dee5460aefc9063b7cf634ff1"
     }
   ]
 }
