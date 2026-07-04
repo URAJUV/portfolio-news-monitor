@@ -50,6 +50,16 @@
       "stock": "GOOGL",
       "headline": "Alphabet Officially Joins the Dow. These 3 Dow Dividend Stocks Are Better Buys for July.",
       "url": "https://finnhub.io/api/news?id=7ba284b8deb516f2d21052297424cf0fb9c34a1dee5460aefc9063b7cf634ff1"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Joins OpenID Foundation to Advance Risk-Aware Identity Security",
+      "url": "https://finnhub.io/api/news?id=b09ecfd04276302b79da420917656cfe3616b22525c53c46a6608220afae8e79"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Is Amazon.com, Inc. (AMZN) One of the Best AI and Technology Stocks to Buy Now?",
+      "url": "https://finnhub.io/api/news?id=e7fb9ff81d9114c33ec41f20767cab6358e7f5c70b935d17269c2a2e6d791317"
     }
   ]
 }
