@@ -30,6 +30,16 @@
       "stock": "NFLX",
       "headline": "Netflix Gears Up to Report Q2 Earnings: Buy, Sell or Hold the Stock?",
       "url": "https://finnhub.io/api/news?id=fe158b42155fd22e7445e146bec25fd9fc44f9bdf7cc5b58cc80806fe7ba70b2"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron vs. Intel: Which AI Stock Is the Better Buy?",
+      "url": "https://finnhub.io/api/news?id=b362623c292469b47cb18986a769952e9e35c3a5274cc542adeb8b331d57f750"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Rocket Lab Announces a Massive $8 Billion Satellite Acquisition. Now What?",
+      "url": "https://finnhub.io/api/news?id=51a1b3cf2b9e30ec33860780c943f1ac9a616e8e6eca8db258d4cc92fc883e7c"
     }
   ]
 }
