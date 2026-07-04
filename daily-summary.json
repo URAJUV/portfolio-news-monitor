@@ -1,160 +1,20 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "Taiwan Says No US Chip Push Can Match Taiwan Semiconductor's Home Advantage",
-      "url": "https://finnhub.io/api/news?id=810eae6e07743de00efbcc2ab6c67c50be27ed8a9f26d9b7806798548d12c5b2"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent (COHR) Is Down 6.1% After Shift Into Russell Growth Benchmarks Amid AI Optics Reset",
-      "url": "https://finnhub.io/api/news?id=22762b2dc137cd4fa5e4e9f1c1d5979f89b98855439dab89a798fa5d594b494b"
-    },
-    {
-      "stock": "ARM",
-      "headline": "SoftBank Reopens Talks for $10 Billion Loan Backed by OpenAI Stake After Adding Repayment Guarantee to Ease Banks' Valuation Concerns: Report",
-      "url": "https://finnhub.io/api/news?id=4af100c55c13d3c904e97d1b527de56490eced11e8fb1991cf64ab7289482453"
-    },
-    {
-      "stock": "DE",
-      "headline": "Truist Securities Maintains Buy on Deere, Raises Price Target to $812",
-      "url": "https://finnhub.io/api/news?id=6557a5b025ac51553a1264d270f0344a8c0e8049f1c138963c7206aa8e7b3678"
+      "stock": "MU",
+      "headline": "Jim Cramer gets Micron CEO to reveal what's next for AI chips",
+      "url": "https://finnhub.io/api/news?id=2b5159da5fcd347190104126bc9dcad7be8bfade4df6218d439822c2fbfdf480"
     },
     {
       "stock": "AMZN",
-      "headline": "Walmart and Amazon remain at the top of US retail in 2026 rankings",
-      "url": "https://finnhub.io/api/news?id=41ab6c4a1c92c29f460314d1fa111734b6768c2bc453b2edc2f1c03272251731"
-    },
-    {
-      "stock": "UBER",
-      "headline": "From Punch Cards To Tokens: Some Thoughts On AI Pricing",
-      "url": "https://finnhub.io/api/news?id=0e9ba25fe3355c29261c1a666ca9beef0245cbd38beede41c83b27d641fbe595"
-    },
-    {
-      "stock": "MU",
-      "headline": "This Week In AI Chips - Blockchain Meets Stocks With Onchain Tokenization Trends",
-      "url": "https://finnhub.io/api/news?id=921923678e349f755dc283f59737135198f9286edc0a35506a384ecc66f7859e"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Dow Jones Futures Fall Techs Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
-      "url": "https://finnhub.io/api/news?id=8672db719454b9e9dceb42dcc875325376da479a7bd644de40df3597d049c69b"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings: The Valuation Is Ahead Of The Story (Rating Downgrade)",
-      "url": "https://finnhub.io/api/news?id=88b21e7031feb7574d152d32120dfcb68cb4eec96b4cf04c049065929d1b7b57"
+      "headline": "Which Retailer Can Deliver My Order the Fastest?",
+      "url": "https://finnhub.io/api/news?id=1fd0237f86d7d9daeb75df2f923b7fba040f65d8fa86afc53d7fbb705bc98424"
     },
     {
       "stock": "GOOGL",
-      "headline": "This Week In AI Chips - Blockchain Meets Stocks With Onchain Tokenization Trends",
-      "url": "https://finnhub.io/api/news?id=921923678e349f755dc283f59737135198f9286edc0a35506a384ecc66f7859e"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix (NFLX) Is Up 9.5% After AI Ad Tie-Up With Omnicom Media Group - Has The Bull Case Changed?",
-      "url": "https://finnhub.io/api/news?id=129de8ed6e8ac1f98e1af8d6a14180646d28676b23ab7005ad5179b8e838a159"
-    },
-    {
-      "stock": "MU",
-      "headline": "Michael Burry Shorts Micron, Adding to His NVIDIA and Applied Materials Short Bets Against Chip Stocks",
-      "url": "https://finnhub.io/api/news?id=7f1000e4a502b2fc99d82b99a20193a6fd3e17b6c0b218c9269f68c714afca8d"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "The Bull Case For Airbnb (ABNB) Could Change Following Its AI-Powered Shift Toward an ‘Amazon for Services’",
-      "url": "https://finnhub.io/api/news?id=becf76d6ca20cc332e9ba32a090cbb9a5f2a714787627602fd56985aeda62834"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Dow Jones Futures: Techs Rebound After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
-      "url": "https://finnhub.io/api/news?id=f29bf872ce4e799318dc82aba51e8c24832d308a23477a31b577e35fd3d81aaf"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings' Robust Licensing Business Drives AI-Fueled Growth",
-      "url": "https://finnhub.io/api/news?id=b73324c860a9625c851d8c9a4c87acdf637ea173fbc52526267e11dde2dd3ec0"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Tokenmaxxing is out, but companies are still spending on AI. What's changed?",
-      "url": "https://finnhub.io/api/news?id=2b5dad17df54697e7c5456b0c66d4082a6a86ab811ffa8030f8b1590b4791c22"
-    },
-    {
-      "stock": "DE",
-      "headline": "Is Deere (DE) Stock Reasonable Or Rich After Raised Guidance?",
-      "url": "https://finnhub.io/api/news?id=7cb57fb453c2133e973073531a0d4a88a6469bb494991df34a97182d60668596"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Forget Hewlett Packard Enterprise: 1 Dividend-Rich Tech Giant to Buy Hand Over Fist on the Structural Pivot",
-      "url": "https://finnhub.io/api/news?id=d842ba4b25d55910a13c3536c73f2dfab6450133be532addc7e3fe20b99a0f2e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Here’s How Much You Would Have Made Owning Taiwan Semiconductor Stock In The Last 5 Years",
-      "url": "https://finnhub.io/api/news?id=897ab11bf1681f4de25d8fee22d8c9d85c63efffeffbdee22b329094e01ee4bf"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Why Is CrowdStrike (CRWD) Up 7.9% Since Last Earnings Report?",
-      "url": "https://finnhub.io/api/news?id=da8564141fb293731a39e1e6d743002f017d9a98385664cfd45046a0e2682696"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "3 Core Artificial Intelligence (AI) Market Leaders to Buy with $1,000 Right Now and Hold for the Next 20 Years",
-      "url": "https://finnhub.io/api/news?id=dae891707159843fd05836a455bb3e8dbf27059e0fad77a6347226115191f8a8"
-    },
-    {
-      "stock": "COHR",
-      "headline": "This AI Stock Beat Nvidia by 200%—Then Zuckerberg Sparked a 17% Sell-Off",
-      "url": "https://finnhub.io/api/news?id=e3a3babad131d6b4a9772f163940789e73fca40c8781189baf0ab1fbbecfcc50"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Meet the Major Artificial Intelligence (AI) CPU Player That Just Joined Nvidia, Tesla, and Palantir as One of the Most Popular Stocks on Robinhood",
-      "url": "https://finnhub.io/api/news?id=9396aadbda353e75df74740995ebcb9c370d18dd35d7f0fcc6f68b566b6e754d"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Tesla Joins Uber in Putting the Brakes on Employee AI Spending",
-      "url": "https://finnhub.io/api/news?id=7b5a0b890b3adb4c7e590649fd859e7ae937cd308a7ad228577c380daf354223"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "This AI Stock Beat Nvidia by 200%—Then Zuckerberg Sparked a 17% Sell-Off",
-      "url": "https://finnhub.io/api/news?id=e3a3babad131d6b4a9772f163940789e73fca40c8781189baf0ab1fbbecfcc50"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Meta's AI Payoff Timeline Looks Messier",
-      "url": "https://finnhub.io/api/news?id=9a5d67994cf92da0dc6ab886a897b075b8b29095d09dcf4071371aa8ec888d6b"
-    },
-    {
-      "stock": "MU",
-      "headline": "Better Artificial Intelligence (AI) Stock: Alphabet vs. Micron Technology (the Winner May Surprise You)",
-      "url": "https://finnhub.io/api/news?id=1e0f26b9deda69b525c629fca5e4b703cf852d0f9f3f12b7123de6168ef9f4af"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Early Snowflake Investor Nails a 50% Rebound That May Only Be Warming Up",
-      "url": "https://finnhub.io/api/news?id=5fbb1be6469f9120cb1ae4b3c1f1290b56561dd7b2dd28a148c0b9d4f777e8ee"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
-      "url": "https://finnhub.io/api/news?id=42caf97ca442208dddaca6df1716d1774e29504f50d3c7ffa3c93e2594115927"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings: Agentic Silicon Arbitrage Eclipsed By SoftBank Liquidation Threat (Rating Downgrade)",
-      "url": "https://finnhub.io/api/news?id=7852fdb043137e9c01d54236eb48883f9ab6d57db8683e60b63de7a7dd40428d"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Better Artificial Intelligence (AI) Stock: Alphabet vs. Micron Technology (the Winner May Surprise You)",
-      "url": "https://finnhub.io/api/news?id=1e0f26b9deda69b525c629fca5e4b703cf852d0f9f3f12b7123de6168ef9f4af"
+      "headline": "Forget College? The AI Boom Is Creating a New Generation of Six-Figure Trade Jobs",
+      "url": "https://finnhub.io/api/news?id=950caecfd4f9f16c7577696355f3f03ac444202c25e1a2423546cff03c96f7dd"
     }
   ]
 }
