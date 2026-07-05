@@ -1,4 +1,25 @@
 {
   "date": "2026-07-05",
-  "items": []
+  "items": [
+    {
+      "stock": "MU",
+      "headline": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?",
+      "url": "https://finnhub.io/api/news?id=5e517e07573d9ba553d151d73de1d3e66eba8cfc3d48f4198e3eec314020ab95"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Hers’s Why NVIDIA (NVDA) is One of the Best AI and Technology Stocks to Buy Now",
+      "url": "https://finnhub.io/api/news?id=3557a3c8ca9f33ce4ec05d1cc6e2a825a8088bfb1455acd5bc9d0fcc72ae1198"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?",
+      "url": "https://finnhub.io/api/news?id=5e517e07573d9ba553d151d73de1d3e66eba8cfc3d48f4198e3eec314020ab95"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Reddit (RDDT) Eyes Higher AI Data Fees And Launches Shopping Ad Tools",
+      "url": "https://finnhub.io/api/news?id=cebab199f7b112d669277563aae10dc531b4994137e8eb5b339d30a1f3fe05e9"
+    }
+  ]
 }
