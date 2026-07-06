@@ -1,60 +1,25 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "items": [
     {
-      "stock": "MU",
-      "headline": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?",
-      "url": "https://finnhub.io/api/news?id=5e517e07573d9ba553d151d73de1d3e66eba8cfc3d48f4198e3eec314020ab95"
-    },
-    {
       "stock": "AMZN",
-      "headline": "Hers’s Why NVIDIA (NVDA) is One of the Best AI and Technology Stocks to Buy Now",
-      "url": "https://finnhub.io/api/news?id=3557a3c8ca9f33ce4ec05d1cc6e2a825a8088bfb1455acd5bc9d0fcc72ae1198"
+      "headline": "Big Tech’s $3 Trillion Struggle to Secure Enough Electricity",
+      "url": "https://finnhub.io/api/news?id=4e9e7c60088a15b355261a9db5e50c59ddb6715d6558b1fc7834f2239b24637e"
     },
     {
       "stock": "TSLA",
-      "headline": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?",
-      "url": "https://finnhub.io/api/news?id=5e517e07573d9ba553d151d73de1d3e66eba8cfc3d48f4198e3eec314020ab95"
+      "headline": "A More Than 80% Chance of a Tesla and SpaceX Merger? It Could Be a Game Changer.",
+      "url": "https://finnhub.io/api/news?id=33772bba265b234ace217835e1953e5b7d3876e2f52402bc6a3af3fffb37f524"
+    },
+    {
+      "stock": "IBM",
+      "headline": "International Business Machines (IBM) Joins Hands With Deloitte and Red Hat Against Automated Cyberattacks",
+      "url": "https://finnhub.io/api/news?id=98bf67f53423754de6ed600d18e7f70bc69df11882086df9aa95e7f250c77aff"
     },
     {
       "stock": "GOOGL",
-      "headline": "Reddit (RDDT) Eyes Higher AI Data Fees And Launches Shopping Ad Tools",
-      "url": "https://finnhub.io/api/news?id=cebab199f7b112d669277563aae10dc531b4994137e8eb5b339d30a1f3fe05e9"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron Stock Investors Just Got Good News From Wall Street and Nvidia CEO Jensen Huang",
-      "url": "https://finnhub.io/api/news?id=95d7a5512eca648a010abff3676b4cb2028483fd47adc51bcd67e28f30b99672"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Rivian Just Raised Its 2026 Outlook While Tesla Stock Stumbled. Is the Electric Vehicle Underdog Finally a Buy?",
-      "url": "https://finnhub.io/api/news?id=117910544e259fdf1ef4a162741c79985c70fd679bd1044c3d49f089a54e6881"
-    },
-    {
-      "stock": "MU",
-      "headline": "Why Michael Burry’s Massive Bet Against Micron Could Be His Biggest Mistake Yet",
-      "url": "https://finnhub.io/api/news?id=bf2449a3ea8afc099e8f07b2ddd89b173453eee29766a5438bb64fc9d0f4e0fc"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
-      "url": "https://finnhub.io/api/news?id=159f07db815f46c0ac533f023de487ece50ed91dec456296dceff37c6fc57d24"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
-      "url": "https://finnhub.io/api/news?id=159f07db815f46c0ac533f023de487ece50ed91dec456296dceff37c6fc57d24"
-    },
-    {
-      "stock": "MU",
-      "headline": "Forget Micron? This New AI Memory Stock Could Be the Best Buy of the Decade",
-      "url": "https://finnhub.io/api/news?id=593d114f245e4253dc0da941d6a3085697d39951b733e68ee5122d8094e5bfbe"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Prediction: This Artificial Intelligence (AI) Stock Could Double Before 2026 Ends",
-      "url": "https://finnhub.io/api/news?id=5b4bd32f1ac573c71e1718675dd3e555a51d99da7dc78f39c8c677c6a3f58fa5"
+      "headline": "Big Tech’s $3 Trillion Struggle to Secure Enough Electricity",
+      "url": "https://finnhub.io/api/news?id=4e9e7c60088a15b355261a9db5e50c59ddb6715d6558b1fc7834f2239b24637e"
     }
   ]
 }
