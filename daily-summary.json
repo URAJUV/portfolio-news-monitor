@@ -35,6 +35,16 @@
       "stock": "GOOGL",
       "headline": "3 of Wall Street’s Favorite Stocks to Target This Week",
       "url": "https://finnhub.io/api/news?id=fb00a77f1691107dfe35ddadbace53b127dc591e60e30788b1be420da4cdcc68"
+    },
+    {
+      "stock": "TSM",
+      "headline": "After Apple, Intel Raises Chip Prices by Up to $50, Citing 'Market Dynamics'",
+      "url": "https://finnhub.io/api/news?id=c494e6706a91a668506399ca12b49420621b79eb5643ca92784eab5302ef49cd"
+    },
+    {
+      "stock": "IBM",
+      "headline": "4 of Bank of America’s Top US Q3 Picks Pay Dividends With Double-Digit Upside Potential",
+      "url": "https://finnhub.io/api/news?id=db29b8354cb443d3f6962cab1c446337b0f687258df73535869af98c26b46214"
     }
   ]
 }
