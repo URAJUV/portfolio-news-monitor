@@ -20,6 +20,21 @@
       "stock": "GOOGL",
       "headline": "Big Tech’s $3 Trillion Struggle to Secure Enough Electricity",
       "url": "https://finnhub.io/api/news?id=4e9e7c60088a15b355261a9db5e50c59ddb6715d6558b1fc7834f2239b24637e"
+    },
+    {
+      "stock": "HON",
+      "headline": "Solstice, Element Solutions weigh $27 billion merger, FT reports",
+      "url": "https://finnhub.io/api/news?id=6a8cf3003b51a6cb9894f8168fc17c736b848d0860d08a871429bd7e501c4b7c"
+    },
+    {
+      "stock": "DE",
+      "headline": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+      "url": "https://finnhub.io/api/news?id=1e1528f165ef3d0b0fdfb1b266e86841aabe90d7a0f6f8c949b08bb0df3f33cd"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "3 of Wall Street’s Favorite Stocks to Target This Week",
+      "url": "https://finnhub.io/api/news?id=fb00a77f1691107dfe35ddadbace53b127dc591e60e30788b1be420da4cdcc68"
     }
   ]
 }
