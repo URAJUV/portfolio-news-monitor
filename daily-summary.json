@@ -45,6 +45,46 @@
       "stock": "IBM",
       "headline": "4 of Bank of America’s Top US Q3 Picks Pay Dividends With Double-Digit Upside Potential",
       "url": "https://finnhub.io/api/news?id=db29b8354cb443d3f6962cab1c446337b0f687258df73535869af98c26b46214"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Surges 5%, Palo Alto and Okta Gain 4% as Cybersecurity Stocks Rally on Analyst Upgrades",
+      "url": "https://finnhub.io/api/news?id=b7099b8b7d455bebf0434085da53e18ca319e522fe2ecb9a9bc07f6979dc38a7"
+    },
+    {
+      "stock": "HON",
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=aacc08c69cab6b9db8a0b9bbabb6718315106d78c1d7f115fc1eb8077d774c13"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Japanese Car Makers Rally on Weak Yen; Hyundai and Kia Misstep ",
+      "url": "https://finnhub.io/api/news?id=293bcd76a1dde50ef2cac14bf498bb712b9bc6c685e35af0746518af45baba53"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Sector Update: Consumer Stocks Mixed in Afternoon Trading",
+      "url": "https://finnhub.io/api/news?id=1cf519df1e04545a0a399006987dfb4d7b8a928a24111711bf58a02ca511ed2d"
+    },
+    {
+      "stock": "DE",
+      "headline": "LNN Q3 Earnings Beat Estimates, Revenues Miss on Irrigation Weakness",
+      "url": "https://finnhub.io/api/news?id=20c41e388fe138adb45ccac07ee6b8f3a7917b069a5c20f14ae255ea6a01f52c"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Update: Nasdaq, S&P 500 Advance Amid Gains in Chipmakers While Crude Oil Slips",
+      "url": "https://finnhub.io/api/news?id=b48bf366f5478dd13b461a12006b896d318f5779894fe2158c9657bd58307892"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=aacc08c69cab6b9db8a0b9bbabb6718315106d78c1d7f115fc1eb8077d774c13"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "US Tech Sector Pushes Back Against UK’s Child Safety Social Media Regulations",
+      "url": "https://finnhub.io/api/news?id=c5202e5f5cb2870db6b18c261948e0b7b1312d81ce97776d44f709aea03053f9"
     }
   ]
 }
