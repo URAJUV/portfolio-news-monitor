@@ -85,6 +85,36 @@
       "stock": "RDDT",
       "headline": "US Tech Sector Pushes Back Against UK’s Child Safety Social Media Regulations",
       "url": "https://finnhub.io/api/news?id=c5202e5f5cb2870db6b18c261948e0b7b1312d81ce97776d44f709aea03053f9"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Which Semiconductor ETF Is Winning The AI Race In 2026?",
+      "url": "https://finnhub.io/api/news?id=575e73367e2a1b06432724ef5497f02276144fb433453faa5227275b7bab6d00"
+    },
+    {
+      "stock": "ARM",
+      "headline": "UBS Remains Bullish on Arm Holdings (ARM) – Here’s Why",
+      "url": "https://finnhub.io/api/news?id=af3fe0cafc768f864f35cfa6ca3e0325a506b00bd7c8b3280409e4874372845c"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell (HON) Stock Looks Fairly Valued After Its 46% Fall",
+      "url": "https://finnhub.io/api/news?id=0097352f30d1d047220fff9ac579d64cf5c7fd4307bb3acd7b1bba0d9283a0f8"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Corgi's ETF Pack Grows Yet Again with 24 New Leveraged and Buffer Launches",
+      "url": "https://finnhub.io/api/news?id=f2bc38bc06809e106b0265d7a19b84dd14a39e6513fcddd2634c2db0d3e84781"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Stock Market Today, July 6: Southeast Asian Mobility Upstart Grab Falls as Uber CEO Exits Board",
+      "url": "https://finnhub.io/api/news?id=1b28698ae6f1a3e7f706d087132148735d7035682055675e4e21a5396c7ca4b4"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Update: US Equity Indexes Advance as Communication Services, Technology Top Sector Charts While Crude Oil Trades Steady",
+      "url": "https://finnhub.io/api/news?id=01ed853bc45d97a529e6b5c98e54119e8a7d4b0fe086943221c8755aa0092460"
     }
   ]
 }
