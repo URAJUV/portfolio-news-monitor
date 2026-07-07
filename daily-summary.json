@@ -105,6 +105,46 @@
       "stock": "NFLX",
       "headline": "Behind Xbox’s Big Layoffs, a Streaming Strategy That Failed",
       "url": "https://finnhub.io/api/news?id=a90e2e3efebb1d1fa7d82ff7460a17e3a9282bab940c714f17b5e0b1d89e1d19"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Sees 5x AIDR Demand As Identity Push Broadens Its Platform",
+      "url": "https://finnhub.io/api/news?id=fda261ed0cf282a0645ac1a6a7961122512aa51764bf0fb729bfc09ceb2e4848"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon Stocks Climbs As AI Push Drives $25 Billion Bond Sale",
+      "url": "https://finnhub.io/api/news?id=14a2f1ef550d848b1227b8a50826f59391fad16b3c6dd210aad9425077f91183"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Here's Why You Should Retain Paychex Stock in Your Portfolio",
+      "url": "https://finnhub.io/api/news?id=58b6e827828a1e8080ddb8babbfcdf983d881a8a735ff791b038f5d58dcc79ed"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys Could Still Be One of the Smartest AI Stocks to Buy in 2026",
+      "url": "https://finnhub.io/api/news?id=45d177ea74d8b7cf8292b15ec6bb1c1fa1bf93be38f916990ed52949f934d27c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Veteran Bank Revamps Tesla Stock Price Target on Potential SpaceX Merger",
+      "url": "https://finnhub.io/api/news?id=fd55b33d009ff946a7bc3f5311a4cdf4a1b9900499091b17aec0acc8f30a8f5e"
+    },
+    {
+      "stock": "HON",
+      "headline": "Shares of companies in the industrial sector are trading higher following President Trump's decision to implement a 90-day pause on reciprocal tariffs.",
+      "url": "https://finnhub.io/api/news?id=4269f96e35806b5f290bb1121ae05888b81b0999153de7f1bb55a12d6736c473"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Michael Burry Fires Back at AI Bear Critic: 'Most People Think in Three Dimensions. Bears Think in Six'",
+      "url": "https://finnhub.io/api/news?id=ffdbdc8ffd888292c184cfdd0ad08349582231d0ae3a045325a39024b86591e1"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=b13bef63c29359122fc380e23aabeb419db03a166f44fceb35b8fda2e6b3a635"
     }
   ]
 }
