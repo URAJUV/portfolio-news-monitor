@@ -1,120 +1,20 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "items": [
     {
-      "stock": "AMZN",
-      "headline": "Big Tech’s $3 Trillion Struggle to Secure Enough Electricity",
-      "url": "https://finnhub.io/api/news?id=4e9e7c60088a15b355261a9db5e50c59ddb6715d6558b1fc7834f2239b24637e"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "A More Than 80% Chance of a Tesla and SpaceX Merger? It Could Be a Game Changer.",
-      "url": "https://finnhub.io/api/news?id=33772bba265b234ace217835e1953e5b7d3876e2f52402bc6a3af3fffb37f524"
-    },
-    {
-      "stock": "IBM",
-      "headline": "International Business Machines (IBM) Joins Hands With Deloitte and Red Hat Against Automated Cyberattacks",
-      "url": "https://finnhub.io/api/news?id=98bf67f53423754de6ed600d18e7f70bc69df11882086df9aa95e7f250c77aff"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Big Tech’s $3 Trillion Struggle to Secure Enough Electricity",
-      "url": "https://finnhub.io/api/news?id=4e9e7c60088a15b355261a9db5e50c59ddb6715d6558b1fc7834f2239b24637e"
-    },
-    {
-      "stock": "HON",
-      "headline": "Solstice, Element Solutions weigh $27 billion merger, FT reports",
-      "url": "https://finnhub.io/api/news?id=6a8cf3003b51a6cb9894f8168fc17c736b848d0860d08a871429bd7e501c4b7c"
-    },
-    {
-      "stock": "DE",
-      "headline": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
-      "url": "https://finnhub.io/api/news?id=1e1528f165ef3d0b0fdfb1b266e86841aabe90d7a0f6f8c949b08bb0df3f33cd"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "3 of Wall Street’s Favorite Stocks to Target This Week",
-      "url": "https://finnhub.io/api/news?id=fb00a77f1691107dfe35ddadbace53b127dc591e60e30788b1be420da4cdcc68"
-    },
-    {
-      "stock": "TSM",
-      "headline": "After Apple, Intel Raises Chip Prices by Up to $50, Citing 'Market Dynamics'",
-      "url": "https://finnhub.io/api/news?id=c494e6706a91a668506399ca12b49420621b79eb5643ca92784eab5302ef49cd"
-    },
-    {
-      "stock": "IBM",
-      "headline": "4 of Bank of America’s Top US Q3 Picks Pay Dividends With Double-Digit Upside Potential",
-      "url": "https://finnhub.io/api/news?id=db29b8354cb443d3f6962cab1c446337b0f687258df73535869af98c26b46214"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Surges 5%, Palo Alto and Okta Gain 4% as Cybersecurity Stocks Rally on Analyst Upgrades",
-      "url": "https://finnhub.io/api/news?id=b7099b8b7d455bebf0434085da53e18ca319e522fe2ecb9a9bc07f6979dc38a7"
-    },
-    {
-      "stock": "HON",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=aacc08c69cab6b9db8a0b9bbabb6718315106d78c1d7f115fc1eb8077d774c13"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Japanese Car Makers Rally on Weak Yen; Hyundai and Kia Misstep ",
-      "url": "https://finnhub.io/api/news?id=293bcd76a1dde50ef2cac14bf498bb712b9bc6c685e35af0746518af45baba53"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Sector Update: Consumer Stocks Mixed in Afternoon Trading",
-      "url": "https://finnhub.io/api/news?id=1cf519df1e04545a0a399006987dfb4d7b8a928a24111711bf58a02ca511ed2d"
-    },
-    {
-      "stock": "DE",
-      "headline": "LNN Q3 Earnings Beat Estimates, Revenues Miss on Irrigation Weakness",
-      "url": "https://finnhub.io/api/news?id=20c41e388fe138adb45ccac07ee6b8f3a7917b069a5c20f14ae255ea6a01f52c"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Update: Nasdaq, S&P 500 Advance Amid Gains in Chipmakers While Crude Oil Slips",
-      "url": "https://finnhub.io/api/news?id=b48bf366f5478dd13b461a12006b896d318f5779894fe2158c9657bd58307892"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=aacc08c69cab6b9db8a0b9bbabb6718315106d78c1d7f115fc1eb8077d774c13"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "US Tech Sector Pushes Back Against UK’s Child Safety Social Media Regulations",
-      "url": "https://finnhub.io/api/news?id=c5202e5f5cb2870db6b18c261948e0b7b1312d81ce97776d44f709aea03053f9"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Which Semiconductor ETF Is Winning The AI Race In 2026?",
-      "url": "https://finnhub.io/api/news?id=575e73367e2a1b06432724ef5497f02276144fb433453faa5227275b7bab6d00"
-    },
-    {
       "stock": "ARM",
-      "headline": "UBS Remains Bullish on Arm Holdings (ARM) – Here’s Why",
-      "url": "https://finnhub.io/api/news?id=af3fe0cafc768f864f35cfa6ca3e0325a506b00bd7c8b3280409e4874372845c"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell (HON) Stock Looks Fairly Valued After Its 46% Fall",
-      "url": "https://finnhub.io/api/news?id=0097352f30d1d047220fff9ac579d64cf5c7fd4307bb3acd7b1bba0d9283a0f8"
-    },
-    {
-      "stock": "IONQ",
       "headline": "Corgi's ETF Pack Grows Yet Again with 24 New Leveraged and Buffer Launches",
       "url": "https://finnhub.io/api/news?id=f2bc38bc06809e106b0265d7a19b84dd14a39e6513fcddd2634c2db0d3e84781"
     },
     {
-      "stock": "UBER",
-      "headline": "Stock Market Today, July 6: Southeast Asian Mobility Upstart Grab Falls as Uber CEO Exits Board",
-      "url": "https://finnhub.io/api/news?id=1b28698ae6f1a3e7f706d087132148735d7035682055675e4e21a5396c7ca4b4"
+      "stock": "IBM",
+      "headline": "Getty Images, SAIC, Cognex, Hewlett Packard Enterprise, and IBM Shares Skyrocket, What You Need To Know",
+      "url": "https://finnhub.io/api/news?id=76d5cc8d03f903da760a81030eb1a3c408336c5303e3ac359c7b94c9567f5dfa"
     },
     {
-      "stock": "IBM",
-      "headline": "Update: US Equity Indexes Advance as Communication Services, Technology Top Sector Charts While Crude Oil Trades Steady",
-      "url": "https://finnhub.io/api/news?id=01ed853bc45d97a529e6b5c98e54119e8a7d4b0fe086943221c8755aa0092460"
+      "stock": "NFLX",
+      "headline": "Netflix (NFLX) Stock Sinks As Market Gains: Here's Why",
+      "url": "https://finnhub.io/api/news?id=0c7d8b6f3c12a816c2714e5351f4bdebc3a7f8782b49ef89622f3fe0945fe719"
     }
   ]
 }
