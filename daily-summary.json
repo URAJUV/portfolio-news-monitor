@@ -65,6 +65,26 @@
       "stock": "NFLX",
       "headline": "Is Google Cloud Officially Driving the Train?",
       "url": "https://finnhub.io/api/news?id=e8d5427f8393ef0210f0481e73e0a4486bfdb7b4bb7d73c998ee06e89c431479"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "What CrowdStrike Stock Was Telling You Before Its AI-Fueled Surge",
+      "url": "https://finnhub.io/api/news?id=509ce494b7fe07178b9993e483dfc14bbe497c13ee8ca6373279789ebc5c074e"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Here is Why Synopsys Inc. (SNPS) is Amongst the Top 10 AI Stocks That Will Skyrocket",
+      "url": "https://finnhub.io/api/news?id=63113443537e9b3d81a184ba78e57765003bb966e14bb06c5c19226f1c41bb16"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Amazon Readies $25 Billion Bond With AI Costs Rising",
+      "url": "https://finnhub.io/api/news?id=02b99b1b3c3bb6aeccac32efbb3694730e8feecd56e3b0b762690d56f132cf7c"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Wells Fargo Maintains Equal-Weight on Reddit, Raises Price Target to $187",
+      "url": "https://finnhub.io/api/news?id=64bb24d0ad4b384c66450051cd3f94a9d2d7236397a550cedce24b9f48c5b69c"
     }
   ]
 }
