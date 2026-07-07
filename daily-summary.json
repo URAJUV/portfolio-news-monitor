@@ -15,6 +15,21 @@
       "stock": "NFLX",
       "headline": "Netflix (NFLX) Stock Sinks As Market Gains: Here's Why",
       "url": "https://finnhub.io/api/news?id=0c7d8b6f3c12a816c2714e5351f4bdebc3a7f8782b49ef89622f3fe0945fe719"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys to cut chip fab manufacturing control software in shift to AI design, sources say",
+      "url": "https://finnhub.io/api/news?id=11031236a3fed717c173c28258c2179c4342fe74400c5b7aa9b4b71bf25c8ba4"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings: Dangerous AI Game",
+      "url": "https://finnhub.io/api/news?id=d510aac57ab74a1b7d4da9ef07218fefdc983a5bdd70f67aa2c4bd9bcc0cbd7b"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Monday's after hours session: top gainers and losers",
+      "url": "https://finnhub.io/api/news?id=ad7870f7f628aa53007478fa19eef55b905682796ca389f23cbc1caa7ac629c4"
     }
   ]
 }
