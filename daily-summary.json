@@ -85,6 +85,26 @@
       "stock": "RDDT",
       "headline": "Wells Fargo Maintains Equal-Weight on Reddit, Raises Price Target to $187",
       "url": "https://finnhub.io/api/news?id=64bb24d0ad4b384c66450051cd3f94a9d2d7236397a550cedce24b9f48c5b69c"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Sector Update: Tech Stocks Fall Tuesday Afternoon",
+      "url": "https://finnhub.io/api/news?id=2b548e26785a06defc115033ac6167c8edf460ef9dd0875323623f994d6d4b6d"
+    },
+    {
+      "stock": "DE",
+      "headline": "If you can spy a rotation and theme, you can find some incredible bargains: Cramer",
+      "url": "https://finnhub.io/api/news?id=9ce6511b530cefc027b673588d40c431455d9b6ec92b8b9007205225a2fedb73"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Palo Alto Networks (PANW) Teams With IBM And Red Hat As Fair Value Debate Heats Up",
+      "url": "https://finnhub.io/api/news?id=3b911ac80db0355521490e25d21361e559b28b6cfbac25417249ca320ed968c1"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Behind Xbox’s Big Layoffs, a Streaming Strategy That Failed",
+      "url": "https://finnhub.io/api/news?id=a90e2e3efebb1d1fa7d82ff7460a17e3a9282bab940c714f17b5e0b1d89e1d19"
     }
   ]
 }
