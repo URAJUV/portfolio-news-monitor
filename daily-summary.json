@@ -30,6 +30,21 @@
       "stock": "NFLX",
       "headline": "Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report?",
       "url": "https://finnhub.io/api/news?id=bd92ea82f03e2a7abb48f63a3ff6dbbdaf9d8c2d8a0aaa3a2a0a737524ff4f10"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Stifel Maintains Buy on CrowdStrike Holdings, Adjusts Price Target To $220 - (To Reflect 4-For-1 Stock Split)",
+      "url": "https://finnhub.io/api/news?id=7c7bd658d4ac70ec928419cad291e3d8f15660066f29ac9630ce7acaf4292455"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "TSLA Stock Rises Overnight: JPMorgan Says Tesla-SpaceX Merger Looks ‘Coherent On Paper’ — But China Approval Risks Loom",
+      "url": "https://finnhub.io/api/news?id=6e965bd86492dca9f2e38342674ba85f276eda148089be23b2153fe3c502a90c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "How many employees does Meta have in 2026? Its workforce, locations, & layoffs explained",
+      "url": "https://finnhub.io/api/news?id=e23624e23f3fb0214f8c6c8d3ee1843119bd0e8e98f59d754d65043d5c348975"
     }
   ]
 }
