@@ -105,6 +105,26 @@
       "stock": "DE",
       "headline": "John Deere Reinforces Commitment to Diagnostic and Repair Tools for Farmers Under Agreement with FTC and States",
       "url": "https://finnhub.io/api/news?id=f8f80d9cb7127108e02030bd736ada386b59574cb4594425979b9b05d1b38e74"
+    },
+    {
+      "stock": "DE",
+      "headline": "John Deere Announces Farmers, Ranchers To Have Access To Diagnostic, Repaid Tools Under Deal Reached With Federal Trade Commission, Five U.S. States",
+      "url": "https://finnhub.io/api/news?id=e5750738c967a8a14639f82fff54f33c83270228c28bba7cbd26e556829b3ef1"
+    },
+    {
+      "stock": "IBM",
+      "headline": "International Business Machines (IBM) Unveils New AI Infrastructure, Is The Stock Fully Priced?",
+      "url": "https://finnhub.io/api/news?id=33c50e8efb7a85a51a4a57ad3f9c784393986a4f96fd97cacc63663f9f6c1e3f"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sector Update: Consumer Stocks Lower in Afternoon Trading",
+      "url": "https://finnhub.io/api/news?id=a113087fca555599087d1f62e2f754ff9e6ce2e07c88dee1bc7fb32fdaaeeb31"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Keybanc Maintains Overweight on Atlassian, Lowers Price Target to $115",
+      "url": "https://finnhub.io/api/news?id=1829a977d4b52c95d298833236a9c8109467d7c6fde3d473284dfce850f106c2"
     }
   ]
 }
