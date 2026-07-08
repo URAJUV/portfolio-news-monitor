@@ -1,150 +1,35 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "items": [
     {
-      "stock": "ARM",
-      "headline": "Corgi's ETF Pack Grows Yet Again with 24 New Leveraged and Buffer Launches",
-      "url": "https://finnhub.io/api/news?id=f2bc38bc06809e106b0265d7a19b84dd14a39e6513fcddd2634c2db0d3e84781"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Getty Images, SAIC, Cognex, Hewlett Packard Enterprise, and IBM Shares Skyrocket, What You Need To Know",
-      "url": "https://finnhub.io/api/news?id=76d5cc8d03f903da760a81030eb1a3c408336c5303e3ac359c7b94c9567f5dfa"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix (NFLX) Stock Sinks As Market Gains: Here's Why",
-      "url": "https://finnhub.io/api/news?id=0c7d8b6f3c12a816c2714e5351f4bdebc3a7f8782b49ef89622f3fe0945fe719"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys to cut chip fab manufacturing control software in shift to AI design, sources say",
-      "url": "https://finnhub.io/api/news?id=11031236a3fed717c173c28258c2179c4342fe74400c5b7aa9b4b71bf25c8ba4"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings: Dangerous AI Game",
-      "url": "https://finnhub.io/api/news?id=d510aac57ab74a1b7d4da9ef07218fefdc983a5bdd70f67aa2c4bd9bcc0cbd7b"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Monday's after hours session: top gainers and losers",
-      "url": "https://finnhub.io/api/news?id=ad7870f7f628aa53007478fa19eef55b905682796ca389f23cbc1caa7ac629c4"
-    },
-    {
       "stock": "MU",
-      "headline": "Stock Market Today: Nasdaq Slides As Samsung Tumbles On Earnings; Micron, Sandisk Lose Big (Live Coverage)",
-      "url": "https://finnhub.io/api/news?id=0add1b096141ec74b3d6cd8f42c09bb8ff6335d4e57ffb6497dbd39245915f1b"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor (NYSE:TSM) Shows Textbook Potential for Strong Growth and Technical Breakout Setup",
-      "url": "https://finnhub.io/api/news?id=1c095c568c856ec1ae1e712d04eea78dfc7e0679beac27274342620ae583340a"
+      "headline": "Korean chip stocks rebound after overnight US selloff, as chip supply remains tight",
+      "url": "https://finnhub.io/api/news?id=df29493a6c12aaa6d81f9f8f1a22d4b9c332dc57cf4c44ce28ea46db5e81f80f"
     },
     {
       "stock": "CRWD",
-      "headline": "Is CrowdStrike’s 55% Surge Just The Beginning For This AI Defense Stock?",
-      "url": "https://finnhub.io/api/news?id=9ed66668e750693877639561006d536f1d2d6759b8e9878d3d091314a67f219a"
+      "headline": "What Fortinet Stock Was Telling Wall Street About AI Before It Doubled",
+      "url": "https://finnhub.io/api/news?id=5655316e0ac131204f85c83d6ac708f61fc6ac84fab85c6d13ae2c0ef713cf03"
     },
     {
-      "stock": "TSLA",
-      "headline": "RBC raises Tesla price target on potential SpaceX deal speculation (TSLA)",
-      "url": "https://finnhub.io/api/news?id=a5781e0e0b7c666d3929040c7fd465de36b03dddc4aa19e792465704d2fd91a6"
+      "stock": "SNPS",
+      "headline": "Synopsys to phase out chip manufacturing software as AI design becomes strategic focus (SNPS)",
+      "url": "https://finnhub.io/api/news?id=0cddcbb1ec884181411eb72f7cf0d38b61ebb151416b9641eddc6e801a8c0e17"
     },
     {
-      "stock": "HON",
-      "headline": "Stock Markets Face an AI Reckoning, Samsung’s Stock Drop Isn’t It. 5 Other Things to Know Today.",
-      "url": "https://finnhub.io/api/news?id=2488aa12ae9fff03efcbc513224c9d7627fb16ad53e95bee55c30a4547cba52c"
+      "stock": "UBER",
+      "headline": "BTIG Maintains a Buy Rating on Uber Technologies (UBER)",
+      "url": "https://finnhub.io/api/news?id=61c910c45e51f1719c82968d52c76baebf7a9fbec15eac4a68b392fcbdd9df53"
     },
     {
       "stock": "IBM",
-      "headline": "Cramer Says Forget the Data-Center Darlings. This ‘Boring’ AI Stock at 22x Is the Buy.",
-      "url": "https://finnhub.io/api/news?id=0d76ed49c5b6873466d32551896ffac852fcd22edcabc295e9095266ef5d27ed"
+      "headline": "Why the Market Dipped But IBM (IBM) Gained Today",
+      "url": "https://finnhub.io/api/news?id=30529548b8338e767759d3a32c439d2e97fbbf84590de5cd438e28c5475405a5"
     },
     {
       "stock": "NFLX",
-      "headline": "Is Google Cloud Officially Driving the Train?",
-      "url": "https://finnhub.io/api/news?id=e8d5427f8393ef0210f0481e73e0a4486bfdb7b4bb7d73c998ee06e89c431479"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "What CrowdStrike Stock Was Telling You Before Its AI-Fueled Surge",
-      "url": "https://finnhub.io/api/news?id=509ce494b7fe07178b9993e483dfc14bbe497c13ee8ca6373279789ebc5c074e"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Here is Why Synopsys Inc. (SNPS) is Amongst the Top 10 AI Stocks That Will Skyrocket",
-      "url": "https://finnhub.io/api/news?id=63113443537e9b3d81a184ba78e57765003bb966e14bb06c5c19226f1c41bb16"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Amazon Readies $25 Billion Bond With AI Costs Rising",
-      "url": "https://finnhub.io/api/news?id=02b99b1b3c3bb6aeccac32efbb3694730e8feecd56e3b0b762690d56f132cf7c"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Wells Fargo Maintains Equal-Weight on Reddit, Raises Price Target to $187",
-      "url": "https://finnhub.io/api/news?id=64bb24d0ad4b384c66450051cd3f94a9d2d7236397a550cedce24b9f48c5b69c"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Sector Update: Tech Stocks Fall Tuesday Afternoon",
-      "url": "https://finnhub.io/api/news?id=2b548e26785a06defc115033ac6167c8edf460ef9dd0875323623f994d6d4b6d"
-    },
-    {
-      "stock": "DE",
-      "headline": "If you can spy a rotation and theme, you can find some incredible bargains: Cramer",
-      "url": "https://finnhub.io/api/news?id=9ce6511b530cefc027b673588d40c431455d9b6ec92b8b9007205225a2fedb73"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Palo Alto Networks (PANW) Teams With IBM And Red Hat As Fair Value Debate Heats Up",
-      "url": "https://finnhub.io/api/news?id=3b911ac80db0355521490e25d21361e559b28b6cfbac25417249ca320ed968c1"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Behind Xbox’s Big Layoffs, a Streaming Strategy That Failed",
-      "url": "https://finnhub.io/api/news?id=a90e2e3efebb1d1fa7d82ff7460a17e3a9282bab940c714f17b5e0b1d89e1d19"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) Sees 5x AIDR Demand As Identity Push Broadens Its Platform",
-      "url": "https://finnhub.io/api/news?id=fda261ed0cf282a0645ac1a6a7961122512aa51764bf0fb729bfc09ceb2e4848"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon Stocks Climbs As AI Push Drives $25 Billion Bond Sale",
-      "url": "https://finnhub.io/api/news?id=14a2f1ef550d848b1227b8a50826f59391fad16b3c6dd210aad9425077f91183"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Here's Why You Should Retain Paychex Stock in Your Portfolio",
-      "url": "https://finnhub.io/api/news?id=58b6e827828a1e8080ddb8babbfcdf983d881a8a735ff791b038f5d58dcc79ed"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys Could Still Be One of the Smartest AI Stocks to Buy in 2026",
-      "url": "https://finnhub.io/api/news?id=45d177ea74d8b7cf8292b15ec6bb1c1fa1bf93be38f916990ed52949f934d27c"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Veteran Bank Revamps Tesla Stock Price Target on Potential SpaceX Merger",
-      "url": "https://finnhub.io/api/news?id=fd55b33d009ff946a7bc3f5311a4cdf4a1b9900499091b17aec0acc8f30a8f5e"
-    },
-    {
-      "stock": "HON",
-      "headline": "Shares of companies in the industrial sector are trading higher following President Trump's decision to implement a 90-day pause on reciprocal tariffs.",
-      "url": "https://finnhub.io/api/news?id=4269f96e35806b5f290bb1121ae05888b81b0999153de7f1bb55a12d6736c473"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Michael Burry Fires Back at AI Bear Critic: 'Most People Think in Three Dimensions. Bears Think in Six'",
-      "url": "https://finnhub.io/api/news?id=ffdbdc8ffd888292c184cfdd0ad08349582231d0ae3a045325a39024b86591e1"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=b13bef63c29359122fc380e23aabeb419db03a166f44fceb35b8fda2e6b3a635"
+      "headline": "Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report?",
+      "url": "https://finnhub.io/api/news?id=bd92ea82f03e2a7abb48f63a3ff6dbbdaf9d8c2d8a0aaa3a2a0a737524ff4f10"
     }
   ]
 }
