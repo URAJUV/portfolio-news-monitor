@@ -125,6 +125,31 @@
       "stock": "TEAM",
       "headline": "Keybanc Maintains Overweight on Atlassian, Lowers Price Target to $115",
       "url": "https://finnhub.io/api/news?id=1829a977d4b52c95d298833236a9c8109467d7c6fde3d473284dfce850f106c2"
+    },
+    {
+      "stock": "MU",
+      "headline": "Nvidia Stock Is Cheaper Than It's Been Since the AI Boom Began",
+      "url": "https://finnhub.io/api/news?id=bbb38537c01d8be774edc057405a3b07ac23398707f31c59814c3e28df11e818"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=b22625090f17156869da489a833d613aa7d6dfb75311dd0baee976ce77a90f6c"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Raymond James Maintains a Strong Buy on Coherent Corp. (COHR)",
+      "url": "https://finnhub.io/api/news?id=75b60d16de67b4cca18ec43866b5a45f3af337413dd151d11879ebd57e318341"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Your Solar Panels Could Be Used to Power AI Data Centers",
+      "url": "https://finnhub.io/api/news?id=e2e90cdd2542e418d284356d76ff91653f50e35c20fd0aead42e8cd62af35591"
+    },
+    {
+      "stock": "IBM",
+      "headline": "OpenAI Investor Vinod Khosla Explains His Philosophy on Risk Taking",
+      "url": "https://finnhub.io/api/news?id=a773fa35e43542ba6e94e52f8effd95937a27ad25031a390fb03303c5a610f46"
     }
   ]
 }
