@@ -60,6 +60,16 @@
       "stock": "IBM",
       "headline": "Dell Stock's Secret: It Gets Paid Before It Pays Its Bills",
       "url": "https://finnhub.io/api/news?id=a62f0cc9977bccbc7c0854612c99a5f39f2bf5bb2d7ba811bb9596f5285a3d3c"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Congressman Ro Khanna Bought SNDK Below $50 — He Also Bought This Mid-Cap Software Stock Before An OpenAI Deal Sent It Soaring",
+      "url": "https://finnhub.io/api/news?id=980d6ecfca8a5af47321ff2de1188887b48b7081ee836f7df263f2e88779f5d8"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Warren Buffett's Successor, Greg Abel, Has 30% of Berkshire Hathaway's $343 Billion Investment Portfolio Tied Up in 2 Foundational AI Stocks",
+      "url": "https://finnhub.io/api/news?id=06ce4f300de6f4d63d7c469d52d464399a5a8318391e3f1487262aba65d3c964"
     }
   ]
 }
