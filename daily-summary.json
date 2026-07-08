@@ -80,6 +80,31 @@
       "stock": "COHR",
       "headline": "Wednesday's pre-market session: top gainers and losers in the S&P500 index",
       "url": "https://finnhub.io/api/news?id=ec8843d6c8224e9622ac1006028d42faed76988dfd28d5a93e7856793c594033"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Grant Thornton Picks CrowdStrike (CRWD) to Power Its Global Cybersecurity Platform",
+      "url": "https://finnhub.io/api/news?id=8085de526ccc1b7578ee510242cfb4d62b4fd413ebf1c688063d010f5cfd16cd"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Top Midday Stories: Trump Says US May Attack Iran Again; Apple Signs $30 Billion Deal With Broadcom for US-Made Chips",
+      "url": "https://finnhub.io/api/news?id=da1289ad70af75d2774e78f2d1cddd34a280c88be8e56ac5b8cb71614388c278"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Announces Earnings Release Date for First Quarter Fiscal Year Ended 2027",
+      "url": "https://finnhub.io/api/news?id=d412ba42e5d5938ae10687a5d7cb6d5d0fcd55f0f5e7103b13e73367eef5d06a"
+    },
+    {
+      "stock": "HON",
+      "headline": "Solstice: The Impending Acquisition Of Element Solutions Should Be Welcomed",
+      "url": "https://finnhub.io/api/news?id=5a4eabf937ebb3b8fe60695791417749f8fed382de6b9806534f7e5d79112bb3"
+    },
+    {
+      "stock": "DE",
+      "headline": "John Deere Reinforces Commitment to Diagnostic and Repair Tools for Farmers Under Agreement with FTC and States",
+      "url": "https://finnhub.io/api/news?id=f8f80d9cb7127108e02030bd736ada386b59574cb4594425979b9b05d1b38e74"
     }
   ]
 }
