@@ -1,155 +1,25 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "items": [
     {
       "stock": "MU",
-      "headline": "Korean chip stocks rebound after overnight US selloff, as chip supply remains tight",
-      "url": "https://finnhub.io/api/news?id=df29493a6c12aaa6d81f9f8f1a22d4b9c332dc57cf4c44ce28ea46db5e81f80f"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "What Fortinet Stock Was Telling Wall Street About AI Before It Doubled",
-      "url": "https://finnhub.io/api/news?id=5655316e0ac131204f85c83d6ac708f61fc6ac84fab85c6d13ae2c0ef713cf03"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys to phase out chip manufacturing software as AI design becomes strategic focus (SNPS)",
-      "url": "https://finnhub.io/api/news?id=0cddcbb1ec884181411eb72f7cf0d38b61ebb151416b9641eddc6e801a8c0e17"
-    },
-    {
-      "stock": "UBER",
-      "headline": "BTIG Maintains a Buy Rating on Uber Technologies (UBER)",
-      "url": "https://finnhub.io/api/news?id=61c910c45e51f1719c82968d52c76baebf7a9fbec15eac4a68b392fcbdd9df53"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Why the Market Dipped But IBM (IBM) Gained Today",
-      "url": "https://finnhub.io/api/news?id=30529548b8338e767759d3a32c439d2e97fbbf84590de5cd438e28c5475405a5"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report?",
-      "url": "https://finnhub.io/api/news?id=bd92ea82f03e2a7abb48f63a3ff6dbbdaf9d8c2d8a0aaa3a2a0a737524ff4f10"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Stifel Maintains Buy on CrowdStrike Holdings, Adjusts Price Target To $220 - (To Reflect 4-For-1 Stock Split)",
-      "url": "https://finnhub.io/api/news?id=7c7bd658d4ac70ec928419cad291e3d8f15660066f29ac9630ce7acaf4292455"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "TSLA Stock Rises Overnight: JPMorgan Says Tesla-SpaceX Merger Looks ‘Coherent On Paper’ — But China Approval Risks Loom",
-      "url": "https://finnhub.io/api/news?id=6e965bd86492dca9f2e38342674ba85f276eda148089be23b2153fe3c502a90c"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "How many employees does Meta have in 2026? Its workforce, locations, & layoffs explained",
-      "url": "https://finnhub.io/api/news?id=e23624e23f3fb0214f8c6c8d3ee1843119bd0e8e98f59d754d65043d5c348975"
-    },
-    {
-      "stock": "MU",
-      "headline": "2 Artificial Intelligence (AI) Memory Stocks to Buy Hand Over Fist in July",
-      "url": "https://finnhub.io/api/news?id=0bdb679c4625b10bc4510200618468f2cdeba9076db849e51957032874ba008c"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Meta CEO Mark Zuckerberg Just Delivered Fantastic News for Investors",
-      "url": "https://finnhub.io/api/news?id=67ac577b37c462e291eeace6aab6c9cf863e728cf5e8f14f05aee62661121dbd"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Dell Stock's Secret: It Gets Paid Before It Pays Its Bills",
-      "url": "https://finnhub.io/api/news?id=a62f0cc9977bccbc7c0854612c99a5f39f2bf5bb2d7ba811bb9596f5285a3d3c"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Congressman Ro Khanna Bought SNDK Below $50 — He Also Bought This Mid-Cap Software Stock Before An OpenAI Deal Sent It Soaring",
-      "url": "https://finnhub.io/api/news?id=980d6ecfca8a5af47321ff2de1188887b48b7081ee836f7df263f2e88779f5d8"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Warren Buffett's Successor, Greg Abel, Has 30% of Berkshire Hathaway's $343 Billion Investment Portfolio Tied Up in 2 Foundational AI Stocks",
-      "url": "https://finnhub.io/api/news?id=06ce4f300de6f4d63d7c469d52d464399a5a8318391e3f1487262aba65d3c964"
-    },
-    {
-      "stock": "MU",
-      "headline": "Wednesday's pre-market session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=ec8843d6c8224e9622ac1006028d42faed76988dfd28d5a93e7856793c594033"
+      "headline": "$130 Billion in AI Data Centers were Just Blocked. Where Does the AI Boom Go Now",
+      "url": "https://finnhub.io/api/news?id=72fc1ab799f6643f47988997e294f65b761e4041561877792d055aa8de5dc257"
     },
     {
       "stock": "COHR",
-      "headline": "Wednesday's pre-market session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=ec8843d6c8224e9622ac1006028d42faed76988dfd28d5a93e7856793c594033"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Grant Thornton Picks CrowdStrike (CRWD) to Power Its Global Cybersecurity Platform",
-      "url": "https://finnhub.io/api/news?id=8085de526ccc1b7578ee510242cfb4d62b4fd413ebf1c688063d010f5cfd16cd"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Top Midday Stories: Trump Says US May Attack Iran Again; Apple Signs $30 Billion Deal With Broadcom for US-Made Chips",
-      "url": "https://finnhub.io/api/news?id=da1289ad70af75d2774e78f2d1cddd34a280c88be8e56ac5b8cb71614388c278"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Announces Earnings Release Date for First Quarter Fiscal Year Ended 2027",
-      "url": "https://finnhub.io/api/news?id=d412ba42e5d5938ae10687a5d7cb6d5d0fcd55f0f5e7103b13e73367eef5d06a"
+      "headline": "Coherent's AI Selloff Is A Massive Opportunity",
+      "url": "https://finnhub.io/api/news?id=853e0c6c435a8cf8a3c856ae89e61339d92fdd7b68d2d07b7a28100dd907df66"
     },
     {
       "stock": "HON",
-      "headline": "Solstice: The Impending Acquisition Of Element Solutions Should Be Welcomed",
-      "url": "https://finnhub.io/api/news?id=5a4eabf937ebb3b8fe60695791417749f8fed382de6b9806534f7e5d79112bb3"
-    },
-    {
-      "stock": "DE",
-      "headline": "John Deere Reinforces Commitment to Diagnostic and Repair Tools for Farmers Under Agreement with FTC and States",
-      "url": "https://finnhub.io/api/news?id=f8f80d9cb7127108e02030bd736ada386b59574cb4594425979b9b05d1b38e74"
-    },
-    {
-      "stock": "DE",
-      "headline": "John Deere Announces Farmers, Ranchers To Have Access To Diagnostic, Repaid Tools Under Deal Reached With Federal Trade Commission, Five U.S. States",
-      "url": "https://finnhub.io/api/news?id=e5750738c967a8a14639f82fff54f33c83270228c28bba7cbd26e556829b3ef1"
+      "headline": "Honeywell Technologies raises profit guidance after one-for-two reverse stock split",
+      "url": "https://finnhub.io/api/news?id=b5976905372bf609a63be2931169288eb8bc5d51f8427ef45f4925555d64b4b8"
     },
     {
       "stock": "IBM",
-      "headline": "International Business Machines (IBM) Unveils New AI Infrastructure, Is The Stock Fully Priced?",
-      "url": "https://finnhub.io/api/news?id=33c50e8efb7a85a51a4a57ad3f9c784393986a4f96fd97cacc63663f9f6c1e3f"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Sector Update: Consumer Stocks Lower in Afternoon Trading",
-      "url": "https://finnhub.io/api/news?id=a113087fca555599087d1f62e2f754ff9e6ce2e07c88dee1bc7fb32fdaaeeb31"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Keybanc Maintains Overweight on Atlassian, Lowers Price Target to $115",
-      "url": "https://finnhub.io/api/news?id=1829a977d4b52c95d298833236a9c8109467d7c6fde3d473284dfce850f106c2"
-    },
-    {
-      "stock": "MU",
-      "headline": "Nvidia Stock Is Cheaper Than It's Been Since the AI Boom Began",
-      "url": "https://finnhub.io/api/news?id=bbb38537c01d8be774edc057405a3b07ac23398707f31c59814c3e28df11e818"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=b22625090f17156869da489a833d613aa7d6dfb75311dd0baee976ce77a90f6c"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Raymond James Maintains a Strong Buy on Coherent Corp. (COHR)",
-      "url": "https://finnhub.io/api/news?id=75b60d16de67b4cca18ec43866b5a45f3af337413dd151d11879ebd57e318341"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Your Solar Panels Could Be Used to Power AI Data Centers",
-      "url": "https://finnhub.io/api/news?id=e2e90cdd2542e418d284356d76ff91653f50e35c20fd0aead42e8cd62af35591"
-    },
-    {
-      "stock": "IBM",
-      "headline": "OpenAI Investor Vinod Khosla Explains His Philosophy on Risk Taking",
-      "url": "https://finnhub.io/api/news?id=a773fa35e43542ba6e94e52f8effd95937a27ad25031a390fb03303c5a610f46"
+      "headline": "SAP (XTRA:SAP) Stock Looks Below Fair Value Despite AI Hopes",
+      "url": "https://finnhub.io/api/news?id=2341ffd787e3ec8bb8a851d8d3fd6cbb1204542d93eebe51712cb1923ee2bcbb"
     }
   ]
 }
