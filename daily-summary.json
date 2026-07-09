@@ -1,4 +1,20 @@
 {
   "date": "2026-07-09",
-  "items": []
+  "items": [
+    {
+      "stock": "TSM",
+      "headline": "Futurum's Shay Boloor Explains Why Nvidia, AMD, Apple and Broadcom All Depend on TSMC: 'Every Token Ultimately Pays an Invisible Royalty'",
+      "url": "https://finnhub.io/api/news?id=008cffac2ae1f625ecde68c0420b951851eb509800a94ada7e2a18696cf52da0"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Stock Market Today, July 9: AI Chip, Technology Stocks Rally, Overcoming Ceasefire Worries",
+      "url": "https://finnhub.io/api/news?id=53db30c2adf144490f4b3228970202e06d57482d2dbf2fd69d8b10485c51d7d2"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Stock Market Today: S&P 500 Gains Traction Amid Iran News; Arm, Dell Lead Upside (Live Coverage)",
+      "url": "https://finnhub.io/api/news?id=2bda572486679b190d6effa191e44900e9277a749331e0a187a76248fceb1b0a"
+    }
+  ]
 }
