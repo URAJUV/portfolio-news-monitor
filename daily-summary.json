@@ -20,6 +20,36 @@
       "stock": "IBM",
       "headline": "SAP (XTRA:SAP) Stock Looks Below Fair Value Despite AI Hopes",
       "url": "https://finnhub.io/api/news?id=2341ffd787e3ec8bb8a851d8d3fd6cbb1204542d93eebe51712cb1923ee2bcbb"
+    },
+    {
+      "stock": "MU",
+      "headline": "Is This The Big Tech Resurgence Investors Have Been Waiting For? AI Chip Stocks Step Back, Mag 7 Steps Up In July",
+      "url": "https://finnhub.io/api/news?id=2ae276658cfaa333b24bafdf89569561bf4f00b7e9bc5ff5b0bb9cea124f8da1"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "SpaceX Stock Has Some Sky-High Bull Targets—How It Can Hit $900",
+      "url": "https://finnhub.io/api/news?id=c306aab1ac18926a4f013af5d7c2690b9df598cb3a6aebf8abddf604e150cb10"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "SpaceX Stock Has Some Sky-High Bull Targets—How It Can Hit $900",
+      "url": "https://finnhub.io/api/news?id=c306aab1ac18926a4f013af5d7c2690b9df598cb3a6aebf8abddf604e150cb10"
+    },
+    {
+      "stock": "HON",
+      "headline": "HON Stock Gains Overnight: Will The Updated Outlook Revive Interest In The Automation Giant?",
+      "url": "https://finnhub.io/api/news?id=012f1f36d78829da06f223d29145797e6cdd67b2f2c94d0814b3ded06e68b369"
+    },
+    {
+      "stock": "DE",
+      "headline": "John Deere owners will get the right to repair their own equipment under a new FTC settlement",
+      "url": "https://finnhub.io/api/news?id=d47983e3c83021e7774107e2a710e7ac47869d5b99eec3b5d9e3520fef7d24da"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Can IBM's Enterprise Infrastructure Portfolio Expansion Aid Growth?",
+      "url": "https://finnhub.io/api/news?id=e6179a40605bd9a04462ba66b084f030a6f95eaf0e14075a0e261659ce6b9446"
     }
   ]
 }
