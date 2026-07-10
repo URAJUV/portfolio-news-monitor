@@ -100,6 +100,31 @@
       "stock": "NFLX",
       "headline": "Netflix (NFLX) Shares Retraced Following Strong Gains",
       "url": "https://finnhub.io/api/news?id=fe3da30a25761c8e91c8b8065f02b03d8c229be9e1002151dedd643e7dc5949b"
+    },
+    {
+      "stock": "MU",
+      "headline": "Bloomberg’s Daybreak Desk Says SK Hynix’s Record $26.5 Billion Nasdaq Debut Proves the AI Chip Boom Isn’t Cooling",
+      "url": "https://finnhub.io/api/news?id=2c3341f04e5aa1c0975e7d3853b0cb9c49465177c8468a2426ba5db67eacf528"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike: AI-Driven Growth At Hefty Premiums And SBC Risks",
+      "url": "https://finnhub.io/api/news?id=a3ccce86ca35839afebecf1aa83c379cf901b95e9618793600dec0de7d2cafeb"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Buy, Hold, or Sell: Why Everyone Is Wrong About Amazon’s Secret Bet",
+      "url": "https://finnhub.io/api/news?id=68a46599f88bea41c81e7d2204f4dce626c51fdc1cc45e60399fa6e240cb77fb"
+    },
+    {
+      "stock": "HON",
+      "headline": "JPM starts Honeywell Aerospace at Neutral, sees supply chain capping upside",
+      "url": "https://finnhub.io/api/news?id=4b858def0aa49c1e4d40bde1923e07b0c95a38159f1337b261178c1b337b0ce4"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Why I Can’t Stop Buying Microsoft Even As Fears Of An AI Bubble Resurface",
+      "url": "https://finnhub.io/api/news?id=b7dd880105dd2c5fea466991ebd3e407caf9b7ed5b7381aaf2c9a1420919d5d6"
     }
   ]
 }
