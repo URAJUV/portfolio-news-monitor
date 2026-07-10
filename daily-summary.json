@@ -25,6 +25,41 @@
       "stock": "IBM",
       "headline": "IBM just answered a $5 billion cybersecurity question",
       "url": "https://finnhub.io/api/news?id=a3b0615f3d4d19cfdcf1ff9eb65a7ea507341fa602debf170e1c2d4a906b5f74"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Akamai Just Found The Magic Word",
+      "url": "https://finnhub.io/api/news?id=06f35926c6b882c67040f1115033ea24ecac90efc2b42c3b85bd335063349430"
+    },
+    {
+      "stock": "COHR",
+      "headline": "ABM Stock Gains 13% in 3 Months: Here's What You Should Know",
+      "url": "https://finnhub.io/api/news?id=e828c71ade87e62f2600317962e36939265b1f5234b54982fadb081346e95cd6"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Will Russell Index Removal Reshape Synopsys' (SNPS) AI and Ansys-Driven Investment Narrative?",
+      "url": "https://finnhub.io/api/news?id=968619a1c9d206fcf96cbf352940b3ca0474c027665bffddcb5af64bcde712f2"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings (ARM) Gains AI Licensing Momentum, Is The Upside Already Priced In?",
+      "url": "https://finnhub.io/api/news?id=079754c13421fd88a649f4e909de3ebd82622985363ae4b3c0db5566bea46389"
+    },
+    {
+      "stock": "HON",
+      "headline": "Why Honeywell’s New Earnings Guidance Isn’t as Good as It Looks",
+      "url": "https://finnhub.io/api/news?id=54eba0bffcd612cb697732ccb4eeeab1224adf0e5bb6fb07129fcc21bab09719"
+    },
+    {
+      "stock": "UBER",
+      "headline": "TBPN’s John Coogan: “People Can’t Really Complain.” Here’s Why Blue Origin Is Worth $130 Billion.",
+      "url": "https://finnhub.io/api/news?id=a738afb556d0ce41d926482a0668b8df244ca568e20343582566241b8cead7a6"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Figma CEO Says He’s ‘Never Been More Bullish’ As AI Vs Design Debate Intensifies",
+      "url": "https://finnhub.io/api/news?id=503318e763df3ccf3e21a65eb322ae692fdf09b7f1a16e7590f8ace69ff712b1"
     }
   ]
 }
