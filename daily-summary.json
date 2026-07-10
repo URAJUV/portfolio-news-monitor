@@ -1,45 +1,30 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "Futurum's Shay Boloor Explains Why Nvidia, AMD, Apple and Broadcom All Depend on TSMC: 'Every Token Ultimately Pays an Invisible Royalty'",
-      "url": "https://finnhub.io/api/news?id=008cffac2ae1f625ecde68c0420b951851eb509800a94ada7e2a18696cf52da0"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Stock Market Today, July 9: AI Chip, Technology Stocks Rally, Overcoming Ceasefire Worries",
-      "url": "https://finnhub.io/api/news?id=53db30c2adf144490f4b3228970202e06d57482d2dbf2fd69d8b10485c51d7d2"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Stock Market Today: S&P 500 Gains Traction Amid Iran News; Arm, Dell Lead Upside (Live Coverage)",
-      "url": "https://finnhub.io/api/news?id=2bda572486679b190d6effa191e44900e9277a749331e0a187a76248fceb1b0a"
-    },
-    {
       "stock": "MU",
-      "headline": "Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due",
-      "url": "https://finnhub.io/api/news?id=767e61f5555b96ab1e3a5ec38f5be7b82be89aa70feba30bd1f201eef2c9a1bb"
+      "headline": "SK Hynix Raises $26.5 Billion In U.S. Listing; Memory Giants Micron, Sandisk Rise",
+      "url": "https://finnhub.io/api/news?id=da69f1110406925c67198610a47dbe840ffd9e2285b4c83da51d6b6029d4fa9a"
     },
     {
-      "stock": "TSLA",
-      "headline": "Nvidia owns the AI chips market. Google, Amazon, and others are coming",
-      "url": "https://finnhub.io/api/news?id=7620a6ac8ec29bf19328a734e82f30595d5b47b12263dac6d363796a99539adc"
+      "stock": "CRWD",
+      "headline": "How Investors Are Reacting To CrowdStrike Holdings (CRWD) Doubling Down On AI Security And Stock Split",
+      "url": "https://finnhub.io/api/news?id=95a6799499fe61b3aa54709bc2221d869907080e2831c5a1293cc0d7e14b432f"
     },
     {
-      "stock": "HON",
-      "headline": "Honeywell Technologies Revises 2026 Guidance Post Reverse Stock Split",
-      "url": "https://finnhub.io/api/news?id=ceef9abddf49462b7084f01f98c27d10c470c58567c925f4265aba232b7c883f"
+      "stock": "SNPS",
+      "headline": "Synopsys (SNPS) Stock Looks Cheap On Cash Flow But Rich On Earnings",
+      "url": "https://finnhub.io/api/news?id=80dde0a5e0a2cc6d757c4ff9771663c24bb6bc29ce7d8b0343d2978da5110d7a"
     },
     {
-      "stock": "GOOGL",
-      "headline": "Nvidia owns the AI chips market. Google, Amazon, and others are coming",
-      "url": "https://finnhub.io/api/news?id=7620a6ac8ec29bf19328a734e82f30595d5b47b12263dac6d363796a99539adc"
+      "stock": "UBER",
+      "headline": "Why AI spending is beginning to hit a 'speed bump'",
+      "url": "https://finnhub.io/api/news?id=40f1289814519adf78020226a377f95ff5fb87a204b1ed09f9c74a00f2275c35"
     },
     {
-      "stock": "NFLX",
-      "headline": "Netflix heads into Q2 earnings as Jefferies sees limited upside catalyst",
-      "url": "https://finnhub.io/api/news?id=7be66aecbc94323f4efc4ec95f9c485f9b52f015858acd19a52a2196ca0f09b8"
+      "stock": "IBM",
+      "headline": "IBM just answered a $5 billion cybersecurity question",
+      "url": "https://finnhub.io/api/news?id=a3b0615f3d4d19cfdcf1ff9eb65a7ea507341fa602debf170e1c2d4a906b5f74"
     }
   ]
 }
