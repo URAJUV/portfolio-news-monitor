@@ -125,6 +125,31 @@
       "stock": "GOOGL",
       "headline": "Why I Can’t Stop Buying Microsoft Even As Fears Of An AI Bubble Resurface",
       "url": "https://finnhub.io/api/news?id=b7dd880105dd2c5fea466991ebd3e407caf9b7ed5b7381aaf2c9a1420919d5d6"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Wall Street Roundup: Carving Up The AI Trade",
+      "url": "https://finnhub.io/api/news?id=9b0f24474acdded9af956f9e8229eae98ba009962fd55d3172e1aced7df0359c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Elon Musk SEC settlement raises 'red flags,' judge says",
+      "url": "https://finnhub.io/api/news?id=f149aa67c6f010fa2107351497945ee220095bb9d179c48de9b9659e8fda20d4"
+    },
+    {
+      "stock": "HON",
+      "headline": "Chief Investment Strategist: “We Are Spending Almost 3% of GDP on AI” as Stocks Tune Out Global Conflict on “Astronomical Investment”",
+      "url": "https://finnhub.io/api/news?id=b925dd80d591aa136e9888016b312986e911151a406a07306dac2df8a87a84d5"
+    },
+    {
+      "stock": "DE",
+      "headline": "Deere settles right to repair dispute with FTC",
+      "url": "https://finnhub.io/api/news?id=e6eecee99e25fd0004f2a4e63fa39ee89aa3507c24a85810d444be55ade3e77f"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Chief Investment Strategist: “We Are Spending Almost 3% of GDP on AI” as Stocks Tune Out Global Conflict on “Astronomical Investment”",
+      "url": "https://finnhub.io/api/news?id=b925dd80d591aa136e9888016b312986e911151a406a07306dac2df8a87a84d5"
     }
   ]
 }
