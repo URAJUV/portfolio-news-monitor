@@ -40,6 +40,11 @@
       "stock": "NFLX",
       "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
       "url": "https://finnhub.io/api/news?id=3950ba12d1f78e090a2162ad805700691eeabaedc9a25cbb8b5a2bc2711ce71a"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM (IBM) Launches Lightwell And Expands Bob For Enterprise Security And Modernization",
+      "url": "https://finnhub.io/api/news?id=35e2f73baf0ab7dfcfb6f75ec123e6e492b15b3d155d6d2cf3aeaf3435e1b859"
     }
   ]
 }
