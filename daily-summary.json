@@ -1,195 +1,20 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "items": [
     {
-      "stock": "MU",
-      "headline": "SK Hynix Raises $26.5 Billion In U.S. Listing; Memory Giants Micron, Sandisk Rise",
-      "url": "https://finnhub.io/api/news?id=da69f1110406925c67198610a47dbe840ffd9e2285b4c83da51d6b6029d4fa9a"
-    },
-    {
       "stock": "CRWD",
-      "headline": "How Investors Are Reacting To CrowdStrike Holdings (CRWD) Doubling Down On AI Security And Stock Split",
-      "url": "https://finnhub.io/api/news?id=95a6799499fe61b3aa54709bc2221d869907080e2831c5a1293cc0d7e14b432f"
+      "headline": "CrowdStrike: Valuation Reaching Speculative Levels, Despite AI Tailwinds (Downgrade)",
+      "url": "https://finnhub.io/api/news?id=aa156d0ce39fe38643533d7aa1a9a14f722d1a43528c5619ebe0eef7657a4670"
     },
     {
-      "stock": "SNPS",
-      "headline": "Synopsys (SNPS) Stock Looks Cheap On Cash Flow But Rich On Earnings",
-      "url": "https://finnhub.io/api/news?id=80dde0a5e0a2cc6d757c4ff9771663c24bb6bc29ce7d8b0343d2978da5110d7a"
+      "stock": "AMPX",
+      "headline": "Jones Trading Initiates Coverage On Amprius Technologies with Buy Rating, Announces Price Target of $30",
+      "url": "https://finnhub.io/api/news?id=507b0162c24c2734109e0e49925febc2b63136620de37617ed42446470f7b16b"
     },
     {
       "stock": "UBER",
-      "headline": "Why AI spending is beginning to hit a 'speed bump'",
-      "url": "https://finnhub.io/api/news?id=40f1289814519adf78020226a377f95ff5fb87a204b1ed09f9c74a00f2275c35"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM just answered a $5 billion cybersecurity question",
-      "url": "https://finnhub.io/api/news?id=a3b0615f3d4d19cfdcf1ff9eb65a7ea507341fa602debf170e1c2d4a906b5f74"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Akamai Just Found The Magic Word",
-      "url": "https://finnhub.io/api/news?id=06f35926c6b882c67040f1115033ea24ecac90efc2b42c3b85bd335063349430"
-    },
-    {
-      "stock": "COHR",
-      "headline": "ABM Stock Gains 13% in 3 Months: Here's What You Should Know",
-      "url": "https://finnhub.io/api/news?id=e828c71ade87e62f2600317962e36939265b1f5234b54982fadb081346e95cd6"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Will Russell Index Removal Reshape Synopsys' (SNPS) AI and Ansys-Driven Investment Narrative?",
-      "url": "https://finnhub.io/api/news?id=968619a1c9d206fcf96cbf352940b3ca0474c027665bffddcb5af64bcde712f2"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings (ARM) Gains AI Licensing Momentum, Is The Upside Already Priced In?",
-      "url": "https://finnhub.io/api/news?id=079754c13421fd88a649f4e909de3ebd82622985363ae4b3c0db5566bea46389"
-    },
-    {
-      "stock": "HON",
-      "headline": "Why Honeywell’s New Earnings Guidance Isn’t as Good as It Looks",
-      "url": "https://finnhub.io/api/news?id=54eba0bffcd612cb697732ccb4eeeab1224adf0e5bb6fb07129fcc21bab09719"
-    },
-    {
-      "stock": "UBER",
-      "headline": "TBPN’s John Coogan: “People Can’t Really Complain.” Here’s Why Blue Origin Is Worth $130 Billion.",
-      "url": "https://finnhub.io/api/news?id=a738afb556d0ce41d926482a0668b8df244ca568e20343582566241b8cead7a6"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Figma CEO Says He’s ‘Never Been More Bullish’ As AI Vs Design Debate Intensifies",
-      "url": "https://finnhub.io/api/news?id=503318e763df3ccf3e21a65eb322ae692fdf09b7f1a16e7590f8ace69ff712b1"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron raises U.S. investment to $250 billion for AI memory chips",
-      "url": "https://finnhub.io/api/news?id=9e501f2c68e234e0de4720401344c7e1a5f3e4e3786893c75b4a2306f7365f53"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor-SP ADR (NYSE:TSM) Shows Perfect Technical and Strong Growth Momentum Setup",
-      "url": "https://finnhub.io/api/news?id=77791210578f6f80c24caa39a9dc1aa89425f34309cfa944fd93bdd7c31d0d3e"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "UK Places Major Cloud Providers Under Financial Sector Oversight (MSFT)",
-      "url": "https://finnhub.io/api/news?id=fa0c21d42bfe5bc6337749b03983021cd357225f4990a4ff94bdf7abd7bfd6e6"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Is Synopsys (SNPS) Fairly Valued On Its Russell Index Removals?",
-      "url": "https://finnhub.io/api/news?id=c33a6b121c3fc0c17fae2479c1bbce7c392acaad0ae731ee618f4bb58ee79767"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "2 Large-Cap Stocks to Target This Week and 1 We Avoid",
-      "url": "https://finnhub.io/api/news?id=1ea65e810221c7c18ac2e70935520ad4551848bb72e520f182670acf11b6f9a4"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Shopify upgraded, PepsiCo downgrade: Wall Street's top analyst calls",
-      "url": "https://finnhub.io/api/news?id=bdc3f50a9d67348cca95591f1e40ac7d4f5c405efd0869fcc42453374f5fa579"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "UK Places Major Cloud Providers Under Financial Sector Oversight (MSFT)",
-      "url": "https://finnhub.io/api/news?id=fa0c21d42bfe5bc6337749b03983021cd357225f4990a4ff94bdf7abd7bfd6e6"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix (NFLX) Shares Retraced Following Strong Gains",
-      "url": "https://finnhub.io/api/news?id=fe3da30a25761c8e91c8b8065f02b03d8c229be9e1002151dedd643e7dc5949b"
-    },
-    {
-      "stock": "MU",
-      "headline": "Bloomberg’s Daybreak Desk Says SK Hynix’s Record $26.5 Billion Nasdaq Debut Proves the AI Chip Boom Isn’t Cooling",
-      "url": "https://finnhub.io/api/news?id=2c3341f04e5aa1c0975e7d3853b0cb9c49465177c8468a2426ba5db67eacf528"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike: AI-Driven Growth At Hefty Premiums And SBC Risks",
-      "url": "https://finnhub.io/api/news?id=a3ccce86ca35839afebecf1aa83c379cf901b95e9618793600dec0de7d2cafeb"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Buy, Hold, or Sell: Why Everyone Is Wrong About Amazon’s Secret Bet",
-      "url": "https://finnhub.io/api/news?id=68a46599f88bea41c81e7d2204f4dce626c51fdc1cc45e60399fa6e240cb77fb"
-    },
-    {
-      "stock": "HON",
-      "headline": "JPM starts Honeywell Aerospace at Neutral, sees supply chain capping upside",
-      "url": "https://finnhub.io/api/news?id=4b858def0aa49c1e4d40bde1923e07b0c95a38159f1337b261178c1b337b0ce4"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Why I Can’t Stop Buying Microsoft Even As Fears Of An AI Bubble Resurface",
-      "url": "https://finnhub.io/api/news?id=b7dd880105dd2c5fea466991ebd3e407caf9b7ed5b7381aaf2c9a1420919d5d6"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Wall Street Roundup: Carving Up The AI Trade",
-      "url": "https://finnhub.io/api/news?id=9b0f24474acdded9af956f9e8229eae98ba009962fd55d3172e1aced7df0359c"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Elon Musk SEC settlement raises 'red flags,' judge says",
-      "url": "https://finnhub.io/api/news?id=f149aa67c6f010fa2107351497945ee220095bb9d179c48de9b9659e8fda20d4"
-    },
-    {
-      "stock": "HON",
-      "headline": "Chief Investment Strategist: “We Are Spending Almost 3% of GDP on AI” as Stocks Tune Out Global Conflict on “Astronomical Investment”",
-      "url": "https://finnhub.io/api/news?id=b925dd80d591aa136e9888016b312986e911151a406a07306dac2df8a87a84d5"
-    },
-    {
-      "stock": "DE",
-      "headline": "Deere settles right to repair dispute with FTC",
-      "url": "https://finnhub.io/api/news?id=e6eecee99e25fd0004f2a4e63fa39ee89aa3507c24a85810d444be55ade3e77f"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Chief Investment Strategist: “We Are Spending Almost 3% of GDP on AI” as Stocks Tune Out Global Conflict on “Astronomical Investment”",
-      "url": "https://finnhub.io/api/news?id=b925dd80d591aa136e9888016b312986e911151a406a07306dac2df8a87a84d5"
-    },
-    {
-      "stock": "MU",
-      "headline": "AI cash flow is booming for chipmakers & plummeting for Big Tech: Charts of the Day",
-      "url": "https://finnhub.io/api/news?id=de53554ea57ac0d12f382046916d0f30cefe256eb3174c3202707cb6f7c55942"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Trump Skips Aircraft Tariffs for Now After Security Review, but Puts Trade Partners on Six-Month Clock",
-      "url": "https://finnhub.io/api/news?id=b54038a1bae28975ae641acf53bc9efe7e0879e46bbef428c45aea26cce7064d"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "AI Giants Add $350 Billion Debt as $725 Billion Spending Surges",
-      "url": "https://finnhub.io/api/news?id=0db9c1a0b7b67a22fb07cd721239c5468781fb049d725c5afe131d4489603eda"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=3950ba12d1f78e090a2162ad805700691eeabaedc9a25cbb8b5a2bc2711ce71a"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber (UBER) Tightens Lawsuit Terms As Drivers Protest AI Pay Cuts",
-      "url": "https://finnhub.io/api/news?id=a725686f4f17948d48903364bfecb9b16047a7463b59ba2903289cca562a4307"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "How Adobe Stock's Cash Generation Changes The AI Debate",
-      "url": "https://finnhub.io/api/news?id=41dd0aaecb7956437894ea7d005684ed3a8262e3b79356a10db3f308930dc709"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "AI Giants Add $350 Billion Debt as $725 Billion Spending Surges",
-      "url": "https://finnhub.io/api/news?id=0db9c1a0b7b67a22fb07cd721239c5468781fb049d725c5afe131d4489603eda"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "BTIG Reiterates Buy on Atlassian, Maintains $130 Price Target",
-      "url": "https://finnhub.io/api/news?id=367a79baa29f7270e75e134dd26856629b5288c08aa72b182e47180b7c1f6ccb"
+      "headline": "Palantir CEO: “Something Has Gone Completely Wrong” With OpenAI and Anthropic",
+      "url": "https://finnhub.io/api/news?id=c593a993f92d4dd6fd5b627f73eed5c5c82a82b2cc7e54c6e20c6d5b332b5ac7"
     }
   ]
 }
