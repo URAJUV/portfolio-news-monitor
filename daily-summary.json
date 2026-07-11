@@ -15,6 +15,31 @@
       "stock": "UBER",
       "headline": "Palantir CEO: “Something Has Gone Completely Wrong” With OpenAI and Anthropic",
       "url": "https://finnhub.io/api/news?id=c593a993f92d4dd6fd5b627f73eed5c5c82a82b2cc7e54c6e20c6d5b332b5ac7"
+    },
+    {
+      "stock": "MU",
+      "headline": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
+      "url": "https://finnhub.io/api/news?id=a0ace11c0d707ffab1e368db98888bae9df91e84c2cb38bedfc46e0da5f4c154"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Reportedly Pushes Staff Toward Grok 4.5 As AI Spending Cap Takes Effect",
+      "url": "https://finnhub.io/api/news?id=08e22d6f3f7845a161f7007cf37d2f875ab87f12389ba81ef7ab5e5a4d21883f"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Apple sues OpenAI alleging trade secret theft",
+      "url": "https://finnhub.io/api/news?id=f7e6bcc9052f3ff0ecf6e6f239cf1a710bf185b416d345b9e85bc9e25582f14b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Why Both Institutional And Retail Traders Are Eyeing Single Stock Futures",
+      "url": "https://finnhub.io/api/news?id=0926925309eabdc7a2fe2f09a3c244a1aa61bdf2f19ffe8cf0ecb9137cd72a30"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=3950ba12d1f78e090a2162ad805700691eeabaedc9a25cbb8b5a2bc2711ce71a"
     }
   ]
 }
