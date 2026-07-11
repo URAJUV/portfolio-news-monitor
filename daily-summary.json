@@ -45,6 +45,26 @@
       "stock": "IBM",
       "headline": "IBM (IBM) Launches Lightwell And Expands Bob For Enterprise Security And Modernization",
       "url": "https://finnhub.io/api/news?id=35e2f73baf0ab7dfcfb6f75ec123e6e492b15b3d155d6d2cf3aeaf3435e1b859"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron's Biggest Long-Term Growth Catalyst Has Nothing to Do With AI Data Centers",
+      "url": "https://finnhub.io/api/news?id=ec7350a3a7856caeb6b50f8296c65d823f2e95a544bd63ffcd8aa758673aa757"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Gene Munster Expects Google, AWS Cloud To Beat Q2 Estimates — Sees Higher AI Capex Growth in 2027",
+      "url": "https://finnhub.io/api/news?id=d9e2a4917fa1b2eed2050f7c82c452572b55a0852aa851a435d61426a06c2949"
+    },
+    {
+      "stock": "DE",
+      "headline": "Deere (DE) Following Right To Repair Deal Has Its Valuation Back In Focus",
+      "url": "https://finnhub.io/api/news?id=021affb10e2138e2d728322d30c66ed3a978e7027a74eeaadc3a910d151d2af8"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Is Palo Alto Networks' (PANW) AI Cost Push Reframing Its Cybersecurity Platform Ambitions?",
+      "url": "https://finnhub.io/api/news?id=1ec9500fad4f04d141c313716565ddbf82d31e4af4ac764cecc44a5b0b6d5199"
     }
   ]
 }
