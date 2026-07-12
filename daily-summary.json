@@ -40,6 +40,16 @@
       "stock": "NFLX",
       "headline": "Netflix Might Be Ready to Buy Something Again, but It's Not What You Think",
       "url": "https://finnhub.io/api/news?id=fbdb9ecfdba0c948a9e2b7faff692e305aa5d581ef029b25fd24b8eeb4130eac"
+    },
+    {
+      "stock": "MU",
+      "headline": "SK Hynix Joins the Nasdaq. But This Nasdaq-100 Semiconductor Stock Could Be an Even Better Buy for the Second Half of 2026.",
+      "url": "https://finnhub.io/api/news?id=ccf65ace0ec3b88ff17143d40a999bb94b43e488e3120cd151976d7a647774d3"
+    },
+    {
+      "stock": "COHR",
+      "headline": "These 5 Optical Chip Stocks Are Cashing in on AI Data Center Bandwidth",
+      "url": "https://finnhub.io/api/news?id=d3a1124c06adecd919a87df3a16966b0eceedb0102b36ac6d54f3d1a0b0896d8"
     }
   ]
 }
