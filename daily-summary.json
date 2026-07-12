@@ -15,6 +15,16 @@
       "stock": "GOOGL",
       "headline": "Google vs Apple: Which of the 2 Biggest AI Stocks Is the Better Buy Right Now?",
       "url": "https://finnhub.io/api/news?id=1deaf95b6458a19e10fd239a7270bdfa11e20e748915d129a029746d92f675f3"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy",
+      "url": "https://finnhub.io/api/news?id=1d24c83d41d5f3ad8678df9d98b56f893c0a49270437bdd7f957df397846fd0c"
+    },
+    {
+      "stock": "HON",
+      "headline": "Does Honeywell’s Post-Spin Guidance and Reverse Split Clarify Its Core Story for Investors (HON)?",
+      "url": "https://finnhub.io/api/news?id=e5fe0a4b5f1523404731ab0c2cb0c85538c20135860abe1e3db04774c3a01583"
     }
   ]
 }
