@@ -1,155 +1,20 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "items": [
     {
-      "stock": "CRWD",
-      "headline": "CrowdStrike: Valuation Reaching Speculative Levels, Despite AI Tailwinds (Downgrade)",
-      "url": "https://finnhub.io/api/news?id=aa156d0ce39fe38643533d7aa1a9a14f722d1a43528c5619ebe0eef7657a4670"
-    },
-    {
-      "stock": "AMPX",
-      "headline": "Jones Trading Initiates Coverage On Amprius Technologies with Buy Rating, Announces Price Target of $30",
-      "url": "https://finnhub.io/api/news?id=507b0162c24c2734109e0e49925febc2b63136620de37617ed42446470f7b16b"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Palantir CEO: “Something Has Gone Completely Wrong” With OpenAI and Anthropic",
-      "url": "https://finnhub.io/api/news?id=c593a993f92d4dd6fd5b627f73eed5c5c82a82b2cc7e54c6e20c6d5b332b5ac7"
-    },
-    {
       "stock": "MU",
-      "headline": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
-      "url": "https://finnhub.io/api/news?id=a0ace11c0d707ffab1e368db98888bae9df91e84c2cb38bedfc46e0da5f4c154"
+      "headline": "Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due",
+      "url": "https://finnhub.io/api/news?id=f0cd72579578342a3b822663dc7c762ec7496fa7e0b373a8e0f449a2256a310e"
     },
     {
       "stock": "TSLA",
-      "headline": "Tesla Reportedly Pushes Staff Toward Grok 4.5 As AI Spending Cap Takes Effect",
-      "url": "https://finnhub.io/api/news?id=08e22d6f3f7845a161f7007cf37d2f875ab87f12389ba81ef7ab5e5a4d21883f"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Apple sues OpenAI alleging trade secret theft",
-      "url": "https://finnhub.io/api/news?id=f7e6bcc9052f3ff0ecf6e6f239cf1a710bf185b416d345b9e85bc9e25582f14b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Why Both Institutional And Retail Traders Are Eyeing Single Stock Futures",
-      "url": "https://finnhub.io/api/news?id=0926925309eabdc7a2fe2f09a3c244a1aa61bdf2f19ffe8cf0ecb9137cd72a30"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=3950ba12d1f78e090a2162ad805700691eeabaedc9a25cbb8b5a2bc2711ce71a"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM (IBM) Launches Lightwell And Expands Bob For Enterprise Security And Modernization",
-      "url": "https://finnhub.io/api/news?id=35e2f73baf0ab7dfcfb6f75ec123e6e492b15b3d155d6d2cf3aeaf3435e1b859"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron's Biggest Long-Term Growth Catalyst Has Nothing to Do With AI Data Centers",
-      "url": "https://finnhub.io/api/news?id=ec7350a3a7856caeb6b50f8296c65d823f2e95a544bd63ffcd8aa758673aa757"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Gene Munster Expects Google, AWS Cloud To Beat Q2 Estimates — Sees Higher AI Capex Growth in 2027",
-      "url": "https://finnhub.io/api/news?id=d9e2a4917fa1b2eed2050f7c82c452572b55a0852aa851a435d61426a06c2949"
-    },
-    {
-      "stock": "DE",
-      "headline": "Deere (DE) Following Right To Repair Deal Has Its Valuation Back In Focus",
-      "url": "https://finnhub.io/api/news?id=021affb10e2138e2d728322d30c66ed3a978e7027a74eeaadc3a910d151d2af8"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Is Palo Alto Networks' (PANW) AI Cost Push Reframing Its Cybersecurity Platform Ambitions?",
-      "url": "https://finnhub.io/api/news?id=1ec9500fad4f04d141c313716565ddbf82d31e4af4ac764cecc44a5b0b6d5199"
-    },
-    {
-      "stock": "MU",
-      "headline": "Memory Stocks Rally on AI Demand, but Valuations Still Offer Upside for Select Names",
-      "url": "https://finnhub.io/api/news?id=cec458926de14cb31eee98c1a647a7a9b2984937541c565ea5742d19a9178917"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Big Tech is paying for the AI boom, and chipmakers are cashing in: Chart of the Day",
-      "url": "https://finnhub.io/api/news?id=eb50b2f143779b432c48dc66ce1e7ec4406a91cab906571c917159e6e6352d1e"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Legacy Automakers GM and Ford Present a Contrarian EV Opportunity as Single-Digit P/Es Clash with Double-Digit Earnings Growth",
-      "url": "https://finnhub.io/api/news?id=03c41c618fafbdba70193bf7651922e1bf2b478560faf23b42fd47181b46b32b"
-    },
-    {
-      "stock": "HON",
-      "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (July 2026)",
-      "url": "https://finnhub.io/api/news?id=7619521132f4e9535f0ddd8a08b079e998755e9a131bb77938d463928ac1aac2"
-    },
-    {
-      "stock": "DE",
-      "headline": "Deere (DE) Reaches Right To Repair Deal With FTC And States",
-      "url": "https://finnhub.io/api/news?id=5dfa5a7ea2ba274009e6c5098d92cc8353db6bd069d6eee62395bd4c66126fb6"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Big Tech is paying for the AI boom, and chipmakers are cashing in: Chart of the Day",
-      "url": "https://finnhub.io/api/news?id=eb50b2f143779b432c48dc66ce1e7ec4406a91cab906571c917159e6e6352d1e"
-    },
-    {
-      "stock": "MU",
-      "headline": "Jim Cramer Explains SK Hynix’s (SKHY) Role In Global Memory Industry",
-      "url": "https://finnhub.io/api/news?id=f163e9580c8424e66a85837092bd3a1b1e853bfeb0ebe7ecde796af8896e449b"
-    },
-    {
-      "stock": "ARM",
-      "headline": "5 Under the Radar AI Chip Stocks Powering the Data Center Boom",
-      "url": "https://finnhub.io/api/news?id=c478ac2f702a70e6def892264a3cd3327906ee74c4195aecce83dad7b7116581"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "5 Under the Radar AI Chip Stocks Powering the Data Center Boom",
-      "url": "https://finnhub.io/api/news?id=c478ac2f702a70e6def892264a3cd3327906ee74c4195aecce83dad7b7116581"
-    },
-    {
-      "stock": "MU",
-      "headline": "Skip ARKK’s Moonshots: This Fund Owns the AI Software Winners for 0.45%",
-      "url": "https://finnhub.io/api/news?id=d2cbd612522ac6360f3e92a48b76ade22e9d847e232fff13ce1d1474028229b3"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Skip ARKK’s Moonshots: This Fund Owns the AI Software Winners for 0.45%",
-      "url": "https://finnhub.io/api/news?id=d2cbd612522ac6360f3e92a48b76ade22e9d847e232fff13ce1d1474028229b3"
-    },
-    {
-      "stock": "UBER",
       "headline": "Forget AI Hyperscalers: Tesla May Own the Most Valuable AI Application",
       "url": "https://finnhub.io/api/news?id=557daa58cd2c75b3c26ba24912ea00a68d3b48a19ece3a794bc676189e7aa8db"
     },
     {
-      "stock": "DE",
-      "headline": "Cathie Wood-led ARK Invest Buys Coinbase, Trails Only SpaceX Among Friday's Top Buys",
-      "url": "https://finnhub.io/api/news?id=ab7f824b4a60713d700d448380767dcc2735d4fd0314647216c2bc08ad5ac5ff"
-    },
-    {
       "stock": "GOOGL",
-      "headline": "Meta's Most Important AI Customer Might Be Meta",
-      "url": "https://finnhub.io/api/news?id=43eb57abbbef19017b5401a8132ae0453f865021758b43a54e5ae6b60742b841"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Is the AI Data Center Boom Creating a Debt Bubble? Here's What Investors Need to Know.",
-      "url": "https://finnhub.io/api/news?id=1c3a5218b79338d32ad7cbba0a4f88cd7492b38a08c12ad0536f906f738af793"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Crypto Industry Steps Up Quantum Security Efforts as Encryption Risks Accelerate",
-      "url": "https://finnhub.io/api/news?id=5778575d4550d31dd119febe1c344ac5e7d9bb05fbba8f0720200d2c64fee995"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Paramount–Warner Bros. merger could make HBO Max a 'staple' — even rivaling Netflix",
-      "url": "https://finnhub.io/api/news?id=ba2fe7ba8015565781ef7fd2601c80b86605fb7ec2a049616d92d73c0eb4ac66"
+      "headline": "Google vs Apple: Which of the 2 Biggest AI Stocks Is the Better Buy Right Now?",
+      "url": "https://finnhub.io/api/news?id=1deaf95b6458a19e10fd239a7270bdfa11e20e748915d129a029746d92f675f3"
     }
   ]
 }
