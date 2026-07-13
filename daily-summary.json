@@ -25,6 +25,21 @@
       "stock": "AAOI",
       "headline": "The AI Optical Selloff Is A Gift - 3 Stocks I'm Buying",
       "url": "https://finnhub.io/api/news?id=699b399ce5dc0bdfbba3cbb0045dc96626ae0c4291c2f858f3730131473a4090"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AI-Backed Growth Benefits DUOL Amid Expected Rise in Inference Costs",
+      "url": "https://finnhub.io/api/news?id=d700bbf547dfe32664a2234c359defc8ca3778718a0c385072a9f69267f56c5b"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Overture Maps Foundation Reaches 50 Members as Industry Converges on Open Data to Ground AI",
+      "url": "https://finnhub.io/api/news?id=c97e0efdf3d2c73b0046040872e1999fd63f4ffa9622f6cc3608746acff9ebd2"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Talk About Lousy Timing for a Netflix Analyst Price Target Downgrade",
+      "url": "https://finnhub.io/api/news?id=90dbeb786e76d5ef788676c1ae3a0eef3f044a495c45f383ef5cfeda5258e6e0"
     }
   ]
 }
