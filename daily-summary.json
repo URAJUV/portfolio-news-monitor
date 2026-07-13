@@ -40,6 +40,26 @@
       "stock": "NFLX",
       "headline": "Talk About Lousy Timing for a Netflix Analyst Price Target Downgrade",
       "url": "https://finnhub.io/api/news?id=90dbeb786e76d5ef788676c1ae3a0eef3f044a495c45f383ef5cfeda5258e6e0"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Baird International And Global Growth Funds Q2 2026 Contributors And Detractors",
+      "url": "https://finnhub.io/api/news?id=988faa5279f6bb7023f37e0c82bdbb474e0802b57d4e2da7d56058e5bd5f2aa0"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Apple Sat Out the AI Arms Race. It’s the Only Magnificent 7 Stock Near All-Time Highs.",
+      "url": "https://finnhub.io/api/news?id=2a8c54e4dbca10ef19a65c8c6747ed2dc82a9fef9da23d6756dd13cdad9be689"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=d3927ad54ef25f09ff2a8f43ecda858078566e0b5bbae035ea2c3d6088df6690"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Paramount, Warner Bros. Face Multistate Lawsuit Seeking to Block Merger",
+      "url": "https://finnhub.io/api/news?id=f3b56b2cdd2781cd63893ffa9eaa549ccd7e66d99c3ca79f32aecacb8b29d928"
     }
   ]
 }
