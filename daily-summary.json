@@ -80,6 +80,16 @@
       "stock": "AMZN",
       "headline": "Amazon (AMZN) Stock Trades Below Fair Value On Its 85% Run",
       "url": "https://finnhub.io/api/news?id=382a5056180b2aa8187c5536b1483eb04e4da629257209c5a6a35f8285b32073"
+    },
+    {
+      "stock": "TSM",
+      "headline": "The Global Race For AI Dominance: How It's Reshaping Markets",
+      "url": "https://finnhub.io/api/news?id=bda329db61e51e5cdd6366d134aca47a29a1a2b8affb65f7a8546cec298fee6c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Saudi Arabia Commercial Vehicle Electrification (Trucks & Buses) Market Study Published; Profiles Tesla, Volvo Group, Daimler AG, and 12 Key Players",
+      "url": "https://finnhub.io/api/news?id=1e47e2cd86018c89857d9e661f42be3795d744b083d92003bba7a5dcf088d56e"
     }
   ]
 }
