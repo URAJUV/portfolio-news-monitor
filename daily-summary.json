@@ -45,6 +45,36 @@
       "stock": "NFLX",
       "headline": "Netflix (NFLX) Secures Exclusive MLB Home Run Derby Streaming Rights",
       "url": "https://finnhub.io/api/news?id=8e26bfeaf71adf49e47614a6744facdf7943bcd0fce688dd3e58969ab6e3ad1f"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC Could Swing $150 Billion as Options Market Prices Big Moves for This Week’s Earnings",
+      "url": "https://finnhub.io/api/news?id=fe2cc42d718bb0ede68b078e17a8e90e9c2cdfed4ed647b4dee06d264e76c81d"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Chief Economic Adviser: “There Is No Way” the Bond Market Can Fund the AI Boom Without Higher Yields",
+      "url": "https://finnhub.io/api/news?id=d8309d23996234fbf60215799d7c73f4cc2e9da5ecfee22171c85d65ce0e5cd1"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "url": "https://finnhub.io/api/news?id=88888fde750a56890dba97e3b1bac01a06fa86837220afd7bfc2c6f43ee83632"
+    },
+    {
+      "stock": "ARM",
+      "headline": "SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns",
+      "url": "https://finnhub.io/api/news?id=29c43ca25205d314c14a3ffa139af9215aa6b21bb2f6c31ef3604cc7ee126aa4"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Announces Date of Second Quarter 2026 Results Conference Call",
+      "url": "https://finnhub.io/api/news?id=06ad88e6d6fb97cdd71f0040526b54ef619c46db909cb27f39e4bee9b9e054a8"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Why IonQ Stock Is on a Losing Streak Even as Quantum Sector Booms",
+      "url": "https://finnhub.io/api/news?id=ec9b342817917719fb6ad6c7fff107078a781cebe8f1ce746a500aa67d0d7807"
     }
   ]
 }
