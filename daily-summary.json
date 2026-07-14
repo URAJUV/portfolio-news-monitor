@@ -160,6 +160,51 @@
       "stock": "AAOI",
       "headline": "Goldman Sachs Posts Upbeat Q2 Earnings, Joins SK Hynix, Tower Semiconductor And Other Big Stocks Moving Higher On Tuesday",
       "url": "https://finnhub.io/api/news?id=b5201d1cffb003c3d65922694b1792756dc404f2d8309675c0f5da5a11d297fc"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC's 68% Sales Surge Just Validated This Billionaire's $9.5 Billion Bet",
+      "url": "https://finnhub.io/api/news?id=d2e96db114db1d58669e52f518db1c250903a89ed9a1160e5cee1cf6d789398f"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Jefferies Maintains Buy on Shoals Technologies Group, Raises Price Target to $12",
+      "url": "https://finnhub.io/api/news?id=64feb706eeaa59874247c6ae4ee915e7ab67f0c365bca922e38f6500708174db"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Stock Gains After Four Price-Target Hikes Ahead Of Q2 Earnings",
+      "url": "https://finnhub.io/api/news?id=05e795996fdd3a1bace0e74427ab4017139d5c18b8a6e97b009994a80d55e419"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings plc (ARM) CEO says US would have Difficulty Banning AI CPU chip Exports to China",
+      "url": "https://finnhub.io/api/news?id=c27a2480260e89f5b5c9cf27035c2f140358fb8ee280d633c623eb27a93c178a"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Sector Update: Consumer Stocks Decline Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=6aeab728392badd688d826ea72c8b80c206b126589e66d4ae806e74f7c2ff63b"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics Stock Rises on Texas AI Optics Expansion",
+      "url": "https://finnhub.io/api/news?id=0f28d93fe9a882447e27640393ed8d1a8a8367d56125ed5eb32f5d66e7b14270"
+    },
+    {
+      "stock": "DE",
+      "headline": "Citigroup Maintains Neutral on Deere, Raises Price Target to $610",
+      "url": "https://finnhub.io/api/news?id=d20eb1b71ad1c70d74b1b58265c4b95715350553e28eb7bdb70d47a1c0f559f6"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Kyndryl Rolls Out Agentic Service Management As Nearly Half Of AI-Investing Organizations Struggle To Achieve Meaningful Returns",
+      "url": "https://finnhub.io/api/news?id=111f92838de22cead01eda322ec698a7cf4330fc719138b58072a67ee00d1bc7"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Remains Undervalued as Engagement Concerns Overblown, Morgan Stanley Says",
+      "url": "https://finnhub.io/api/news?id=ef07dc005cadfe0feb2bad27feda1bc7167787374a4e99a561c9b34121230f1e"
     }
   ]
 }
