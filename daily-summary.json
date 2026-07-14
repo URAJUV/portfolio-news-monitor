@@ -1,65 +1,50 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "items": [
     {
-      "stock": "AMZN",
-      "headline": "Jeff Bezos' Blue Origin Raised $10 Billion at a $130 Billion Valuation",
-      "url": "https://finnhub.io/api/news?id=6da8663bfdcbeff0b906bcea89ac42fde8e1cc6bd6071cf9180696961c5c28da"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger \"Strategically Coherent\"",
-      "url": "https://finnhub.io/api/news?id=dfcdd1da05fcf80a525090371fe9b636d1dbf2424b10178650a7048c6b9b8b47"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM Just Unveiled Major Updates to Its Bob AI Platform. How to Play IBM Stock Here.",
-      "url": "https://finnhub.io/api/news?id=ca61d99c50f6bb96b9f19976b15048d48e051814bfb59f24e69b0776cc1785a1"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Price Prediction: The AI Momentum Basket: Nvidia, Palantir, AMD & Tesla. Our 2027–2029 Targets",
-      "url": "https://finnhub.io/api/news?id=301b0738dab6ca32e88b019a851dd2a5f5fb5d4dc34db4ee43f2c6071594eeca"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "The AI Optical Selloff Is A Gift - 3 Stocks I'm Buying",
-      "url": "https://finnhub.io/api/news?id=699b399ce5dc0bdfbba3cbb0045dc96626ae0c4291c2f858f3730131473a4090"
-    },
-    {
-      "stock": "COHR",
-      "headline": "AI-Backed Growth Benefits DUOL Amid Expected Rise in Inference Costs",
-      "url": "https://finnhub.io/api/news?id=d700bbf547dfe32664a2234c359defc8ca3778718a0c385072a9f69267f56c5b"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Overture Maps Foundation Reaches 50 Members as Industry Converges on Open Data to Ground AI",
-      "url": "https://finnhub.io/api/news?id=c97e0efdf3d2c73b0046040872e1999fd63f4ffa9622f6cc3608746acff9ebd2"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Talk About Lousy Timing for a Netflix Analyst Price Target Downgrade",
-      "url": "https://finnhub.io/api/news?id=90dbeb786e76d5ef788676c1ae3a0eef3f044a495c45f383ef5cfeda5258e6e0"
-    },
-    {
       "stock": "TSM",
-      "headline": "Baird International And Global Growth Funds Q2 2026 Contributors And Detractors",
-      "url": "https://finnhub.io/api/news?id=988faa5279f6bb7023f37e0c82bdbb474e0802b57d4e2da7d56058e5bd5f2aa0"
+      "headline": "Dividend Harvesting Portfolio Week 280: $28,000 Allocated, $3,144.21 In Projected Dividends",
+      "url": "https://finnhub.io/api/news?id=0f9aebeb30423a7521ea2f861d27cdac918b1b601db54cf537e328563b591b75"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike: Priced For AI-Related Growth That Has Limited Potential To Occur",
+      "url": "https://finnhub.io/api/news?id=d326426d6c1cff89bfac5a4a90ed4a6021674cdfb50e6dc9efacfc0901889467"
     },
     {
       "stock": "AMZN",
-      "headline": "Apple Sat Out the AI Arms Race. It’s the Only Magnificent 7 Stock Near All-Time Highs.",
-      "url": "https://finnhub.io/api/news?id=2a8c54e4dbca10ef19a65c8c6747ed2dc82a9fef9da23d6756dd13cdad9be689"
+      "headline": "Famous AI Investor Says This is the ‘Mega Bull Case’ For Stocks like NVIDIA, Micron, and Broadcom",
+      "url": "https://finnhub.io/api/news?id=45e2135284a9c3d79723c628da5041c69c85ae5ee7d94e9cbdb9d8f2058eb097"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "TSLA Stock Back To $400? Jefferies Lays Out Bull Case, Says ​​SpaceX Merger Could Hand Shareholders A Premium",
+      "url": "https://finnhub.io/api/news?id=d001bdbdb8c9e8dd9157f03bb737b32f3674206828793b948220a8527612646f"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Investors Debate Which Stock Will Create the Most Millionaires in the Next 10 Years. 'Not the Safest. Not Your Favorite'",
+      "url": "https://finnhub.io/api/news?id=9f4719338e324aae54692c2f85eacb62bc76d436752cbd9c6b819f29fca14298"
+    },
+    {
+      "stock": "DE",
+      "headline": "Can CAT's Construction Industries Segment Deliver Sustained Growth?",
+      "url": "https://finnhub.io/api/news?id=956b47af44405a9111e6d600a75d1f57e9044b3807590253bc68ad3157b24ef3"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk  Establishes Unsecured Commercial Paper Program On July 13, 2026; Commercial Paper Program Allows Up To $2B Outstanding With Maturities Up To 365 Days",
+      "url": "https://finnhub.io/api/news?id=e3f27306b007353e62da6f2788b40c470b8def01d2cabefbf9b29d82a4c81394"
     },
     {
       "stock": "GOOGL",
-      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=d3927ad54ef25f09ff2a8f43ecda858078566e0b5bbae035ea2c3d6088df6690"
+      "headline": "Famous AI Investor Says This is the ‘Mega Bull Case’ For Stocks like NVIDIA, Micron, and Broadcom",
+      "url": "https://finnhub.io/api/news?id=45e2135284a9c3d79723c628da5041c69c85ae5ee7d94e9cbdb9d8f2058eb097"
     },
     {
       "stock": "NFLX",
-      "headline": "Paramount, Warner Bros. Face Multistate Lawsuit Seeking to Block Merger",
-      "url": "https://finnhub.io/api/news?id=f3b56b2cdd2781cd63893ffa9eaa549ccd7e66d99c3ca79f32aecacb8b29d928"
+      "headline": "Netflix (NFLX) Secures Exclusive MLB Home Run Derby Streaming Rights",
+      "url": "https://finnhub.io/api/news?id=8e26bfeaf71adf49e47614a6744facdf7943bcd0fce688dd3e58969ab6e3ad1f"
     }
   ]
 }
