@@ -100,6 +100,31 @@
       "stock": "NFLX",
       "headline": "The plot thickens for Netflix ahead of Q2 earnings, as ads & live sports become crucial",
       "url": "https://finnhub.io/api/news?id=1f3a47f4122aec0c740b4abe8c243e255041b295a896c9ae8a60523801102d5f"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor: Q2 Earnings Could Be Another Step Toward $500",
+      "url": "https://finnhub.io/api/news?id=bf83d26262f61ca4b2ba26c53319d46ec8d8951a2bc5e332d2bb5be216599ad9"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CRWD vs. CSCO: Which Cybersecurity Stock Should You Buy Right Now?",
+      "url": "https://finnhub.io/api/news?id=c0c175f7228aa5404ab9041cf4ff139a3913fa7dad5e62287001ca258679c97e"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Prediction: Poet Technologies Has 160% Upside as AI Infrastructure Demand Accelerates",
+      "url": "https://finnhub.io/api/news?id=6de3648a1a71552b30c001938f42ff98cbbb32e9fdf079bcded9abf3ca2f373e"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arteris Expands Its Partnership With Arm To Improve Security Assurance For Processor Core Development",
+      "url": "https://finnhub.io/api/news?id=03b3e73d6fdec2fa640ad9cf34e460bd6f165f9513beaff77013bd2b0f7e07ed"
+    },
+    {
+      "stock": "HON",
+      "headline": "Morgan Stanley Maintains Equal-Weight on Honeywell Intl, Lowers Price Target to $245",
+      "url": "https://finnhub.io/api/news?id=98065bb8fa71399af836a61c0a6bf1f4c624cbe1156ce13c3665c4f7d17a2475"
     }
   ]
 }
