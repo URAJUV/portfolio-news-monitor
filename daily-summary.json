@@ -75,6 +75,11 @@
       "stock": "IBM",
       "headline": "Why IonQ Stock Is on a Losing Streak Even as Quantum Sector Booms",
       "url": "https://finnhub.io/api/news?id=ec9b342817917719fb6ad6c7fff107078a781cebe8f1ce746a500aa67d0d7807"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon (AMZN) Stock Trades Below Fair Value On Its 85% Run",
+      "url": "https://finnhub.io/api/news?id=382a5056180b2aa8187c5536b1483eb04e4da629257209c5a6a35f8285b32073"
     }
   ]
 }
