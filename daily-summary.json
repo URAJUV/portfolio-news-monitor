@@ -115,6 +115,36 @@
       "stock": "GOOGL",
       "headline": "Warren Buffett's Hand-Picked Successor, Greg Abel, Revamped Berkshire Hathaway's Portfolio. Should You Buy the Only Berkshire Dividend Stock Left That Yields Over 6%?",
       "url": "https://finnhub.io/api/news?id=9d3e07386caaaa270124a397d117f6fbf883f3fe69a91ef3e0d12926a49bc141"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Top Cybersecurity Stocks to Buy Now as AI Changes Tech Defense",
+      "url": "https://finnhub.io/api/news?id=3da6c5be2b76609eb1a86cc7154470bca2087a37d9144c1ad3972f923aabebcf"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Oracle Leads Japan Secure Cloud Talks",
+      "url": "https://finnhub.io/api/news?id=c2a74bf867bfd9b3768e9664dc1921a5d298423ca13f1ae1f5859699bda55ec1"
+    },
+    {
+      "stock": "COHR",
+      "headline": "High ROE & Robust Liquidity Position Aid RHI Amid High Competition",
+      "url": "https://finnhub.io/api/news?id=767abab2413df86998a6d71260c55669ce989c9bc17567a43ec9e9ef1b05787d"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Lucid Rises 18% as EV Maker Denies Bankruptcy Claims, Analyst Assures Sufficient Funding",
+      "url": "https://finnhub.io/api/news?id=ada6b944efed999da3903a52a668ba96db3403d4f45e86823775d399b0a73309"
+    },
+    {
+      "stock": "DE",
+      "headline": "Will Deere Benefit From Settling Its FTC Right-to-Repair Dispute?",
+      "url": "https://finnhub.io/api/news?id=d7d0d4427ac8bae0b2bfca9329f5603aa45934c44053ee62d13a8750924e9d4b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Oracle Leads Japan Secure Cloud Talks",
+      "url": "https://finnhub.io/api/news?id=c2a74bf867bfd9b3768e9664dc1921a5d298423ca13f1ae1f5859699bda55ec1"
     }
   ]
 }
