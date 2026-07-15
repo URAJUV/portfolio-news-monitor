@@ -145,6 +145,31 @@
       "stock": "GOOGL",
       "headline": "Oracle Leads Japan Secure Cloud Talks",
       "url": "https://finnhub.io/api/news?id=c2a74bf867bfd9b3768e9664dc1921a5d298423ca13f1ae1f5859699bda55ec1"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor Manufacturing Q2 Preview: Analysts Expect Record Revenue, Could Stock Hit New All-Time Highs?",
+      "url": "https://finnhub.io/api/news?id=ea89c6436614067cfbd2484c526a61ea5bbb0536fadc020c81e52fe560f5e757"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Unpacking Q1 Earnings: CrowdStrike (NASDAQ:CRWD) In The Context Of Other Cybersecurity Stocks",
+      "url": "https://finnhub.io/api/news?id=a8dacd921daa7a1b40f74fe3322eb53f5b33c4276bb930ca732cbee978a06e8a"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Booz Allen Hamilton Gains From Steady Revenues Amid Rising Expenses",
+      "url": "https://finnhub.io/api/news?id=27e3a61e4e63dc2a444f75ed5d9bb730bfe5eb738c84471fe05d225212220139"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber vs. Pony AI: Who's Winning the Race in Autonomous Ride-Hailing?",
+      "url": "https://finnhub.io/api/news?id=84156d9577bcb410e1e1af7b23e3a88d50d4d5baf46fec7204023d7a463ab873"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Prediction: Netflix Could Hit a New High With 268% Upside. Tomorrow’s Earnings Could Spark The Rally",
+      "url": "https://finnhub.io/api/news?id=1a5b5bd500407df4aa963b4207e0a172db088da3483bac716f9f9430f415941e"
     }
   ]
 }
