@@ -30,6 +30,26 @@
       "stock": "GOOGL",
       "headline": "New York Just Banned New AI Data Centers. Here's What It Means for Microsoft, Amazon, and Google.",
       "url": "https://finnhub.io/api/news?id=d55adca71d1b424a95d3ea1f5389575ca7ac8749a8b8e00dffd06b67555de9d1"
+    },
+    {
+      "stock": "MU",
+      "headline": "Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk",
+      "url": "https://finnhub.io/api/news?id=8996dc496359695dc86e9ed97aeae3714203516f8d18ce4fcaec4c6cbf9f32cf"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "New York Just Banned New AI Data Centers. Here's What It Means for Microsoft, Amazon, and Google.",
+      "url": "https://finnhub.io/api/news?id=d55adca71d1b424a95d3ea1f5389575ca7ac8749a8b8e00dffd06b67555de9d1"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Here's Why You Should Retain TT Stock in Your Portfolio Now",
+      "url": "https://finnhub.io/api/news?id=4aff4942d622dc233c48d3f9f8a65b736cdf2474a7324a97984b9bb55b95c71c"
+    },
+    {
+      "stock": "ARM",
+      "headline": "This Analyst Just Downgraded ARM Stock. Here's Why.",
+      "url": "https://finnhub.io/api/news?id=9998ec3cfa798690609dc071616532e7f7a38dc5c368a2d6df2b3f2c12505c52"
     }
   ]
 }
