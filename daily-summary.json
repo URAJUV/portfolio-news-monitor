@@ -100,6 +100,21 @@
       "stock": "NFLX",
       "headline": "With Netflix Down 45% From Its Highs, Viewer Engagement Concerns Are in Focus Ahead of Its Q2 Earnings Report",
       "url": "https://finnhub.io/api/news?id=860c82d9c3fc828ee73d125b585f2dbd8330eca7b52217c51e20b1f416de96fd"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Dow Jones Futures: Oil Prices Hit $80 On Iran News, ASML, Morgan Stanley Lead Earnings Movers",
+      "url": "https://finnhub.io/api/news?id=a4991ce4f683f91b710365cca22adbf8237f8b0e8a06f4416b51ca7ee2a6bae8"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Morgan Stanley Drops a $50 Billion Bombshell — Can Big Tech Still Afford to Build the AI Factories of the Future?",
+      "url": "https://finnhub.io/api/news?id=1f86efe740c396067971dd51aedb8cf5f9cd1e907f21351f81093885cf04becd"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Warren Buffett's Hand-Picked Successor, Greg Abel, Revamped Berkshire Hathaway's Portfolio. Should You Buy the Only Berkshire Dividend Stock Left That Yields Over 6%?",
+      "url": "https://finnhub.io/api/news?id=9d3e07386caaaa270124a397d117f6fbf883f3fe69a91ef3e0d12926a49bc141"
     }
   ]
 }
