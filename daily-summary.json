@@ -50,6 +50,31 @@
       "stock": "ARM",
       "headline": "This Analyst Just Downgraded ARM Stock. Here's Why.",
       "url": "https://finnhub.io/api/news?id=9998ec3cfa798690609dc071616532e7f7a38dc5c368a2d6df2b3f2c12505c52"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CRWD, PANW, NET, ZS: One Cybersecurity Stock Won Over Retail Investors – But Another Tops Wall Street’s List",
+      "url": "https://finnhub.io/api/news?id=05a513304bea63b4aa0a77f70121cb54dc94addc6c5f266ebe954152e0b6c427"
+    },
+    {
+      "stock": "ARM",
+      "headline": "HSBC Downgrades ARM Holdings to Hold, Raises Price Target to $315",
+      "url": "https://finnhub.io/api/news?id=39b77d0d916a7726c7eb6946e255b9a0dacb881e76c6a0f2304152aa00214ae3"
+    },
+    {
+      "stock": "IBM",
+      "headline": "CRWD, PANW, NET, ZS: One Cybersecurity Stock Won Over Retail Investors – But Another Tops Wall Street’s List",
+      "url": "https://finnhub.io/api/news?id=05a513304bea63b4aa0a77f70121cb54dc94addc6c5f266ebe954152e0b6c427"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sivadeep Katangoori: Pioneering Data Lakes, Cloud Innovation, and AI-Driven Enterprise Transformation",
+      "url": "https://finnhub.io/api/news?id=54b43eabf14a765c9aeb9839eaecc495a5133f89834691fe1559c46854517a64"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix (NFLX) Q2 Earnings: What To Expect",
+      "url": "https://finnhub.io/api/news?id=6148973d71a1845935d7b57027d7f870f92e06a0052d82de08988a04de2228bf"
     }
   ]
 }
