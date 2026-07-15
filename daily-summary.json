@@ -75,6 +75,31 @@
       "stock": "NFLX",
       "headline": "Netflix (NFLX) Q2 Earnings: What To Expect",
       "url": "https://finnhub.io/api/news?id=6148973d71a1845935d7b57027d7f870f92e06a0052d82de08988a04de2228bf"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Market Chatter: Oracle Leads Race for Japan's Classified Cloud Contract Amid Security Push",
+      "url": "https://finnhub.io/api/news?id=4ea4b4f2b298b9cc50112f0f369f0eafa8fabdefc6a3fde5bcf2de5e85cc1a38"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Why Synopsys (SNPS) Is Doubling Down on AI Chip Design Software to Strengthen Its Long-Term Competitive Advantage",
+      "url": "https://finnhub.io/api/news?id=bcb771d396def46d83862b78d517cf35720af0f74c0aa87ae21020cbe29c479d"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Plunged After Issuing a Warning on the Software Sector. Time to Buy?",
+      "url": "https://finnhub.io/api/news?id=d961abc0ae718ef910343541b6205bf831e695830e983e71ff46f06476648a69"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Market Chatter: Oracle Leads Race for Japan's Classified Cloud Contract Amid Security Push",
+      "url": "https://finnhub.io/api/news?id=4ea4b4f2b298b9cc50112f0f369f0eafa8fabdefc6a3fde5bcf2de5e85cc1a38"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "With Netflix Down 45% From Its Highs, Viewer Engagement Concerns Are in Focus Ahead of Its Q2 Earnings Report",
+      "url": "https://finnhub.io/api/news?id=860c82d9c3fc828ee73d125b585f2dbd8330eca7b52217c51e20b1f416de96fd"
     }
   ]
 }
