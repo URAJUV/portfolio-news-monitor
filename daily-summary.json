@@ -185,6 +185,21 @@
       "stock": "NFLX",
       "headline": "Netflix heads into earnings with bulls unfazed by stock's rough year",
       "url": "https://finnhub.io/api/news?id=0e4738f7403bfb543304ce8ed1b734c872ff101ab7998c4970fb95f6a0948f98"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "SpaceX initiated, Lululemon downgraded: Wall Street's top analyst calls",
+      "url": "https://finnhub.io/api/news?id=10d75e966d521449cb435e791208bb5a18a79c4ff41421920a9bd92a572ae747"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Sector Update: Consumer Stocks Rise in Afternoon Trading",
+      "url": "https://finnhub.io/api/news?id=0545ec54181165af03cc58703a42f3e3991e69f8b79646336eb423cfbfbb15b0"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Prediction: This AI Stock Will Double by 2031 -- Here's the Math",
+      "url": "https://finnhub.io/api/news?id=6ee323e287e02913a27bb36fd5eb7d6fbf46546ad57e1e1c8b4c372eb8abffd4"
     }
   ]
 }
