@@ -25,6 +25,26 @@
       "stock": "HON",
       "headline": "Emerson Electric: Avoid Due To Valuation, Despite Being A Dividend King",
       "url": "https://finnhub.io/api/news?id=964a69fc830c6ad0fbf7b48ca34e1eefeb9e00f3bf763fe3676ac4eb73a393e5"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent (COHR) Stock May Be 11% Undervalued Despite Fresh AI Infrastructure News",
+      "url": "https://finnhub.io/api/news?id=a417252e585cd59bd98a22fe3d436fc74adb72cd3fd4cdb4de9915f6035acbb1"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "GPU.ai Named Official Title Sponsor of AGI Summit SF 2026",
+      "url": "https://finnhub.io/api/news?id=efc5eeb57b9833a11271ed2f34364e058d7eff7feeb1dd2160896704c19675d0"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google stock price faces major AI test ahead of earnings",
+      "url": "https://finnhub.io/api/news?id=3d2e505a9cf680024301089a670f69c1e380dc7dcde90a3ea1e683576292789d"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix is quietly testing free trials again — 6 years after killing them off",
+      "url": "https://finnhub.io/api/news?id=645932eb7ff8406fba8e8e8732de45068d478bbf6c1d42622f8fa8af5494a19b"
     }
   ]
 }
