@@ -200,6 +200,56 @@
       "stock": "GOOGL",
       "headline": "Prediction: This AI Stock Will Double by 2031 -- Here's the Math",
       "url": "https://finnhub.io/api/news?id=6ee323e287e02913a27bb36fd5eb7d6fbf46546ad57e1e1c8b4c372eb8abffd4"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Korea Drives Semi Stocks Lower Despite Solid Taiwan Semi Earnings; Apple Boosts China AI Models",
+      "url": "https://finnhub.io/api/news?id=c44a54e68a11aa7e1cc92edf0a125464642478926263eb1b4a8dffac95f11a71"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Anthropic just made a move that changes the AI investing story",
+      "url": "https://finnhub.io/api/news?id=2277aeebaff0d7dd84edcd7e9b2ab23f61c204a2cd3f30b45c7077410606b047"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
+      "url": "https://finnhub.io/api/news?id=eec3217290a10ec063680087ba18a7cce53e9971ec864a5f4584bc7b86e17a0c"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "ARM's Expanding Royalty Opportunity Is Powering Its AI Growth Story",
+      "url": "https://finnhub.io/api/news?id=34e1962cb2acadcda5f934f2507a03aac4c195838e8d70833376794157436490"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Earnings Loom After Surprise Delivery Beat Stuns Wall Street",
+      "url": "https://finnhub.io/api/news?id=bfcdfd643c698f5f7e1c9d775567f92972ea955cdcdfff716b123772c9849868"
+    },
+    {
+      "stock": "HON",
+      "headline": "Earnings Preview: Honeywell International Inc. (HON) Q2 Earnings Expected to Decline",
+      "url": "https://finnhub.io/api/news?id=24089d894ff110aabc898155f234dd0882c566e270c596bbd87c064a04e5852e"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Alpha Buying: The Real Moats AI Can't Replace",
+      "url": "https://finnhub.io/api/news?id=6da29aaff57773cdc733cc54fbb7c63b110ec411f3b319c88335684f65eed847"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Anthropic just made a move that changes the AI investing story",
+      "url": "https://finnhub.io/api/news?id=2277aeebaff0d7dd84edcd7e9b2ab23f61c204a2cd3f30b45c7077410606b047"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "B of A Securities Maintains Neutral on Atlassian, Lowers Price Target to $105",
+      "url": "https://finnhub.io/api/news?id=dd868b981b42e9b86189d6fad9d8621bcc0d673fd724757c9a9e5de830d71eee"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Thursday's after hours session: top gainers and losers",
+      "url": "https://finnhub.io/api/news?id=7c89839560008746c31bef92b6726836e108cecc6bff899e011fa860e5b3826a"
     }
   ]
 }
