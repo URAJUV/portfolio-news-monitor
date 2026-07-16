@@ -75,6 +75,36 @@
       "stock": "NFLX",
       "headline": "Netflix Stock Has Fallen Hard. Earnings Could Reinvigorate Sentiment.",
       "url": "https://finnhub.io/api/news?id=1253e25e61c4ebc09114034e17d04ee0a1ecde4bd2afbaa1ef3b8518821b3cdf"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Investors Are Growing Wary of AI-Related Debt",
+      "url": "https://finnhub.io/api/news?id=76e031dca503d64bd0c6fd33bfaf75072b65e1ffacffbc29bbbab548df5767f1"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Trump’s Aides See China Cheating on Trade, But Shun Retaliation",
+      "url": "https://finnhub.io/api/news?id=0b16ff2744fcebd51f49a82014aa357384496008f0cb03de15fdccf601a0dc76"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings",
+      "url": "https://finnhub.io/api/news?id=d0c0e73a30f9b200764dea1e7f081e14ddc164584c9d20bd4b31ac53c2f94a5a"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Eats expands retail offering with GameStop partnership",
+      "url": "https://finnhub.io/api/news?id=40573c2c56940860da639aa3213bba1f3b36073bc9a8e6fdb1dc1fb9e7e2f77b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Warren Buffett's Successor, Greg Abel, Scooped Up Shares of These 4 Powerhouse Stocks in the Second Quarter",
+      "url": "https://finnhub.io/api/news?id=1d7091359654d01d93ae17c282b754c1114189ca4e8050bea92ab5ae5dcf1cba"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Nasdaq, S&P 500 Futures Slip As Iran Tensions, Chip Weakness Keep Investors On Edge: Why TSM, NVDA, NFLX, ATAI, ASTS Are In Focus",
+      "url": "https://finnhub.io/api/news?id=8c761c24917624a7a1a62e932856786548c8b10e652f5095786fe53bbf37845f"
     }
   ]
 }
