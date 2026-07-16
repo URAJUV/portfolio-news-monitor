@@ -130,6 +130,61 @@
       "stock": "NFLX",
       "headline": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as chip stocks slide after TSMC earnings",
       "url": "https://finnhub.io/api/news?id=ca75d383949ef6451b2ebbcaddcd1f4c4e3b40fce6cd5222f13b8e1c2d595bfd"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron Technology: AI Memory Demand Is Still in the Early Innings (NASDAQ: MU)",
+      "url": "https://finnhub.io/api/news?id=5cc8247d2b4b50d2c82a8f4c2ae5d1eda2fc38521d5908da4fdd1970b97cd7d5"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC Q2: The AI Panic Creates Your Second Chance",
+      "url": "https://finnhub.io/api/news?id=e2681f876425f894bbdbc47e27a2a2dc61efaa3870257845b8ccb5b7fc13dfd4"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike and Schwarz Digits Expand Strategic Partnership to Deliver Sovereign Cybersecurity Across Europe",
+      "url": "https://finnhub.io/api/news?id=39093b4a2de95b23d52b14ade5bc49955a183da65fbb0c8d96618e50002184b3"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "What Revenue Intelligence Actually Means for CPG Suppliers Protecting Margin at Amazon, Target and Walmart",
+      "url": "https://finnhub.io/api/news?id=4d66b818747c9c145f1fdc8d4ee6026bf494e1f7c384c6f6f24f92fdfb1e895d"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Benchmark initiates Synopsys, Cadence with Buy ratings on AI-driven EDA outlook",
+      "url": "https://finnhub.io/api/news?id=bcb9ebdcf5edee7c379af4e28e02f207e7016e0c774ad98dcbb0716d5155e85f"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "EV adoption is slowly regaining traction — but affordability concerns are rising",
+      "url": "https://finnhub.io/api/news?id=062e68fde9340309870479bd7791d4a22335b22896f863b67842d540ffd93831"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Nvidia: The TSMC Earnings Release Was A Warning Shot",
+      "url": "https://finnhub.io/api/news?id=90ddad7f683feabd4bf65dbb30273ca3cb26902a76a53cb0de6f2c6d35dee291"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Top Midday Stories: Taiwan Semiconductor Q2 Earnings Top Estimates, Increases Capex; UnitedHealth Raises Full-Year Guidance",
+      "url": "https://finnhub.io/api/news?id=5cbca686c587dddbb0e54de0ea21ea049d798da3c19f6986bbf30718a4f932e5"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Starbucks spends $400 million a year on software — now it's using AI to build its own and cut out the middleman",
+      "url": "https://finnhub.io/api/news?id=c7050738988fadcd766676c520436117d2e0b59b4fbc9a11d45427b278f95139"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Meta Is Betting $50 Billion on AI Data Centers. Where Does The Stock Go From Here?",
+      "url": "https://finnhub.io/api/news?id=97882937320cc5dcfbda3f255ec310ae24b6a2f0edab71d16aaeed55dbb76a74"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix heads into earnings with bulls unfazed by stock's rough year",
+      "url": "https://finnhub.io/api/news?id=0e4738f7403bfb543304ce8ed1b734c872ff101ab7998c4970fb95f6a0948f98"
     }
   ]
 }
