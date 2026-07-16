@@ -1,195 +1,30 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "items": [
     {
       "stock": "MU",
-      "headline": "Micron stock jumps as investors look beyond GPUs in AI chip trade",
-      "url": "https://finnhub.io/api/news?id=c951b1c5472590bd91fb15d5e0e525eaaf10f103f84db68e3897e7d55b5b4ab6"
+      "headline": "Early Q2 Results Reveal a Highly Robust Earnings Landscape",
+      "url": "https://finnhub.io/api/news?id=abb97ad423e7e625c9e21897bf8a98ff8bf6cc3e0107ff539a6890107a289b21"
     },
     {
       "stock": "CRWD",
-      "headline": "Dow Jones Futures Rise; Goldman, CrowdStrike Jump, But AI Stocks Need To Do This",
-      "url": "https://finnhub.io/api/news?id=767d2ade90ef611607c1a4bca821949c13486a341ca98a855029fee95d289c7e"
+      "headline": "CrowdStrike Holdings (CRWD) Stock Drops Despite Market Gains: Important Facts to Note",
+      "url": "https://finnhub.io/api/news?id=876e538ce917ed9795d7260db882f3fff5749d5e6f82f2827966f9d316f33dde"
     },
     {
       "stock": "AMZN",
-      "headline": "AI Stocks: Falling Knife or Once-in-a-Decade Buying Opportunity?",
-      "url": "https://finnhub.io/api/news?id=61a06fbd3812d07766b7dc13c5d65bc0e7d7437d1e4deb29e2c3aa8520186b21"
+      "headline": "The Top Mag 7 Stock Headed Into Q2 Earnings: Jefferies Says Buy Amazon Over Tesla or Apple",
+      "url": "https://finnhub.io/api/news?id=e6cc32104d8ea7028527f2b66fb5715c59f10461b14f80be024068ed1588ca0d"
     },
     {
-      "stock": "COHR",
-      "headline": "Applied Optoelectronics Rallies 6%, Lumentum Climbs 5% as Texas Expansion Fuels AI Optics Trade",
-      "url": "https://finnhub.io/api/news?id=17c45642264fdac70185281698c7ef607e035212f89d43e27d4e177ab0fc3864"
+      "stock": "TSLA",
+      "headline": "The Top Mag 7 Stock Headed Into Q2 Earnings: Jefferies Says Buy Amazon Over Tesla or Apple",
+      "url": "https://finnhub.io/api/news?id=e6cc32104d8ea7028527f2b66fb5715c59f10461b14f80be024068ed1588ca0d"
     },
     {
-      "stock": "ADSK",
-      "headline": "Autodesk (ADSK) Stock Looks Cheap On Cash Flow But Fair On Earnings",
-      "url": "https://finnhub.io/api/news?id=22f6fafc9a452d853464d012886170311ad635265a8a4a411c1f16babf2dc8fb"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "New York Just Banned New AI Data Centers. Here's What It Means for Microsoft, Amazon, and Google.",
-      "url": "https://finnhub.io/api/news?id=d55adca71d1b424a95d3ea1f5389575ca7ac8749a8b8e00dffd06b67555de9d1"
-    },
-    {
-      "stock": "MU",
-      "headline": "Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk",
-      "url": "https://finnhub.io/api/news?id=8996dc496359695dc86e9ed97aeae3714203516f8d18ce4fcaec4c6cbf9f32cf"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "New York Just Banned New AI Data Centers. Here's What It Means for Microsoft, Amazon, and Google.",
-      "url": "https://finnhub.io/api/news?id=d55adca71d1b424a95d3ea1f5389575ca7ac8749a8b8e00dffd06b67555de9d1"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Here's Why You Should Retain TT Stock in Your Portfolio Now",
-      "url": "https://finnhub.io/api/news?id=4aff4942d622dc233c48d3f9f8a65b736cdf2474a7324a97984b9bb55b95c71c"
-    },
-    {
-      "stock": "ARM",
-      "headline": "This Analyst Just Downgraded ARM Stock. Here's Why.",
-      "url": "https://finnhub.io/api/news?id=9998ec3cfa798690609dc071616532e7f7a38dc5c368a2d6df2b3f2c12505c52"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CRWD, PANW, NET, ZS: One Cybersecurity Stock Won Over Retail Investors – But Another Tops Wall Street’s List",
-      "url": "https://finnhub.io/api/news?id=05a513304bea63b4aa0a77f70121cb54dc94addc6c5f266ebe954152e0b6c427"
-    },
-    {
-      "stock": "ARM",
-      "headline": "HSBC Downgrades ARM Holdings to Hold, Raises Price Target to $315",
-      "url": "https://finnhub.io/api/news?id=39b77d0d916a7726c7eb6946e255b9a0dacb881e76c6a0f2304152aa00214ae3"
-    },
-    {
-      "stock": "IBM",
-      "headline": "CRWD, PANW, NET, ZS: One Cybersecurity Stock Won Over Retail Investors – But Another Tops Wall Street’s List",
-      "url": "https://finnhub.io/api/news?id=05a513304bea63b4aa0a77f70121cb54dc94addc6c5f266ebe954152e0b6c427"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Sivadeep Katangoori: Pioneering Data Lakes, Cloud Innovation, and AI-Driven Enterprise Transformation",
-      "url": "https://finnhub.io/api/news?id=54b43eabf14a765c9aeb9839eaecc495a5133f89834691fe1559c46854517a64"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix (NFLX) Q2 Earnings: What To Expect",
-      "url": "https://finnhub.io/api/news?id=6148973d71a1845935d7b57027d7f870f92e06a0052d82de08988a04de2228bf"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Market Chatter: Oracle Leads Race for Japan's Classified Cloud Contract Amid Security Push",
-      "url": "https://finnhub.io/api/news?id=4ea4b4f2b298b9cc50112f0f369f0eafa8fabdefc6a3fde5bcf2de5e85cc1a38"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Why Synopsys (SNPS) Is Doubling Down on AI Chip Design Software to Strengthen Its Long-Term Competitive Advantage",
-      "url": "https://finnhub.io/api/news?id=bcb771d396def46d83862b78d517cf35720af0f74c0aa87ae21020cbe29c479d"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM Plunged After Issuing a Warning on the Software Sector. Time to Buy?",
-      "url": "https://finnhub.io/api/news?id=d961abc0ae718ef910343541b6205bf831e695830e983e71ff46f06476648a69"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Market Chatter: Oracle Leads Race for Japan's Classified Cloud Contract Amid Security Push",
-      "url": "https://finnhub.io/api/news?id=4ea4b4f2b298b9cc50112f0f369f0eafa8fabdefc6a3fde5bcf2de5e85cc1a38"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "With Netflix Down 45% From Its Highs, Viewer Engagement Concerns Are in Focus Ahead of Its Q2 Earnings Report",
-      "url": "https://finnhub.io/api/news?id=860c82d9c3fc828ee73d125b585f2dbd8330eca7b52217c51e20b1f416de96fd"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Dow Jones Futures: Oil Prices Hit $80 On Iran News, ASML, Morgan Stanley Lead Earnings Movers",
-      "url": "https://finnhub.io/api/news?id=a4991ce4f683f91b710365cca22adbf8237f8b0e8a06f4416b51ca7ee2a6bae8"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Morgan Stanley Drops a $50 Billion Bombshell — Can Big Tech Still Afford to Build the AI Factories of the Future?",
-      "url": "https://finnhub.io/api/news?id=1f86efe740c396067971dd51aedb8cf5f9cd1e907f21351f81093885cf04becd"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Warren Buffett's Hand-Picked Successor, Greg Abel, Revamped Berkshire Hathaway's Portfolio. Should You Buy the Only Berkshire Dividend Stock Left That Yields Over 6%?",
-      "url": "https://finnhub.io/api/news?id=9d3e07386caaaa270124a397d117f6fbf883f3fe69a91ef3e0d12926a49bc141"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Top Cybersecurity Stocks to Buy Now as AI Changes Tech Defense",
-      "url": "https://finnhub.io/api/news?id=3da6c5be2b76609eb1a86cc7154470bca2087a37d9144c1ad3972f923aabebcf"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Oracle Leads Japan Secure Cloud Talks",
-      "url": "https://finnhub.io/api/news?id=c2a74bf867bfd9b3768e9664dc1921a5d298423ca13f1ae1f5859699bda55ec1"
-    },
-    {
-      "stock": "COHR",
-      "headline": "High ROE & Robust Liquidity Position Aid RHI Amid High Competition",
-      "url": "https://finnhub.io/api/news?id=767abab2413df86998a6d71260c55669ce989c9bc17567a43ec9e9ef1b05787d"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Lucid Rises 18% as EV Maker Denies Bankruptcy Claims, Analyst Assures Sufficient Funding",
-      "url": "https://finnhub.io/api/news?id=ada6b944efed999da3903a52a668ba96db3403d4f45e86823775d399b0a73309"
-    },
-    {
-      "stock": "DE",
-      "headline": "Will Deere Benefit From Settling Its FTC Right-to-Repair Dispute?",
-      "url": "https://finnhub.io/api/news?id=d7d0d4427ac8bae0b2bfca9329f5603aa45934c44053ee62d13a8750924e9d4b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Oracle Leads Japan Secure Cloud Talks",
-      "url": "https://finnhub.io/api/news?id=c2a74bf867bfd9b3768e9664dc1921a5d298423ca13f1ae1f5859699bda55ec1"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor Manufacturing Q2 Preview: Analysts Expect Record Revenue, Could Stock Hit New All-Time Highs?",
-      "url": "https://finnhub.io/api/news?id=ea89c6436614067cfbd2484c526a61ea5bbb0536fadc020c81e52fe560f5e757"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Unpacking Q1 Earnings: CrowdStrike (NASDAQ:CRWD) In The Context Of Other Cybersecurity Stocks",
-      "url": "https://finnhub.io/api/news?id=a8dacd921daa7a1b40f74fe3322eb53f5b33c4276bb930ca732cbee978a06e8a"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Booz Allen Hamilton Gains From Steady Revenues Amid Rising Expenses",
-      "url": "https://finnhub.io/api/news?id=27e3a61e4e63dc2a444f75ed5d9bb730bfe5eb738c84471fe05d225212220139"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber vs. Pony AI: Who's Winning the Race in Autonomous Ride-Hailing?",
-      "url": "https://finnhub.io/api/news?id=84156d9577bcb410e1e1af7b23e3a88d50d4d5baf46fec7204023d7a463ab873"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Prediction: Netflix Could Hit a New High With 268% Upside. Tomorrow’s Earnings Could Spark The Rally",
-      "url": "https://finnhub.io/api/news?id=1a5b5bd500407df4aa963b4207e0a172db088da3483bac716f9f9430f415941e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Intel Has Reached ‘Very Important Milestone’ With Its $400 Million Chipmaking Machine, ASML CEO Says",
-      "url": "https://finnhub.io/api/news?id=96d74cbcbdc2d8a02131903eb4f085aacd91cca2e6c6306cbae965f3dda02701"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Applied Optoelectronics Falls 12%, Coherent and Lumentum Slide as AI Optics Trade Cools",
-      "url": "https://finnhub.io/api/news?id=1810bc14bd5a3fb40e25cc9ce43b78c6751baf4d276a79179ba1227d7475d38a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Better Artificial Intelligence (AI) Stock: Alphabet Versus Meta Platforms",
-      "url": "https://finnhub.io/api/news?id=1748d9325c1cb842870aae696ae31821fdd4bc2dc8347800468a90e120bd2f40"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "A Red Flag Was Just Raised Ahead of Netflix's July 16 Earnings Report -- Here's What It Means for the Stock Price",
-      "url": "https://finnhub.io/api/news?id=1f225237a19e6f577073fdb7c4565dff14d87daf9801e38c4f2e49f0e9bea881"
+      "stock": "HON",
+      "headline": "Emerson Electric: Avoid Due To Valuation, Despite Being A Dividend King",
+      "url": "https://finnhub.io/api/news?id=964a69fc830c6ad0fbf7b48ca34e1eefeb9e00f3bf763fe3676ac4eb73a393e5"
     }
   ]
 }
