@@ -105,6 +105,31 @@
       "stock": "NFLX",
       "headline": "Nasdaq, S&P 500 Futures Slip As Iran Tensions, Chip Weakness Keep Investors On Edge: Why TSM, NVDA, NFLX, ATAI, ASTS Are In Focus",
       "url": "https://finnhub.io/api/news?id=8c761c24917624a7a1a62e932856786548c8b10e652f5095786fe53bbf37845f"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC Q2 Earnings Review: There's No Stopping The Juggernaut",
+      "url": "https://finnhub.io/api/news?id=a6994b3108741d32e878aac3222abf79308f369e1bb722bdabd766c54a71f16f"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "‘Portfolios are becoming much riskier’: How to make defensive investments before the AI bubble pops",
+      "url": "https://finnhub.io/api/news?id=48438dd7ff92dfe8e9cae2b83931a9ca1b0bc465168a2e938f9a897b5ab502b7"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Chip stocks fall, UnitedHealth earnings beat before the bell",
+      "url": "https://finnhub.io/api/news?id=293efa415e4fa3652e3e8c8badc83da9600c89a2b1e599da6d03cdc83851f938"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Dow Jones Futures Rise But AI Woes Continue; Taiwan Semi, GE, UnitedHealth Are Key Earnings Movers",
+      "url": "https://finnhub.io/api/news?id=759627f5149f28b6538283c3bf9a71edb694c1f7d5a2529b6c8f3576feb62f51"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as chip stocks slide after TSMC earnings",
+      "url": "https://finnhub.io/api/news?id=ca75d383949ef6451b2ebbcaddcd1f4c4e3b40fce6cd5222f13b8e1c2d595bfd"
     }
   ]
 }
