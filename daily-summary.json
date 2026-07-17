@@ -70,6 +70,31 @@
       "stock": "NFLX",
       "headline": "Netflix Reported Record Quarterly Revenue of $12.6 Billion, but Guidance Came in Below Expectations. Here’s What It Means for Investors.",
       "url": "https://finnhub.io/api/news?id=b9262e8e7088697a09775e8e6e043a0d5b4952a1a6c1a76441108973570dd8d3"
+    },
+    {
+      "stock": "MU",
+      "headline": "PDO: Dynamic (But Steady) Income In An Uncertain World",
+      "url": "https://finnhub.io/api/news?id=60be7bd9525ca1828451eba56c15d5de210e060e4d5efc4b195c661d5f23ad4d"
+    },
+    {
+      "stock": "TSM",
+      "headline": "China Semiconductor ETF: Are Investors Overlooking A Key Component In The Global AI Supply Chain?",
+      "url": "https://finnhub.io/api/news?id=c43aa7dfdac3fda70ce2405406b5217baf23b31304b29526524a1286cb36f1ed"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Chip Stocks Pummeled. SK Hynix Dives. SOX Socked Again.",
+      "url": "https://finnhub.io/api/news?id=33e0218061a09ff937ff829866b97fa67327889a16bafaffab0de45ca895b7dd"
+    },
+    {
+      "stock": "UBER",
+      "headline": "What Does Morgan Stanley See in Grab Holdings (GRAB) After Raising Its Target ?",
+      "url": "https://finnhub.io/api/news?id=608d419195806913df751d63fdd1a366427142e3b7a9d9dabfedc425d4c9ca2d"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "NFLX Stock Tumbles Overnight After Guidance Dismay – CFO Says Global Growth Story Is Far From Over",
+      "url": "https://finnhub.io/api/news?id=c5539e026ebe22d4b67cdb804e439222b13f25bfaf4ecf6c8526d305f56a83ae"
     }
   ]
 }
