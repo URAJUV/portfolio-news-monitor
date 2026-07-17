@@ -35,6 +35,41 @@
       "stock": "RDDT",
       "headline": "Wedbush Assumes Reddit at Outperform, Announces Price Target of $250",
       "url": "https://finnhub.io/api/news?id=46e10743acff0ede9b755c868ca499e324e462eaa52ab1dfc31cbe02c39b559d"
+    },
+    {
+      "stock": "MU",
+      "headline": "Dow Jones Futures Fall, Netflix Dives, SpaceX Scrubs Launch After Latest AI Sell-Off",
+      "url": "https://finnhub.io/api/news?id=315b5cd91a75a70dc8ee2f8d3750b2d78dc27c13292c8f9e18acd79eb6021496"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "3 AI Stocks Poised to Rebound After Slow Starts to the Year",
+      "url": "https://finnhub.io/api/news?id=6577a5ee1ae94e599a92df08df5088bd37807e8d9f155b61b7830258ddac584d"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Silicon Valley Midas Investor Michael Moritz on AI, Venture Capital, and Just About Everything",
+      "url": "https://finnhub.io/api/news?id=7cd068ddcdd540daee6fcc1cddbfe96e54bd1a337737ba527353d871561b07c4"
+    },
+    {
+      "stock": "ARM",
+      "headline": "ARM's Expanding Royalty Opportunity Is Powering Its AI Growth Story",
+      "url": "https://finnhub.io/api/news?id=34e1962cb2acadcda5f934f2507a03aac4c195838e8d70833376794157436490"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Just Pre-Announced an Earnings Miss. The Reason Reveals Where AI Money Is Really Flowing.",
+      "url": "https://finnhub.io/api/news?id=94cb05e102cb4876a9d4af5b9f9a40d26b1ee687bc649631e37c0708b404e46e"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Dow Jones Futures Fall, Netflix Dives, SpaceX Scrubs Launch After Latest AI Sell-Off",
+      "url": "https://finnhub.io/api/news?id=315b5cd91a75a70dc8ee2f8d3750b2d78dc27c13292c8f9e18acd79eb6021496"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Reported Record Quarterly Revenue of $12.6 Billion, but Guidance Came in Below Expectations. Here’s What It Means for Investors.",
+      "url": "https://finnhub.io/api/news?id=b9262e8e7088697a09775e8e6e043a0d5b4952a1a6c1a76441108973570dd8d3"
     }
   ]
 }
