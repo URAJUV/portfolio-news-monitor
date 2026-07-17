@@ -130,6 +130,31 @@
       "stock": "NFLX",
       "headline": "Dow Jones Futures Fall As AI Sell-Off Continues; Netflix Dives, SpaceX Scrubs Launch",
       "url": "https://finnhub.io/api/news?id=a5390d3b3bb6c8ec186af2a0529d41e75563447d1f0514bfcc3d25ecc1346629"
+    },
+    {
+      "stock": "MU",
+      "headline": "Dow Jones Futures Fall As Netflix Dives, SpaceX Scrubs Launch; Sandisk, AI Stocks Try To Halt Sell-Off",
+      "url": "https://finnhub.io/api/news?id=54ed389e55e77bef203b3c701b178b36237f53408b85b8aebc3e9ca5801b13ac"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Is Meta Building The Next AI Cloud Giant? Report Says It’s Poaching A Top AWS Executive",
+      "url": "https://finnhub.io/api/news?id=bd4f5dfc35fc3567ecd482c4ae4c03b65ef3b3b4ffc412d8a0d9f25efd0aee4c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Latest News In Electric Vehicles - Transforming Battery Tech: Premergy's Strategic Shift and Partnerships",
+      "url": "https://finnhub.io/api/news?id=d8f70a99832f4ff61c3b973d08a90074984502da5c052bf762c238abfd6b9867"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Circle Gets Street-Low Target as Stablecoin Competition Heats Up",
+      "url": "https://finnhub.io/api/news?id=3a9c8dd2f2d82723784acd714f4869ce828aa57a0a435974405d773d25ae00c0"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Dow Jones Futures Fall As Netflix Dives, SpaceX Scrubs Launch; Sandisk, AI Stocks Try To Halt Sell-Off",
+      "url": "https://finnhub.io/api/news?id=54ed389e55e77bef203b3c701b178b36237f53408b85b8aebc3e9ca5801b13ac"
     }
   ]
 }
