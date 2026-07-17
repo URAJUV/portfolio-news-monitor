@@ -205,6 +205,26 @@
       "stock": "GOOGL",
       "headline": "Big Tech Is Spending Hundreds Of Billions On AI Infrastructure — IO Fund's Beth Kindig Says It's Time To Show The Payoff",
       "url": "https://finnhub.io/api/news?id=b211e48416ab24a30325c415f1ed695147bd3a3f07feec8a2b0d417b607f8cb5"
+    },
+    {
+      "stock": "MU",
+      "headline": "Qualcomm (QCOM) Secures Long Term Auto Supply Deals To Back AI Vehicles",
+      "url": "https://finnhub.io/api/news?id=61bb077ad91f2a968afe03f6bf03728d9e2068a3b6f74000786caf2fe6706a7b"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=ab661ed5ec5c6fbe937e601ef29a681ecd6b24e55e77993373148213b1f58578"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Nvidia and AMD Hit by AI Selloff",
+      "url": "https://finnhub.io/api/news?id=7150f4ea923971203ef0f4dd907b547bb9dd7b0c9c4834363f28f53eb9859c17"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Joby, Archer, and EHang Are Down 40% to 60% in 2026. Are Air Taxi Stocks Damaged Beyond Repair?",
+      "url": "https://finnhub.io/api/news?id=f0ef47f9d77a6a1f4d5db6f73b7f70af36ea299b49a650704017274f1ed9abdb"
     }
   ]
 }
