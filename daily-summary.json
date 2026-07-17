@@ -155,6 +155,36 @@
       "stock": "GOOGL",
       "headline": "Dow Jones Futures Fall As Netflix Dives, SpaceX Scrubs Launch; Sandisk, AI Stocks Try To Halt Sell-Off",
       "url": "https://finnhub.io/api/news?id=54ed389e55e77bef203b3c701b178b36237f53408b85b8aebc3e9ca5801b13ac"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron, Nvidia, Netflix, SK Hynix, Intuitive Surgical, and More Stocks That Explain Today’s Market",
+      "url": "https://finnhub.io/api/news?id=f4e29cad29ebc64824f43828c5dd6f71c34a817dcf4ca9ba71ab2acf66373ffc"
+    },
+    {
+      "stock": "TSM",
+      "headline": "ASML And TSMC: The AI Buildout Is Getting More Expensive",
+      "url": "https://finnhub.io/api/news?id=05488675798b044e41b2e7135a6bb431e64bd977c5edd62ab8b3827067d2d6cd"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "How to Find the Bargains in the Software Stock Wreckage",
+      "url": "https://finnhub.io/api/news?id=d0f2420878741deeb3fc822c5148cb2360897a5c375597611ca77a894219380a"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Aerospace to release second quarter financial results and hold its investor conference call on Wednesday, August 5",
+      "url": "https://finnhub.io/api/news?id=5d95019a3cae5a3bef2e5e2b4a56e629d3162b9883b8ae3f9e70200a6d9959d1"
+    },
+    {
+      "stock": "DE",
+      "headline": "Packaging Corp Gears Up for Q2 Earnings: What to Expect?",
+      "url": "https://finnhub.io/api/news?id=49b572838a252e9350bace54f7b494f51d795cfd6f6d191cbcc28378d2745127"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Apple’s ‘Wait and See’ AI Strategy Just Earned the Stock an Upgrade",
+      "url": "https://finnhub.io/api/news?id=50df664f3e1a9de7e954dfd874704b6b3c1ed3b680b2413ae2d1d9f38bd2e186"
     }
   ]
 }
