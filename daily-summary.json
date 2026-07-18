@@ -35,6 +35,26 @@
       "stock": "DE",
       "headline": "Is Deere (DE) Cheap After Its Right To Repair Settlement?",
       "url": "https://finnhub.io/api/news?id=0b47ba3a735c48c19695e690ff34fce29dc928b99a65260203f620ddfce2d3d5"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "AI Adoption Without The Hype - Beyond The Infrastructure Boom",
+      "url": "https://finnhub.io/api/news?id=b5cb2789bcd60c6257c3d68883002b287ddc46f14158282d6a849cef8d20c146"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Elon Musk Reacts to Jamie Dimon's ‘Einstein’ Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
+      "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Earn 14% While You Wait To Buy ACN Stock On Sale",
+      "url": "https://finnhub.io/api/news?id=e17255deee6c553cbef86efd9dec9341d44c74aea36b89f40d6dcf31ee98950c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED)",
+      "url": "https://finnhub.io/api/news?id=807020de1e668f52d451c7698dacfbaf3509fec1e05a94444fa377188685732e"
     }
   ]
 }
