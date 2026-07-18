@@ -135,6 +135,31 @@
       "stock": "ADSK",
       "headline": "Autodesk: This AI-Era Software Bargain Is Too Cheap To Ignore",
       "url": "https://finnhub.io/api/news?id=30eabf7feee3618a2f962b119eeb5e8136839d4a900fbab443c4cb9296375d08"
+    },
+    {
+      "stock": "MU",
+      "headline": "The AI Capex Question Every QQQ Holder Should Be Asking Right Now",
+      "url": "https://finnhub.io/api/news?id=5e006c302ce7df9632d2346d8042ef92cd33c3d30e20519babb68f2ebae04537"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla face 3 major headwinds heading into earnings report",
+      "url": "https://finnhub.io/api/news?id=3b25ff6960e1d55b24839cda3074dc98868b897c186c0e5764b4910127dc4380"
+    },
+    {
+      "stock": "ARM",
+      "headline": "AMD vs. Arm vs. Intel: The Best Stock to Play the Rise of Agentic AI",
+      "url": "https://finnhub.io/api/news?id=593946d46655ca9eca9b19f733bd15a3cbe4da0615959d1458e2a7b76cf9e174"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Stock Market Week Ahead: Navigating Uncertainty",
+      "url": "https://finnhub.io/api/news?id=39d7f8e569f35c31547596d94db45d2959d080b64dbf41f986c48d299b696b09"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Apple raises prices on key subscription services",
+      "url": "https://finnhub.io/api/news?id=7b1708bad204c916ed1df997601a6126c8628f03994ca0bebc6ba765166480bb"
     }
   ]
 }
