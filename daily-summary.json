@@ -80,6 +80,31 @@
       "stock": "NFLX",
       "headline": "S&P 500, Nasdaq Slide Sharply As Netflix Guidance Disappoints And Chip Stocks Extend Losses — NFLX, GE, META, AAPL, SPCX In Focus",
       "url": "https://finnhub.io/api/news?id=1753eee489edb9a9db642a22215e47a17f5c3bf0194d2b8d8d1bfc250488ab7a"
+    },
+    {
+      "stock": "MU",
+      "headline": "SpaceX Stock vs. Micron Stock: Buy One and Sell the Other, According to Certain Wall Street Analysts",
+      "url": "https://finnhub.io/api/news?id=0a9aef18dc478bcfde367b020d0f949cd2dba9aa475f8efba3841cff52bf7167"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC: The Market Is Punishing The Wrong AI Stock",
+      "url": "https://finnhub.io/api/news?id=2c76f6edc8dd9500c9367950a3ee7052e180c7eb85c43aa23c044fcb821f8f8a"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Goldman Sachs Will Continue to Beat Targets, Analyst Says. Plus, DraftKings and 4 More Stocks.",
+      "url": "https://finnhub.io/api/news?id=fe587f6a2e642c2178e900faee1c94e952c67270dd281f0229ba028b2837c244"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
+      "url": "https://finnhub.io/api/news?id=b11b31449ae1b2d7d252a48fa735613b23610c9ce0f5e914949e0c0a2c767b15"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google (GOOGL) Faces EU Order To Open Android And Search Data To AI Rivals",
+      "url": "https://finnhub.io/api/news?id=9de64de03a2b3f6c18cba517f84019bc8467ab3ffa804c2c3cf8d434b6e1cd98"
     }
   ]
 }
