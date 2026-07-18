@@ -55,6 +55,31 @@
       "stock": "GOOGL",
       "headline": "Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED)",
       "url": "https://finnhub.io/api/news?id=807020de1e668f52d451c7698dacfbaf3509fec1e05a94444fa377188685732e"
+    },
+    {
+      "stock": "TSM",
+      "headline": "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock",
+      "url": "https://finnhub.io/api/news?id=31a129fe0260f07c05224d053bcd4eee87605e85893dc76afa78ebbf2cd28d9f"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "SpaceX Reportedly In Talks To Supply Pentagon With AI Computing Power Worth Billions",
+      "url": "https://finnhub.io/api/news?id=c4955f803071db8cf91b53b49bbed4b00973457d2bd8613c7a725ba1d31b7d75"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Billionaire Investor Bill Ackman’s Top 5 Bets: Buy, Hold, or Steer Clear?",
+      "url": "https://finnhub.io/api/news?id=724507f00acfdc90655ff9bbdbbb7b35d3405d1932d99378a85fd26e1e5fa12d"
+    },
+    {
+      "stock": "IBM",
+      "headline": "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock",
+      "url": "https://finnhub.io/api/news?id=31a129fe0260f07c05224d053bcd4eee87605e85893dc76afa78ebbf2cd28d9f"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "S&P 500, Nasdaq Slide Sharply As Netflix Guidance Disappoints And Chip Stocks Extend Losses — NFLX, GE, META, AAPL, SPCX In Focus",
+      "url": "https://finnhub.io/api/news?id=1753eee489edb9a9db642a22215e47a17f5c3bf0194d2b8d8d1bfc250488ab7a"
     }
   ]
 }
