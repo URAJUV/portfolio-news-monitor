@@ -160,6 +160,16 @@
       "stock": "GOOGL",
       "headline": "Apple raises prices on key subscription services",
       "url": "https://finnhub.io/api/news?id=7b1708bad204c916ed1df997601a6126c8628f03994ca0bebc6ba765166480bb"
+    },
+    {
+      "stock": "MU",
+      "headline": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since.",
+      "url": "https://finnhub.io/api/news?id=c5b2d261769b95e4d12b570ae963e3c7a611f0e7872ba976ef7e58e987d02fdd"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix's AI Strategy Has a 25-Year-Old Precedent",
+      "url": "https://finnhub.io/api/news?id=f4a9d6e8eb03bed03401c1321476e05f4d5edf6f5ff2160990c313f64a187feb"
     }
   ]
 }
