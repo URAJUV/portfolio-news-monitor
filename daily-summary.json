@@ -105,6 +105,26 @@
       "stock": "GOOGL",
       "headline": "Google (GOOGL) Faces EU Order To Open Android And Search Data To AI Rivals",
       "url": "https://finnhub.io/api/news?id=9de64de03a2b3f6c18cba517f84019bc8467ab3ffa804c2c3cf8d434b6e1cd98"
+    },
+    {
+      "stock": "MU",
+      "headline": "Visteon (VC) Gains Micron Backing As A Cheap Narrative Meets Earnings Test",
+      "url": "https://finnhub.io/api/news?id=fb3d0b85a1cca8ce812ddb2f9499e16f7d84ab4c89f53929228905c605aec14d"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Amazing Chance To Double Down On The AI Market Panic",
+      "url": "https://finnhub.io/api/news?id=a81cb7b8383da074cb68d345303af710af1818f9f3984fb097f2ff4282db953d"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half of 2026?",
+      "url": "https://finnhub.io/api/news?id=d988a59c4f1620f934efbb21d13436c1d9994fd9621b866fe02d9551adb7c360"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix, Inc. (NFLX) Is Sinking After Earnings — Should You Buy the Dip?",
+      "url": "https://finnhub.io/api/news?id=94d2b5edf04be429c79b1b7fe826d2fb03745ef6001928efe9d79a9f075a00e9"
     }
   ]
 }
