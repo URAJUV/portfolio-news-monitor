@@ -110,6 +110,31 @@
       "stock": "NFLX",
       "headline": "Netflix's Post-Earnings Sell-Off Just Revealed Why It Was Bidding to Acquire Warner Bros. and Roku",
       "url": "https://finnhub.io/api/news?id=ecccf47b31d50258f8a2904bccb48db39215414d6d317e84be235d8e1b14212c"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
+      "url": "https://finnhub.io/api/news?id=1bdef07d5a9b11eb87543cc89126f7c1d666122a313fd070b3b78fce34c63a66"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
+      "url": "https://finnhub.io/api/news?id=1bdef07d5a9b11eb87543cc89126f7c1d666122a313fd070b3b78fce34c63a66"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber (UBER) Expands Uber Eats Retail Reach With Foot Locker And 1,000 Stores",
+      "url": "https://finnhub.io/api/news?id=63bce73b4a3ef9d9d0f5ab0db7af81c4f4cb9e0e8d6ac3b58ed06e4ede8221a1"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM’s 25% crash reveals AI’s hidden corporate casualty",
+      "url": "https://finnhub.io/api/news?id=5d4afeade30a1e6bcf6fed331a295e07390d16310a6e5b7eddf2b1fceeb253da"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
+      "url": "https://finnhub.io/api/news?id=1bdef07d5a9b11eb87543cc89126f7c1d666122a313fd070b3b78fce34c63a66"
     }
   ]
 }
