@@ -85,6 +85,31 @@
       "stock": "IBM",
       "headline": "Why IBM Stock Crashed 25% Even as AI Spending Exploded",
       "url": "https://finnhub.io/api/news?id=e20ee3618205cf887429a14a1d08da222df9440a641ebf537b04599ba68fe4fb"
+    },
+    {
+      "stock": "MU",
+      "headline": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
+      "url": "https://finnhub.io/api/news?id=a114f7c35c04f5c6c5c55398e3bba616faac3f19fa5c71293e21ad551c922d28"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Target wants rich parents to shop at its stores",
+      "url": "https://finnhub.io/api/news?id=32ef873f52bbd9836694da2c93894c218b8d7b9634d82df36248a286c12f5319"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Heads Into Its July 22 Earnings Down 22%, and One Firm Sees a 67% Plunge From Here. Who's Right?",
+      "url": "https://finnhub.io/api/news?id=e22ab22edaad5c81d4476b5af922fe4140391be8afeeb66c818c87fe0d7f0341"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Bank of America doubles down on Google stock ahead of earnings",
+      "url": "https://finnhub.io/api/news?id=ec1540723441514fab1b9af8bc741e4bb8e6b30b9047da69a69f693db53faf3e"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix's Post-Earnings Sell-Off Just Revealed Why It Was Bidding to Acquire Warner Bros. and Roku",
+      "url": "https://finnhub.io/api/news?id=ecccf47b31d50258f8a2904bccb48db39215414d6d317e84be235d8e1b14212c"
     }
   ]
 }
