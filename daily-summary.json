@@ -50,6 +50,21 @@
       "stock": "RDDT",
       "headline": "How MicroStrategy Lost Reddit’s Retail Investors in Weeks",
       "url": "https://finnhub.io/api/news?id=34bb9bbbae861995efe61d8862751a8b51c7231621de7c8394ddce6f2f28514b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Elon Musk Admits He Underestimated Anthropic's AI, and Amazon and Alphabet Investors Should Take Notice",
+      "url": "https://finnhub.io/api/news?id=5a14e91ea6a162153837306bef359e075f9ea2c8ca93a5924de299fd6d26840b"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Just Had the Worst Crash in Its 115-Year History. For the Retiree Who Treated It as a Safe Dividend Anchor, That’s the Real Lesson.",
+      "url": "https://finnhub.io/api/news?id=20dc45616a07a3f2a5e97ee40a7709b5f4b18a4de83c2624a33123a252f73e5e"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit (RDDT) Stock Could Be 47% Undervalued On AI And Ad Growth Buzz",
+      "url": "https://finnhub.io/api/news?id=be2b4273416a27c3b6f7bfce22d77906e503c2d6483efdeaa689b5b26759e4db"
     }
   ]
 }
