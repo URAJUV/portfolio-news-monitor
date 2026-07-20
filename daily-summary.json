@@ -125,6 +125,31 @@
       "stock": "NFLX",
       "headline": "Netflix Just Reported Earnings. Here's Whether the Stock Is Finally a Buy.",
       "url": "https://finnhub.io/api/news?id=8690452003ffe5c08fb5bb32867b189ca3e5a456614b1a7f72de03ecaa863126"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Wall Street Just Supersized Its Price Targets on Okta and Fortinet. Are Cybersecurity Stocks a Must-Own in 2026?",
+      "url": "https://finnhub.io/api/news?id=ffc190e88f4edf5d816103580b0b5335013372dbe3d46e86f01f4ed03e6c4871"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain as Trump Says Iran is 'Very, Very Badly Damaged'— Eva Live, RTX, Synopsys in Focus (UPDATED)",
+      "url": "https://finnhub.io/api/news?id=14894a091e1a443c3ab0e6bb3ac284589dd837e440d6521911643e6617bdd3fa"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm receives higher price target from Jefferies on stronger AI-driven demand outlook",
+      "url": "https://finnhub.io/api/news?id=c9d521ab6f08f25aba00966e6ea3798746e91e032326eb3fee4175135c2dae96"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell CEO Says Breakup Plans Predated Elliott's Late-2024 Stake",
+      "url": "https://finnhub.io/api/news?id=372e92b1836bcf753ddc5807c47981c24f0215de9ef7987c23cec942f7afe2b7"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Billionaire Investor David Tepper’s Top 5 Stocks",
+      "url": "https://finnhub.io/api/news?id=9f339d78a9d880967bfab0db7cdb2605860f0fe89f53ac55d2edf69abda64eb3"
     }
   ]
 }
