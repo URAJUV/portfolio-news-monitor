@@ -45,6 +45,46 @@
       "stock": "GOOGL",
       "headline": "Google is going toe-to-toe with Nvidia as AI chip war cranks up",
       "url": "https://finnhub.io/api/news?id=0c5196521271ac6c63793239a95f1be4d07d3bb3246973620090b3eac28a167e"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor-SP ADR (NYSE:TSM) Shows High Growth Stock Strength by Passing All Eight Rules of the Navellier Screen",
+      "url": "https://finnhub.io/api/news?id=408bee5ac13ee64d4f34ecf76e8690831f648598c9536145ee2926bf2c1f9537"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Here’s When Amazon’s ROI Will Pull Ahead of Microsoft’s in the AI Cloud Spend War",
+      "url": "https://finnhub.io/api/news?id=be5daff6f2a5787aa502eb76583b8cfd9eafefaffa6592790e0c9fb0ad1d9a7b"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results",
+      "url": "https://finnhub.io/api/news?id=3cbe5c2fb994164c044959c3e71b3ff33b531f3586b7a8cf7244dafd5e7105c2"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Leading investment bank lifts Arm target to $320 as AI drives surge in CPU demand",
+      "url": "https://finnhub.io/api/news?id=abbead042a68b5d956f6a89935a99f321d6cbdd4aa303a2bba1e68579b03b5f6"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Aerospace secures IndiGo avionics contract and Aeromexico runway safety rollout",
+      "url": "https://finnhub.io/api/news?id=60a2bd65656c4d0ea40f7214932c047eaa475a8529a08a39353513792f9956c5"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results",
+      "url": "https://finnhub.io/api/news?id=3cbe5c2fb994164c044959c3e71b3ff33b531f3586b7a8cf7244dafd5e7105c2"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results",
+      "url": "https://finnhub.io/api/news?id=3cbe5c2fb994164c044959c3e71b3ff33b531f3586b7a8cf7244dafd5e7105c2"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results",
+      "url": "https://finnhub.io/api/news?id=3cbe5c2fb994164c044959c3e71b3ff33b531f3586b7a8cf7244dafd5e7105c2"
     }
   ]
 }
