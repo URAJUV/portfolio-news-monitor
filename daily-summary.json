@@ -85,6 +85,46 @@
       "stock": "NFLX",
       "headline": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results",
       "url": "https://finnhub.io/api/news?id=3cbe5c2fb994164c044959c3e71b3ff33b531f3586b7a8cf7244dafd5e7105c2"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Braiden Shaw says AI is this generation's 'one window' to build wealth — but warns time to capitalize is running out",
+      "url": "https://finnhub.io/api/news?id=1d1814e60c0b620c51883da73a284b6dc14f111776b773827089bb362ea1bbec"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Buy the dip in EDA stocks as Kimi K3 boosts agentic AI thesis: Mizuho",
+      "url": "https://finnhub.io/api/news?id=5916af81defbd5af4c8d425e1c5adef0849bc59153ef9e92834f6cf7581c9de4"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla earnings preview: Wall Street awaits Q2 results",
+      "url": "https://finnhub.io/api/news?id=ba7c4131d6e2c87c07d0d8028f751764ad657518d452fbee770b0caa49d03127"
+    },
+    {
+      "stock": "ARM",
+      "headline": "ARM, QCOM, KLAC Stocks Rise Despite Price Target Cuts By UBS Amid Chip Stocks’ Pullback",
+      "url": "https://finnhub.io/api/news?id=276bb33289929727ecb2fa1b384244c8adf9e9bccaeed119000ce3f6347e73b4"
+    },
+    {
+      "stock": "HON",
+      "headline": "Stay Ahead of the Game With Honeywell International (HON) Q2 Earnings: Wall Street's Insights on Key Metrics",
+      "url": "https://finnhub.io/api/news?id=818bcc9c94c79aeafb05c97d5888b006693eaf0bd8e07d20655f36fe67f3a3a0"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Cinema Operator AMC Entertainment Rides the Box Office Boom",
+      "url": "https://finnhub.io/api/news?id=5fe774c6ba2975e646c18c988c1c34a90d6388406ee84190dbb31a9027cfb681"
+    },
+    {
+      "stock": "DE",
+      "headline": "Dover Gears Up to Report Q2 Earnings: What to Expect From the Stock?",
+      "url": "https://finnhub.io/api/news?id=5fc1c6f13cfc53e444bc3ffe7be355185fa0c009ad115ae8a9892ed1bc464eb6"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Just Reported Earnings. Here's Whether the Stock Is Finally a Buy.",
+      "url": "https://finnhub.io/api/news?id=8690452003ffe5c08fb5bb32867b189ca3e5a456614b1a7f72de03ecaa863126"
     }
   ]
 }
