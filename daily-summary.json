@@ -20,6 +20,31 @@
       "stock": "IBM",
       "headline": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus",
       "url": "https://finnhub.io/api/news?id=00e8a87e9d1343d81091cfa81a52c57649e0a261b752b0ce678623dd78d76da0"
+    },
+    {
+      "stock": "TSM",
+      "headline": "SK Hynix: Strong HBM Tailwinds, But Mind ADR Premium And The Cycle",
+      "url": "https://finnhub.io/api/news?id=6dbdaf17d7fce390a6110fe6e0789d2034a06150b630696d58c75d1f60317083"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Analysis-Could AI chip boom make ASML Europe's first trillion-dollar firm?",
+      "url": "https://finnhub.io/api/news?id=39be6269bd33e24d1b062d8ebd0a38c627a4e229fcc141c8595a3aec218828db"
+    },
+    {
+      "stock": "HON",
+      "headline": "IndiGo makes historic selection of Honeywell Aerospace avionics and APUs to equip 810 new Airbus aircraft in fleet expansion",
+      "url": "https://finnhub.io/api/news?id=48c9082a08c95227c8e2373dd1380e9de6911ecb6fed9f215dc607d00f85f68b"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: IBM, PYPL, TSM, NOK, SPCX",
+      "url": "https://finnhub.io/api/news?id=78c705551c7553c5f2e130bf3c2c9d9d43322c305b294157a4876502725aefa3"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google is going toe-to-toe with Nvidia as AI chip war cranks up",
+      "url": "https://finnhub.io/api/news?id=0c5196521271ac6c63793239a95f1be4d07d3bb3246973620090b3eac28a167e"
     }
   ]
 }
