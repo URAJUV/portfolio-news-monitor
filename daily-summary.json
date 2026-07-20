@@ -150,6 +150,36 @@
       "stock": "UBER",
       "headline": "Billionaire Investor David Tepper’s Top 5 Stocks",
       "url": "https://finnhub.io/api/news?id=9f339d78a9d880967bfab0db7cdb2605860f0fe89f53ac55d2edf69abda64eb3"
+    },
+    {
+      "stock": "MU",
+      "headline": "Markets may get 'increasingly nervous' if hyperscalers raise AI capex further",
+      "url": "https://finnhub.io/api/news?id=150d70d86245da98e3720ced9f7a8a3fa3baaf008c2f8e592ea99b523acdc6a4"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Expands STACKIT Partnership And Names AJ Shipley Product Chief",
+      "url": "https://finnhub.io/api/news?id=3cb09957505abca671a586fd52f846f9fee94d12ec56baa5a22dcdea91d10eaa"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Is Still Down 17% in 2026. Can Wednesday’s Earnings Event Get TSLA Stock Back on Track?",
+      "url": "https://finnhub.io/api/news?id=8fced8fa8bf1cb613862291a1ea483cf31abd24359c8c42d68b61b88bb760717"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Tech Faces a Moment of Truth as Earnings Test the Rally",
+      "url": "https://finnhub.io/api/news?id=c9a9ee2f24e9d047e3a29bf5ccacc8df05656cb3edb130fd5646a558c6189e07"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "DeepMind CEO calls for US-led oversight of advanced AI",
+      "url": "https://finnhub.io/api/news?id=76af0a6cfc0205f5279ce66c355566025e480a795111261fd3f8b1a3199509f6"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Bank of America sends strong Netflix stock verdict after earnings",
+      "url": "https://finnhub.io/api/news?id=3cbabe0f7a63a99dafde46dd42341ac83477019a9715a6c75d3753c7a1162572"
     }
   ]
 }
