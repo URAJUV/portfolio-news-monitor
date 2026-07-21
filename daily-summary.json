@@ -50,6 +50,36 @@
       "stock": "IBM",
       "headline": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
       "url": "https://finnhub.io/api/news?id=fe6313d7f7d59f52bb72587ac093100ebbb12d461346aedf310e4b57fd6b2c1e"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron Technology (MU) Could Be 41% Above Fair Value As AI Memory Deals Draw Focus",
+      "url": "https://finnhub.io/api/news?id=97e451d848461d077d5284c3b36ac93ec3f1bf9964a9eaee184daf307cfb0cca"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Is Amazon.com (AMZN) Undervalued Following Its $200b AI Infrastructure Push?",
+      "url": "https://finnhub.io/api/news?id=f7dce5a6ae9dfac82bf637d813b3bdf7842fde17b40d189646c2823279b37a62"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Lumentum Just Scored a New Upgrade. Here's What to Know.",
+      "url": "https://finnhub.io/api/news?id=192a2c48f3a37a04c3c5905af8b95316ab42dee3e46106b2a5cb5a93bb597cd9"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "TSLA Stock Falls Behind MSFT To Become Mag 7’s Worst Performer Ahead Of Q2 Earnings — But Retail Is Betting On A Musk Surprise",
+      "url": "https://finnhub.io/api/news?id=4a8bf655f512a3cb75237384f4a99da60e85e8c4102c3d4de6c93e471134b122"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM (IBM) To Report Earnings Tomorrow: Here Is What To Expect",
+      "url": "https://finnhub.io/api/news?id=f276efda2b29a00772b494d75c84c28a91224d32ba5172cb3066315e64e59af0"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet (GOOGL) To Report Earnings Tomorrow: Here Is What To Expect",
+      "url": "https://finnhub.io/api/news?id=3abcb8dfd403222b9d68f5c2b8f07bde09b6d6f3b1dceb55d29b3e43d3dd2fa4"
     }
   ]
 }
