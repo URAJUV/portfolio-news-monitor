@@ -1,185 +1,45 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "items": [
     {
       "stock": "MU",
-      "headline": "Memory Chips Just Fell Into a Bear Market. Micron Is Down 30% From Its High Even as AI Demand Booms.",
-      "url": "https://finnhub.io/api/news?id=3d89cc9dcad3f568539b32d40ec879c79e7e5150a85d2e9526bcd33ed31ba591"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor: The Buildout Is Still Accelerating",
-      "url": "https://finnhub.io/api/news?id=4101f771ab073b494235fe0156692485c1214da7e1309e406dda9f49784d37f5"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys Should Benefit No Matter Who Wins The AI Race. Here’s What Explains Its Poor Stock Performance.",
-      "url": "https://finnhub.io/api/news?id=14921bf83112546b0346ce4caee915cded87a68ddea4f898bc2d99af0917a9b1"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus",
-      "url": "https://finnhub.io/api/news?id=00e8a87e9d1343d81091cfa81a52c57649e0a261b752b0ce678623dd78d76da0"
-    },
-    {
-      "stock": "TSM",
-      "headline": "SK Hynix: Strong HBM Tailwinds, But Mind ADR Premium And The Cycle",
-      "url": "https://finnhub.io/api/news?id=6dbdaf17d7fce390a6110fe6e0789d2034a06150b630696d58c75d1f60317083"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Analysis-Could AI chip boom make ASML Europe's first trillion-dollar firm?",
-      "url": "https://finnhub.io/api/news?id=39be6269bd33e24d1b062d8ebd0a38c627a4e229fcc141c8595a3aec218828db"
-    },
-    {
-      "stock": "HON",
-      "headline": "IndiGo makes historic selection of Honeywell Aerospace avionics and APUs to equip 810 new Airbus aircraft in fleet expansion",
-      "url": "https://finnhub.io/api/news?id=48c9082a08c95227c8e2373dd1380e9de6911ecb6fed9f215dc607d00f85f68b"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: IBM, PYPL, TSM, NOK, SPCX",
-      "url": "https://finnhub.io/api/news?id=78c705551c7553c5f2e130bf3c2c9d9d43322c305b294157a4876502725aefa3"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Google is going toe-to-toe with Nvidia as AI chip war cranks up",
-      "url": "https://finnhub.io/api/news?id=0c5196521271ac6c63793239a95f1be4d07d3bb3246973620090b3eac28a167e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor-SP ADR (NYSE:TSM) Shows High Growth Stock Strength by Passing All Eight Rules of the Navellier Screen",
-      "url": "https://finnhub.io/api/news?id=408bee5ac13ee64d4f34ecf76e8690831f648598c9536145ee2926bf2c1f9537"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Here’s When Amazon’s ROI Will Pull Ahead of Microsoft’s in the AI Cloud Spend War",
-      "url": "https://finnhub.io/api/news?id=be5daff6f2a5787aa502eb76583b8cfd9eafefaffa6592790e0c9fb0ad1d9a7b"
+      "headline": "Claude AI Says Michael Burry’s Micron (MU) Warning “Deserves Respect”",
+      "url": "https://finnhub.io/api/news?id=ea65767e94b87cc548c43a9c1b1e740dab2ac75b065a211588b2de613635b31a"
     },
     {
       "stock": "TSLA",
-      "headline": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results",
-      "url": "https://finnhub.io/api/news?id=3cbe5c2fb994164c044959c3e71b3ff33b531f3586b7a8cf7244dafd5e7105c2"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Leading investment bank lifts Arm target to $320 as AI drives surge in CPU demand",
-      "url": "https://finnhub.io/api/news?id=abbead042a68b5d956f6a89935a99f321d6cbdd4aa303a2bba1e68579b03b5f6"
+      "headline": "Nasdaq, S&P 500 Futures Rise As Chip Rally Counters Iran Jitters Ahead Of Big Tech Earnings: Why IREN, ACHR, TSLA, BA Stocks Are Drawing Focus",
+      "url": "https://finnhub.io/api/news?id=65706c5af55d24bcd949b511af38f2ad626891d75a2e50d7454d60b1afab39aa"
     },
     {
       "stock": "HON",
-      "headline": "Honeywell Aerospace secures IndiGo avionics contract and Aeromexico runway safety rollout",
-      "url": "https://finnhub.io/api/news?id=60a2bd65656c4d0ea40f7214932c047eaa475a8529a08a39353513792f9956c5"
+      "headline": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
+      "url": "https://finnhub.io/api/news?id=fe6313d7f7d59f52bb72587ac093100ebbb12d461346aedf310e4b57fd6b2c1e"
     },
     {
-      "stock": "IBM",
-      "headline": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results",
-      "url": "https://finnhub.io/api/news?id=3cbe5c2fb994164c044959c3e71b3ff33b531f3586b7a8cf7244dafd5e7105c2"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results",
-      "url": "https://finnhub.io/api/news?id=3cbe5c2fb994164c044959c3e71b3ff33b531f3586b7a8cf7244dafd5e7105c2"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results",
-      "url": "https://finnhub.io/api/news?id=3cbe5c2fb994164c044959c3e71b3ff33b531f3586b7a8cf7244dafd5e7105c2"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Braiden Shaw says AI is this generation's 'one window' to build wealth — but warns time to capitalize is running out",
-      "url": "https://finnhub.io/api/news?id=1d1814e60c0b620c51883da73a284b6dc14f111776b773827089bb362ea1bbec"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Buy the dip in EDA stocks as Kimi K3 boosts agentic AI thesis: Mizuho",
-      "url": "https://finnhub.io/api/news?id=5916af81defbd5af4c8d425e1c5adef0849bc59153ef9e92834f6cf7581c9de4"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla earnings preview: Wall Street awaits Q2 results",
-      "url": "https://finnhub.io/api/news?id=ba7c4131d6e2c87c07d0d8028f751764ad657518d452fbee770b0caa49d03127"
-    },
-    {
-      "stock": "ARM",
-      "headline": "ARM, QCOM, KLAC Stocks Rise Despite Price Target Cuts By UBS Amid Chip Stocks’ Pullback",
-      "url": "https://finnhub.io/api/news?id=276bb33289929727ecb2fa1b384244c8adf9e9bccaeed119000ce3f6347e73b4"
-    },
-    {
-      "stock": "HON",
-      "headline": "Stay Ahead of the Game With Honeywell International (HON) Q2 Earnings: Wall Street's Insights on Key Metrics",
-      "url": "https://finnhub.io/api/news?id=818bcc9c94c79aeafb05c97d5888b006693eaf0bd8e07d20655f36fe67f3a3a0"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Cinema Operator AMC Entertainment Rides the Box Office Boom",
-      "url": "https://finnhub.io/api/news?id=5fe774c6ba2975e646c18c988c1c34a90d6388406ee84190dbb31a9027cfb681"
-    },
-    {
-      "stock": "DE",
-      "headline": "Dover Gears Up to Report Q2 Earnings: What to Expect From the Stock?",
-      "url": "https://finnhub.io/api/news?id=5fc1c6f13cfc53e444bc3ffe7be355185fa0c009ad115ae8a9892ed1bc464eb6"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix Just Reported Earnings. Here's Whether the Stock Is Finally a Buy.",
-      "url": "https://finnhub.io/api/news?id=8690452003ffe5c08fb5bb32867b189ca3e5a456614b1a7f72de03ecaa863126"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Wall Street Just Supersized Its Price Targets on Okta and Fortinet. Are Cybersecurity Stocks a Must-Own in 2026?",
-      "url": "https://finnhub.io/api/news?id=ffc190e88f4edf5d816103580b0b5335013372dbe3d46e86f01f4ed03e6c4871"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain as Trump Says Iran is 'Very, Very Badly Damaged'— Eva Live, RTX, Synopsys in Focus (UPDATED)",
-      "url": "https://finnhub.io/api/news?id=14894a091e1a443c3ab0e6bb3ac284589dd837e440d6521911643e6617bdd3fa"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm receives higher price target from Jefferies on stronger AI-driven demand outlook",
-      "url": "https://finnhub.io/api/news?id=c9d521ab6f08f25aba00966e6ea3798746e91e032326eb3fee4175135c2dae96"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell CEO Says Breakup Plans Predated Elliott's Late-2024 Stake",
-      "url": "https://finnhub.io/api/news?id=372e92b1836bcf753ddc5807c47981c24f0215de9ef7987c23cec942f7afe2b7"
+      "stock": "HALO",
+      "headline": "Halozyme Therapeutics Signs Agreement With Incyte To Mull Additional Subcutaneous Formulations Of INCA033989 Mutant Calreticulin-Targeted Monoclonal Antibody",
+      "url": "https://finnhub.io/api/news?id=6e09676ee2faf44c563ffb6d43432f0a928562e1a85e9fbc345546cf2b476777"
     },
     {
       "stock": "UBER",
-      "headline": "Billionaire Investor David Tepper’s Top 5 Stocks",
-      "url": "https://finnhub.io/api/news?id=9f339d78a9d880967bfab0db7cdb2605860f0fe89f53ac55d2edf69abda64eb3"
-    },
-    {
-      "stock": "MU",
-      "headline": "Markets may get 'increasingly nervous' if hyperscalers raise AI capex further",
-      "url": "https://finnhub.io/api/news?id=150d70d86245da98e3720ced9f7a8a3fa3baaf008c2f8e592ea99b523acdc6a4"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) Expands STACKIT Partnership And Names AJ Shipley Product Chief",
-      "url": "https://finnhub.io/api/news?id=3cb09957505abca671a586fd52f846f9fee94d12ec56baa5a22dcdea91d10eaa"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla Is Still Down 17% in 2026. Can Wednesday’s Earnings Event Get TSLA Stock Back on Track?",
-      "url": "https://finnhub.io/api/news?id=8fced8fa8bf1cb613862291a1ea483cf31abd24359c8c42d68b61b88bb760717"
+      "headline": "Domino's Pizza Inc (DPZ) Q2 2026 Earnings Call Highlights: Strong Demand and Strategic ...",
+      "url": "https://finnhub.io/api/news?id=bf367e0c130342318008c20d56ecd7cbcd254fb406cec3d095f984afe0a8ab58"
     },
     {
       "stock": "IBM",
-      "headline": "Tech Faces a Moment of Truth as Earnings Test the Rally",
-      "url": "https://finnhub.io/api/news?id=c9a9ee2f24e9d047e3a29bf5ccacc8df05656cb3edb130fd5646a558c6189e07"
+      "headline": "Update: Wall Street Falls as Traders Await Earnings, Track Middle East Developments",
+      "url": "https://finnhub.io/api/news?id=26fda6d9f072e92a94c25483f340f8e72db1e205a4953d3aa1f4492cb78f2e01"
     },
     {
       "stock": "GOOGL",
-      "headline": "DeepMind CEO calls for US-led oversight of advanced AI",
-      "url": "https://finnhub.io/api/news?id=76af0a6cfc0205f5279ce66c355566025e480a795111261fd3f8b1a3199509f6"
+      "headline": "Nasdaq, S&P 500 Futures Rise As Chip Rally Counters Iran Jitters Ahead Of Big Tech Earnings: Why IREN, ACHR, TSLA, BA Stocks Are Drawing Focus",
+      "url": "https://finnhub.io/api/news?id=65706c5af55d24bcd949b511af38f2ad626891d75a2e50d7454d60b1afab39aa"
     },
     {
       "stock": "NFLX",
-      "headline": "Bank of America sends strong Netflix stock verdict after earnings",
-      "url": "https://finnhub.io/api/news?id=3cbabe0f7a63a99dafde46dd42341ac83477019a9715a6c75d3753c7a1162572"
+      "headline": "Netflix Has Plummeted Over the Past Year and Just Dropped Again on Earnings. At 22 Times Profits, Is It a Buy?",
+      "url": "https://finnhub.io/api/news?id=2fec388e4d75ecd12cd106544ccfa5520bd85ef51f042294dd11a441ade2bb20"
     }
   ]
 }
