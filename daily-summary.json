@@ -80,6 +80,36 @@
       "stock": "GOOGL",
       "headline": "Alphabet (GOOGL) To Report Earnings Tomorrow: Here Is What To Expect",
       "url": "https://finnhub.io/api/news?id=3abcb8dfd403222b9d68f5c2b8f07bde09b6d6f3b1dceb55d29b3e43d3dd2fa4"
+    },
+    {
+      "stock": "MU",
+      "headline": "MU, SNDK, STX, WDC: Beaten-Down Memory Stocks Extend AI Rebound Ahead Of Tech Earnings",
+      "url": "https://finnhub.io/api/news?id=0ab6ac96069c41d80e616030b941a206c1d5ab2234944f42c02d62f76867e7fd"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Ahead Of Earnings (Video): Compute, Memory And The AI Infrastructure Buildout",
+      "url": "https://finnhub.io/api/news?id=674638d1d02caac2502787451299da70b3b3c98521818e5099e08f5819acfb36"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Ahead Of Earnings (Video): Compute, Memory And The AI Infrastructure Buildout",
+      "url": "https://finnhub.io/api/news?id=674638d1d02caac2502787451299da70b3b3c98521818e5099e08f5819acfb36"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
+      "url": "https://finnhub.io/api/news?id=fe6313d7f7d59f52bb72587ac093100ebbb12d461346aedf310e4b57fd6b2c1e"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Earnings Are Coming. 2 Things That Will Drive the Stock.",
+      "url": "https://finnhub.io/api/news?id=156c55597022afb17a6afc940295c67034d76aae472335e1f6569722432989b8"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "MU, SNDK, STX, WDC: Beaten-Down Memory Stocks Extend AI Rebound Ahead Of Tech Earnings",
+      "url": "https://finnhub.io/api/news?id=0ab6ac96069c41d80e616030b941a206c1d5ab2234944f42c02d62f76867e7fd"
     }
   ]
 }
