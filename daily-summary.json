@@ -110,6 +110,16 @@
       "stock": "GOOGL",
       "headline": "MU, SNDK, STX, WDC: Beaten-Down Memory Stocks Extend AI Rebound Ahead Of Tech Earnings",
       "url": "https://finnhub.io/api/news?id=0ab6ac96069c41d80e616030b941a206c1d5ab2234944f42c02d62f76867e7fd"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Earnings Season May Be Last Hurrah For Hyperscalers And A Turning Point In The Market Cycle",
+      "url": "https://finnhub.io/api/news?id=7ac950c7354798115fbe4e373a4bc1d4e6d7936dbc7fc2f91eb25fd2697239ef"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Earnings Season May Be Last Hurrah For Hyperscalers And A Turning Point In The Market Cycle",
+      "url": "https://finnhub.io/api/news?id=7ac950c7354798115fbe4e373a4bc1d4e6d7936dbc7fc2f91eb25fd2697239ef"
     }
   ]
 }
