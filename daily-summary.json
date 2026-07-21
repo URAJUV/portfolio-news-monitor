@@ -40,6 +40,16 @@
       "stock": "NFLX",
       "headline": "Netflix Has Plummeted Over the Past Year and Just Dropped Again on Earnings. At 22 Times Profits, Is It a Buy?",
       "url": "https://finnhub.io/api/news?id=2fec388e4d75ecd12cd106544ccfa5520bd85ef51f042294dd11a441ade2bb20"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Can XM Cyber IP Acquisition Strengthen CrowdStrike's Falcon Platform?",
+      "url": "https://finnhub.io/api/news?id=bb0657a65cf892f38c019a921934784c40197c9dd1da330e0f3a5c7e418e38ce"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
+      "url": "https://finnhub.io/api/news?id=fe6313d7f7d59f52bb72587ac093100ebbb12d461346aedf310e4b57fd6b2c1e"
     }
   ]
 }
