@@ -120,6 +120,21 @@
       "stock": "UBER",
       "headline": "Earnings Season May Be Last Hurrah For Hyperscalers And A Turning Point In The Market Cycle",
       "url": "https://finnhub.io/api/news?id=7ac950c7354798115fbe4e373a4bc1d4e6d7936dbc7fc2f91eb25fd2697239ef"
+    },
+    {
+      "stock": "HON",
+      "headline": "Jim Cramer Warns Investors Could Be 'Slaughtered' by Overloaded Tech Portfolios, but Backs Nvidia and Intel: 'It's Time to Go to Other Sectors'",
+      "url": "https://finnhub.io/api/news?id=5a2856f7546e2b735a69ad068b1fbee1a1456cd37e5093fc9899b22bb3ec2b41"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Kofi Asante, Who Is Making History As The First Black Founder Of A Nuclear Company, Raises $10M In Oversubscribed Funding Round",
+      "url": "https://finnhub.io/api/news?id=5cdabb283f1ce0605c54fedd0fb7eb35da27a76f9997327c1afee83764b264e2"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Alliance for OpenUSD Drives Global 3D Data Interoperability and Agentic AI Workflows with New Core Specification Milestones and Members",
+      "url": "https://finnhub.io/api/news?id=0401b5dc1a4fbb95e70ecf4c110fc080ba03215853ef7c24a66c3acff0b2d5dc"
     }
   ]
 }
