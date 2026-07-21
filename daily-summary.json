@@ -155,6 +155,31 @@
       "stock": "GOOGL",
       "headline": "Samsung Unveils AI Health Assistant Ahead of New Galaxy Device Launch",
       "url": "https://finnhub.io/api/news?id=2ab5f6c199747ef8d2e65033ef73f98be7e6e94cf892d3d3baf572f4c72c5153"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Intel: Insane Valuation Going Into Earnings",
+      "url": "https://finnhub.io/api/news?id=1522a2a9eeebce18c55926906dc6b4e42ff741d0f401d2600569f1fba5489b29"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Cybersecurity Stocks' Hefty Valuations Demand Caution Ahead of Earnings, Morgan Stanley Says",
+      "url": "https://finnhub.io/api/news?id=bae51a8958391eb8d84da8d2a4d33dc2e3bbd5fdc9bff13899b447c1d5a3871a"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=cd50e8cde9d4979df27db27f2221029a45587757fc6065f01064e6bc54667f48"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Goldman Sachs Maintains Buy on Shoals Technologies Group, Raises Price Target to $13",
+      "url": "https://finnhub.io/api/news?id=5b07c69efebb131756f80235b11e68129e8ecb6a9283422482d1773f7c0e18d1"
+    },
+    {
+      "stock": "IBM",
+      "headline": "SpaceX, Micron, Western Digital, Coinbase, Danaher, and More Stocks That Explain Today’s Market",
+      "url": "https://finnhub.io/api/news?id=bd19357f6fefe41796eb9b0c92f522b07294f91607e9ffb4d083287023ccf230"
     }
   ]
 }
