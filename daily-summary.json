@@ -100,6 +100,26 @@
       "stock": "NFLX",
       "headline": "Netflix (NFLX) Stock Still Looks Cheap On Cash Flow And Earnings",
       "url": "https://finnhub.io/api/news?id=2e73ebc485375479d88635583322045818b7384e9dd913daee128a0bfb97521b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Oracle severed 21,000 employees during an AI spending spree, then hit a $7 billion Wisconsin power hurdle",
+      "url": "https://finnhub.io/api/news?id=47d2d837e669af0c2bc2f151bf79b6b1d6134f55446d5b0fa74e473b295726e8"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Corp. Announces Timing of FY2026 Fourth Quarter and Fiscal Year-End Earnings Release",
+      "url": "https://finnhub.io/api/news?id=4d84e9ac15a8ee4ea20f7519002c220ec57d363e14aa67956bc84365474629e6"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Stocks Fall Pre-Bell Ahead of Alphabet, Tesla Earnings",
+      "url": "https://finnhub.io/api/news?id=92a1a9bedad0da7a9db6b88d38783296832135c481f0e35898ab2d8e01c0810c"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Stocks Fall Pre-Bell Ahead of Alphabet, Tesla Earnings",
+      "url": "https://finnhub.io/api/news?id=92a1a9bedad0da7a9db6b88d38783296832135c481f0e35898ab2d8e01c0810c"
     }
   ]
 }
