@@ -60,6 +60,21 @@
       "stock": "NFLX",
       "headline": "Netflix “Is Not a Broken Company” and Trades At Just 19x Earnings. Jim Cramer Says Start Buying",
       "url": "https://finnhub.io/api/news?id=96c9242c934df2be278fbfc093a0d7774de988c8e959a12a9da323085e91d4ea"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell (HON) Stock Looks Undervalued On Its Q2 Earnings Preview",
+      "url": "https://finnhub.io/api/news?id=22212291c70e94356627fd1db3a19ab51a9109d2fe2854af76b51f5dbf1e8a78"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Faces Its Biggest Earnings Test Yet After a Historic Stock Drop",
+      "url": "https://finnhub.io/api/news?id=255e6b61ed468969f503a38a7efb5750732e031764ebb2cf386447dab8339db9"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google Kicks Off Big Tech Earnings: Why Capex, Not Cloud Growth, Could Decide Market’s Next AI Trade",
+      "url": "https://finnhub.io/api/news?id=48c28d1cec8b2b25f3a4eb576e8fb57933b432600628e742b14394dcd5344b79"
     }
   ]
 }
