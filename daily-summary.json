@@ -1,185 +1,30 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Claude AI Says Michael Burry’s Micron (MU) Warning “Deserves Respect”",
-      "url": "https://finnhub.io/api/news?id=ea65767e94b87cc548c43a9c1b1e740dab2ac75b065a211588b2de613635b31a"
-    },
-    {
       "stock": "TSLA",
-      "headline": "Nasdaq, S&P 500 Futures Rise As Chip Rally Counters Iran Jitters Ahead Of Big Tech Earnings: Why IREN, ACHR, TSLA, BA Stocks Are Drawing Focus",
-      "url": "https://finnhub.io/api/news?id=65706c5af55d24bcd949b511af38f2ad626891d75a2e50d7454d60b1afab39aa"
+      "headline": "Tesla Earnings Today: What to Expect as Investors Eye Profit Margins Over Deliveries",
+      "url": "https://finnhub.io/api/news?id=6321a260d3689e124384c708773680a718e602107d55f82950febb3c73427ce1"
     },
     {
-      "stock": "HON",
-      "headline": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
-      "url": "https://finnhub.io/api/news?id=fe6313d7f7d59f52bb72587ac093100ebbb12d461346aedf310e4b57fd6b2c1e"
+      "stock": "ARM",
+      "headline": "Susquehanna Maintains Positive on ARM Holdings, Raises Price Target to $320",
+      "url": "https://finnhub.io/api/news?id=5c87360b2c9fc0e0ccaa785a246fbd7ba85d5d4d2ab7bfe6ec14a199cca63e83"
     },
     {
       "stock": "HALO",
-      "headline": "Halozyme Therapeutics Signs Agreement With Incyte To Mull Additional Subcutaneous Formulations Of INCA033989 Mutant Calreticulin-Targeted Monoclonal Antibody",
-      "url": "https://finnhub.io/api/news?id=6e09676ee2faf44c563ffb6d43432f0a928562e1a85e9fbc345546cf2b476777"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Domino's Pizza Inc (DPZ) Q2 2026 Earnings Call Highlights: Strong Demand and Strategic ...",
-      "url": "https://finnhub.io/api/news?id=bf367e0c130342318008c20d56ecd7cbcd254fb406cec3d095f984afe0a8ab58"
+      "headline": "HC Wainwright & Co. Reiterates Buy on Halozyme Therapeutics, Maintains $95 Price Target",
+      "url": "https://finnhub.io/api/news?id=f1c57c07bfa551eb18344057782a7ca9c6785066ddeaef1f5535c9c1ebf4989b"
     },
     {
       "stock": "IBM",
-      "headline": "Update: Wall Street Falls as Traders Await Earnings, Track Middle East Developments",
-      "url": "https://finnhub.io/api/news?id=26fda6d9f072e92a94c25483f340f8e72db1e205a4953d3aa1f4492cb78f2e01"
+      "headline": "Google & Tesla kick off Big Tech earnings: What to Watch",
+      "url": "https://finnhub.io/api/news?id=871a268e0245cc932598faf3df6184d7f1da1748f0946d438729f6fae08deb85"
     },
     {
       "stock": "GOOGL",
-      "headline": "Nasdaq, S&P 500 Futures Rise As Chip Rally Counters Iran Jitters Ahead Of Big Tech Earnings: Why IREN, ACHR, TSLA, BA Stocks Are Drawing Focus",
-      "url": "https://finnhub.io/api/news?id=65706c5af55d24bcd949b511af38f2ad626891d75a2e50d7454d60b1afab39aa"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix Has Plummeted Over the Past Year and Just Dropped Again on Earnings. At 22 Times Profits, Is It a Buy?",
-      "url": "https://finnhub.io/api/news?id=2fec388e4d75ecd12cd106544ccfa5520bd85ef51f042294dd11a441ade2bb20"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Can XM Cyber IP Acquisition Strengthen CrowdStrike's Falcon Platform?",
-      "url": "https://finnhub.io/api/news?id=bb0657a65cf892f38c019a921934784c40197c9dd1da330e0f3a5c7e418e38ce"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
-      "url": "https://finnhub.io/api/news?id=fe6313d7f7d59f52bb72587ac093100ebbb12d461346aedf310e4b57fd6b2c1e"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron Technology (MU) Could Be 41% Above Fair Value As AI Memory Deals Draw Focus",
-      "url": "https://finnhub.io/api/news?id=97e451d848461d077d5284c3b36ac93ec3f1bf9964a9eaee184daf307cfb0cca"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Is Amazon.com (AMZN) Undervalued Following Its $200b AI Infrastructure Push?",
-      "url": "https://finnhub.io/api/news?id=f7dce5a6ae9dfac82bf637d813b3bdf7842fde17b40d189646c2823279b37a62"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Lumentum Just Scored a New Upgrade. Here's What to Know.",
-      "url": "https://finnhub.io/api/news?id=192a2c48f3a37a04c3c5905af8b95316ab42dee3e46106b2a5cb5a93bb597cd9"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "TSLA Stock Falls Behind MSFT To Become Mag 7’s Worst Performer Ahead Of Q2 Earnings — But Retail Is Betting On A Musk Surprise",
-      "url": "https://finnhub.io/api/news?id=4a8bf655f512a3cb75237384f4a99da60e85e8c4102c3d4de6c93e471134b122"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM (IBM) To Report Earnings Tomorrow: Here Is What To Expect",
-      "url": "https://finnhub.io/api/news?id=f276efda2b29a00772b494d75c84c28a91224d32ba5172cb3066315e64e59af0"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet (GOOGL) To Report Earnings Tomorrow: Here Is What To Expect",
-      "url": "https://finnhub.io/api/news?id=3abcb8dfd403222b9d68f5c2b8f07bde09b6d6f3b1dceb55d29b3e43d3dd2fa4"
-    },
-    {
-      "stock": "MU",
-      "headline": "MU, SNDK, STX, WDC: Beaten-Down Memory Stocks Extend AI Rebound Ahead Of Tech Earnings",
-      "url": "https://finnhub.io/api/news?id=0ab6ac96069c41d80e616030b941a206c1d5ab2234944f42c02d62f76867e7fd"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Ahead Of Earnings (Video): Compute, Memory And The AI Infrastructure Buildout",
-      "url": "https://finnhub.io/api/news?id=674638d1d02caac2502787451299da70b3b3c98521818e5099e08f5819acfb36"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Ahead Of Earnings (Video): Compute, Memory And The AI Infrastructure Buildout",
-      "url": "https://finnhub.io/api/news?id=674638d1d02caac2502787451299da70b3b3c98521818e5099e08f5819acfb36"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
-      "url": "https://finnhub.io/api/news?id=fe6313d7f7d59f52bb72587ac093100ebbb12d461346aedf310e4b57fd6b2c1e"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla Earnings Are Coming. 2 Things That Will Drive the Stock.",
-      "url": "https://finnhub.io/api/news?id=156c55597022afb17a6afc940295c67034d76aae472335e1f6569722432989b8"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "MU, SNDK, STX, WDC: Beaten-Down Memory Stocks Extend AI Rebound Ahead Of Tech Earnings",
-      "url": "https://finnhub.io/api/news?id=0ab6ac96069c41d80e616030b941a206c1d5ab2234944f42c02d62f76867e7fd"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Earnings Season May Be Last Hurrah For Hyperscalers And A Turning Point In The Market Cycle",
-      "url": "https://finnhub.io/api/news?id=7ac950c7354798115fbe4e373a4bc1d4e6d7936dbc7fc2f91eb25fd2697239ef"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Earnings Season May Be Last Hurrah For Hyperscalers And A Turning Point In The Market Cycle",
-      "url": "https://finnhub.io/api/news?id=7ac950c7354798115fbe4e373a4bc1d4e6d7936dbc7fc2f91eb25fd2697239ef"
-    },
-    {
-      "stock": "HON",
-      "headline": "Jim Cramer Warns Investors Could Be 'Slaughtered' by Overloaded Tech Portfolios, but Backs Nvidia and Intel: 'It's Time to Go to Other Sectors'",
-      "url": "https://finnhub.io/api/news?id=5a2856f7546e2b735a69ad068b1fbee1a1456cd37e5093fc9899b22bb3ec2b41"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Kofi Asante, Who Is Making History As The First Black Founder Of A Nuclear Company, Raises $10M In Oversubscribed Funding Round",
-      "url": "https://finnhub.io/api/news?id=5cdabb283f1ce0605c54fedd0fb7eb35da27a76f9997327c1afee83764b264e2"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Alliance for OpenUSD Drives Global 3D Data Interoperability and Agentic AI Workflows with New Core Specification Milestones and Members",
-      "url": "https://finnhub.io/api/news?id=0401b5dc1a4fbb95e70ecf4c110fc080ba03215853ef7c24a66c3acff0b2d5dc"
-    },
-    {
-      "stock": "TSM",
-      "headline": "AI's Biggest Gainers",
-      "url": "https://finnhub.io/api/news?id=878fc7cbf56c618879e89f2441a93c29bbf4578c27aa03110e3c4ae6b1f9e57e"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Buying In Semiconductors On Iran Ceasefire Soap Opera, Earnings Hopium, And Korea",
-      "url": "https://finnhub.io/api/news?id=8b1de4012a018b8126937de890cd5f84b3312d4960f53c53799fc4d117ddbf4f"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Buying In Semiconductors On Iran Ceasefire Soap Opera, Earnings Hopium, And Korea",
-      "url": "https://finnhub.io/api/news?id=8b1de4012a018b8126937de890cd5f84b3312d4960f53c53799fc4d117ddbf4f"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Samsung Unveils AI Health Assistant Ahead of New Galaxy Device Launch",
-      "url": "https://finnhub.io/api/news?id=2ab5f6c199747ef8d2e65033ef73f98be7e6e94cf892d3d3baf572f4c72c5153"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Intel: Insane Valuation Going Into Earnings",
-      "url": "https://finnhub.io/api/news?id=1522a2a9eeebce18c55926906dc6b4e42ff741d0f401d2600569f1fba5489b29"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Cybersecurity Stocks' Hefty Valuations Demand Caution Ahead of Earnings, Morgan Stanley Says",
-      "url": "https://finnhub.io/api/news?id=bae51a8958391eb8d84da8d2a4d33dc2e3bbd5fdc9bff13899b447c1d5a3871a"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=cd50e8cde9d4979df27db27f2221029a45587757fc6065f01064e6bc54667f48"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "Goldman Sachs Maintains Buy on Shoals Technologies Group, Raises Price Target to $13",
-      "url": "https://finnhub.io/api/news?id=5b07c69efebb131756f80235b11e68129e8ecb6a9283422482d1773f7c0e18d1"
-    },
-    {
-      "stock": "IBM",
-      "headline": "SpaceX, Micron, Western Digital, Coinbase, Danaher, and More Stocks That Explain Today’s Market",
-      "url": "https://finnhub.io/api/news?id=bd19357f6fefe41796eb9b0c92f522b07294f91607e9ffb4d083287023ccf230"
+      "headline": "Google Earnings Today: What to Expect as AI Spending Faces Scrutiny",
+      "url": "https://finnhub.io/api/news?id=d29b1aee6e4bfe2690fc815d1dc9d0671fecc40c6347e7c6e8ac82e898418dc0"
     }
   ]
 }
