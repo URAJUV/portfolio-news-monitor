@@ -75,6 +75,31 @@
       "stock": "GOOGL",
       "headline": "Google Kicks Off Big Tech Earnings: Why Capex, Not Cloud Growth, Could Decide Market’s Next AI Trade",
       "url": "https://finnhub.io/api/news?id=48c28d1cec8b2b25f3a4eb576e8fb57933b432600628e742b14394dcd5344b79"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Google Kicks Off Big Tech Earnings: Why Capex, Not Cloud Growth, Could Decide Market’s Next AI Trade",
+      "url": "https://finnhub.io/api/news?id=48c28d1cec8b2b25f3a4eb576e8fb57933b432600628e742b14394dcd5344b79"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Nasdaq, S&P 500 Futures Slip Ahead Of TSLA, GOOGL Earnings: Why SMCI, INTC, SLS, BATL, OKLO, RKLB Are In Focus",
+      "url": "https://finnhub.io/api/news?id=7669e899cde7d120229c5e9f29ec31557cdab3158adeac53b88a6927c35e60c3"
+    },
+    {
+      "stock": "UBER",
+      "headline": "AI isn’t boosting productivity, says Barclays",
+      "url": "https://finnhub.io/api/news?id=848ce87d82a9d872fa99c2e547581c1751f2d09e48fcb1479c471c9c3e728990"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Worldwide Digital Railway Market to Reach $136.49 Billion by 2031 as IoT, AI and Cloud Adoption Accelerate",
+      "url": "https://finnhub.io/api/news?id=ef80821e70faa64a1a008ea2efdf059d16e3e17206980c80f9c4aaae41a7563a"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix (NFLX) Stock Still Looks Cheap On Cash Flow And Earnings",
+      "url": "https://finnhub.io/api/news?id=2e73ebc485375479d88635583322045818b7384e9dd913daee128a0bfb97521b"
     }
   ]
 }
