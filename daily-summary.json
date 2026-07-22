@@ -160,6 +160,56 @@
       "stock": "RDDT",
       "headline": "Reported July 21, 2026: WSJ Issued Article Reporting Reddit Weighs Cutting Off Google's AI Access To Its Content As Partnership Comes Under Review",
       "url": "https://finnhub.io/api/news?id=5e0bbba5f6c5125f59912fcf979ed93c658d5f3c6c869e3832844c8d1de44f10"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC Q2: Compounding AI Spending Concerns Hit Stock Valuation",
+      "url": "https://finnhub.io/api/news?id=8bed96b04821fcaa1d26fd74141b5bfe5cea97999c457ecd0feb52672a38fbee"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "AMD, Cerebras Strike AI Chip Deals",
+      "url": "https://finnhub.io/api/news?id=569ef0cb986ff84c05aa170c2e6b86de1b08200008ca378ba03967aa72f7d748"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Move Over, Micron: Expert Predicts New Industry Will Soon Have Microsoft, Amazon, and Data Centers Over a Barrel",
+      "url": "https://finnhub.io/api/news?id=8a50158d98402a73806368478e0eb540894380a98468378b4339e14231c1c52e"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Shares of software companies are trading lower amid overall market weakness as investors rotate out of the industry amid AI disruption concerns. Recent payroll economic data may impact future rate cuts as investors await Friday's CPI results",
+      "url": "https://finnhub.io/api/news?id=0f9ddfc6d0d782980653f63a940046fa0e3d470a1cd680587083c24c30976124"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Gains Ground in AI Servers",
+      "url": "https://finnhub.io/api/news?id=ba79cd007a58e54b604601770bfe50622082a9ab389b117eb607f90df946c2db"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Update: Uber, Lyft Granted Preliminary Injunction Blocking New York City Law Against 'Wrongful Deactivations' of Drivers",
+      "url": "https://finnhub.io/api/news?id=8d29fb8d607d253e5a82a3b2253420fddab07626a54077b250eba6f7e54c7148"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "SAP Signavio And Tangible Growth Announce Partnership To Give Leaders Real-Time Visibility Into Transformation Investment Outcomes",
+      "url": "https://finnhub.io/api/news?id=f5e502f12a5780ec99d7455a907a0deb38d10db6df3e7f869f1b66ce708e7f43"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Update: Equities Mixed Intraday as Traders Await Alphabet, Tesla Results",
+      "url": "https://finnhub.io/api/news?id=5acea5bf0c38bbec506879b9844db159550e26f564d56408e326b1e2d2a6c86b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet Reports Q2 Results After the Bell Today. The Number That Decides the Stock Isn't Revenue or Earnings -- It's Capex.",
+      "url": "https://finnhub.io/api/news?id=fd64ba0fa2ca335582c491d3c585b69f5cc871891503be662007a1f78a21dfcf"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "SAP Signavio And Tangible Growth Announce Partnership To Give Leaders Real-Time Visibility Into Transformation Investment Outcomes",
+      "url": "https://finnhub.io/api/news?id=f5e502f12a5780ec99d7455a907a0deb38d10db6df3e7f869f1b66ce708e7f43"
     }
   ]
 }
