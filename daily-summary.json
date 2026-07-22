@@ -25,6 +25,41 @@
       "stock": "GOOGL",
       "headline": "Google Earnings Today: What to Expect as AI Spending Faces Scrutiny",
       "url": "https://finnhub.io/api/news?id=d29b1aee6e4bfe2690fc815d1dc9d0671fecc40c6347e7c6e8ac82e898418dc0"
+    },
+    {
+      "stock": "MU",
+      "headline": "MU, SNDK, WDC Socks Rise Sharply For Second Day: Retail Feels Memory Pullback Is Over",
+      "url": "https://finnhub.io/api/news?id=ec5d28af92dc8efa8a38043c0c0c3c50c36be5e40d3ee993059d3fde245f3978"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Is CrowdStrike Holdings (CRWD) Cheap On Its Schwarz Digits Partnership And Pullback?",
+      "url": "https://finnhub.io/api/news?id=b3758de148c40ba1ff71f8082a0ba7135c5d271bef6262c4cf0aec57d42d8021"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "S&P 500, Nasdaq, Dow Futures Ease As Oil Rally Tempers AI Optimism Ahead of Big Tech Earnings: SMCI, OKLO, XE, SKHY, GOOG In Focus",
+      "url": "https://finnhub.io/api/news?id=ee7401357235bdf74cadbf784bbfe4bdf082bbf6511598f2fe1405b3979d6ec3"
+    },
+    {
+      "stock": "HON",
+      "headline": "Is Honeywell International (HON) Undervalued As It Reaffirms 2026 Guidance?",
+      "url": "https://finnhub.io/api/news?id=0f75e7d989ebc742aeeb790d5f3f87128c46bee7e811a311ee5ae96b563f1028"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM (IBM) Stock Looks Like A Bargain At Current Levels",
+      "url": "https://finnhub.io/api/news?id=42859d30efdcb3a213f41c29e1cb8051f3a529fffddd3b6492acf44bf907113c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "S&P 500, Nasdaq, Dow Futures Ease As Oil Rally Tempers AI Optimism Ahead of Big Tech Earnings: SMCI, OKLO, XE, SKHY, GOOG In Focus",
+      "url": "https://finnhub.io/api/news?id=ee7401357235bdf74cadbf784bbfe4bdf082bbf6511598f2fe1405b3979d6ec3"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix “Is Not a Broken Company” and Trades At Just 19x Earnings. Jim Cramer Says Start Buying",
+      "url": "https://finnhub.io/api/news?id=96c9242c934df2be278fbfc093a0d7774de988c8e959a12a9da323085e91d4ea"
     }
   ]
 }
