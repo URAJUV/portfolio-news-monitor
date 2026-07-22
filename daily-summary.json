@@ -120,6 +120,46 @@
       "stock": "IBM",
       "headline": "Stocks Fall Pre-Bell Ahead of Alphabet, Tesla Earnings",
       "url": "https://finnhub.io/api/news?id=92a1a9bedad0da7a9db6b88d38783296832135c481f0e35898ab2d8e01c0810c"
+    },
+    {
+      "stock": "MU",
+      "headline": "Jim Cramer Defends His Dell Stance as Investors Complain About Missing Out",
+      "url": "https://finnhub.io/api/news?id=792a47034cee61813de9eee0a430d9f5fda28f2321aec41459fbca99dbbb06cb"
+    },
+    {
+      "stock": "TSM",
+      "headline": "The Nvidia-Led AI Supercycle Is Accelerating — and Taiwan Just Confirmed It",
+      "url": "https://finnhub.io/api/news?id=213801ade155c0d9021a93203f81ba21a100cb479f514efe2eeb7292173b5913"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Jim Cramer Calls AI Cyberattacks a “Watershed Moment” for CrowdStrike",
+      "url": "https://finnhub.io/api/news?id=14fc7d8acad0f1e0ecdf8aba05023cbe535510ab05a94466f685c9cdb16a5fb4"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Does Coherent’s AI-Fueled Earnings Momentum and Analyst Optimism Reshape the Bull Case for COHR?",
+      "url": "https://finnhub.io/api/news?id=bbd905886f6c41e87fe4e2f0d6a2cab58cfbb5a05304ebfa3cf327707d564f7f"
+    },
+    {
+      "stock": "HON",
+      "headline": "This Dividend Stock Beat Expectations Again. Here’s The New Price Target",
+      "url": "https://finnhub.io/api/news?id=d61104ac8a97707dd425cf03165ebbb2cc2ade535d963faa2cc48f037309bcd1"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber, Lyft Granted Preliminary Injunction Blocking New York City Law Against 'Wrongful Deactivations' of Drivers",
+      "url": "https://finnhub.io/api/news?id=8fdb3a48386b24fda259cfd6cb5cc62b6171c96262a4cb415449550c40aa016f"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "What Wall Street Pushed NFLX To Explain",
+      "url": "https://finnhub.io/api/news?id=a83cf0e7880eb093a96f480069657576b06a006573d6e773beb04971742d4650"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reported July 21, 2026: WSJ Issued Article Reporting Reddit Weighs Cutting Off Google's AI Access To Its Content As Partnership Comes Under Review",
+      "url": "https://finnhub.io/api/news?id=5e0bbba5f6c5125f59912fcf979ed93c658d5f3c6c869e3832844c8d1de44f10"
     }
   ]
 }
