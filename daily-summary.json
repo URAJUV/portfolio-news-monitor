@@ -70,6 +70,26 @@
       "stock": "GOOGL",
       "headline": "Alphabet cloud-fuelled earnings beat fails to address fundamental long-term issues",
       "url": "https://finnhub.io/api/news?id=1a51003c3f844fd17ce8628a6b899c926e94c51f2fb9071ab73b360b232b5ccb"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike partners with Cerebras to accelerate AI security response",
+      "url": "https://finnhub.io/api/news?id=dcde3d0c5dd2968785a1b6352684418ba9404f598d2a508335a3284e86099b58"
+    },
+    {
+      "stock": "COHR",
+      "headline": "COHR, AAOI, LITE, POET: Photonic Stocks Join Google Capex-Fueled AI Rally",
+      "url": "https://finnhub.io/api/news?id=41b53588166b901710b6bb13042e4d5094ccab7550b4b1b943c82c86b5af268d"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Intel Needs More Than Blowout Earnings as Chips Rally Falters",
+      "url": "https://finnhub.io/api/news?id=a5a6fb0b84c6109252a0df7270f4939d3b23c8659220eab8d08e9d15c3368e1b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "What role will AI companies play inside banks?",
+      "url": "https://finnhub.io/api/news?id=da60c6e4812c1801b0d575c9b6fc730d6857b0ca9e725541ec7d4e6cbb082b65"
     }
   ]
 }
