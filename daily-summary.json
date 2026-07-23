@@ -25,6 +25,31 @@
       "stock": "TEAM",
       "headline": "Atlassian: Wall Street Has The AI Story Completely Wrong (Strong Buy)",
       "url": "https://finnhub.io/api/news?id=31c707f276e5fda073228a85403234525ef41147ce96b3be6bd77c5c185afd50"
+    },
+    {
+      "stock": "MU",
+      "headline": "MU, SNDK, SKHY Stocks Jump: Google's AI Hunger, Elon Musk's Micron Shoutout Send Memory Bulls Charging",
+      "url": "https://finnhub.io/api/news?id=a98e9459a6f5b449591d3c834b7c72aff657f0babc99cc984f65d26a1a4fe40c"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
+      "url": "https://finnhub.io/api/news?id=ba2193f719bb90689c30e5790b5c3eaee682089035082ed943ab5a299f0de1af"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Shares of software companies are trading lower amid overall market weakness as investors rotate out of the industry amid AI disruption concerns. Recent payroll economic data may impact future rate cuts as investors await Friday's CPI results",
+      "url": "https://finnhub.io/api/news?id=0f9ddfc6d0d782980653f63a940046fa0e3d470a1cd680587083c24c30976124"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
+      "url": "https://finnhub.io/api/news?id=ba2193f719bb90689c30e5790b5c3eaee682089035082ed943ab5a299f0de1af"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "MU, SNDK, SKHY Stocks Jump: Google's AI Hunger, Elon Musk's Micron Shoutout Send Memory Bulls Charging",
+      "url": "https://finnhub.io/api/news?id=a98e9459a6f5b449591d3c834b7c72aff657f0babc99cc984f65d26a1a4fe40c"
     }
   ]
 }
