@@ -50,6 +50,26 @@
       "stock": "GOOGL",
       "headline": "MU, SNDK, SKHY Stocks Jump: Google's AI Hunger, Elon Musk's Micron Shoutout Send Memory Bulls Charging",
       "url": "https://finnhub.io/api/news?id=a98e9459a6f5b449591d3c834b7c72aff657f0babc99cc984f65d26a1a4fe40c"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "AI Models Went Rogue, and These Stocks Are Ready for the Fight",
+      "url": "https://finnhub.io/api/news?id=aa243d22124154ab679d1257ad6604c8aec5ad216c076eaff1320475182712c7"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Cuts 10% of Customer Service Jobs, Citing ‘Embrace’ of AI",
+      "url": "https://finnhub.io/api/news?id=9c1fe590c4efc29b8af5150d50801759c6b8d6b158f6a23703eda042e53e0533"
+    },
+    {
+      "stock": "IBM",
+      "headline": "International Business Machines Corp (IBM) Q2 2026 Earnings Call Highlights: Navigating Revenue ...",
+      "url": "https://finnhub.io/api/news?id=9c8ce825328fff999534fa8d86de8a43a4f9232857d12aef5da0292833834bc7"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet cloud-fuelled earnings beat fails to address fundamental long-term issues",
+      "url": "https://finnhub.io/api/news?id=1a51003c3f844fd17ce8628a6b899c926e94c51f2fb9071ab73b360b232b5ccb"
     }
   ]
 }
