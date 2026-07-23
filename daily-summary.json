@@ -110,6 +110,36 @@
       "stock": "HALO",
       "headline": "Halozyme to Report Second Quarter 2026 Financial and Operating Results",
       "url": "https://finnhub.io/api/news?id=fbebe46d8b70909825aac1019b3b4d21a9235d23c554da2d35ff69398c4dc62b"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor: Inside The Price Dispute That Can Change The AI Supply Chain",
+      "url": "https://finnhub.io/api/news?id=6d842b868282d0c07bbb5f2592fac2c9d9e1aae5010ac7299aee18e5ff0499f9"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AI Infrastructure Will Mint More Millionaires Over the Next Decade: 3 Stocks to Buy Right Now",
+      "url": "https://finnhub.io/api/news?id=0944f8e5772fd3f39fbc7dca38af91b2138978a699fdc042689d42d5944c34b3"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Wells Fargo Maintains Overweight on ARM Holdings, Lowers Price Target to $350",
+      "url": "https://finnhub.io/api/news?id=24c8b9903d6e81ac886e4de546eef62816ee301a5728d19f1d91edada434a2ee"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Job Cuts Put AI Efficiency in Focus",
+      "url": "https://finnhub.io/api/news?id=d98f0c494eb8dca315b85c37a4ecf0c785a8a84632d47c21345e9a369ace3d8b"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk initiated, Norwegian Cruise downgrade: Wall Street's top analyst calls",
+      "url": "https://finnhub.io/api/news?id=3a175e5c8e194d58f2cec74d30be4ba412049aadaecc8449fc1fed7b1f0cb895"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Peacock Soars, Broadband Stumbles: Comcast Stock Slips After Earnings",
+      "url": "https://finnhub.io/api/news?id=55abcae384b1bda6a8c273a915944c470f9696d70611e20a859c288e6d6d318a"
     }
   ]
 }
