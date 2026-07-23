@@ -140,6 +140,46 @@
       "stock": "NFLX",
       "headline": "Peacock Soars, Broadband Stumbles: Comcast Stock Slips After Earnings",
       "url": "https://finnhub.io/api/news?id=55abcae384b1bda6a8c273a915944c470f9696d70611e20a859c288e6d6d318a"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron gains as Musk thanks it for  ’significant’ memory chip allocation",
+      "url": "https://finnhub.io/api/news?id=7c7e3e22d3737226d05de340a96707b3771eeda3ed786c72befda93b4926c41b"
+    },
+    {
+      "stock": "TSM",
+      "headline": "ASML: Surging AI CapEx A Catalyst",
+      "url": "https://finnhub.io/api/news?id=d1fec61134e79d10ecf61d194bc52add8a434a7dd686b441b64fe41b95e057c4"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=8de9666cb40d21f7fff9e4c8c50f0442f9d12a5208e40c7c4bb5dc2511179e6f"
+    },
+    {
+      "stock": "COHR",
+      "headline": "What to Expect From Coherent's Q4 2026 Earnings Report",
+      "url": "https://finnhub.io/api/news?id=a85a41eb2fcd48fad4900448b71378cc456ca8418a22a96cbf083fd4fee5dd87"
+    },
+    {
+      "stock": "ARM",
+      "headline": "An Emboldened AMD Is Taking Direct Aim at Nvidia",
+      "url": "https://finnhub.io/api/news?id=bea2cbf5e7140e9570a63b773af095bd0c6ed846362437607415afb60b4d3256"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell stock jumps on Q2 earnings: Why it's a 'solid start' for the company",
+      "url": "https://finnhub.io/api/news?id=42a804c1e42e24cd13591973ba4a9584b54370627c091f9a158db0aabf77a885"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Cuts 10% of Customer Service Jobs to Expand AI Use",
+      "url": "https://finnhub.io/api/news?id=3e616cf43616767ceb195cda325347644537c94fdae458c82768f3c6b1ce6e1b"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Here Are Thursday’s Top Wall Street Analyst Research Calls: AT&T, Applied Digital, Autodesk, Duke Energy, Exxon Mobil, JPMorgan Chase & Company, Live Nation Entertainment, and More",
+      "url": "https://finnhub.io/api/news?id=d189535b38253292379e8796b1c8b034241176ff683a68d35d77be54d83bef84"
     }
   ]
 }
