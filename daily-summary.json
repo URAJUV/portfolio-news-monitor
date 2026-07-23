@@ -90,6 +90,11 @@
       "stock": "GOOGL",
       "headline": "What role will AI companies play inside banks?",
       "url": "https://finnhub.io/api/news?id=da60c6e4812c1801b0d575c9b6fc730d6857b0ca9e725541ec7d4e6cbb082b65"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Amazon Workers on Food Stamps Nearly Tripled, While Company Spends $200 Billion on AI",
+      "url": "https://finnhub.io/api/news?id=c26f1683068db961178c20f5be305585bb62fa36d504b82d75b2c65cc740ec7b"
     }
   ]
 }
