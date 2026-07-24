@@ -135,6 +135,36 @@
       "stock": "IBM",
       "headline": "There's a problem holding back quantum computer growth and this Ontario startup aims to solve it",
       "url": "https://finnhub.io/api/news?id=c2d80d86df8fc831a2485884d205de0639220d6dac2cf5f100b0f2687b9fd3a1"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Bloom Energy: AI's Power Crunch Creates Rare Buying Opportunity",
+      "url": "https://finnhub.io/api/news?id=cb262ea41cd87b820c248ebd30e98185d10de4abd5b94a9e40a1514a591b9732"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "OpenAI president Greg Brockman: 'We will remain in this compute shortage no matter what'",
+      "url": "https://finnhub.io/api/news?id=d21a7f0f69f7a86396ece158efea45f4e8edd0f335944f11483e6a5edf8002b5"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings (ARM) Is Up 5.9% After Overtaking x86 In AI GPU Servers - What's Changed",
+      "url": "https://finnhub.io/api/news?id=8f16f0bf3a599dbd9691716ed4b7b38529609b9b1caf9f87c059e9e12db7dfb1"
+    },
+    {
+      "stock": "HON",
+      "headline": "HON Q2 Earnings Call Highlights Automation Growth Push",
+      "url": "https://finnhub.io/api/news?id=c994db2f09163915a70d90b4b606c778a7749cd0e38fc1d4c0eeb37a305770dd"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Why Meta, Microsoft, and Nvidia are championing open-weight AI",
+      "url": "https://finnhub.io/api/news?id=910eab0cb6f66b2b3fa69a3ef0ab1bca39533fe9833fc9056dba98da6d5b834f"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Meta vs. Alphabet: One AI Stock Looks Like the Better Value",
+      "url": "https://finnhub.io/api/news?id=2ecfa7a38e5a16637ee02d333dc2fca4e00e3bbbb2f0579874383bb71a006ee1"
     }
   ]
 }
