@@ -40,6 +40,36 @@
       "stock": "NFLX",
       "headline": "Netflix's stock split history (& prospects) explained",
       "url": "https://finnhub.io/api/news?id=0876d12d62a3bd9b711c9cf3b238775c0ff5ad39a887d5a52dd4555b488a98f1"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron (MU) Is Getting A New China AI Demand Signal From Kimi K3",
+      "url": "https://finnhub.io/api/news?id=87b341a457c360149de9ef76ee3a1aaaaec2d4d3f6899b8f8a799088f068d622"
+    },
+    {
+      "stock": "TSM",
+      "headline": "BorZen Tien's Recent Buy: Acquires $301K In Taiwan Semiconductor Stock",
+      "url": "https://finnhub.io/api/news?id=ab121b6ef29a52f698310b1d7f69217059084c6d5b65bb37b0164f4afe664c5b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon Fell 4.6% Today Because Other Companies Said They Would Spend More Money. It Reports July 30.",
+      "url": "https://finnhub.io/api/news?id=912d5842b2106dcb46abc77152b60650cdb846cd44036ae1ce686b407bc25264"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Why ARM's AI Opportunity Could Extend Beyond Market Hype",
+      "url": "https://finnhub.io/api/news?id=505b51466350a134683319041f5116ad0e32fd70e121551e0ce2344797ee3337"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell International Inc (HON) Q2 2026 Earnings Call Highlights: Strong Organic Growth and ...",
+      "url": "https://finnhub.io/api/news?id=e4b05d00305dab218e341412a170737067399931443b75fa224bbd25c48de55a"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Guggenheim Initiates Coverage On Autodesk with Buy Rating, Announces Price Target of $245",
+      "url": "https://finnhub.io/api/news?id=24336f764fb42604425bbe61d1795cbc80413a5d03855a1fb2bd33930a56f18a"
     }
   ]
 }
