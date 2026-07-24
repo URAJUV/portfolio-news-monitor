@@ -95,6 +95,21 @@
       "stock": "IBM",
       "headline": "S&P 500 Q2 Earnings: Stripping Out the Outsized Impact of Alphabet and Micron",
       "url": "https://finnhub.io/api/news?id=1c1a7b74f6947628c6fb6eb62cb71b755d99e9620b842c140af3301c5966f5df"
+    },
+    {
+      "stock": "MU",
+      "headline": "Stock Futures Rise as Oil Prices Dip After AI Selloff",
+      "url": "https://finnhub.io/api/news?id=45ed37d40b498977480cac462eace2341db66367568bbe64a9fc7b13d1be3906"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Google’s Earnings Could be a Bad Omen for Big Tech",
+      "url": "https://finnhub.io/api/news?id=d52b37ce4f214ac7f3c0ebe4db5618b71aba49db366b80b5e2b8887ce20f79f2"
+    },
+    {
+      "stock": "UBER",
+      "headline": "The Gig Economy 2026 Published, Profiles Over 75 Market Leaders, Including Airbnb, eBay, and Uber",
+      "url": "https://finnhub.io/api/news?id=6ed8c73a6da284819b41a5687f09dcfe550d2708384bc78dd73fb069b78bf8f1"
     }
   ]
 }
