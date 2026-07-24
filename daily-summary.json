@@ -110,6 +110,31 @@
       "stock": "UBER",
       "headline": "The Gig Economy 2026 Published, Profiles Over 75 Market Leaders, Including Airbnb, eBay, and Uber",
       "url": "https://finnhub.io/api/news?id=6ed8c73a6da284819b41a5687f09dcfe550d2708384bc78dd73fb069b78bf8f1"
+    },
+    {
+      "stock": "MU",
+      "headline": "Latest News In AI Chips - AMD and Cerebras Team Up for AI Infrastructure Enhancement",
+      "url": "https://finnhub.io/api/news?id=c2ed98dd512ddc2c81f1d4b38e1ebb922d7839147f6bdf6071206affb8eb4650"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Credo: SpaceX Tailwinds Vs. Risk On The U.S. Frontier AIs' Premium (Rating Downgrade)",
+      "url": "https://finnhub.io/api/news?id=f2b0948434ac3fbd45402d362cfa3f48d274e2cf66e1c9a293bb99369ecf48c9"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Q2 Earnings: Positive Outlook Following Spin Off, Shares Fairly Valued",
+      "url": "https://finnhub.io/api/news?id=fd93c29a8aa4b0a38aa241a4898d3e419573a24506eac18e813a2553c616e959"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk (NASDAQ:ADSK): An Affordable Growth Stock with Strong Earnings and Reasonable Valuation",
+      "url": "https://finnhub.io/api/news?id=3f7a1c4ec989056972194e696b82ad067dd9da32948508611da929c8e6ce54c7"
+    },
+    {
+      "stock": "IBM",
+      "headline": "There's a problem holding back quantum computer growth and this Ontario startup aims to solve it",
+      "url": "https://finnhub.io/api/news?id=c2d80d86df8fc831a2485884d205de0639220d6dac2cf5f100b0f2687b9fd3a1"
     }
   ]
 }
