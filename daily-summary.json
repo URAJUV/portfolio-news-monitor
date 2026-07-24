@@ -1,185 +1,45 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "items": [
     {
-      "stock": "SNPS",
-      "headline": "Synopsys Announces Earnings Release Date for Third Quarter Fiscal Year 2026",
-      "url": "https://finnhub.io/api/news?id=e886aa4bb0119460fa2054c816b9b4241d4a573605d802397f021a6c833e5a05"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap",
-      "url": "https://finnhub.io/api/news?id=5de6d142a7935fa5f807cd02906130f81d13f6375fb14439449dccdc72c7c845"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM (IBM) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
-      "url": "https://finnhub.io/api/news?id=66128b7bf8c4fe1ca4ac7f3d8f51cda9e1467635eb0c2c5319937d313ff2b33b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Pichai pushes back on claims Google is losing ground in AI race",
-      "url": "https://finnhub.io/api/news?id=ac13b7b22a3739ed0bad9a96ee71acd63e3475d5c01c121569d48047f21b6bb4"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian: Wall Street Has The AI Story Completely Wrong (Strong Buy)",
-      "url": "https://finnhub.io/api/news?id=31c707f276e5fda073228a85403234525ef41147ce96b3be6bd77c5c185afd50"
-    },
-    {
       "stock": "MU",
-      "headline": "MU, SNDK, SKHY Stocks Jump: Google's AI Hunger, Elon Musk's Micron Shoutout Send Memory Bulls Charging",
-      "url": "https://finnhub.io/api/news?id=a98e9459a6f5b449591d3c834b7c72aff657f0babc99cc984f65d26a1a4fe40c"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
-      "url": "https://finnhub.io/api/news?id=ba2193f719bb90689c30e5790b5c3eaee682089035082ed943ab5a299f0de1af"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Shares of software companies are trading lower amid overall market weakness as investors rotate out of the industry amid AI disruption concerns. Recent payroll economic data may impact future rate cuts as investors await Friday's CPI results",
-      "url": "https://finnhub.io/api/news?id=0f9ddfc6d0d782980653f63a940046fa0e3d470a1cd680587083c24c30976124"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
-      "url": "https://finnhub.io/api/news?id=ba2193f719bb90689c30e5790b5c3eaee682089035082ed943ab5a299f0de1af"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "MU, SNDK, SKHY Stocks Jump: Google's AI Hunger, Elon Musk's Micron Shoutout Send Memory Bulls Charging",
-      "url": "https://finnhub.io/api/news?id=a98e9459a6f5b449591d3c834b7c72aff657f0babc99cc984f65d26a1a4fe40c"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "AI Models Went Rogue, and These Stocks Are Ready for the Fight",
-      "url": "https://finnhub.io/api/news?id=aa243d22124154ab679d1257ad6604c8aec5ad216c076eaff1320475182712c7"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Cuts 10% of Customer Service Jobs, Citing ‘Embrace’ of AI",
-      "url": "https://finnhub.io/api/news?id=9c1fe590c4efc29b8af5150d50801759c6b8d6b158f6a23703eda042e53e0533"
-    },
-    {
-      "stock": "IBM",
-      "headline": "International Business Machines Corp (IBM) Q2 2026 Earnings Call Highlights: Navigating Revenue ...",
-      "url": "https://finnhub.io/api/news?id=9c8ce825328fff999534fa8d86de8a43a4f9232857d12aef5da0292833834bc7"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet cloud-fuelled earnings beat fails to address fundamental long-term issues",
-      "url": "https://finnhub.io/api/news?id=1a51003c3f844fd17ce8628a6b899c926e94c51f2fb9071ab73b360b232b5ccb"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike partners with Cerebras to accelerate AI security response",
-      "url": "https://finnhub.io/api/news?id=dcde3d0c5dd2968785a1b6352684418ba9404f598d2a508335a3284e86099b58"
-    },
-    {
-      "stock": "COHR",
-      "headline": "COHR, AAOI, LITE, POET: Photonic Stocks Join Google Capex-Fueled AI Rally",
-      "url": "https://finnhub.io/api/news?id=41b53588166b901710b6bb13042e4d5094ccab7550b4b1b943c82c86b5af268d"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Intel Needs More Than Blowout Earnings as Chips Rally Falters",
-      "url": "https://finnhub.io/api/news?id=a5a6fb0b84c6109252a0df7270f4939d3b23c8659220eab8d08e9d15c3368e1b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "What role will AI companies play inside banks?",
-      "url": "https://finnhub.io/api/news?id=da60c6e4812c1801b0d575c9b6fc730d6857b0ca9e725541ec7d4e6cbb082b65"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Amazon Workers on Food Stamps Nearly Tripled, While Company Spends $200 Billion on AI",
-      "url": "https://finnhub.io/api/news?id=c26f1683068db961178c20f5be305585bb62fa36d504b82d75b2c65cc740ec7b"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Lumentum and 5 Other Stocks Set to Win From Big Tech’s AI Spending Spree",
-      "url": "https://finnhub.io/api/news?id=1737363a89f039ce83c4868a2e9e301eb70ea903ee8d5f8588069d41a74798a8"
-    },
-    {
-      "stock": "HON",
-      "headline": "Why Honeywell Tech’s Earnings Beat Is Weighing on Aerospace Shares",
-      "url": "https://finnhub.io/api/news?id=1dfcd14ef6d32408023f172576bb656dd8971ca35ec8215aa7a7bb652958a840"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Halozyme to Report Second Quarter 2026 Financial and Operating Results",
-      "url": "https://finnhub.io/api/news?id=fbebe46d8b70909825aac1019b3b4d21a9235d23c554da2d35ff69398c4dc62b"
+      "headline": "S&P 500 Q2 Earnings: Stripping Out the Outsized Impact of Alphabet and Micron",
+      "url": "https://finnhub.io/api/news?id=1c1a7b74f6947628c6fb6eb62cb71b755d99e9620b842c140af3301c5966f5df"
     },
     {
       "stock": "TSM",
-      "headline": "Taiwan Semiconductor: Inside The Price Dispute That Can Change The AI Supply Chain",
-      "url": "https://finnhub.io/api/news?id=6d842b868282d0c07bbb5f2592fac2c9d9e1aae5010ac7299aee18e5ff0499f9"
+      "headline": "An Agentic AI Tide Lifting All Boats",
+      "url": "https://finnhub.io/api/news?id=9e389ff88b849676b83d938e279fe8dff96fa2f045be6e9767cb8c34644ecc85"
     },
     {
-      "stock": "COHR",
-      "headline": "AI Infrastructure Will Mint More Millionaires Over the Next Decade: 3 Stocks to Buy Right Now",
-      "url": "https://finnhub.io/api/news?id=0944f8e5772fd3f39fbc7dca38af91b2138978a699fdc042689d42d5944c34b3"
+      "stock": "CRWD",
+      "headline": "Cerebras Systems (CBRS) Teams Up With CrowdStrike To Push AI Cybersecurity",
+      "url": "https://finnhub.io/api/news?id=a1f850197b01f26754fc99aa42440c1f9672b4ebc8d58bf809af37547d1ca317"
     },
     {
       "stock": "ARM",
-      "headline": "Wells Fargo Maintains Overweight on ARM Holdings, Lowers Price Target to $350",
-      "url": "https://finnhub.io/api/news?id=24c8b9903d6e81ac886e4de546eef62816ee301a5728d19f1d91edada434a2ee"
+      "headline": "AMD, Arm gain after hours following blowout results from Intel",
+      "url": "https://finnhub.io/api/news?id=4ed60ecc3f738f8ce3c377461ed4c20061e9bf47d0f9f9723852441afde408da"
     },
     {
-      "stock": "UBER",
-      "headline": "Uber Job Cuts Put AI Efficiency in Focus",
-      "url": "https://finnhub.io/api/news?id=d98f0c494eb8dca315b85c37a4ecf0c785a8a84632d47c21345e9a369ace3d8b"
+      "stock": "HON",
+      "headline": "Honeywell (HON) Q2 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=0b641b7eb07ddea6e45ee24f467e552d55234cadc40aee23f0bc8ef9676473b7"
     },
     {
-      "stock": "ADSK",
-      "headline": "Autodesk initiated, Norwegian Cruise downgrade: Wall Street's top analyst calls",
-      "url": "https://finnhub.io/api/news?id=3a175e5c8e194d58f2cec74d30be4ba412049aadaecc8449fc1fed7b1f0cb895"
+      "stock": "DE",
+      "headline": "Deere & Company Earnings Preview: What to Expect",
+      "url": "https://finnhub.io/api/news?id=6999b58298d83da40830663e755a01c9480758fc1e216811cd1315df0e15c4df"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Warren Buffett Just Said This About Berkshire Hathaway's Massive Google Investment",
+      "url": "https://finnhub.io/api/news?id=d6565d7218405ad015aa0c0912cc956b6ba09bf2206d8a15f162b043a2e3d897"
     },
     {
       "stock": "NFLX",
-      "headline": "Peacock Soars, Broadband Stumbles: Comcast Stock Slips After Earnings",
-      "url": "https://finnhub.io/api/news?id=55abcae384b1bda6a8c273a915944c470f9696d70611e20a859c288e6d6d318a"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron gains as Musk thanks it for  ’significant’ memory chip allocation",
-      "url": "https://finnhub.io/api/news?id=7c7e3e22d3737226d05de340a96707b3771eeda3ed786c72befda93b4926c41b"
-    },
-    {
-      "stock": "TSM",
-      "headline": "ASML: Surging AI CapEx A Catalyst",
-      "url": "https://finnhub.io/api/news?id=d1fec61134e79d10ecf61d194bc52add8a434a7dd686b441b64fe41b95e057c4"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=8de9666cb40d21f7fff9e4c8c50f0442f9d12a5208e40c7c4bb5dc2511179e6f"
-    },
-    {
-      "stock": "COHR",
-      "headline": "What to Expect From Coherent's Q4 2026 Earnings Report",
-      "url": "https://finnhub.io/api/news?id=a85a41eb2fcd48fad4900448b71378cc456ca8418a22a96cbf083fd4fee5dd87"
-    },
-    {
-      "stock": "ARM",
-      "headline": "An Emboldened AMD Is Taking Direct Aim at Nvidia",
-      "url": "https://finnhub.io/api/news?id=bea2cbf5e7140e9570a63b773af095bd0c6ed846362437607415afb60b4d3256"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell stock jumps on Q2 earnings: Why it's a 'solid start' for the company",
-      "url": "https://finnhub.io/api/news?id=42a804c1e42e24cd13591973ba4a9584b54370627c091f9a158db0aabf77a885"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Cuts 10% of Customer Service Jobs to Expand AI Use",
-      "url": "https://finnhub.io/api/news?id=3e616cf43616767ceb195cda325347644537c94fdae458c82768f3c6b1ce6e1b"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Here Are Thursday’s Top Wall Street Analyst Research Calls: AT&T, Applied Digital, Autodesk, Duke Energy, Exxon Mobil, JPMorgan Chase & Company, Live Nation Entertainment, and More",
-      "url": "https://finnhub.io/api/news?id=d189535b38253292379e8796b1c8b034241176ff683a68d35d77be54d83bef84"
+      "headline": "Netflix's stock split history (& prospects) explained",
+      "url": "https://finnhub.io/api/news?id=0876d12d62a3bd9b711c9cf3b238775c0ff5ad39a887d5a52dd4555b488a98f1"
     }
   ]
 }
