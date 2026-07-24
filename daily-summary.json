@@ -205,6 +205,26 @@
       "stock": "NFLX",
       "headline": "ETFs in Spotlight Following Netflix's Q2 Earnings Beat & Weak '26 View",
       "url": "https://finnhub.io/api/news?id=72e791b8a686234fffd90b1c12cb1b5081e6e8f1e4c54937c2f0ce76231ea579"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Nvidia CEO Backs Open AI Models",
+      "url": "https://finnhub.io/api/news?id=57f94fa8b5dc398e28fda8cbfa64d665297dacc19c7d9c5dc28d16204274bc64"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
+      "url": "https://finnhub.io/api/news?id=3c724bebe6c67a8bf3d7fa844ef1cca7a0c3e1cf06f2c36d17c6830cc1c3a574"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys (SNPS) Stock May Be 24% Below Fair Value On AI Design Tool News",
+      "url": "https://finnhub.io/api/news?id=188253082b8967380d7398fe3a88f229664ac72832f65a7b26532f82caf7059d"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Sinks 18% in a Month as Lucid Climbs 21%, Rivian Gains 9%: SpaceX Anxiety or Cracks Under the Hood?",
+      "url": "https://finnhub.io/api/news?id=b1ceb9e8ba83e8955894f3c650c4e9e19cd8ae97bf164ef6a26bd67461f3b03b"
     }
   ]
 }
