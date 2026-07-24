@@ -70,6 +70,31 @@
       "stock": "ADSK",
       "headline": "Guggenheim Initiates Coverage On Autodesk with Buy Rating, Announces Price Target of $245",
       "url": "https://finnhub.io/api/news?id=24336f764fb42604425bbe61d1795cbc80413a5d03855a1fb2bd33930a56f18a"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Elon Musk’s Unexpected Micron Moment — A Strange Twist in Tesla’s Earnings Call",
+      "url": "https://finnhub.io/api/news?id=02f24b4710c9063a91ed994f81e1258241dc351a85298e967df7f2f59dbc8e20"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys (SNPS) Nears Earnings And Investor Day, Is It A Bargain?",
+      "url": "https://finnhub.io/api/news?id=57df9212ea0b4a5e9e54684ff5b578fe55f96ad29c43a65c402f2d43529dc6b5"
+    },
+    {
+      "stock": "ARM",
+      "headline": "This Surging AI Server Stock Jumps 20% as Gross Margin Doubles",
+      "url": "https://finnhub.io/api/news?id=392b8ab652ec148975e9722824b12e64b1163a09510420d8a5bb296eeef1a081"
+    },
+    {
+      "stock": "HON",
+      "headline": "Industrial Stocks And This ETF Claw Gains From A Falling Market",
+      "url": "https://finnhub.io/api/news?id=83f8a17950bce2e4194791d442ec6ee576ff7ffec4f93c82c9d46f919ce2c134"
+    },
+    {
+      "stock": "IBM",
+      "headline": "S&P 500 Q2 Earnings: Stripping Out the Outsized Impact of Alphabet and Micron",
+      "url": "https://finnhub.io/api/news?id=1c1a7b74f6947628c6fb6eb62cb71b755d99e9620b842c140af3301c5966f5df"
     }
   ]
 }
