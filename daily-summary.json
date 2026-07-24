@@ -165,6 +165,46 @@
       "stock": "GOOGL",
       "headline": "Meta vs. Alphabet: One AI Stock Looks Like the Better Value",
       "url": "https://finnhub.io/api/news?id=2ecfa7a38e5a16637ee02d333dc2fca4e00e3bbbb2f0579874383bb71a006ee1"
+    },
+    {
+      "stock": "MU",
+      "headline": "IPO Stock Of The Week: SK Hynix Offers First Buy Point Ahead Of Debut Earnings Report",
+      "url": "https://finnhub.io/api/news?id=59b6b5c386bcb371becdb3d384a2a60c2c1f0857542f83883183132343b2ab55"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Sector Update: Tech Stocks Decline Friday Afternoon",
+      "url": "https://finnhub.io/api/news?id=07de76983d096e7ad9eca242223f194a989e59a5429ecce776db00c0fd7eb4a0"
+    },
+    {
+      "stock": "HON",
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=4997b4df2c1439dc08aeccb21803747beb7d511fe544df611dff9e6b9aa18a2c"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Do Uber AI Layoffs More American Jobs At Risk?",
+      "url": "https://finnhub.io/api/news?id=ec721a25b6763fd7f16066dc95444da41d8d5c6076a8cc8b8ac43d70d02fc912"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=4997b4df2c1439dc08aeccb21803747beb7d511fe544df611dff9e6b9aa18a2c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sector Update: Tech Stocks Decline Friday Afternoon",
+      "url": "https://finnhub.io/api/news?id=07de76983d096e7ad9eca242223f194a989e59a5429ecce776db00c0fd7eb4a0"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Reported Earlier, Roper Technologies' Illumia Expands Chennai Global Capability Center With Hiring In Cloud And Information Security",
+      "url": "https://finnhub.io/api/news?id=7a98ef3d6ba5b247efee06c1fcf1ed82c556f132a6acc03569853dff901ae3c0"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "ETFs in Spotlight Following Netflix's Q2 Earnings Beat & Weak '26 View",
+      "url": "https://finnhub.io/api/news?id=72e791b8a686234fffd90b1c12cb1b5081e6e8f1e4c54937c2f0ce76231ea579"
     }
   ]
 }
