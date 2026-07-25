@@ -110,6 +110,31 @@
       "stock": "UBER",
       "headline": "Uber under pressure: Waymo partnership on the brink",
       "url": "https://finnhub.io/api/news?id=e7f0f671ad604100e5e997ddb6cc21619968fead7b4c77f12039082f87236f23"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Data Centers — Not Iran — Are Fueling the U.S.’s Coming Energy Crisis",
+      "url": "https://finnhub.io/api/news?id=a846693b6d87263ef4e3ba81a3eefd08d220b448bcfc2337d0b631bebd468d4e"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Binance Data Shows How Crypto is Using AI Stocks to Attract Gen Z Investors",
+      "url": "https://finnhub.io/api/news?id=ccef82e1f473549f0af52872e7629c0e799f0744690dc7c96795ffc454afb95c"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Big Tech Earnings, Fed's Interest Rate Decision To Keep Next Week Busy",
+      "url": "https://finnhub.io/api/news?id=2a9a468b4cda06411e0b3358a8f32ec8ca05e55f439a793c6c9ac9170bb0c9f1"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Data Centers — Not Iran — Are Fueling the U.S.’s Coming Energy Crisis",
+      "url": "https://finnhub.io/api/news?id=a846693b6d87263ef4e3ba81a3eefd08d220b448bcfc2337d0b631bebd468d4e"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Big Tech Earnings, Fed's Interest Rate Decision To Keep Next Week Busy",
+      "url": "https://finnhub.io/api/news?id=2a9a468b4cda06411e0b3358a8f32ec8ca05e55f439a793c6c9ac9170bb0c9f1"
     }
   ]
 }
