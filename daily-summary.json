@@ -40,6 +40,26 @@
       "stock": "GOOGL",
       "headline": "Verizon Just Signed a More Than $1 Billion Dark Fiber Deal With Google. Here's What It Means for the 6.3% Dividend.",
       "url": "https://finnhub.io/api/news?id=61121ccb31be84119afe193a672ee0ebb72b1547d47bd508eb6ed98a7e7fb036"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Here's What to Expect From CrowdStrike’s Next Earnings Report",
+      "url": "https://finnhub.io/api/news?id=223bab44a694f84e92a58ce211385e69f61dbebe2ee02d10ee6d0ccdf2ec74a9"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Why AI Infrastructure is Reshaping Coherent's Growth Story",
+      "url": "https://finnhub.io/api/news?id=124427073774a74973d171926829797adffcca7735e97c74edd1a5846c419199"
+    },
+    {
+      "stock": "HON",
+      "headline": "Citigroup Maintains Buy on Honeywell Intl, Raises Price Target to $279",
+      "url": "https://finnhub.io/api/news?id=1cea96219270d421b1dbf8296897d59310d1f2ee014c3b226066d081b03a6ff7"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber’s New Acquisition and GE Aerospace’s Search for Parts",
+      "url": "https://finnhub.io/api/news?id=be905b6acd6a20b64f592937da2f780793d42478f6243c2d12b21182537ed74f"
     }
   ]
 }
