@@ -60,6 +60,26 @@
       "stock": "UBER",
       "headline": "Uber’s New Acquisition and GE Aerospace’s Search for Parts",
       "url": "https://finnhub.io/api/news?id=be905b6acd6a20b64f592937da2f780793d42478f6243c2d12b21182537ed74f"
+    },
+    {
+      "stock": "MU",
+      "headline": "Better Artificial Intelligence (AI) Buy: Micron Technology vs. Sandisk",
+      "url": "https://finnhub.io/api/news?id=7d96989a11b59879c427bd37cd2a3722aaffc88bb5b3518b16b25ea9cc678d04"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "This Week's Market Wrap: Earnings, Inflation, And AI-Driven Spending Concerns",
+      "url": "https://finnhub.io/api/news?id=c4530315c69f8f4c69de402a2c6095d082f2dfc439c28a4d59602d188d7b1f9c"
+    },
+    {
+      "stock": "UBER",
+      "headline": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout — PSKY, UBER, QCOM, VZ, INTC In Focus",
+      "url": "https://finnhub.io/api/news?id=9d39ef88fff0779779505f0099fb88676c495a3940dddf2d545be623974b8100"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google’s AI Waitlist Just Hit $514 Billion. That’s Bigger Than the GDP of Most Countries.",
+      "url": "https://finnhub.io/api/news?id=76e2b562368d7f78ceb6ac078d7b12e63a2a0c93fc9f59969fdb3a019cc30583"
     }
   ]
 }
