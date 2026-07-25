@@ -95,6 +95,21 @@
       "stock": "QBTS",
       "headline": "IONQ or QBTS: Which Quantum Stock Should You Buy Ahead of Q2 Earnings?",
       "url": "https://finnhub.io/api/news?id=6b266f7dae66a0e7e8632cc8739f028254f86ca0aade310f10b6e43c2b15591e"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron’s AI Repricing Is Real — But the Market Still Isn’t Sure It Can Last",
+      "url": "https://finnhub.io/api/news?id=2e1cd1d7736ab3952ef9e05f8167c8bfd15ce612907cd85ba5f283175b7977c9"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon Earnings Preview: Q2 2026",
+      "url": "https://finnhub.io/api/news?id=eb5c30ed736e4d38b09beca4b58ed05935d5d21e43215dfd7aab024332d47450"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber under pressure: Waymo partnership on the brink",
+      "url": "https://finnhub.io/api/news?id=e7f0f671ad604100e5e997ddb6cc21619968fead7b4c77f12039082f87236f23"
     }
   ]
 }
