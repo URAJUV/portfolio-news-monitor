@@ -135,6 +135,36 @@
       "stock": "NFLX",
       "headline": "Big Tech Earnings, Fed's Interest Rate Decision To Keep Next Week Busy",
       "url": "https://finnhub.io/api/news?id=2a9a468b4cda06411e0b3358a8f32ec8ca05e55f439a793c6c9ac9170bb0c9f1"
+    },
+    {
+      "stock": "MU",
+      "headline": "Binance Data Shows How Crypto is Using AI Stocks to Attract Gen Z Investors",
+      "url": "https://finnhub.io/api/news?id=ccef82e1f473549f0af52872e7629c0e799f0744690dc7c96795ffc454afb95c"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike’s Cerebras Deal Puts Its AI Security Strategy to the Test",
+      "url": "https://finnhub.io/api/news?id=3329d74cf4b2bbfa80ea6bbaa84c9272f4a2e34930ff6538be42f697ffc33b16"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "3 Major Reasons to Buy Microsoft Before July 29 Q4 Earnings",
+      "url": "https://finnhub.io/api/news?id=bbcceb4f924d4f9e2b006022eb87e129790f1d9fda29c2b4eb343db3acd65390"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Sank 15% on Its Q2 Miss. Wall Street's Average Price Target Now Implies 29% Upside.",
+      "url": "https://finnhub.io/api/news?id=8b880f1d64ad2286a5d833b9e56754e267996dc92c50c2ad8c9619c9352043cd"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "3 Major Reasons to Buy Microsoft Before July 29 Q4 Earnings",
+      "url": "https://finnhub.io/api/news?id=bbcceb4f924d4f9e2b006022eb87e129790f1d9fda29c2b4eb343db3acd65390"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+      "url": "https://finnhub.io/api/news?id=feacc62edef5da86dc590582f03a851366f7f41ebfcbe47a77f739f50f809dd7"
     }
   ]
 }
