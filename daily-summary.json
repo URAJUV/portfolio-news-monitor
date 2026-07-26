@@ -55,6 +55,31 @@
       "stock": "GOOGL",
       "headline": "Dow Jones Futures: U.S., Iran Halt Attacks After Market Sell Signal; Apple Earnings, Fed Meeting Ahead",
       "url": "https://finnhub.io/api/news?id=ab69518bdd6d046b9590bec47461b201f2dd351e0d2cddaeff359bf3003628a2"
+    },
+    {
+      "stock": "MU",
+      "headline": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
+      "url": "https://finnhub.io/api/news?id=798110ce4ce84c4a563f40e111f4ba4fd167019eb13dcd61f40c27850899c110"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Intel's Best Days Are Still Well Ahead (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=f1ec53b49d75782c77a7d5db0024b3fb0adf5ab3de7d6a678ac41c9b2f4cafa1"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era",
+      "url": "https://finnhub.io/api/news?id=2996e91e27d696ad0211cf5b5891755694ac9d3fdb753f03da38c381c15eb853"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
+      "url": "https://finnhub.io/api/news?id=798110ce4ce84c4a563f40e111f4ba4fd167019eb13dcd61f40c27850899c110"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era",
+      "url": "https://finnhub.io/api/news?id=2996e91e27d696ad0211cf5b5891755694ac9d3fdb753f03da38c381c15eb853"
     }
   ]
 }
