@@ -110,6 +110,36 @@
       "stock": "NFLX",
       "headline": "Netflix: Record Buybacks, Rising Margins, and a Slate in Need of a Refresh",
       "url": "https://finnhub.io/api/news?id=5a6087b54c3cfafa2c7d7d14b81f17db0f96d697b725b7ad143aead04da50a21"
+    },
+    {
+      "stock": "MU",
+      "headline": "This AI Stock Has Tripled in 2026. It Could Still Double in 3 Years (Hint: It's Not Micron)",
+      "url": "https://finnhub.io/api/news?id=54ca25a339ec0fdf623fe661f6f8ed665ad84b7ad7d0998f4cc1c84ee7fdbe9e"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Consumer Tech (July 20-24): AI Boom Drives Big Tech Earnings, Oracle Grabs $7B Defense Deal & More",
+      "url": "https://finnhub.io/api/news?id=d32538a5d637928b3a1b63fd1b0a04821205f85781f492ba515b89f9eb91f441"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Earnings Volatility Watch: 12 Stocks With Double-Digit Implied Moves This Week",
+      "url": "https://finnhub.io/api/news?id=311932cac57a427174119777bdc64152d87f55570840778cb9388262d9f662eb"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Tesla's Q2 Earnings, Musk's Robotaxi Bets, SpaceX Merger on the Horizon and More: This Week in Mobility",
+      "url": "https://finnhub.io/api/news?id=ffe73460a7a6bc3cea6bf81bd69b2a685e85fa32862059918977111215bf8a2b"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Consumer Tech (July 20-24): AI Boom Drives Big Tech Earnings, Oracle Grabs $7B Defense Deal & More",
+      "url": "https://finnhub.io/api/news?id=d32538a5d637928b3a1b63fd1b0a04821205f85781f492ba515b89f9eb91f441"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet Raises AI Spending But Still Can't Meet Demand: 'We're Still in a Supply Constraint Environment'",
+      "url": "https://finnhub.io/api/news?id=8328ac58f0fc96e432adbc84cd543e83b4807959140c3e5f967a8cbc42eacce1"
     }
   ]
 }
