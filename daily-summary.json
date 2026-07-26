@@ -35,6 +35,26 @@
       "stock": "IBM",
       "headline": "International Business Machines Corporation (IBM) Survived One AI Scare in February. This One Might Be Different.",
       "url": "https://finnhub.io/api/news?id=17f8f1dedbbb40eafc9aef163a43e367e4ac1280a2d80bfd26b25b98808ae9eb"
+    },
+    {
+      "stock": "MU",
+      "headline": "Second Largest Negative Signal Of 2026: Bubbles, Barrels, And Skew",
+      "url": "https://finnhub.io/api/news?id=edc186f6a27ba872b896e076799fb59bcd37ee72a388078b83b613b95ecc3c78"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Dow Jones Futures: U.S., Iran Halt Attacks After Market Sell Signal; Apple Earnings, Fed Meeting Ahead",
+      "url": "https://finnhub.io/api/news?id=ab69518bdd6d046b9590bec47461b201f2dd351e0d2cddaeff359bf3003628a2"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Dow Jones Futures: U.S., Iran Halt Attacks After Market Sell Signal; Apple Earnings, Fed Meeting Ahead",
+      "url": "https://finnhub.io/api/news?id=ab69518bdd6d046b9590bec47461b201f2dd351e0d2cddaeff359bf3003628a2"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Dow Jones Futures: U.S., Iran Halt Attacks After Market Sell Signal; Apple Earnings, Fed Meeting Ahead",
+      "url": "https://finnhub.io/api/news?id=ab69518bdd6d046b9590bec47461b201f2dd351e0d2cddaeff359bf3003628a2"
     }
   ]
 }
