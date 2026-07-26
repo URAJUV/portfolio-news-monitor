@@ -20,6 +20,21 @@
       "stock": "AMZN",
       "headline": "Amazon vs. Booking: Comparing Revenue Trends Between a Retail Giant and a Travel Titan",
       "url": "https://finnhub.io/api/news?id=558600c1cef93613d438b8b6eefcbc1e483482a16d8a2566521099b7a7e72aed"
+    },
+    {
+      "stock": "MU",
+      "headline": "Should You Buy Sandisk Stock Before It Reports Earnings on Aug. 5?",
+      "url": "https://finnhub.io/api/news?id=6bc1d84411d39b727f02aa1a86ab55aee933872be490c0ab935c47b2be9e7b9a"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Blue Origin Raised $10 Billion at a $130 Billion Valuation Under Jeff Bezos",
+      "url": "https://finnhub.io/api/news?id=dac5655af0bf94755bcf4eae9b61d49006d56025740890e87933751e275a8fe1"
+    },
+    {
+      "stock": "IBM",
+      "headline": "International Business Machines Corporation (IBM) Survived One AI Scare in February. This One Might Be Different.",
+      "url": "https://finnhub.io/api/news?id=17f8f1dedbbb40eafc9aef163a43e367e4ac1280a2d80bfd26b25b98808ae9eb"
     }
   ]
 }
