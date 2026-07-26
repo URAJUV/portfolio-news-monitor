@@ -80,6 +80,36 @@
       "stock": "GOOGL",
       "headline": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era",
       "url": "https://finnhub.io/api/news?id=2996e91e27d696ad0211cf5b5891755694ac9d3fdb753f03da38c381c15eb853"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+      "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "TechCrunch Mobility: Uber bets on its former CEO",
+      "url": "https://finnhub.io/api/news?id=41b5133c82216db0c85a51dd046cec7e9f027a9d1e44ab51491812ab43e43369"
+    },
+    {
+      "stock": "UBER",
+      "headline": "TechCrunch Mobility: Uber bets on its former CEO",
+      "url": "https://finnhub.io/api/news?id=41b5133c82216db0c85a51dd046cec7e9f027a9d1e44ab51491812ab43e43369"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM CEO makes bold AI strategy claim",
+      "url": "https://finnhub.io/api/news?id=a44ca25e169b839bc4e447751e1e2d49c3ad3f543a3497ec18241040beb1a923"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+      "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix: Record Buybacks, Rising Margins, and a Slate in Need of a Refresh",
+      "url": "https://finnhub.io/api/news?id=5a6087b54c3cfafa2c7d7d14b81f17db0f96d697b725b7ad143aead04da50a21"
     }
   ]
 }
