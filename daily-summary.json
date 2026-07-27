@@ -55,6 +55,51 @@
       "stock": "GOOGL",
       "headline": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
       "url": "https://finnhub.io/api/news?id=a0df9aeb18e38d1d1632d1dedbfa03a70c5ab031f84ec3a282a4e64055f4e09c"
+    },
+    {
+      "stock": "MU",
+      "headline": "Chip Stocks Sink on China Competition Concerns, Erasing Early Gains",
+      "url": "https://finnhub.io/api/news?id=072bb2a66fa7b103b96de885a4e3e2dc326f1c172f45ff36cdf6271401b39337"
+    },
+    {
+      "stock": "TSM",
+      "headline": "EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says",
+      "url": "https://finnhub.io/api/news?id=dc8f5a3d11ecbaf094c6662287f54de8459f56192c9bfa83784584ab2e055f20"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Joins Industry Coalition to Launch Open Source AI Cybersecurity Alliance",
+      "url": "https://finnhub.io/api/news?id=c2f55e412be34e334c6d16111214f5d6c9f05197748b571ad193dd0376380320"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys Advances Agentic AI Chip Design with AMD and Microsoft",
+      "url": "https://finnhub.io/api/news?id=e473c53d14d80f4b21bdd59acab89928f7d26d772ccef4128fbe9c6610f304d8"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Just 3 \"Magnificent Seven\" Stocks Remain Founder-Led. Should Investors Bet on Elon Musk, Mark Zuckerberg, or Jensen Huang for the Long Term?",
+      "url": "https://finnhub.io/api/news?id=cb5d7094a74fc5ed8b5274edc07454a0e55f9b216dd69217d1118cbb51b33310"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Inflated AI Risk Hurt Autodesk (ADSK)",
+      "url": "https://finnhub.io/api/news?id=65d62415a3026d26529a43c64619356dc52c95ec0642e7f22f0cef6dc5149d68"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Circle Buys IBM Blockchain Patent Estate—And Becomes America's Biggest Holder",
+      "url": "https://finnhub.io/api/news?id=befc94e56cce9679aa9ab578c74494d666abfcb7134999e3ff6d4392ec8d13db"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Wall Street Lunch: OpenAI's AI Agent Hacked Hugging Face For Days",
+      "url": "https://finnhub.io/api/news?id=0e1b92576bf80b816491b891425f0827c48c0cd2c78e10fac8434dce4f192e4b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "One number instantly explains why Apple's investors are having a wildly different year than Oracle's",
+      "url": "https://finnhub.io/api/news?id=5f8ceb4b0da0d80c4acac57dc15d45df16e5619b6cbdd1998790e4c43ec7d38e"
     }
   ]
 }
