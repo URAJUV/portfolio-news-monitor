@@ -120,6 +120,46 @@
       "stock": "UBER",
       "headline": "Killer marketing secrets that always work (ft. Ogilvy Vice Chairman)",
       "url": "https://finnhub.io/api/news?id=9c035e2c73609f302252535d78c1ba7c7b5d7d7ff224fb805fa721cee93e0aa9"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Intel’s Earnings Could Quadruple in 4 Years, Analyst Says",
+      "url": "https://finnhub.io/api/news?id=4716ac297ce5455ba35ebec7a3f396fbc73900f70d9dbcd05a07a230a909d674"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Nvidia and SpaceX Just Joined a New AI Security Alliance. Here's What It Means for Both Stocks.",
+      "url": "https://finnhub.io/api/news?id=1906e7e42f9acf20b657336250fe9ba599b9eb5066fedc7a66785e3753a4f02c"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Joins Industry Coalition to Launch Open Source AI Cybersecurity Alliance",
+      "url": "https://finnhub.io/api/news?id=c2f55e412be34e334c6d16111214f5d6c9f05197748b571ad193dd0376380320"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings' Next Earnings Report on July 29 Could Send the Stock Soaring. Here's Why.",
+      "url": "https://finnhub.io/api/news?id=cc0155b7843b88add1a4b3730014312d7fec61b83efd9991799609d1a501d065"
+    },
+    {
+      "stock": "HON",
+      "headline": "Monday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=cb78fd5b6d971beed68ff684ddaa78ca399ac0d5c1918fac5995e99449126988"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber and Waymo revive robotaxi rivalry as partnership unravels",
+      "url": "https://finnhub.io/api/news?id=ddc6dace7e17af8ecfff86858cb36d7af5c76a546b3c86cc61aeb29c08a5efa7"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Nvidia and SpaceX Just Joined a New AI Security Alliance. Here's What It Means for Both Stocks.",
+      "url": "https://finnhub.io/api/news?id=1906e7e42f9acf20b657336250fe9ba599b9eb5066fedc7a66785e3753a4f02c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Oil-Turned-AI Play Baker Hughes Soars On Massive Earnings Beat",
+      "url": "https://finnhub.io/api/news?id=6a592225f84a653d53b73aa33c290bb9ca40a65245c515996217b8e931c2037d"
     }
   ]
 }
