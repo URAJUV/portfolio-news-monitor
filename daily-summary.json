@@ -30,6 +30,31 @@
       "stock": "GOOGL",
       "headline": "Google’s $205B AI Data Center Bet Rattles Wall Street",
       "url": "https://finnhub.io/api/news?id=ad7ed3332e42d84d1e1c2cb3a6547bb27a1cbfa88e60f58663d848501d6a3d74"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Datadog's Stock Now Costs Far More Than Its Sales Can Explain",
+      "url": "https://finnhub.io/api/news?id=38d5087271b04e3307fd93bffe92f22ab23a75a260437fb8ca5bdae2a3435bf9"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
+      "url": "https://finnhub.io/api/news?id=a0df9aeb18e38d1d1632d1dedbfa03a70c5ab031f84ec3a282a4e64055f4e09c"
+    },
+    {
+      "stock": "HON",
+      "headline": "Defense Earnings Divergence: Pure-Play Primes Outperform as Honeywell Stumbles",
+      "url": "https://finnhub.io/api/news?id=7db42c2412532d90f0364f9d3c2dc369ed0481a279141f16b879e9e44101dbf8"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Circle Buys Blockchain Patents From IBM",
+      "url": "https://finnhub.io/api/news?id=6c34248be7b30080f518fe2b67d9ad25585227a735fd61ed463d72dedfd2b5c4"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
+      "url": "https://finnhub.io/api/news?id=a0df9aeb18e38d1d1632d1dedbfa03a70c5ab031f84ec3a282a4e64055f4e09c"
     }
   ]
 }
