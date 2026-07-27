@@ -15,6 +15,21 @@
       "stock": "GOOGL",
       "headline": "Alphabet CEO Sundar Pichai Just Made a Major Decision Affecting Nvidia and Broadcom Investors",
       "url": "https://finnhub.io/api/news?id=95e303e08d7be7494301f9bc3a4cb47689b4389d0dc1cd2e9be64477749a7b74"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Wall Street Limps Into a Loaded Week: Iran Risk, Fresh Tariffs and a Chip-Sector Wobble",
+      "url": "https://finnhub.io/api/news?id=3d03d3812adba79964f84ca16ade6aa10d3ca658cf0f9f92aaffbcf0979b10fb"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Wall Street Limps Into a Loaded Week: Iran Risk, Fresh Tariffs and a Chip-Sector Wobble",
+      "url": "https://finnhub.io/api/news?id=3d03d3812adba79964f84ca16ade6aa10d3ca658cf0f9f92aaffbcf0979b10fb"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google’s $205B AI Data Center Bet Rattles Wall Street",
+      "url": "https://finnhub.io/api/news?id=ad7ed3332e42d84d1e1c2cb3a6547bb27a1cbfa88e60f58663d848501d6a3d74"
     }
   ]
 }
