@@ -1,145 +1,20 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "items": [
     {
-      "stock": "CRWD",
-      "headline": "BofA lifts cybersecurity stock targets to reflect long-term growth outlook",
-      "url": "https://finnhub.io/api/news?id=daf9d7fc7185d61db8bcdaf1fe764e570f14030ca6ff0733a2d75335aae61f89"
-    },
-    {
-      "stock": "ARM",
-      "headline": "No Matter Who Wins the Smartphone and AI Chip Races, ARM Stock Still Benefits",
-      "url": "https://finnhub.io/api/news?id=c95eee477a2ef9ad701d23f5e340030011c7c3e22c147178b7e81d4b2583ff14"
-    },
-    {
-      "stock": "MU",
-      "headline": "RPG: Pure Momentum, Not Pure Growth, Is Driving This Year's Exceptional Gains",
-      "url": "https://finnhub.io/api/news?id=bcca74dc2a54d1fb024472418762c413b3fcb91ff517f4cc18d9984ecb992063"
-    },
-    {
       "stock": "AMZN",
-      "headline": "Amazon vs. Booking: Comparing Revenue Trends Between a Retail Giant and a Travel Titan",
-      "url": "https://finnhub.io/api/news?id=558600c1cef93613d438b8b6eefcbc1e483482a16d8a2566521099b7a7e72aed"
-    },
-    {
-      "stock": "MU",
-      "headline": "Should You Buy Sandisk Stock Before It Reports Earnings on Aug. 5?",
-      "url": "https://finnhub.io/api/news?id=6bc1d84411d39b727f02aa1a86ab55aee933872be490c0ab935c47b2be9e7b9a"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Blue Origin Raised $10 Billion at a $130 Billion Valuation Under Jeff Bezos",
-      "url": "https://finnhub.io/api/news?id=dac5655af0bf94755bcf4eae9b61d49006d56025740890e87933751e275a8fe1"
-    },
-    {
-      "stock": "IBM",
-      "headline": "International Business Machines Corporation (IBM) Survived One AI Scare in February. This One Might Be Different.",
-      "url": "https://finnhub.io/api/news?id=17f8f1dedbbb40eafc9aef163a43e367e4ac1280a2d80bfd26b25b98808ae9eb"
-    },
-    {
-      "stock": "MU",
-      "headline": "Second Largest Negative Signal Of 2026: Bubbles, Barrels, And Skew",
-      "url": "https://finnhub.io/api/news?id=edc186f6a27ba872b896e076799fb59bcd37ee72a388078b83b613b95ecc3c78"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Dow Jones Futures: U.S., Iran Halt Attacks After Market Sell Signal; Apple Earnings, Fed Meeting Ahead",
-      "url": "https://finnhub.io/api/news?id=ab69518bdd6d046b9590bec47461b201f2dd351e0d2cddaeff359bf3003628a2"
+      "headline": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
+      "url": "https://finnhub.io/api/news?id=9a161e2199ab280991eab4b13ebff1b5938a6c99a2e331a5a91ec4a2a6dee5f9"
     },
     {
       "stock": "TSLA",
-      "headline": "Dow Jones Futures: U.S., Iran Halt Attacks After Market Sell Signal; Apple Earnings, Fed Meeting Ahead",
-      "url": "https://finnhub.io/api/news?id=ab69518bdd6d046b9590bec47461b201f2dd351e0d2cddaeff359bf3003628a2"
+      "headline": "Elon Musk's Pitch for AI Firms To Peer Review Each Other's Models Surfaces Just as OpenAI's Own Agent Went Rogue: 'The Most Immediate Thing...'",
+      "url": "https://finnhub.io/api/news?id=a061feb3465e1b1c9083a4caee87036410447c4164fef2d53d5c01ed3a882a74"
     },
     {
       "stock": "GOOGL",
-      "headline": "Dow Jones Futures: U.S., Iran Halt Attacks After Market Sell Signal; Apple Earnings, Fed Meeting Ahead",
-      "url": "https://finnhub.io/api/news?id=ab69518bdd6d046b9590bec47461b201f2dd351e0d2cddaeff359bf3003628a2"
-    },
-    {
-      "stock": "MU",
-      "headline": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
-      "url": "https://finnhub.io/api/news?id=798110ce4ce84c4a563f40e111f4ba4fd167019eb13dcd61f40c27850899c110"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Intel's Best Days Are Still Well Ahead (Rating Upgrade)",
-      "url": "https://finnhub.io/api/news?id=f1ec53b49d75782c77a7d5db0024b3fb0adf5ab3de7d6a678ac41c9b2f4cafa1"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era",
-      "url": "https://finnhub.io/api/news?id=2996e91e27d696ad0211cf5b5891755694ac9d3fdb753f03da38c381c15eb853"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
-      "url": "https://finnhub.io/api/news?id=798110ce4ce84c4a563f40e111f4ba4fd167019eb13dcd61f40c27850899c110"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era",
-      "url": "https://finnhub.io/api/news?id=2996e91e27d696ad0211cf5b5891755694ac9d3fdb753f03da38c381c15eb853"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
-      "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "TechCrunch Mobility: Uber bets on its former CEO",
-      "url": "https://finnhub.io/api/news?id=41b5133c82216db0c85a51dd046cec7e9f027a9d1e44ab51491812ab43e43369"
-    },
-    {
-      "stock": "UBER",
-      "headline": "TechCrunch Mobility: Uber bets on its former CEO",
-      "url": "https://finnhub.io/api/news?id=41b5133c82216db0c85a51dd046cec7e9f027a9d1e44ab51491812ab43e43369"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM CEO makes bold AI strategy claim",
-      "url": "https://finnhub.io/api/news?id=a44ca25e169b839bc4e447751e1e2d49c3ad3f543a3497ec18241040beb1a923"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
-      "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix: Record Buybacks, Rising Margins, and a Slate in Need of a Refresh",
-      "url": "https://finnhub.io/api/news?id=5a6087b54c3cfafa2c7d7d14b81f17db0f96d697b725b7ad143aead04da50a21"
-    },
-    {
-      "stock": "MU",
-      "headline": "This AI Stock Has Tripled in 2026. It Could Still Double in 3 Years (Hint: It's Not Micron)",
-      "url": "https://finnhub.io/api/news?id=54ca25a339ec0fdf623fe661f6f8ed665ad84b7ad7d0998f4cc1c84ee7fdbe9e"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Consumer Tech (July 20-24): AI Boom Drives Big Tech Earnings, Oracle Grabs $7B Defense Deal & More",
-      "url": "https://finnhub.io/api/news?id=d32538a5d637928b3a1b63fd1b0a04821205f85781f492ba515b89f9eb91f441"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Earnings Volatility Watch: 12 Stocks With Double-Digit Implied Moves This Week",
-      "url": "https://finnhub.io/api/news?id=311932cac57a427174119777bdc64152d87f55570840778cb9388262d9f662eb"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Tesla's Q2 Earnings, Musk's Robotaxi Bets, SpaceX Merger on the Horizon and More: This Week in Mobility",
-      "url": "https://finnhub.io/api/news?id=ffe73460a7a6bc3cea6bf81bd69b2a685e85fa32862059918977111215bf8a2b"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Consumer Tech (July 20-24): AI Boom Drives Big Tech Earnings, Oracle Grabs $7B Defense Deal & More",
-      "url": "https://finnhub.io/api/news?id=d32538a5d637928b3a1b63fd1b0a04821205f85781f492ba515b89f9eb91f441"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet Raises AI Spending But Still Can't Meet Demand: 'We're Still in a Supply Constraint Environment'",
-      "url": "https://finnhub.io/api/news?id=8328ac58f0fc96e432adbc84cd543e83b4807959140c3e5f967a8cbc42eacce1"
+      "headline": "Alphabet CEO Sundar Pichai Just Made a Major Decision Affecting Nvidia and Broadcom Investors",
+      "url": "https://finnhub.io/api/news?id=95e303e08d7be7494301f9bc3a4cb47689b4389d0dc1cd2e9be64477749a7b74"
     }
   ]
 }
