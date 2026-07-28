@@ -75,6 +75,46 @@
       "stock": "QBTS",
       "headline": "Benchmark Initiates Coverage On D-Wave Quantum with Buy Rating, Announces Price Target of $30",
       "url": "https://finnhub.io/api/news?id=24bf6ca596a5bd0fb1e3e0f06b7774584aca2d5d1e0293e59dd73c6169254464"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron (MU) Faces New China Memory Pressure As CXMT IPO Tests AI Lead",
+      "url": "https://finnhub.io/api/news?id=a9f656d198f3471b891a9d35ac091063c42f4d5d901c57fa8659702ae8ae02f5"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Nvidia Forms AI Security Alliance After Hugging Face Incident",
+      "url": "https://finnhub.io/api/news?id=a69fb8ce8d303f063f7a1f370d9785c3b55fcf864b2e672c9158103a10a3f876"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
+      "url": "https://finnhub.io/api/news?id=ad23d28d8c34d4508d2cbffbb9615b199a0fcd21b67f6ac291547a296e68e703"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Is Down 30% This Year. Here's Why I'm Still Waiting on the Sidelines.",
+      "url": "https://finnhub.io/api/news?id=435cf31ac78cd92c4be8c593e89a7b85803b246a6f5c8b32db37e5997e524732"
+    },
+    {
+      "stock": "ARM",
+      "headline": "US Futures Rise as Megacap Earnings and Fed Decision Headline Quarter's Busiest Week",
+      "url": "https://finnhub.io/api/news?id=05c4c239151ab7be91c966dbd7e5d02cb2a22a6444ea5b44450230ccca1e20a7"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM (IBM) Joins Nvidia And Microsoft In Open Secure AI Alliance",
+      "url": "https://finnhub.io/api/news?id=dadc105db50a440e57e3c11a5ebf59f8e1a97eb0c788e4d2c473b4bf89fce698"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
+      "url": "https://finnhub.io/api/news?id=ad23d28d8c34d4508d2cbffbb9615b199a0fcd21b67f6ac291547a296e68e703"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Warner Bros. Stock Hits Lowest Price Since Paramount Deal: Merger Odds Around 50%",
+      "url": "https://finnhub.io/api/news?id=61c5067a8bd2a8412acea0f09fa219cb2f998063a5933a4aa3adc16f407ffea2"
     }
   ]
 }
