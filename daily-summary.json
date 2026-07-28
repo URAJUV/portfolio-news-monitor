@@ -160,6 +160,56 @@
       "stock": "NFLX",
       "headline": "Get Paid 10% To Let Someone Else Chase GOOGL Stock Higher",
       "url": "https://finnhub.io/api/news?id=ec658f6f94535ac1509c8141677f0a7e02abec0cafe37477a6176c8505a07715"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC Says All Personnel At Its Kumamoto Site Have Been Confirmed Safe; Says Post-Earthquake Structural Inspections Have Been Completed, Confirming Its Structures Are Safe, And Operations Are Gradually Resuming; Says Detailed Inspections And Impact Assessments Are Ongoing; Says JASM Construction Site Was Unaffected, But Parts Of The Works Are Suspended As A Safety Precaution",
+      "url": "https://finnhub.io/api/news?id=dc89aa4588f760efb83def0cc1f69959ddf33167ddae5ba151c9ddda4d574eea"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "3 Cybersecurity Stocks to Buy Before Threats Get Worse in Late July",
+      "url": "https://finnhub.io/api/news?id=4e418d178a79943c5c5cb860442fae232b861d3163f0ffc727575ef76452a326"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Meta Partners With BlackRock Over $14 Billion Data Center Project",
+      "url": "https://finnhub.io/api/news?id=81479933e2578c97c0d9b7969a0bd6a61301d43c71db49edc6adc02de8e864e9"
+    },
+    {
+      "stock": "COHR",
+      "headline": "A New AI Shortage Is Coming. One CEO Just Predicted it Will Be “Bigger Than Memory.”",
+      "url": "https://finnhub.io/api/news?id=d24f209f0ee12e45ec49355d4575d4ab04af03c8b5f67dac1555fb64ca51eee4"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Cadence Stock Can Be an AI Winner. The Earnings Prove It.",
+      "url": "https://finnhub.io/api/news?id=d02df29d54d87c3e363be578c0216b0072c68e32eb779b216d496ce336312f33"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Cathie Wood Keeps The Faith; Rakes In Diving SpaceX, Tesla Shares",
+      "url": "https://finnhub.io/api/news?id=d9b37562f56f3c441f68c828ecfa8e97c10a0fd3fb45da6aadff5e0d1c4f1d2a"
+    },
+    {
+      "stock": "ARM",
+      "headline": "AMD Sinks 8%, Marvell Sinks 7%, Intel Fall 6% as AI Chip Trade Narrows to NVIDIA",
+      "url": "https://finnhub.io/api/news?id=37fae0e763c35d3d7a71eaa6f4bb2ba0eb9cca015c0fd4ed8b877b31c261b485"
+    },
+    {
+      "stock": "DE",
+      "headline": "Avery Dennison to Report Q2 Earnings: Here's What to Expect",
+      "url": "https://finnhub.io/api/news?id=214ea13415701781d6216bb5fee23ca40d1e93450dbe96fe90a61ba34bfd710f"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Meta Partners With BlackRock Over $14 Billion Data Center Project",
+      "url": "https://finnhub.io/api/news?id=81479933e2578c97c0d9b7969a0bd6a61301d43c71db49edc6adc02de8e864e9"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix: Too Many Tailwinds For The Stock To Stay Down Long-Term",
+      "url": "https://finnhub.io/api/news?id=4d43cf787e28cd6670359880aa4305cca7e642c5eaac4f4b21e70a7ee9db97f9"
     }
   ]
 }
