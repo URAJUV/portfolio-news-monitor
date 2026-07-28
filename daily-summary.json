@@ -225,6 +225,46 @@
       "stock": "COHR",
       "headline": "Tuesday's session: top gainers and losers in the S&P500 index",
       "url": "https://finnhub.io/api/news?id=d914c07964c6e02bbb3d0f3dab99f42869b3f4d48013c90488f66bd1641dc6d2"
+    },
+    {
+      "stock": "MU",
+      "headline": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears",
+      "url": "https://finnhub.io/api/news?id=c70ae72f7f512ad8738cb2a3e40874f1e89ba2269c9f3a12af4f9266dfa6928e"
+    },
+    {
+      "stock": "TSM",
+      "headline": "6 Catalysts That Might Pop The AI Bubble",
+      "url": "https://finnhub.io/api/news?id=e252009570e04de8fda282c8ee6707568119d13c5a4c3828c86fc93634033727"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Stock Gains After Loop Capital Starts Coverage With Buy Rating",
+      "url": "https://finnhub.io/api/news?id=841ec13bf39226ca536546363a6bd5118f4e4aaf657a91dab28efe0f80f1ae51"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Apple's market cap tops $5T: How AI weakness became a strength",
+      "url": "https://finnhub.io/api/news?id=418a65d0553eaa56deda0af009e973894b8390f42f50e546a29d9cb0a62520d0"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Mag 7 earnings: Alphabet 'really set the tone,' strategist says",
+      "url": "https://finnhub.io/api/news?id=7fd053ae1dd8fb551666a7d3cbd6e4428476a5fe786b7e56944f5291da19b506"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell upgraded by Bank of America on stronger order trends",
+      "url": "https://finnhub.io/api/news?id=215855d6c708389ce9481848a58adec256541efafa00a440e667c30361b07802"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber autonomous vehicle outlook in focus for Q2 earnings",
+      "url": "https://finnhub.io/api/news?id=b2a6619fc3e0a7fbf6938c6e1674062916e542ba1ea7cfe116ef1e535ed3e041"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Apple's market cap tops $5T: How AI weakness became a strength",
+      "url": "https://finnhub.io/api/news?id=418a65d0553eaa56deda0af009e973894b8390f42f50e546a29d9cb0a62520d0"
     }
   ]
 }
