@@ -45,6 +45,36 @@
       "stock": "RDDT",
       "headline": "Reddit Stock Climbs Monday: What's Driving the Pre-Earnings Rally?",
       "url": "https://finnhub.io/api/news?id=232c14c720f151661e54206ee6ff6c3ab23d542b9db685eaf47d61046171251f"
+    },
+    {
+      "stock": "MU",
+      "headline": "Rambus Q2 Earnings Call Highlights",
+      "url": "https://finnhub.io/api/news?id=8bbc76de9a3600902e8bdf94d6eb05566c807adbd9c6d2e3a840ab342051c4bb"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings Has Fallen 28% in the Past Month. Should You Buy Before July 29 Earnings?",
+      "url": "https://finnhub.io/api/news?id=b14638d2aca5c276845d4bb789e8492512032af38e1892a143c17f65b1030d25"
+    },
+    {
+      "stock": "HON",
+      "headline": "Mizuho Maintains Outperform on Honeywell Intl, Raises Price Target to $265",
+      "url": "https://finnhub.io/api/news?id=abee53f9049d5f7f4660dbe23abaae773fcc9a099c89a4bbd4985fd88020df70"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Earnings Preview: What To Expect From Autodesk’s Report",
+      "url": "https://finnhub.io/api/news?id=3dff7fe48737e1cd67600476c7db28a18cdeb56f24610bba7b0f8369be01895c"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Resecurity Introduces Native Integration with IBM QRadar SIEM for Threat Intelligence Sharing",
+      "url": "https://finnhub.io/api/news?id=4e158e691e115079248a06b88c4e333b9a9cb911a2a27629db4022c9eb51d102"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Benchmark Initiates Coverage On D-Wave Quantum with Buy Rating, Announces Price Target of $30",
+      "url": "https://finnhub.io/api/news?id=24bf6ca596a5bd0fb1e3e0f06b7774584aca2d5d1e0293e59dd73c6169254464"
     }
   ]
 }
