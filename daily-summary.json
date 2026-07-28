@@ -135,6 +135,31 @@
       "stock": "QBTS",
       "headline": "Apple Reclaims the Crown as a China Chip Scare Sinks the Semis",
       "url": "https://finnhub.io/api/news?id=5e1ce5cbe52b934114e5d154a15cf8489863c55a3d21f56dbbb132cb1afa6da2"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon AI Strategy Reportedly Shifts Before Earnings, Nova AI Models Put In ‘Keep The Lights On’ Mode",
+      "url": "https://finnhub.io/api/news?id=5773d319d1cf7e0f8350fa8489e0158bea9aab0afda778b1febf35e1b81d77c3"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys: How Agentic AI And Ansys Drive Long-Term Growth",
+      "url": "https://finnhub.io/api/news?id=b4ad84dbbc40f9a90fcae7be33f52d3dcfa1dd8745bd5d60a7150f3dd04d5b8e"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "SpaceX stock loses $1.2 trillion in market cap before Q2 earnings",
+      "url": "https://finnhub.io/api/news?id=492d7e20f71ce283a208cdff9714bdb3c5ce338080e56e5269cbaf19f95b7664"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Get Paid 10% To Let Someone Else Chase GOOGL Stock Higher",
+      "url": "https://finnhub.io/api/news?id=ec658f6f94535ac1509c8141677f0a7e02abec0cafe37477a6176c8505a07715"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Get Paid 10% To Let Someone Else Chase GOOGL Stock Higher",
+      "url": "https://finnhub.io/api/news?id=ec658f6f94535ac1509c8141677f0a7e02abec0cafe37477a6176c8505a07715"
     }
   ]
 }
