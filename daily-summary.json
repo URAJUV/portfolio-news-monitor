@@ -210,6 +210,21 @@
       "stock": "NFLX",
       "headline": "Netflix: Too Many Tailwinds For The Stock To Stay Down Long-Term",
       "url": "https://finnhub.io/api/news?id=4d43cf787e28cd6670359880aa4305cca7e642c5eaac4f4b21e70a7ee9db97f9"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "OpenAI’s Agent Hacked Hugging Face. Sam Altman Says the Singularity Is Here; Nvidia (NVDA), CrowdStrike (CRWD) Build the Defenses",
+      "url": "https://finnhub.io/api/news?id=f4d50c7a5942274f0a6a2eeb1e24a1eca90b8dea7bae811fb24ad96911597df9"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon Overhauls AI Strategy as Flagship Nova Models Wind Down",
+      "url": "https://finnhub.io/api/news?id=cbe58bc1eb6064034e86c78977330990e136b9eedef7677053a5dcc9ac561f7d"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Tuesday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=d914c07964c6e02bbb3d0f3dab99f42869b3f4d48013c90488f66bd1641dc6d2"
     }
   ]
 }
