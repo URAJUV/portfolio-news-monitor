@@ -115,6 +115,26 @@
       "stock": "NFLX",
       "headline": "Warner Bros. Stock Hits Lowest Price Since Paramount Deal: Merger Odds Around 50%",
       "url": "https://finnhub.io/api/news?id=61c5067a8bd2a8412acea0f09fa219cb2f998063a5933a4aa3adc16f407ffea2"
+    },
+    {
+      "stock": "MU",
+      "headline": "Forget Micron Stock at $920 Per Share. Buy This Memory-Focused Artificial Intelligence (AI) ETF Instead.",
+      "url": "https://finnhub.io/api/news?id=5faefb631781cdf7f7b0ea019ba44a62f50d7e57007f000369cb751244fd6f76"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "From Brooklyn Family Roots to America's Retail Giants: Mitch Gould's Three-Decade Journey",
+      "url": "https://finnhub.io/api/news?id=d2b916e85b8c8418c14e0dbe6d6de84dea5ecd94ca2423a114841f56d47e1e85"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "TSLA Stock Slips Premarket: Morningstar Calls Tesla ‘Very Attractive’ After Earnings Rout — ‘Now’s A Good Time’ To Buy",
+      "url": "https://finnhub.io/api/news?id=be36e2eddd806654ceff603b654e67556c47d0296b13f9af14002f6a4a3a24a7"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Apple Reclaims the Crown as a China Chip Scare Sinks the Semis",
+      "url": "https://finnhub.io/api/news?id=5e1ce5cbe52b934114e5d154a15cf8489863c55a3d21f56dbbb132cb1afa6da2"
     }
   ]
 }
