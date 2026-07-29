@@ -95,6 +95,41 @@
       "stock": "GOOGL",
       "headline": "Market Chatter: Alphabet's Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini",
       "url": "https://finnhub.io/api/news?id=9906e4051a2abfae27ee8e7e8b99b855d12edc5818e8ee91fcb5ee66595b1840"
+    },
+    {
+      "stock": "MU",
+      "headline": "Memory Stocks' Selloff Opens Opportunity as Micron's Bargain Valuation and Earnings Catalysts Loom",
+      "url": "https://finnhub.io/api/news?id=cfd2b1c85e2490da0202b048a5b7c6be018237366bbe4357024610e44e0d2db0"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Intel Just Beat Its Own Guidance For The Seventh Time In A Row, Upgrade To Buy",
+      "url": "https://finnhub.io/api/news?id=4750faac47f6984cb533395e3fb7b5daae33411ee1fc6def687e22ae4422b67f"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Elon Musk Thanked Micron Twice on Tesla's Earnings Call -- Here's Why That's Great News",
+      "url": "https://finnhub.io/api/news?id=0f94e2c6c9feede6dc050859b38f86bad6a0a4a857c87b543a3c768866201971"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics: A 60% Reset Opportunity (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=103ee50cd95e64ec4e927c98ce9751cc22ae3b96c74fc0c62df97f1663fe5526"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Want ADSK Stock 30% Cheaper? Get Paid 12% While You Wait",
+      "url": "https://finnhub.io/api/news?id=ea0c0cc89c85f6a8c37654968409ca7752d7d471831cbfb9e31e95fd3964afbc"
+    },
+    {
+      "stock": "IBM",
+      "headline": "AI Stock Divergence: Value and Relative Strength Winners Emerge Amid Sector Pullback",
+      "url": "https://finnhub.io/api/news?id=a957c52ee8726bbc16ae5be044ad8eb45188892c9f97e3b5395e8d70416764a2"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "AI Stock Divergence: Value and Relative Strength Winners Emerge Amid Sector Pullback",
+      "url": "https://finnhub.io/api/news?id=a957c52ee8726bbc16ae5be044ad8eb45188892c9f97e3b5395e8d70416764a2"
     }
   ]
 }
