@@ -160,6 +160,31 @@
       "stock": "GOOGL",
       "headline": "Prediction: Meta Stock Will Pop After Q2 Earnings. 3 Reasons Why",
       "url": "https://finnhub.io/api/news?id=ec0a21aad03fcb46f24fe2d933a9aca473839a8cb3bf57a3fcd9aa1a9faadaff"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "'Unprecedented' OpenAI Cyberattack Brings Palo Alto, CrowdStrike Into Focus",
+      "url": "https://finnhub.io/api/news?id=18ea4e7c1959596412ee2c959ca02139f3f79f617f6e9bdb4db2a2125d1a6c01"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon's AI Spending Is About to Face a Bigger Test",
+      "url": "https://finnhub.io/api/news?id=06d05d2cb4e5c70599100035785beba42cfc2e5da9c180dbb405a5aaabae9c7a"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Cinemark Will Blow By Earnings Estimates Tomorrow; What It Means For Movies And Investors",
+      "url": "https://finnhub.io/api/news?id=2747416735a8b10b5f49b9efea08fc1115973dd01aa9317f887e845d29babfe9"
+    },
+    {
+      "stock": "DE",
+      "headline": "Graham shares are trading higher after the company reported better-than-expected Q3 financial results and raised its FY26 sales guidance.",
+      "url": "https://finnhub.io/api/news?id=7af87560b60b973eca9878320ddfab39697319f4cdc018f81ef12f4d08c57be5"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Amazon's AI Spending Is About to Face a Bigger Test",
+      "url": "https://finnhub.io/api/news?id=06d05d2cb4e5c70599100035785beba42cfc2e5da9c180dbb405a5aaabae9c7a"
     }
   ]
 }
