@@ -85,6 +85,16 @@
       "stock": "NFLX",
       "headline": "Alphabet Stock's Biggest Risk Is A Profit Margin Built On Borrowed Gains",
       "url": "https://finnhub.io/api/news?id=38a162f5cae4c5ddccb5d7ab1d7eb8ccd70ff21d87fc74d3719a482aaf37c5bb"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Rides the AI Threat Wave, But Can It Lead the Pack?",
+      "url": "https://finnhub.io/api/news?id=a6e9adbf0f212fe03e8ccf305a535d5945520d7f103b1ace540a7c4e7062ebd0"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Market Chatter: Alphabet's Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini",
+      "url": "https://finnhub.io/api/news?id=9906e4051a2abfae27ee8e7e8b99b855d12edc5818e8ee91fcb5ee66595b1840"
     }
   ]
 }
