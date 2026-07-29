@@ -130,6 +130,36 @@
       "stock": "GOOGL",
       "headline": "AI Stock Divergence: Value and Relative Strength Winners Emerge Amid Sector Pullback",
       "url": "https://finnhub.io/api/news?id=a957c52ee8726bbc16ae5be044ad8eb45188892c9f97e3b5395e8d70416764a2"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Why KOSPI And The Semiconductor Sector Is Crashing",
+      "url": "https://finnhub.io/api/news?id=ad85cf12c137a3df452771ec0ff81bd38c705b3be61143d34c6d58e6616a1345"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Want ADSK Stock 30% Cheaper? Get Paid 12% While You Wait",
+      "url": "https://finnhub.io/api/news?id=ea0c0cc89c85f6a8c37654968409ca7752d7d471831cbfb9e31e95fd3964afbc"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Technologies (UBER) Earnings Expected to Grow: Should You Buy?",
+      "url": "https://finnhub.io/api/news?id=94835d70e47814da768b3fe406134fb0159684f15b6b9652545e371df474f5d5"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Software stocks are rising, and these 6 are expected to withstand the AI threat",
+      "url": "https://finnhub.io/api/news?id=de7cbcd26e49194302ef43560104e86f2e3156b5b2f325b223ec6d7a3127f124"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Is IBM (IBM) Quietly Turning QRadar Into the Core of Its AI Security Investment Story?",
+      "url": "https://finnhub.io/api/news?id=a4e2b33f96d5cd29e6226b190ee3a2a7d1af065eb7ef44ae790f9798b204a089"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Prediction: Meta Stock Will Pop After Q2 Earnings. 3 Reasons Why",
+      "url": "https://finnhub.io/api/news?id=ec0a21aad03fcb46f24fe2d933a9aca473839a8cb3bf57a3fcd9aa1a9faadaff"
     }
   ]
 }
