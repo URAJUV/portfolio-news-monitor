@@ -55,6 +55,36 @@
       "stock": "GOOGL",
       "headline": "Why Costco, Verizon, Kroger, and Other Safe Dividend Stocks Are Rising",
       "url": "https://finnhub.io/api/news?id=e30d0712bbef84db012fd03ec9d4598c44d264ace4162527e16ad00d9a32ab0e"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "3 AI Questions for Microsoft Earnings",
+      "url": "https://finnhub.io/api/news?id=3be8429355e37ba1bfecd77d5919295239567da19e1896cba0f607ddeda4507d"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AI Infrastructure Demand is Reshaping Coherent's Growth Story",
+      "url": "https://finnhub.io/api/news?id=0a2dcb07eba777499daaab245a9302c9721fe89d6af4ba63a41b2e6abca91967"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "A Potential Tesla-SpaceX Merger Could Create ‘Orbit-To-Ground’ AI Powerhouse With Over $1 Trillion In Chip Savings, Says Analyst",
+      "url": "https://finnhub.io/api/news?id=5b23fd3cf02bf0ee99adc50778be2b6dbed06004a2253d3f7facd4afe932bedb"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Jack Ma-Backed OceanBase Seeks Up to $443 Million for AI Push",
+      "url": "https://finnhub.io/api/news?id=c5a3334b3e2080bbca403936a34f0d2cd93551dda26a71e3a2031391688c0fc7"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "3 AI Questions for Microsoft Earnings",
+      "url": "https://finnhub.io/api/news?id=3be8429355e37ba1bfecd77d5919295239567da19e1896cba0f607ddeda4507d"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Alphabet Stock's Biggest Risk Is A Profit Margin Built On Borrowed Gains",
+      "url": "https://finnhub.io/api/news?id=38a162f5cae4c5ddccb5d7ab1d7eb8ccd70ff21d87fc74d3719a482aaf37c5bb"
     }
   ]
 }
