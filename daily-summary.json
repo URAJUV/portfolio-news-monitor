@@ -35,6 +35,26 @@
       "stock": "HON",
       "headline": "BofA upgrades Honeywell Technologies to Neutral after strong quarter, lifts PT",
       "url": "https://finnhub.io/api/news?id=b8570ac65ad87d0dcaa213fb5fd911972fbded62dc52e37e4a4cb6f26d82f961"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "UPS Stock Under Pressure As Wall Street Weighs Amazon Shipping Cuts — But Retail Bulls Remain Unfazed",
+      "url": "https://finnhub.io/api/news?id=142df4219fd540f00774591617443a2f94183840ff3f9d6b5799ff3e0db17491"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Nvidia (NVDA) Pours $5 Billion Into Safe AI And Expands Data Center Reach",
+      "url": "https://finnhub.io/api/news?id=c3efe06e73f9be462a7d612dff8c81561a203ed11ade765e48721a45286f7432"
+    },
+    {
+      "stock": "HON",
+      "headline": "Intuit downgrade, Intuitive Surgical upgraded: Wall Street's top analyst calls",
+      "url": "https://finnhub.io/api/news?id=7507ca35b1cbe8e76ab6c5b9c089fdd29418dcb58a04e57f6822f7749625c588"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Why Costco, Verizon, Kroger, and Other Safe Dividend Stocks Are Rising",
+      "url": "https://finnhub.io/api/news?id=e30d0712bbef84db012fd03ec9d4598c44d264ace4162527e16ad00d9a32ab0e"
     }
   ]
 }
