@@ -1,270 +1,40 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "items": [
     {
       "stock": "MU",
-      "headline": "SK Hynix’s Rebound From $470 Billion Rout Hinges on AI Spending",
-      "url": "https://finnhub.io/api/news?id=ad126e897523c2147ba93a2042084df953ca15ea8ae1d806c76b5275050f1d16"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) Joins Open Source AI Cybersecurity Alliance",
-      "url": "https://finnhub.io/api/news?id=28e211bd8d545823f7692d7e0bdc6a98cbaac30353daad929559887a983c2897"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Only 14% of Gen X Has a Pension. For a 53-Year-Old Riding an AI-Heavy S&P 500, Social Security Is the Only Floor Left.",
-      "url": "https://finnhub.io/api/news?id=39df7d5d96535106d8dad205697fb0208462ad39f7fa732f3ebf14f5997e6f56"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Earnings Preview: What To Expect From Synopsys' Report",
-      "url": "https://finnhub.io/api/news?id=0a77c0c019f3d752a1be867c390ee25ad12a4e3e8ccdc2831108504bc8855943"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings (ARM) Could Be 40% Undervalued As Earnings Near",
-      "url": "https://finnhub.io/api/news?id=f980c9ce94c01769038be8ad0e2757858f0372dc382c13cd8a65b78fb56d818a"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Does IBM pay dividends? History, yield & payout ratio explained",
-      "url": "https://finnhub.io/api/news?id=20a9fa693a1b7076dcd912e8d7ca6f3d6fbc179b0bd10505db65e21822796839"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Dan Niles Says Apple Was ‘Incompetent’ With AI, So Why Is The Stock at All-Time Highs?",
-      "url": "https://finnhub.io/api/news?id=01673d54e33f97775b98cbc3e7741ea52523abc835fa6c4290a90acb0b13e318"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "What Wall Street Pushed GOOGL To Explain",
-      "url": "https://finnhub.io/api/news?id=db351628c1e7344bf3343430ede1dd17d215b3163baa462346cefb71de6b1ba2"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit Stock Climbs Monday: What's Driving the Pre-Earnings Rally?",
-      "url": "https://finnhub.io/api/news?id=232c14c720f151661e54206ee6ff6c3ab23d542b9db685eaf47d61046171251f"
-    },
-    {
-      "stock": "MU",
-      "headline": "Rambus Q2 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=8bbc76de9a3600902e8bdf94d6eb05566c807adbd9c6d2e3a840ab342051c4bb"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings Has Fallen 28% in the Past Month. Should You Buy Before July 29 Earnings?",
-      "url": "https://finnhub.io/api/news?id=b14638d2aca5c276845d4bb789e8492512032af38e1892a143c17f65b1030d25"
-    },
-    {
-      "stock": "HON",
-      "headline": "Mizuho Maintains Outperform on Honeywell Intl, Raises Price Target to $265",
-      "url": "https://finnhub.io/api/news?id=abee53f9049d5f7f4660dbe23abaae773fcc9a099c89a4bbd4985fd88020df70"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Earnings Preview: What To Expect From Autodesk’s Report",
-      "url": "https://finnhub.io/api/news?id=3dff7fe48737e1cd67600476c7db28a18cdeb56f24610bba7b0f8369be01895c"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Resecurity Introduces Native Integration with IBM QRadar SIEM for Threat Intelligence Sharing",
-      "url": "https://finnhub.io/api/news?id=4e158e691e115079248a06b88c4e333b9a9cb911a2a27629db4022c9eb51d102"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Benchmark Initiates Coverage On D-Wave Quantum with Buy Rating, Announces Price Target of $30",
-      "url": "https://finnhub.io/api/news?id=24bf6ca596a5bd0fb1e3e0f06b7774584aca2d5d1e0293e59dd73c6169254464"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron (MU) Faces New China Memory Pressure As CXMT IPO Tests AI Lead",
-      "url": "https://finnhub.io/api/news?id=a9f656d198f3471b891a9d35ac091063c42f4d5d901c57fa8659702ae8ae02f5"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Nvidia Forms AI Security Alliance After Hugging Face Incident",
-      "url": "https://finnhub.io/api/news?id=a69fb8ce8d303f063f7a1f370d9785c3b55fcf864b2e672c9158103a10a3f876"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
-      "url": "https://finnhub.io/api/news?id=ad23d28d8c34d4508d2cbffbb9615b199a0fcd21b67f6ac291547a296e68e703"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla Is Down 30% This Year. Here's Why I'm Still Waiting on the Sidelines.",
-      "url": "https://finnhub.io/api/news?id=435cf31ac78cd92c4be8c593e89a7b85803b246a6f5c8b32db37e5997e524732"
-    },
-    {
-      "stock": "ARM",
-      "headline": "US Futures Rise as Megacap Earnings and Fed Decision Headline Quarter's Busiest Week",
-      "url": "https://finnhub.io/api/news?id=05c4c239151ab7be91c966dbd7e5d02cb2a22a6444ea5b44450230ccca1e20a7"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM (IBM) Joins Nvidia And Microsoft In Open Secure AI Alliance",
-      "url": "https://finnhub.io/api/news?id=dadc105db50a440e57e3c11a5ebf59f8e1a97eb0c788e4d2c473b4bf89fce698"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
-      "url": "https://finnhub.io/api/news?id=ad23d28d8c34d4508d2cbffbb9615b199a0fcd21b67f6ac291547a296e68e703"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Warner Bros. Stock Hits Lowest Price Since Paramount Deal: Merger Odds Around 50%",
-      "url": "https://finnhub.io/api/news?id=61c5067a8bd2a8412acea0f09fa219cb2f998063a5933a4aa3adc16f407ffea2"
-    },
-    {
-      "stock": "MU",
-      "headline": "Forget Micron Stock at $920 Per Share. Buy This Memory-Focused Artificial Intelligence (AI) ETF Instead.",
-      "url": "https://finnhub.io/api/news?id=5faefb631781cdf7f7b0ea019ba44a62f50d7e57007f000369cb751244fd6f76"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "From Brooklyn Family Roots to America's Retail Giants: Mitch Gould's Three-Decade Journey",
-      "url": "https://finnhub.io/api/news?id=d2b916e85b8c8418c14e0dbe6d6de84dea5ecd94ca2423a114841f56d47e1e85"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "TSLA Stock Slips Premarket: Morningstar Calls Tesla ‘Very Attractive’ After Earnings Rout — ‘Now’s A Good Time’ To Buy",
-      "url": "https://finnhub.io/api/news?id=be36e2eddd806654ceff603b654e67556c47d0296b13f9af14002f6a4a3a24a7"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Apple Reclaims the Crown as a China Chip Scare Sinks the Semis",
-      "url": "https://finnhub.io/api/news?id=5e1ce5cbe52b934114e5d154a15cf8489863c55a3d21f56dbbb132cb1afa6da2"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon AI Strategy Reportedly Shifts Before Earnings, Nova AI Models Put In ‘Keep The Lights On’ Mode",
-      "url": "https://finnhub.io/api/news?id=5773d319d1cf7e0f8350fa8489e0158bea9aab0afda778b1febf35e1b81d77c3"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys: How Agentic AI And Ansys Drive Long-Term Growth",
-      "url": "https://finnhub.io/api/news?id=b4ad84dbbc40f9a90fcae7be33f52d3dcfa1dd8745bd5d60a7150f3dd04d5b8e"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "SpaceX stock loses $1.2 trillion in market cap before Q2 earnings",
-      "url": "https://finnhub.io/api/news?id=492d7e20f71ce283a208cdff9714bdb3c5ce338080e56e5269cbaf19f95b7664"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Get Paid 10% To Let Someone Else Chase GOOGL Stock Higher",
-      "url": "https://finnhub.io/api/news?id=ec658f6f94535ac1509c8141677f0a7e02abec0cafe37477a6176c8505a07715"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Get Paid 10% To Let Someone Else Chase GOOGL Stock Higher",
-      "url": "https://finnhub.io/api/news?id=ec658f6f94535ac1509c8141677f0a7e02abec0cafe37477a6176c8505a07715"
+      "headline": "Cramer Sees Echoes of Dot-Com Bust as Wall Street Flees AI Stocks for Safety",
+      "url": "https://finnhub.io/api/news?id=5d85b397ef37499da4645103f2ab631de1308ca780df05df7282b81b96e0cc2a"
     },
     {
       "stock": "TSM",
-      "headline": "TSMC Says All Personnel At Its Kumamoto Site Have Been Confirmed Safe; Says Post-Earthquake Structural Inspections Have Been Completed, Confirming Its Structures Are Safe, And Operations Are Gradually Resuming; Says Detailed Inspections And Impact Assessments Are Ongoing; Says JASM Construction Site Was Unaffected, But Parts Of The Works Are Suspended As A Safety Precaution",
-      "url": "https://finnhub.io/api/news?id=dc89aa4588f760efb83def0cc1f69959ddf33167ddae5ba151c9ddda4d574eea"
+      "headline": "Intel Vs. TSMC: How CoWoS Packaging Constraints Create Opportunity For Intel Foundry",
+      "url": "https://finnhub.io/api/news?id=f2f93c4d8533a256a289879a12f0d662bf46804f344ef38fcd75f1ed247567a2"
     },
     {
       "stock": "CRWD",
-      "headline": "3 Cybersecurity Stocks to Buy Before Threats Get Worse in Late July",
-      "url": "https://finnhub.io/api/news?id=4e418d178a79943c5c5cb860442fae232b861d3163f0ffc727575ef76452a326"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Meta Partners With BlackRock Over $14 Billion Data Center Project",
-      "url": "https://finnhub.io/api/news?id=81479933e2578c97c0d9b7969a0bd6a61301d43c71db49edc6adc02de8e864e9"
+      "headline": "Varonis Systems (VRNS) Q2 Earnings and Revenues Top Estimates",
+      "url": "https://finnhub.io/api/news?id=f5fd23560d41bcf2d70fec0df3d27af279238c73a932bc2fc7d6ef2a5cec3ed2"
     },
     {
       "stock": "COHR",
-      "headline": "A New AI Shortage Is Coming. One CEO Just Predicted it Will Be “Bigger Than Memory.”",
-      "url": "https://finnhub.io/api/news?id=d24f209f0ee12e45ec49355d4575d4ab04af03c8b5f67dac1555fb64ca51eee4"
+      "headline": "Why Corning Stock Had Its Worst Day in Four Months After Earnings",
+      "url": "https://finnhub.io/api/news?id=4b0a5ae972ae2995ce094c314ad331ef33fcb062dd105f42d64663bbb16a8cf8"
     },
     {
       "stock": "SNPS",
-      "headline": "Cadence Stock Can Be an AI Winner. The Earnings Prove It.",
-      "url": "https://finnhub.io/api/news?id=d02df29d54d87c3e363be578c0216b0072c68e32eb779b216d496ce336312f33"
+      "headline": "Cadence Design Systems Q2 Earnings Call Highlights",
+      "url": "https://finnhub.io/api/news?id=c1add10f045958dc23f75b34011ba06183a23428cd9d3eff79ab7fcd98a8bfb6"
     },
     {
       "stock": "TSLA",
-      "headline": "Cathie Wood Keeps The Faith; Rakes In Diving SpaceX, Tesla Shares",
-      "url": "https://finnhub.io/api/news?id=d9b37562f56f3c441f68c828ecfa8e97c10a0fd3fb45da6aadff5e0d1c4f1d2a"
-    },
-    {
-      "stock": "ARM",
-      "headline": "AMD Sinks 8%, Marvell Sinks 7%, Intel Fall 6% as AI Chip Trade Narrows to NVIDIA",
-      "url": "https://finnhub.io/api/news?id=37fae0e763c35d3d7a71eaa6f4bb2ba0eb9cca015c0fd4ed8b877b31c261b485"
-    },
-    {
-      "stock": "DE",
-      "headline": "Avery Dennison to Report Q2 Earnings: Here's What to Expect",
-      "url": "https://finnhub.io/api/news?id=214ea13415701781d6216bb5fee23ca40d1e93450dbe96fe90a61ba34bfd710f"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Meta Partners With BlackRock Over $14 Billion Data Center Project",
-      "url": "https://finnhub.io/api/news?id=81479933e2578c97c0d9b7969a0bd6a61301d43c71db49edc6adc02de8e864e9"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix: Too Many Tailwinds For The Stock To Stay Down Long-Term",
-      "url": "https://finnhub.io/api/news?id=4d43cf787e28cd6670359880aa4305cca7e642c5eaac4f4b21e70a7ee9db97f9"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "OpenAI’s Agent Hacked Hugging Face. Sam Altman Says the Singularity Is Here; Nvidia (NVDA), CrowdStrike (CRWD) Build the Defenses",
-      "url": "https://finnhub.io/api/news?id=f4d50c7a5942274f0a6a2eeb1e24a1eca90b8dea7bae811fb24ad96911597df9"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon Overhauls AI Strategy as Flagship Nova Models Wind Down",
-      "url": "https://finnhub.io/api/news?id=cbe58bc1eb6064034e86c78977330990e136b9eedef7677053a5dcc9ac561f7d"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Tuesday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=d914c07964c6e02bbb3d0f3dab99f42869b3f4d48013c90488f66bd1641dc6d2"
-    },
-    {
-      "stock": "MU",
-      "headline": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears",
-      "url": "https://finnhub.io/api/news?id=c70ae72f7f512ad8738cb2a3e40874f1e89ba2269c9f3a12af4f9266dfa6928e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "6 Catalysts That Might Pop The AI Bubble",
-      "url": "https://finnhub.io/api/news?id=e252009570e04de8fda282c8ee6707568119d13c5a4c3828c86fc93634033727"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Stock Gains After Loop Capital Starts Coverage With Buy Rating",
-      "url": "https://finnhub.io/api/news?id=841ec13bf39226ca536546363a6bd5118f4e4aaf657a91dab28efe0f80f1ae51"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Apple's market cap tops $5T: How AI weakness became a strength",
-      "url": "https://finnhub.io/api/news?id=418a65d0553eaa56deda0af009e973894b8390f42f50e546a29d9cb0a62520d0"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Mag 7 earnings: Alphabet 'really set the tone,' strategist says",
-      "url": "https://finnhub.io/api/news?id=7fd053ae1dd8fb551666a7d3cbd6e4428476a5fe786b7e56944f5291da19b506"
+      "headline": "Tesla (TSLA) Secures Long Term Power Deals And Expands Optimus Teleoperation",
+      "url": "https://finnhub.io/api/news?id=f2f4feb02417d1846e19d183852f754d7b4a41b3b0958da499946a3102a5e81e"
     },
     {
       "stock": "HON",
-      "headline": "Honeywell upgraded by Bank of America on stronger order trends",
-      "url": "https://finnhub.io/api/news?id=215855d6c708389ce9481848a58adec256541efafa00a440e667c30361b07802"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber autonomous vehicle outlook in focus for Q2 earnings",
-      "url": "https://finnhub.io/api/news?id=b2a6619fc3e0a7fbf6938c6e1674062916e542ba1ea7cfe116ef1e535ed3e041"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Apple's market cap tops $5T: How AI weakness became a strength",
-      "url": "https://finnhub.io/api/news?id=418a65d0553eaa56deda0af009e973894b8390f42f50e546a29d9cb0a62520d0"
+      "headline": "BofA upgrades Honeywell Technologies to Neutral after strong quarter, lifts PT",
+      "url": "https://finnhub.io/api/news?id=b8570ac65ad87d0dcaa213fb5fd911972fbded62dc52e37e4a4cb6f26d82f961"
     }
   ]
 }
