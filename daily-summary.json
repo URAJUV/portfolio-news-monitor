@@ -95,6 +95,26 @@
       "stock": "IBM",
       "headline": "Nvidia CEO Jensen Huang Makes First Ever X Post Sharing Letter to Congress and Says ‘Transparency Can Be More Secure Than Obscurity’",
       "url": "https://finnhub.io/api/news?id=4297b25e281d7785e23080cbd1b845714de889e4cb884c3fc4a343fe470e814a"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Meta Is Spending Whatever It Takes to Win AI — And That’s What Worries Investors",
+      "url": "https://finnhub.io/api/news?id=5c1cafd554cb75a1bb1ef37ec4833d00807d7626492065392e43737752338b09"
+    },
+    {
+      "stock": "HON",
+      "headline": "Carrier Beat Estimates, Raised Its Outlook, And Fell Anyway",
+      "url": "https://finnhub.io/api/news?id=dcd25c16d7f1baba72175a5144316ef3a2a4b7339f683f4de46995eefd47614c"
+    },
+    {
+      "stock": "UBER",
+      "headline": "London Stock Exchange Group H1 Earnings Call Highlights",
+      "url": "https://finnhub.io/api/news?id=1242bea575e7d7a47fd8969b6210097d9c183a0f4ba030f70ee1a13d0b9d95cd"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Omdia: AI Demand Drives 94.1% Surge in Semiconductor Forecast for 2026",
+      "url": "https://finnhub.io/api/news?id=0fc0ad63eeedd415f2b3d10a20b1190efc31586d74bf60eaa077849433b13b9c"
     }
   ]
 }
