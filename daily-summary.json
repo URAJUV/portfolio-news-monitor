@@ -50,6 +50,36 @@
       "stock": "RDDT",
       "headline": "Reddit Stock Is Rising Ahead of Thursday Earnings: What Investors Need to Know",
       "url": "https://finnhub.io/api/news?id=91d61a0214696f967c28c6f35ce16b1477ad174ea99d9bf951903f3621f15c9f"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Agentic AI Is Coming to Chip Design. Here Is Why Synopsys Stock Could Be the Biggest Beneficiary.",
+      "url": "https://finnhub.io/api/news?id=10c66b3c7e92eb39a13a80e2b513e258a4e967f3166c4d0560a85c9f744e01e9"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Gary Black Pegs TSLA's Fair Value at $312, Says 'Don't Fall in Love With the Stock'",
+      "url": "https://finnhub.io/api/news?id=f56f8c63373b476f9ae54538da2064c425139af76f2c7b14c2bea5a437154879"
+    },
+    {
+      "stock": "ARM",
+      "headline": "ARM Holdings PLC (ARM) (Q1 2027) Earnings Call Highlights: Record Revenue and AI Growth Amid ...",
+      "url": "https://finnhub.io/api/news?id=5a8bfa36079266c60e0a3a494eb76c67fc229a1f6ab902b347b69abbacc9e9d1"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Crane Q2 Earnings Call Highlights",
+      "url": "https://finnhub.io/api/news?id=2cbc81157af9b06a9473a9fb40b90dd5c0d095e4cf8486f2ece046c86e1850fc"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "AI data centre supplier Zhongji InnoLight tumbles on Hong Kong debut",
+      "url": "https://finnhub.io/api/news?id=a6e86a63e426ac8981a6b2e0967313dbb03a413872cfe76ed1f22c621790d05a"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Keybanc Initiates Coverage On Reddit with Overweight Rating, Announces Price Target of $225",
+      "url": "https://finnhub.io/api/news?id=0b8b13aee12f4a1dc847546efa1d81bf63a08f2916a5941a0bdd2f1d7fd2d04e"
     }
   ]
 }
