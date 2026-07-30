@@ -165,6 +165,31 @@
       "stock": "ADSK",
       "headline": "Adobe Stock Trades Below The Market On Earnings While Its Growth Engine Is Being Rebuilt",
       "url": "https://finnhub.io/api/news?id=9a2749ecb125dd33ee394bd0b9919f303660b486945ab262db97ba160f035c2b"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Intel: AI Bubble Hysteria Is Not For Bulls",
+      "url": "https://finnhub.io/api/news?id=cab8cd908ec4ce377fc48b1be6932206528c9d3e9fd6266e9f7a851ab5e014af"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Dan Ives: Cybersecurity Spending Could Double Within Three Years",
+      "url": "https://finnhub.io/api/news?id=a695dd1d4bcc940bbfe7a00f802845eb38afde64e6b4c99929d6c1b285a4bcdf"
+    },
+    {
+      "stock": "HON",
+      "headline": "This Company’s Earnings Offer Hope for AI. (No, It Isn’t Microsoft.)",
+      "url": "https://finnhub.io/api/news?id=23b3b2b7bf87f3112c762a1a006c426bda3ee36f3aebe61099575f8d944a5b6a"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber (UBER) Stock Looks Cheap On Earnings While Risks Stay Pricey",
+      "url": "https://finnhub.io/api/news?id=004b81ec9014811a823b58608e13dbbbb129890a5c4721d19f08239b4030ac9e"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit (RDDT) Earnings Beat Fails to Impress as Stock Slides 7% in After-Hours Trading",
+      "url": "https://finnhub.io/api/news?id=fbbd21784c3e505799c38d65804efe3b90565a6edcfae61e0502d024dd7416ae"
     }
   ]
 }
