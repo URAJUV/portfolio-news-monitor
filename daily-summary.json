@@ -80,6 +80,21 @@
       "stock": "RDDT",
       "headline": "Keybanc Initiates Coverage On Reddit with Overweight Rating, Announces Price Target of $225",
       "url": "https://finnhub.io/api/news?id=0b8b13aee12f4a1dc847546efa1d81bf63a08f2916a5941a0bdd2f1d7fd2d04e"
+    },
+    {
+      "stock": "MU",
+      "headline": "Nasdaq, S&P 500 Futures Rise: Microsoft Lifts AI Mood, Meta Sinks, Investors Brace For Apple, Amazon And PCE – Why MU, IBRX, CAPR, SBUX Are In Focus",
+      "url": "https://finnhub.io/api/news?id=c4aea7ef575ed4779d517dc9a77209dad76dcdac4804c3532111e7cb41985c8b"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys Doubles Down on AI Chip Design With Microsoft and AMD. How to Play SNPS Stock Here.",
+      "url": "https://finnhub.io/api/news?id=9fc8300bc75fb5af9fdc82603eea299b61b0d211d4a9ba28325d514907e60580"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Nvidia CEO Jensen Huang Makes First Ever X Post Sharing Letter to Congress and Says ‘Transparency Can Be More Secure Than Obscurity’",
+      "url": "https://finnhub.io/api/news?id=4297b25e281d7785e23080cbd1b845714de889e4cb884c3fc4a343fe470e814a"
     }
   ]
 }
