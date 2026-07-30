@@ -30,6 +30,26 @@
       "stock": "GOOGL",
       "headline": "Tesla’s Grok Playbook Meets Its Match? GOOGL's Waymo Arms Ojai Robotaxis With Gemini AI",
       "url": "https://finnhub.io/api/news?id=f77fd6bf2b5283c66bd24544a56b6041052471c7f7acd0b4f6983c9c608676df"
+    },
+    {
+      "stock": "ARM",
+      "headline": "ARM Q1 Earnings Call Highlights",
+      "url": "https://finnhub.io/api/news?id=1ab443ddae8397ae566a4d854886b834a3b4e4de76eac338af87834ab25fa551"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Lucid Stock Soars. A Saudi Billionaire Just Made a Big Bet",
+      "url": "https://finnhub.io/api/news?id=3e35997648302c795acf6a8b9d141b661681fbae163cb02a2d5fdc85ab7ed756"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "LVMH CEO Bernard Arnault reveals he owned nearly 20% of Netflix, but cashed out too early—his stake could be worth up to $60 billion today",
+      "url": "https://finnhub.io/api/news?id=fc9e77b9da7138e113b981ab295c73b22606f05471d9759f0683c9444850bea6"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit Stock Is Rising Ahead of Thursday Earnings: What Investors Need to Know",
+      "url": "https://finnhub.io/api/news?id=91d61a0214696f967c28c6f35ce16b1477ad174ea99d9bf951903f3621f15c9f"
     }
   ]
 }
