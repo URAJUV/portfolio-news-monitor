@@ -150,6 +150,21 @@
       "stock": "GOOGL",
       "headline": "Alphabet Beat Nvidia in the First Half of 2026. Here's My Prediction for Which Stock Will Win in the Second Half.",
       "url": "https://finnhub.io/api/news?id=ad9e2a711aa37a31448feef892264694d03d55ad77699822b21af3a0b8e7771a"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "AI is the biggest phenomenon 'in the history of technology' — not just a hype cycle",
+      "url": "https://finnhub.io/api/news?id=56db715103ceec8300268125cf86de5f043ca1a5a6680886cb44dc269a83f19b"
+    },
+    {
+      "stock": "COHR",
+      "headline": "4 Business Services Firms Poised to Top Estimates This Earnings Season",
+      "url": "https://finnhub.io/api/news?id=90058744e5e514aea09faf90cbb70d00610873c7518f7bdbbe9b226a462cbeb4"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Adobe Stock Trades Below The Market On Earnings While Its Growth Engine Is Being Rebuilt",
+      "url": "https://finnhub.io/api/news?id=9a2749ecb125dd33ee394bd0b9919f303660b486945ab262db97ba160f035c2b"
     }
   ]
 }
