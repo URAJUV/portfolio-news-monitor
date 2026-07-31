@@ -90,6 +90,41 @@
       "stock": "RDDT",
       "headline": "Reddit, Inc. (RDDT) Q2 2026 Earnings Call Transcript",
       "url": "https://finnhub.io/api/news?id=1f69b267b81ef80d7e29d9986aa530050edbac7a9b6e398083f23d3d71ae6306"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Microsoft's Cloud Blowout Powers Nasdaq, Then Apple And Amazon Split The Megacap Trade All Over Again",
+      "url": "https://finnhub.io/api/news?id=a6073c2686994a4a5d886856e46fb8432496b0fc14fedce5390d5ab44d944ec3"
+    },
+    {
+      "stock": "HON",
+      "headline": "Data Center Access Control Market Size, Share & Trends Analysis Report, 2026-2033 Published — 120-Page Study Profiling HID Global, Honeywell, and 12 Others",
+      "url": "https://finnhub.io/api/news?id=020dc96b4335aaeff8031444884a8b5c822a90ff022db1a97ad04c01beb4e7f9"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Sony Group Corporation 2026 Q1 - Results - Earnings Call Presentation",
+      "url": "https://finnhub.io/api/news?id=563d3b958218f909bb61292c3a3f634e9eabb010c643bd366351377bdd572d64"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ: 2 Q&As That Explain My Renewed Bullish Stance (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=81aaba872a462d4c710ea7c00d813c9fb47b60460a3fe42fcc26fd496410f7ef"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Microsoft's Cloud Blowout Powers Nasdaq, Then Apple And Amazon Split The Megacap Trade All Over Again",
+      "url": "https://finnhub.io/api/news?id=a6073c2686994a4a5d886856e46fb8432496b0fc14fedce5390d5ab44d944ec3"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix (NFLX) Secures The Walking Dead Universe Streaming Rights Outside The US",
+      "url": "https://finnhub.io/api/news?id=eea2114f31bff47bab9862a8624887fc7c641d535ce9b1f35f4694913e013149"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Wall Street Breakfast Podcast: Reddit Beat Fails To Trend",
+      "url": "https://finnhub.io/api/news?id=8080679e4cc47e1dd81a577304d2288e3b86a37df5e8eb83bd45a40c9e13f0b4"
     }
   ]
 }
