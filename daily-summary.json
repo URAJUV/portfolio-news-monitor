@@ -195,6 +195,26 @@
       "stock": "RDDT",
       "headline": "Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain Amid Cooler June PCE Inflation Data and Slower-Than-Expected Q2 GDP—Apple, Amazon, Coinbase in Focus (UPDATED)",
       "url": "https://finnhub.io/api/news?id=3121d40c6179242a69dafa5747c99d3015585c096042816d4331c4883809a1b4"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Friday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=dc3ff60c01a4cba8c16b37a9d68c917c01a4881bda5a38ec734feab622f76ce3"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Sony Group Raises FY2026 Sales Guidance from $78.425B to $81.699B vs $78.420B Est",
+      "url": "https://finnhub.io/api/news?id=9ea7f040b4262cdcaab859f88c6d51daedbe1df11ac3a812807690ad5024e233"
+    },
+    {
+      "stock": "UBER",
+      "headline": "UBER Set to Report Q2 Earnings: Buy, Sell or Hold the Stock?",
+      "url": "https://finnhub.io/api/news?id=5f7939321f59976735205cbf24dfcd021ae77f1e5e2c572ad777992e18371882"
+    },
+    {
+      "stock": "U",
+      "headline": "Piper Sandler Reiterates Overweight on Unity Software, Raises Price Target to $45",
+      "url": "https://finnhub.io/api/news?id=e910d836b513f120f5d8528568ae7bcf41c2c2e05123eec5b1675faf1665dbdf"
     }
   ]
 }
