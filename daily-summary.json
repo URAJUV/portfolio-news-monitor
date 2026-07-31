@@ -125,6 +125,36 @@
       "stock": "RDDT",
       "headline": "Wall Street Breakfast Podcast: Reddit Beat Fails To Trend",
       "url": "https://finnhub.io/api/news?id=8080679e4cc47e1dd81a577304d2288e3b86a37df5e8eb83bd45a40c9e13f0b4"
+    },
+    {
+      "stock": "TSM",
+      "headline": "BorZen Tien's Recent Buy: Acquires $73K In Taiwan Semiconductor Stock",
+      "url": "https://finnhub.io/api/news?id=018c48edc6866de8a9432cb1519f2e767fd820139c4d77114a4cbc91a50e61ed"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla weighs sale of China business ahead of SpaceX merger",
+      "url": "https://finnhub.io/api/news?id=ea83b97f8071cd73b9d0b11d27bd00f660edf39362690bfaff0289e0dbf32ca7"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm (ARM) Stock Looks Pricey On Book Value Yet Strong On AI Growth",
+      "url": "https://finnhub.io/api/news?id=00b60b2ab5ee75a42261760e1db73c0c1d8e7a8ee0eed3e424e1c5ba06a8d334"
+    },
+    {
+      "stock": "DE",
+      "headline": "Decisive Dividend Corporation Reports Financial Results for the Three and Six Months Ended June 30, 2026",
+      "url": "https://finnhub.io/api/news?id=d575dbbe29830f74e70a92d85a09e8e1f157ffb3aaeb3240a936db3c7bf1f322"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Amazon Shares Surge on Cloud-Driven Quarterly Beat; CapEx Outlook Raised",
+      "url": "https://finnhub.io/api/news?id=e8310ab351527a6f2d5f273736380e5ac360f1290f9b16d40bb3c8b304fac09c"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit COO Says We Saw Strength Across Our Sales Channels, Including Large Customers In Scale; : We Also Saw Strength Across Industry Verticals, Particularly Retail And Travel, While Active Advertisers Grew Over 70% Y/Y; Ads API Revenue Grew Over 40% From Q1 And More Than Half Of Our Revenue Comes From Credit LINE Relationships",
+      "url": "https://finnhub.io/api/news?id=dee1afc7260a6071c52659297c3f9c92f849bacbbaa523620a45cdea0221c825"
     }
   ]
 }
