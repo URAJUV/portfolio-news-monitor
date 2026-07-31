@@ -215,6 +215,36 @@
       "stock": "U",
       "headline": "Piper Sandler Reiterates Overweight on Unity Software, Raises Price Target to $45",
       "url": "https://finnhub.io/api/news?id=e910d836b513f120f5d8528568ae7bcf41c2c2e05123eec5b1675faf1665dbdf"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Applied Optoelectronics and Coherent Gain 7%, Lumentum Adds 5% as Risk-On Feeling Spreads to Optics Stocks",
+      "url": "https://finnhub.io/api/news?id=a03604ac6e7b3ffe7f75a1113d1dde5153f3da9ee2a1b114051dbacf6c80772e"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Elon Musk denies claims that Tesla could sell off its China business",
+      "url": "https://finnhub.io/api/news?id=ad3a24e1677e5691f6e441bf2a74a57c79be0db8940a6d670f995aa9c8cbf03b"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Rosenblatt Maintains Buy on ARM Holdings, Lowers Price Target to $250",
+      "url": "https://finnhub.io/api/news?id=c5f4cf66dfb4bf411c2a3657dfa53937b92a59f7700eb04280c5ee15db122faf"
+    },
+    {
+      "stock": "DE",
+      "headline": "John Deere Announces Proposed Two-Year Contract Extension To UAW With Enhanced Wages And Benefits In Early July; Remains Firm On Contract Extension Offer To UAW; Vote On John Deere Contract Extension Offer To UAW Scheduled For Aug. 23",
+      "url": "https://finnhub.io/api/news?id=926e7e3d9b8eb5075585087e16c8575260d5d2a7018feddd808782726163dade"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Research Firm Says Big Tech Earnings Just Flipped Valuation Risk",
+      "url": "https://finnhub.io/api/news?id=b18d0bf0ed43c01c4d5d8b83eb2ee5bad8928a6ef31494c8dd15b0590a05c6e5"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "JP Morgan Maintains Neutral on Reddit, Lowers Price Target to $185",
+      "url": "https://finnhub.io/api/news?id=cc639fb9e90804fbd9a8ee92c58b33a4c9663d82291be8b4bf373dd814f527a3"
     }
   ]
 }
