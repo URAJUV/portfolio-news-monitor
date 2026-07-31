@@ -1,195 +1,45 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "KLA Falls After Earnings: Raised Guidance Fails To Impress Wall Street",
-      "url": "https://finnhub.io/api/news?id=9d41cf462dc29fa8493fecf89c61f0f589a9eb6f0ca8e131a36a1409b26296a3"
+      "stock": "COHR",
+      "headline": "AXT Q2 Earnings Call Highlights",
+      "url": "https://finnhub.io/api/news?id=a7c48b1399f63d37ce116e580d86945168c29efc37fa5078bf0b5d05f417d76a"
     },
     {
-      "stock": "AMZN",
-      "headline": "Trucking Earnings: Why UPS Is Falling Behind in a Robust Market",
-      "url": "https://finnhub.io/api/news?id=ddfb7f5c017a6840283bffd465ad730f7776304709c4ade745a26a348443fc2e"
+      "stock": "SNPS",
+      "headline": "Intel (INTC) Just Expanded Its Foundry Tool Kit For AI Chip Customers",
+      "url": "https://finnhub.io/api/news?id=4a26fbd5c40295fceb6ae5e3347d62aa6a878907df7b68d39ad2a165f1743380"
     },
     {
-      "stock": "ARM",
-      "headline": "ARM Holdings (NASDAQ:ARM) Fiscal Q1 Results Beat Estimates but Guidance Disappoints, Shares Drop 6%",
-      "url": "https://finnhub.io/api/news?id=217356f69ed69244a886534ab735abce375cbbfc228bc2dc197eedf7835318a8"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Meta Platforms (META) Lags Q2 Earnings Estimates",
-      "url": "https://finnhub.io/api/news?id=49d2b399250bdf57c472f762a166f3093d72c8f58775f8ee134df6d661bfc429"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Circle (CRCL) Just Bought Nearly 1,000 IBM Blockchain Patents",
-      "url": "https://finnhub.io/api/news?id=ad7047f569e4280f13afca2345a4537800d854bf401edc5be8977e380cf16511"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Tesla’s Grok Playbook Meets Its Match? GOOGL's Waymo Arms Ojai Robotaxis With Gemini AI",
-      "url": "https://finnhub.io/api/news?id=f77fd6bf2b5283c66bd24544a56b6041052471c7f7acd0b4f6983c9c608676df"
-    },
-    {
-      "stock": "ARM",
-      "headline": "ARM Q1 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=1ab443ddae8397ae566a4d854886b834a3b4e4de76eac338af87834ab25fa551"
+      "stock": "TSLA",
+      "headline": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports",
+      "url": "https://finnhub.io/api/news?id=1823bd423d95f0c240c22ec497f7780eee3606069698414f142327c68248ae6b"
     },
     {
       "stock": "UBER",
-      "headline": "Lucid Stock Soars. A Saudi Billionaire Just Made a Big Bet",
-      "url": "https://finnhub.io/api/news?id=3e35997648302c795acf6a8b9d141b661681fbae163cb02a2d5fdc85ab7ed756"
+      "headline": "Uber Technologies (UBER) Stock Drops Despite Market Gains: Important Facts to Note",
+      "url": "https://finnhub.io/api/news?id=ad622da65d0cd2e8f31a9e3737090fb59f638ad8c603a89d671de7441a314942"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk (ADSK) Stock Dips While Market Gains: Key Facts",
+      "url": "https://finnhub.io/api/news?id=a79a01260b96a6764c995e0e202cfb9c2f11c0860c95d30575e413408d6371c1"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Everyone Wants to Build the Best AI Model. Amazon Wants Something More Valuable.",
+      "url": "https://finnhub.io/api/news?id=9ee1769f7520ef116150e9e2ce4af3f915c48cd8365f421ffe6b70a8ebbfac19"
     },
     {
       "stock": "NFLX",
-      "headline": "LVMH CEO Bernard Arnault reveals he owned nearly 20% of Netflix, but cashed out too early—his stake could be worth up to $60 billion today",
-      "url": "https://finnhub.io/api/news?id=fc9e77b9da7138e113b981ab295c73b22606f05471d9759f0683c9444850bea6"
+      "headline": "EPR Properties Q2 2026 Earnings Call Summary",
+      "url": "https://finnhub.io/api/news?id=73a7ca6e01dd693df680319fd9b2779810d3affb8e6301c5ea1b0e8c8daebfc0"
     },
     {
       "stock": "RDDT",
-      "headline": "Reddit Stock Is Rising Ahead of Thursday Earnings: What Investors Need to Know",
-      "url": "https://finnhub.io/api/news?id=91d61a0214696f967c28c6f35ce16b1477ad174ea99d9bf951903f3621f15c9f"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Agentic AI Is Coming to Chip Design. Here Is Why Synopsys Stock Could Be the Biggest Beneficiary.",
-      "url": "https://finnhub.io/api/news?id=10c66b3c7e92eb39a13a80e2b513e258a4e967f3166c4d0560a85c9f744e01e9"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Gary Black Pegs TSLA's Fair Value at $312, Says 'Don't Fall in Love With the Stock'",
-      "url": "https://finnhub.io/api/news?id=f56f8c63373b476f9ae54538da2064c425139af76f2c7b14c2bea5a437154879"
-    },
-    {
-      "stock": "ARM",
-      "headline": "ARM Holdings PLC (ARM) (Q1 2027) Earnings Call Highlights: Record Revenue and AI Growth Amid ...",
-      "url": "https://finnhub.io/api/news?id=5a8bfa36079266c60e0a3a494eb76c67fc229a1f6ab902b347b69abbacc9e9d1"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Crane Q2 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=2cbc81157af9b06a9473a9fb40b90dd5c0d095e4cf8486f2ece046c86e1850fc"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "AI data centre supplier Zhongji InnoLight tumbles on Hong Kong debut",
-      "url": "https://finnhub.io/api/news?id=a6e86a63e426ac8981a6b2e0967313dbb03a413872cfe76ed1f22c621790d05a"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Keybanc Initiates Coverage On Reddit with Overweight Rating, Announces Price Target of $225",
-      "url": "https://finnhub.io/api/news?id=0b8b13aee12f4a1dc847546efa1d81bf63a08f2916a5941a0bdd2f1d7fd2d04e"
-    },
-    {
-      "stock": "MU",
-      "headline": "Nasdaq, S&P 500 Futures Rise: Microsoft Lifts AI Mood, Meta Sinks, Investors Brace For Apple, Amazon And PCE – Why MU, IBRX, CAPR, SBUX Are In Focus",
-      "url": "https://finnhub.io/api/news?id=c4aea7ef575ed4779d517dc9a77209dad76dcdac4804c3532111e7cb41985c8b"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys Doubles Down on AI Chip Design With Microsoft and AMD. How to Play SNPS Stock Here.",
-      "url": "https://finnhub.io/api/news?id=9fc8300bc75fb5af9fdc82603eea299b61b0d211d4a9ba28325d514907e60580"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Nvidia CEO Jensen Huang Makes First Ever X Post Sharing Letter to Congress and Says ‘Transparency Can Be More Secure Than Obscurity’",
-      "url": "https://finnhub.io/api/news?id=4297b25e281d7785e23080cbd1b845714de889e4cb884c3fc4a343fe470e814a"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Meta Is Spending Whatever It Takes to Win AI — And That’s What Worries Investors",
-      "url": "https://finnhub.io/api/news?id=5c1cafd554cb75a1bb1ef37ec4833d00807d7626492065392e43737752338b09"
-    },
-    {
-      "stock": "HON",
-      "headline": "Carrier Beat Estimates, Raised Its Outlook, And Fell Anyway",
-      "url": "https://finnhub.io/api/news?id=dcd25c16d7f1baba72175a5144316ef3a2a4b7339f683f4de46995eefd47614c"
-    },
-    {
-      "stock": "UBER",
-      "headline": "London Stock Exchange Group H1 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=1242bea575e7d7a47fd8969b6210097d9c183a0f4ba030f70ee1a13d0b9d95cd"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Omdia: AI Demand Drives 94.1% Surge in Semiconductor Forecast for 2026",
-      "url": "https://finnhub.io/api/news?id=0fc0ad63eeedd415f2b3d10a20b1190efc31586d74bf60eaa077849433b13b9c"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Move Over Memory, Fortinet Earnings Show Cybersecurity Stocks Are Red-Hot AI Plays",
-      "url": "https://finnhub.io/api/news?id=41f9d2b8720a2dd501e4db85404d779299ed1000447352b008ece0c0cca148f9"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon Stock Climbs With Earnings Due. Google And Microsoft Just Raised The Cloud Stakes.",
-      "url": "https://finnhub.io/api/news?id=ea024140e3ce9e7fc63df357fc7257ff98159eedff9ca03f3dedbaa79356212f"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Symbotic Gears Up to Report Q3 Earnings: Here's What to Expect",
-      "url": "https://finnhub.io/api/news?id=688c6c2ef7b87d43941ba9353acd49f04bcffd9ac7decdce578a48bbf6be004b"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla Stock Is Gaining. How Microsoft Is Helping End Its  Six-Day Losing Streak.",
-      "url": "https://finnhub.io/api/news?id=ff05229c9e23fac3fd96ccb1e75de3d4526d571bd94f49e174216d821e0c3840"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Rene Haas Says NVDA GPUs, GOOGL TPUs Validate ARM's AI Bet — 'Every AI Workload Is Going to Run Through Arm'",
-      "url": "https://finnhub.io/api/news?id=6c86a2f4b2a43855760953ecd0dc9320c4f15752553f58c760f80b1ec516f3fb"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell Technologies (HON)’s First Earnings as a Standalone Company: Bull vs Bear Analysis",
-      "url": "https://finnhub.io/api/news?id=cac08e3b87e8e2e1f5e893ea1fe7d54f19b9c4ead8adca70d8031d88599da3b8"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet Beat Nvidia in the First Half of 2026. Here's My Prediction for Which Stock Will Win in the Second Half.",
-      "url": "https://finnhub.io/api/news?id=ad9e2a711aa37a31448feef892264694d03d55ad77699822b21af3a0b8e7771a"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "AI is the biggest phenomenon 'in the history of technology' — not just a hype cycle",
-      "url": "https://finnhub.io/api/news?id=56db715103ceec8300268125cf86de5f043ca1a5a6680886cb44dc269a83f19b"
-    },
-    {
-      "stock": "COHR",
-      "headline": "4 Business Services Firms Poised to Top Estimates This Earnings Season",
-      "url": "https://finnhub.io/api/news?id=90058744e5e514aea09faf90cbb70d00610873c7518f7bdbbe9b226a462cbeb4"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Adobe Stock Trades Below The Market On Earnings While Its Growth Engine Is Being Rebuilt",
-      "url": "https://finnhub.io/api/news?id=9a2749ecb125dd33ee394bd0b9919f303660b486945ab262db97ba160f035c2b"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Intel: AI Bubble Hysteria Is Not For Bulls",
-      "url": "https://finnhub.io/api/news?id=cab8cd908ec4ce377fc48b1be6932206528c9d3e9fd6266e9f7a851ab5e014af"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Dan Ives: Cybersecurity Spending Could Double Within Three Years",
-      "url": "https://finnhub.io/api/news?id=a695dd1d4bcc940bbfe7a00f802845eb38afde64e6b4c99929d6c1b285a4bcdf"
-    },
-    {
-      "stock": "HON",
-      "headline": "This Company’s Earnings Offer Hope for AI. (No, It Isn’t Microsoft.)",
-      "url": "https://finnhub.io/api/news?id=23b3b2b7bf87f3112c762a1a006c426bda3ee36f3aebe61099575f8d944a5b6a"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber (UBER) Stock Looks Cheap On Earnings While Risks Stay Pricey",
-      "url": "https://finnhub.io/api/news?id=004b81ec9014811a823b58608e13dbbbb129890a5c4721d19f08239b4030ac9e"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit (RDDT) Earnings Beat Fails to Impress as Stock Slides 7% in After-Hours Trading",
-      "url": "https://finnhub.io/api/news?id=fbbd21784c3e505799c38d65804efe3b90565a6edcfae61e0502d024dd7416ae"
+      "headline": "Reddit CEO Says Long Term We Are As Confident As Ever That We're Going To Get To Those Milestones That We've Set But The Work Does Take Time; The Range Of Outcomes Is Wide On Data Licensing; One Of The Things That We've Seen Over The Last Year Is More And More People Interested In Reddit's Data For Different Use Cases",
+      "url": "https://finnhub.io/api/news?id=ae70fd29350e029e9edaeba09e5cce837d31e78e455ae2a23b2908e88650f9e0"
     }
   ]
 }
