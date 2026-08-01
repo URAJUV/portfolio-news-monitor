@@ -50,6 +50,26 @@
       "stock": "RDDT",
       "headline": "Oppenheimer Maintains Outperform on Reddit, Lowers Price Target to $200",
       "url": "https://finnhub.io/api/news?id=aac52d562522b89eabee89dec4e2d212ca469c5a1833d5243b5073c26d5851a2"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron (MU) Faces An AI Memory Squeeze As Samsung Sees Shortages Lasting Longer",
+      "url": "https://finnhub.io/api/news?id=61e48d3fe91bf95fb1a74bf44fbfaf992fae1ded33a51b0aa25bb35de64fd16d"
+    },
+    {
+      "stock": "UBER",
+      "headline": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
+      "url": "https://finnhub.io/api/news?id=e4cb926bf0be07df6b11b28b6d49b9290ff6b95a6d81b8dfb9063c26a93be0aa"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Is 43% Below Its 52-Week High at 20 Times Forward Earnings. Where Will the Stock Be in 3 Years?",
+      "url": "https://finnhub.io/api/news?id=03ce80c358211eb020263181afc42ad8de986cebcba622b14313dfeac1eeb12b"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "B. Riley Securities Maintains Buy on Reddit, Raises Price Target to $270",
+      "url": "https://finnhub.io/api/news?id=e002b80d82c14c55cfa791aed455b7d523ddd613ea9c83392918cd6fc36bd1b8"
     }
   ]
 }
