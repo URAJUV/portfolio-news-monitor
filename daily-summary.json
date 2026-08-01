@@ -95,6 +95,21 @@
       "stock": "RDDT",
       "headline": "Reddit: Secretly An AI Company",
       "url": "https://finnhub.io/api/news?id=6ffc8ef11ece0031a8eca7cd8354cda1f1bb0a6dc15b8a9df23e494f77a0a572"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth",
+      "url": "https://finnhub.io/api/news?id=d6c2d8311e80e499363328e31d436387786100b5a8afd235145a0b634ed99eca"
+    },
+    {
+      "stock": "UBER",
+      "headline": "SpaceX's First Earnings Post IPO",
+      "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "SpaceX's First Earnings Post IPO",
+      "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b"
     }
   ]
 }
