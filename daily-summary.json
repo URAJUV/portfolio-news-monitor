@@ -70,6 +70,16 @@
       "stock": "RDDT",
       "headline": "B. Riley Securities Maintains Buy on Reddit, Raises Price Target to $270",
       "url": "https://finnhub.io/api/news?id=e002b80d82c14c55cfa791aed455b7d523ddd613ea9c83392918cd6fc36bd1b8"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "How Chinese AI Models Could Upend Anthropic, OpenAI, and Nvidia",
+      "url": "https://finnhub.io/api/news?id=4efd4619555e4688a855bfbd2046adac6070cb828447f9971a3f613daba2a7ac"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Is Oracle (ORCL) Using Google’s Gemini Tie-Up To Reframe Its Core AI Investment Narrative?",
+      "url": "https://finnhub.io/api/news?id=6abf97392666813e9e6ce0ed6b384c9e6aa5474ea9e0e5f832bc09c2693a36a1"
     }
   ]
 }
