@@ -25,6 +25,31 @@
       "stock": "GOOGL",
       "headline": "Insurance ETFs Top Defensive Sector Chart In July As Investors Look To Pivot Slightly From Chips And AI",
       "url": "https://finnhub.io/api/news?id=f8dcdd0def118578b70ecba6821d753b2ad86bb062148b401ea90318f40e7f06"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Jim Cramer Believes Cybersecurity Stocks Like Palo Alto & CrowdStrike Will Do Well",
+      "url": "https://finnhub.io/api/news?id=fa15f6ad1aacde2030b675341fd8fe4c295571aa046edf686434971007611d67"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Jeff Bezos Stepped Down as Amazon CEO 5 Years Ago, and the Stock Has Lagged the S&P 500 Since. Could Amazon's 15.3% Gain on July 31 Mark a Turning Point?",
+      "url": "https://finnhub.io/api/news?id=d6fb11d36911bfb76712c417fcfcce797bd7b15fb7a363b9ece699d0154f9da7"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Beyond the Mag 7: Rising Q3 Estimates Signal a Market-Wide Earnings Expansion",
+      "url": "https://finnhub.io/api/news?id=fa1367ee99c5a62836fc6159271047c1c5bd1a98c088765393fb3afb2c541a49"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "'No CEO Hires People Because Their Taxes Got Cut'—Ramit Sethi Says, 'Politicians Have Been Lying To You About Money For Decades'",
+      "url": "https://finnhub.io/api/news?id=6821d8bbcc3cf4d8fb78f431b449da9ea08d3543ed29686ac3a7f5fb181214ee"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Oppenheimer Maintains Outperform on Reddit, Lowers Price Target to $200",
+      "url": "https://finnhub.io/api/news?id=aac52d562522b89eabee89dec4e2d212ca469c5a1833d5243b5073c26d5851a2"
     }
   ]
 }
