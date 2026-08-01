@@ -1,250 +1,30 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "items": [
     {
-      "stock": "COHR",
-      "headline": "AXT Q2 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=a7c48b1399f63d37ce116e580d86945168c29efc37fa5078bf0b5d05f417d76a"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Intel (INTC) Just Expanded Its Foundry Tool Kit For AI Chip Customers",
-      "url": "https://finnhub.io/api/news?id=4a26fbd5c40295fceb6ae5e3347d62aa6a878907df7b68d39ad2a165f1743380"
-    },
-    {
       "stock": "TSLA",
-      "headline": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports",
-      "url": "https://finnhub.io/api/news?id=1823bd423d95f0c240c22ec497f7780eee3606069698414f142327c68248ae6b"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Technologies (UBER) Stock Drops Despite Market Gains: Important Facts to Note",
-      "url": "https://finnhub.io/api/news?id=ad622da65d0cd2e8f31a9e3737090fb59f638ad8c603a89d671de7441a314942"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Autodesk (ADSK) Stock Dips While Market Gains: Key Facts",
-      "url": "https://finnhub.io/api/news?id=a79a01260b96a6764c995e0e202cfb9c2f11c0860c95d30575e413408d6371c1"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Everyone Wants to Build the Best AI Model. Amazon Wants Something More Valuable.",
-      "url": "https://finnhub.io/api/news?id=9ee1769f7520ef116150e9e2ce4af3f915c48cd8365f421ffe6b70a8ebbfac19"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "EPR Properties Q2 2026 Earnings Call Summary",
-      "url": "https://finnhub.io/api/news?id=73a7ca6e01dd693df680319fd9b2779810d3affb8e6301c5ea1b0e8c8daebfc0"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit CEO Says Long Term We Are As Confident As Ever That We're Going To Get To Those Milestones That We've Set But The Work Does Take Time; The Range Of Outcomes Is Wide On Data Licensing; One Of The Things That We've Seen Over The Last Year Is More And More People Interested In Reddit's Data For Different Use Cases",
-      "url": "https://finnhub.io/api/news?id=ae70fd29350e029e9edaeba09e5cce837d31e78e455ae2a23b2908e88650f9e0"
-    },
-    {
-      "stock": "MU",
-      "headline": "AI Chip Selloff Creates Buying Opportunity in Nvidia and Micron Stock",
-      "url": "https://finnhub.io/api/news?id=7a55d115c89baed569de5e80ab818226a0c9062beb2bc73aa6a65e3033f85a66"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Microsoft's AI Pivot Could Be Bigger Win for AI Infrastructure ETFs Than OpenAI Bets",
-      "url": "https://finnhub.io/api/news?id=e662dbe0eb6681be5f96c7f3e541bbd12fd115aeae314cfe2a5fda80fc26c788"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "How AI‑Driven Falcon Demand and M&A Ambitions Could Reshape CrowdStrike Holdings’ (CRWD) Investment Narrative",
-      "url": "https://finnhub.io/api/news?id=8901438385cb910f8fb9360ce08a9cccd2edffc7d23077fb8d59ddff8f0bdc70"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon.com Inc (AMZN) (Q2 2026) Earnings Call Highlights: Record Revenue and AWS Acceleration ...",
-      "url": "https://finnhub.io/api/news?id=c53d0607ab7c79c70d198498570d3e79119505ad3d893771ac71ee23d88af94e"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "TSLA Stock Jumps Overnight: Musk Calls Tesla China-SpaceX Merger Report ‘Absurdly Fake News’ — Says It ‘Never Even Come Up In A Discussion’",
-      "url": "https://finnhub.io/api/news?id=ae48258e28af3e13916c9d386e37def73d53d826b86286d0d41674dde6c3bf4a"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm remains key AI infrastructure beneficiary despite softer handset outlook, Citi says",
-      "url": "https://finnhub.io/api/news?id=61146972fcb3dee3223d12843a67e8fe8144411243b175b7651b73a9210c163a"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Rivian’s turnaround gains traction as R2 demand exceeds expectations",
-      "url": "https://finnhub.io/api/news?id=fd2ef2b807417340d57f855d9b565e8f3f188070fcb7a2f490213f769ba7f050"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Stagwell Inc (STGW) (Q2 2026) Earnings Call Highlights: Record Revenue and AI-Driven Growth ...",
-      "url": "https://finnhub.io/api/news?id=3290289e5898cdbfaa471571c3ef6b5b7c56e62daa3c40d535206aa6569ab26d"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "AMZN Stock Rises After Q2, AWS Beat: CEO Says Even Higher CapEx Won’t Be Enough To Meet Soaring Cloud Demand",
-      "url": "https://finnhub.io/api/news?id=e2fe3b2767a275631e8bd05f4f46f21d928ac274f189e29cd7bd4282bf4a3886"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit, Inc. (RDDT) Q2 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=1f69b267b81ef80d7e29d9986aa530050edbac7a9b6e398083f23d3d71ae6306"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Microsoft's Cloud Blowout Powers Nasdaq, Then Apple And Amazon Split The Megacap Trade All Over Again",
-      "url": "https://finnhub.io/api/news?id=a6073c2686994a4a5d886856e46fb8432496b0fc14fedce5390d5ab44d944ec3"
+      "headline": "Insurance ETFs Top Defensive Sector Chart In July As Investors Look To Pivot Slightly From Chips And AI",
+      "url": "https://finnhub.io/api/news?id=f8dcdd0def118578b70ecba6821d753b2ad86bb062148b401ea90318f40e7f06"
     },
     {
       "stock": "HON",
-      "headline": "Data Center Access Control Market Size, Share & Trends Analysis Report, 2026-2033 Published — 120-Page Study Profiling HID Global, Honeywell, and 12 Others",
-      "url": "https://finnhub.io/api/news?id=020dc96b4335aaeff8031444884a8b5c822a90ff022db1a97ad04c01beb4e7f9"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Sony Group Corporation 2026 Q1 - Results - Earnings Call Presentation",
-      "url": "https://finnhub.io/api/news?id=563d3b958218f909bb61292c3a3f634e9eabb010c643bd366351377bdd572d64"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ: 2 Q&As That Explain My Renewed Bullish Stance (Rating Upgrade)",
-      "url": "https://finnhub.io/api/news?id=81aaba872a462d4c710ea7c00d813c9fb47b60460a3fe42fcc26fd496410f7ef"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Microsoft's Cloud Blowout Powers Nasdaq, Then Apple And Amazon Split The Megacap Trade All Over Again",
-      "url": "https://finnhub.io/api/news?id=a6073c2686994a4a5d886856e46fb8432496b0fc14fedce5390d5ab44d944ec3"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix (NFLX) Secures The Walking Dead Universe Streaming Rights Outside The US",
-      "url": "https://finnhub.io/api/news?id=eea2114f31bff47bab9862a8624887fc7c641d535ce9b1f35f4694913e013149"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Wall Street Breakfast Podcast: Reddit Beat Fails To Trend",
-      "url": "https://finnhub.io/api/news?id=8080679e4cc47e1dd81a577304d2288e3b86a37df5e8eb83bd45a40c9e13f0b4"
-    },
-    {
-      "stock": "TSM",
-      "headline": "BorZen Tien's Recent Buy: Acquires $73K In Taiwan Semiconductor Stock",
-      "url": "https://finnhub.io/api/news?id=018c48edc6866de8a9432cb1519f2e767fd820139c4d77114a4cbc91a50e61ed"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla weighs sale of China business ahead of SpaceX merger",
-      "url": "https://finnhub.io/api/news?id=ea83b97f8071cd73b9d0b11d27bd00f660edf39362690bfaff0289e0dbf32ca7"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm (ARM) Stock Looks Pricey On Book Value Yet Strong On AI Growth",
-      "url": "https://finnhub.io/api/news?id=00b60b2ab5ee75a42261760e1db73c0c1d8e7a8ee0eed3e424e1c5ba06a8d334"
-    },
-    {
-      "stock": "DE",
-      "headline": "Decisive Dividend Corporation Reports Financial Results for the Three and Six Months Ended June 30, 2026",
-      "url": "https://finnhub.io/api/news?id=d575dbbe29830f74e70a92d85a09e8e1f157ffb3aaeb3240a936db3c7bf1f322"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Amazon Shares Surge on Cloud-Driven Quarterly Beat; CapEx Outlook Raised",
-      "url": "https://finnhub.io/api/news?id=e8310ab351527a6f2d5f273736380e5ac360f1290f9b16d40bb3c8b304fac09c"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit COO Says We Saw Strength Across Our Sales Channels, Including Large Customers In Scale; : We Also Saw Strength Across Industry Verticals, Particularly Retail And Travel, While Active Advertisers Grew Over 70% Y/Y; Ads API Revenue Grew Over 40% From Q1 And More Than Half Of Our Revenue Comes From Credit LINE Relationships",
-      "url": "https://finnhub.io/api/news?id=dee1afc7260a6071c52659297c3f9c92f849bacbbaa523620a45cdea0221c825"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Recent Report Shows That Rep. Cleo Fields Bought Up to $15K Worth of Taiwan Semiconductor Stock",
-      "url": "https://finnhub.io/api/news?id=2bd195b80e2ff9330c219b5164161835164386b90196c5628487ee699b47355b"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Delivering Measurable AI Strategies: ICR CEO Anton Nicholas, Live at Nasdaq",
-      "url": "https://finnhub.io/api/news?id=e320fab1ddf87d306e738d4ad77e102b5da9fd40245831e8add6145b1d9216c1"
-    },
-    {
-      "stock": "HON",
-      "headline": "How Investors Are Reacting To Honeywell (HON) EPS Surge and Dividend After Q2 2026 Results",
-      "url": "https://finnhub.io/api/news?id=64274a8733c8754f7badcf2931a1cffc3007c0dd8ce0f6e9c6ae8dc84e53f68e"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Sony Group Corporation (SONY) Q1 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=3101cd152925a0334ccb1e8d166142bc6a425659c67f8e9764dac964905af2a6"
+      "headline": "Why nVent Electric Crushed Estimates Again (Hint: It's Not Just Due to AI Data Centers)",
+      "url": "https://finnhub.io/api/news?id=12a3e24af3d3ad625ebaff02527c5caa116b59aa96d5b70f8b8926a70c390dda"
     },
     {
       "stock": "UBER",
-      "headline": "What Analyst Projections for Key Metrics Reveal About Uber (UBER) Q2 Earnings",
-      "url": "https://finnhub.io/api/news?id=b6d82c32a97ac27e2d442368c6d22c306c67eb18d305171d4424ea7f465876aa"
+      "headline": "Rivian Automotive Q2 Earnings Call Highlights",
+      "url": "https://finnhub.io/api/news?id=b680587b11a98bf88a5e7b1a725e0aa4340b0b3a76d5fd4c76249425b22d4f43"
     },
     {
       "stock": "IBM",
-      "headline": "Where Apple is diverging from rest of Mag 7 earnings",
-      "url": "https://finnhub.io/api/news?id=eebe8c7855238d4f43d6a79c9005656c05f2ca2f9b2c0ae6701ffc2c479e5718"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Trump Administration Unveils $874 Million CHIPS Act AI Push, With GlobalFoundries Securing Top Award",
-      "url": "https://finnhub.io/api/news?id=75638a490dacd78b2b2a52e2425eaf261d6d57c0d8b329ea072343da4801ef72"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain Amid Cooler June PCE Inflation Data and Slower-Than-Expected Q2 GDP—Apple, Amazon, Coinbase in Focus (UPDATED)",
-      "url": "https://finnhub.io/api/news?id=3121d40c6179242a69dafa5747c99d3015585c096042816d4331c4883809a1b4"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Friday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=dc3ff60c01a4cba8c16b37a9d68c917c01a4881bda5a38ec734feab622f76ce3"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Sony Group Raises FY2026 Sales Guidance from $78.425B to $81.699B vs $78.420B Est",
-      "url": "https://finnhub.io/api/news?id=9ea7f040b4262cdcaab859f88c6d51daedbe1df11ac3a812807690ad5024e233"
-    },
-    {
-      "stock": "UBER",
-      "headline": "UBER Set to Report Q2 Earnings: Buy, Sell or Hold the Stock?",
-      "url": "https://finnhub.io/api/news?id=5f7939321f59976735205cbf24dfcd021ae77f1e5e2c572ad777992e18371882"
-    },
-    {
-      "stock": "U",
-      "headline": "Piper Sandler Reiterates Overweight on Unity Software, Raises Price Target to $45",
-      "url": "https://finnhub.io/api/news?id=e910d836b513f120f5d8528568ae7bcf41c2c2e05123eec5b1675faf1665dbdf"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Applied Optoelectronics and Coherent Gain 7%, Lumentum Adds 5% as Risk-On Feeling Spreads to Optics Stocks",
-      "url": "https://finnhub.io/api/news?id=a03604ac6e7b3ffe7f75a1113d1dde5153f3da9ee2a1b114051dbacf6c80772e"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Elon Musk denies claims that Tesla could sell off its China business",
-      "url": "https://finnhub.io/api/news?id=ad3a24e1677e5691f6e441bf2a74a57c79be0db8940a6d670f995aa9c8cbf03b"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Rosenblatt Maintains Buy on ARM Holdings, Lowers Price Target to $250",
-      "url": "https://finnhub.io/api/news?id=c5f4cf66dfb4bf411c2a3657dfa53937b92a59f7700eb04280c5ee15db122faf"
-    },
-    {
-      "stock": "DE",
-      "headline": "John Deere Announces Proposed Two-Year Contract Extension To UAW With Enhanced Wages And Benefits In Early July; Remains Firm On Contract Extension Offer To UAW; Vote On John Deere Contract Extension Offer To UAW Scheduled For Aug. 23",
-      "url": "https://finnhub.io/api/news?id=926e7e3d9b8eb5075585087e16c8575260d5d2a7018feddd808782726163dade"
+      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 2",
+      "url": "https://finnhub.io/api/news?id=b01254886ca04bb4ee2ca13216638f12f5b9bc0c9bbe991af37b4d7b45adc14c"
     },
     {
       "stock": "GOOGL",
-      "headline": "Research Firm Says Big Tech Earnings Just Flipped Valuation Risk",
-      "url": "https://finnhub.io/api/news?id=b18d0bf0ed43c01c4d5d8b83eb2ee5bad8928a6ef31494c8dd15b0590a05c6e5"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "JP Morgan Maintains Neutral on Reddit, Lowers Price Target to $185",
-      "url": "https://finnhub.io/api/news?id=cc639fb9e90804fbd9a8ee92c58b33a4c9663d82291be8b4bf373dd814f527a3"
+      "headline": "Insurance ETFs Top Defensive Sector Chart In July As Investors Look To Pivot Slightly From Chips And AI",
+      "url": "https://finnhub.io/api/news?id=f8dcdd0def118578b70ecba6821d753b2ad86bb062148b401ea90318f40e7f06"
     }
   ]
 }
