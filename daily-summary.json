@@ -80,6 +80,21 @@
       "stock": "GOOGL",
       "headline": "Is Oracle (ORCL) Using Google’s Gemini Tie-Up To Reframe Its Core AI Investment Narrative?",
       "url": "https://finnhub.io/api/news?id=6abf97392666813e9e6ce0ed6b384c9e6aa5474ea9e0e5f832bc09c2693a36a1"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon’s Andy Jassy sees a $1 trillion cloud built on businesses like the PGA Tour—which swapped its server trucks for AI broadcasts",
+      "url": "https://finnhub.io/api/news?id=d61f1b6e37b14a1547d792b1b38243e2c9a514111a99dec48103d5b73ca506a8"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
+      "url": "https://finnhub.io/api/news?id=d27cf4f6cf11cd56422632b9e9e0bafc90afdeeb09b0639649ab2e253ff586a4"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit: Secretly An AI Company",
+      "url": "https://finnhub.io/api/news?id=6ffc8ef11ece0031a8eca7cd8354cda1f1bb0a6dc15b8a9df23e494f77a0a572"
     }
   ]
 }
