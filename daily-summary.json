@@ -125,6 +125,26 @@
       "stock": "IBM",
       "headline": "IBM CEO sends blunt message on quantum computing",
       "url": "https://finnhub.io/api/news?id=6d76b173f4dc56ec55a5288b83f422673da26e048cdd7138d2781b9490edc3e8"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb",
+      "url": "https://finnhub.io/api/news?id=aa279fcdc74385c4ce84c3cbf08930b5481f27af7343e1c36e115bcdf521e97a"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb",
+      "url": "https://finnhub.io/api/news?id=aa279fcdc74385c4ce84c3cbf08930b5481f27af7343e1c36e115bcdf521e97a"
+    },
+    {
+      "stock": "IBM",
+      "headline": "What ACN Holders Got Paid While The Stock Fell Behind",
+      "url": "https://finnhub.io/api/news?id=f25904f1d4e07f44c869916a1224cc3e1e488da718d9c182150ea275b0b4045a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Here's What Morgan Stanley Says About Buying the AI Infrastructure Dip",
+      "url": "https://finnhub.io/api/news?id=a18b93b38c74fc94c2f9fa6b74fbd2a5c239c324519e5680d7cbd388f3ca9d42"
     }
   ]
 }
