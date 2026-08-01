@@ -110,6 +110,21 @@
       "stock": "GOOGL",
       "headline": "SpaceX's First Earnings Post IPO",
       "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b"
+    },
+    {
+      "stock": "MU",
+      "headline": "The AI Memory Boom Just Got a Reality Check—And a Better Entry Point",
+      "url": "https://finnhub.io/api/news?id=b674836f78863908263d25b1a9f487c83203bfe8448fab1ab427655e193e0c9f"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?",
+      "url": "https://finnhub.io/api/news?id=1e2c339eafae480d4859aeb538229c2e26ac46f8adf813b3e151d84db92c603a"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM CEO sends blunt message on quantum computing",
+      "url": "https://finnhub.io/api/news?id=6d76b173f4dc56ec55a5288b83f422673da26e048cdd7138d2781b9490edc3e8"
     }
   ]
 }
