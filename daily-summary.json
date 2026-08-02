@@ -1,150 +1,15 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "items": [
     {
-      "stock": "TSLA",
-      "headline": "Insurance ETFs Top Defensive Sector Chart In July As Investors Look To Pivot Slightly From Chips And AI",
-      "url": "https://finnhub.io/api/news?id=f8dcdd0def118578b70ecba6821d753b2ad86bb062148b401ea90318f40e7f06"
-    },
-    {
-      "stock": "HON",
-      "headline": "Why nVent Electric Crushed Estimates Again (Hint: It's Not Just Due to AI Data Centers)",
-      "url": "https://finnhub.io/api/news?id=12a3e24af3d3ad625ebaff02527c5caa116b59aa96d5b70f8b8926a70c390dda"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Rivian Automotive Q2 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=b680587b11a98bf88a5e7b1a725e0aa4340b0b3a76d5fd4c76249425b22d4f43"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 2",
-      "url": "https://finnhub.io/api/news?id=b01254886ca04bb4ee2ca13216638f12f5b9bc0c9bbe991af37b4d7b45adc14c"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Insurance ETFs Top Defensive Sector Chart In July As Investors Look To Pivot Slightly From Chips And AI",
-      "url": "https://finnhub.io/api/news?id=f8dcdd0def118578b70ecba6821d753b2ad86bb062148b401ea90318f40e7f06"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Jim Cramer Believes Cybersecurity Stocks Like Palo Alto & CrowdStrike Will Do Well",
-      "url": "https://finnhub.io/api/news?id=fa15f6ad1aacde2030b675341fd8fe4c295571aa046edf686434971007611d67"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Jeff Bezos Stepped Down as Amazon CEO 5 Years Ago, and the Stock Has Lagged the S&P 500 Since. Could Amazon's 15.3% Gain on July 31 Mark a Turning Point?",
-      "url": "https://finnhub.io/api/news?id=d6fb11d36911bfb76712c417fcfcce797bd7b15fb7a363b9ece699d0154f9da7"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Beyond the Mag 7: Rising Q3 Estimates Signal a Market-Wide Earnings Expansion",
-      "url": "https://finnhub.io/api/news?id=fa1367ee99c5a62836fc6159271047c1c5bd1a98c088765393fb3afb2c541a49"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "'No CEO Hires People Because Their Taxes Got Cut'—Ramit Sethi Says, 'Politicians Have Been Lying To You About Money For Decades'",
-      "url": "https://finnhub.io/api/news?id=6821d8bbcc3cf4d8fb78f431b449da9ea08d3543ed29686ac3a7f5fb181214ee"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Oppenheimer Maintains Outperform on Reddit, Lowers Price Target to $200",
-      "url": "https://finnhub.io/api/news?id=aac52d562522b89eabee89dec4e2d212ca469c5a1833d5243b5073c26d5851a2"
-    },
-    {
       "stock": "MU",
-      "headline": "Micron (MU) Faces An AI Memory Squeeze As Samsung Sees Shortages Lasting Longer",
-      "url": "https://finnhub.io/api/news?id=61e48d3fe91bf95fb1a74bf44fbfaf992fae1ded33a51b0aa25bb35de64fd16d"
-    },
-    {
-      "stock": "UBER",
-      "headline": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
-      "url": "https://finnhub.io/api/news?id=e4cb926bf0be07df6b11b28b6d49b9290ff6b95a6d81b8dfb9063c26a93be0aa"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix Is 43% Below Its 52-Week High at 20 Times Forward Earnings. Where Will the Stock Be in 3 Years?",
-      "url": "https://finnhub.io/api/news?id=03ce80c358211eb020263181afc42ad8de986cebcba622b14313dfeac1eeb12b"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "B. Riley Securities Maintains Buy on Reddit, Raises Price Target to $270",
-      "url": "https://finnhub.io/api/news?id=e002b80d82c14c55cfa791aed455b7d523ddd613ea9c83392918cd6fc36bd1b8"
+      "headline": "Silicon Motion Crushed Earnings and Surprised Memory Chip Bears",
+      "url": "https://finnhub.io/api/news?id=5b7f97c75f4fd37312fb960e4cb8e7844949cb5fd746fd796f64e2081ca10bb9"
     },
     {
       "stock": "AMZN",
-      "headline": "How Chinese AI Models Could Upend Anthropic, OpenAI, and Nvidia",
-      "url": "https://finnhub.io/api/news?id=4efd4619555e4688a855bfbd2046adac6070cb828447f9971a3f613daba2a7ac"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Is Oracle (ORCL) Using Google’s Gemini Tie-Up To Reframe Its Core AI Investment Narrative?",
-      "url": "https://finnhub.io/api/news?id=6abf97392666813e9e6ce0ed6b384c9e6aa5474ea9e0e5f832bc09c2693a36a1"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon’s Andy Jassy sees a $1 trillion cloud built on businesses like the PGA Tour—which swapped its server trucks for AI broadcasts",
-      "url": "https://finnhub.io/api/news?id=d61f1b6e37b14a1547d792b1b38243e2c9a514111a99dec48103d5b73ca506a8"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
-      "url": "https://finnhub.io/api/news?id=d27cf4f6cf11cd56422632b9e9e0bafc90afdeeb09b0639649ab2e253ff586a4"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit: Secretly An AI Company",
-      "url": "https://finnhub.io/api/news?id=6ffc8ef11ece0031a8eca7cd8354cda1f1bb0a6dc15b8a9df23e494f77a0a572"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth",
-      "url": "https://finnhub.io/api/news?id=d6c2d8311e80e499363328e31d436387786100b5a8afd235145a0b634ed99eca"
-    },
-    {
-      "stock": "UBER",
-      "headline": "SpaceX's First Earnings Post IPO",
-      "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "SpaceX's First Earnings Post IPO",
-      "url": "https://finnhub.io/api/news?id=9de17a5f3bdcc68bc05d4cf666a8e11bd0e6515b1992fd4959b95b7838d3aa1b"
-    },
-    {
-      "stock": "MU",
-      "headline": "The AI Memory Boom Just Got a Reality Check—And a Better Entry Point",
-      "url": "https://finnhub.io/api/news?id=b674836f78863908263d25b1a9f487c83203bfe8448fab1ab427655e193e0c9f"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?",
-      "url": "https://finnhub.io/api/news?id=1e2c339eafae480d4859aeb538229c2e26ac46f8adf813b3e151d84db92c603a"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM CEO sends blunt message on quantum computing",
-      "url": "https://finnhub.io/api/news?id=6d76b173f4dc56ec55a5288b83f422673da26e048cdd7138d2781b9490edc3e8"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb",
-      "url": "https://finnhub.io/api/news?id=aa279fcdc74385c4ce84c3cbf08930b5481f27af7343e1c36e115bcdf521e97a"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb",
-      "url": "https://finnhub.io/api/news?id=aa279fcdc74385c4ce84c3cbf08930b5481f27af7343e1c36e115bcdf521e97a"
-    },
-    {
-      "stock": "IBM",
-      "headline": "What ACN Holders Got Paid While The Stock Fell Behind",
-      "url": "https://finnhub.io/api/news?id=f25904f1d4e07f44c869916a1224cc3e1e488da718d9c182150ea275b0b4045a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Here's What Morgan Stanley Says About Buying the AI Infrastructure Dip",
-      "url": "https://finnhub.io/api/news?id=a18b93b38c74fc94c2f9fa6b74fbd2a5c239c324519e5680d7cbd388f3ca9d42"
+      "headline": "Amazon (AMZN) Stock Fair Value Edges Higher After AWS And AI Price Target Debate",
+      "url": "https://finnhub.io/api/news?id=7df3286d32b1105dccf0efc2db6c0eee4c36e592750ace8d0e84109698acf3a2"
     }
   ]
 }
