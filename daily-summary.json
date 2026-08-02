@@ -50,6 +50,16 @@
       "stock": "AMZN",
       "headline": "Warren Buffett Passed on This Stock for Over 7 Years. Greg Abel May Not Wait Any Longer.",
       "url": "https://finnhub.io/api/news?id=74c8e87e43806f57beb4d4cc80b3a20dc53e55f804cd98ee27415c7c067881bb"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "JPMorgan resets Amazon stock target after AI payoff",
+      "url": "https://finnhub.io/api/news?id=a8d38a805cab43ec8cb5ef3949ae31e521f1b2d523e8dd27876e57bf92b6974f"
+    },
+    {
+      "stock": "DE",
+      "headline": "Labor Union Pushes Back Hard Against Deere's Early Contract Proposal",
+      "url": "https://finnhub.io/api/news?id=587f2563fab2e5d91e61cb2f97914eb6d760800543fed8864f5deff3f75ca9e5"
     }
   ]
 }
