@@ -10,6 +10,26 @@
       "stock": "AMZN",
       "headline": "Amazon (AMZN) Stock Fair Value Edges Higher After AWS And AI Price Target Debate",
       "url": "https://finnhub.io/api/news?id=7df3286d32b1105dccf0efc2db6c0eee4c36e592750ace8d0e84109698acf3a2"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon Raised 2026 CapEx by $20 Billion— but CEO Andy Jassy Won't Say How It's Paying for It: 'Nothing to Share...'",
+      "url": "https://finnhub.io/api/news?id=1ddb4b4682166b3045feb965448ddb9dbcff3dcd38a05c99ba180a81cacd1343"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla (TSLA) Explores China Split As SpaceX Merger Talk Draws Attention",
+      "url": "https://finnhub.io/api/news?id=5bd92a491deaf95e8f0d6d0bb91d06423972d6735156ceb1d440e72ffafe6803"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Reddit Stock Tumbles as CEO Says Google Search Referrals Were 'Choppy,' Pushes Users to Its App",
+      "url": "https://finnhub.io/api/news?id=c0752daf978d5d852fe73fdc9ee57818a0d350567bff836bd99ddd878d6dffe9"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "With Paramount's Acquisition of Warner Bros. on Hold and Netflix Down 38%, Is Netflix Stock Finally a Buy?",
+      "url": "https://finnhub.io/api/news?id=e22adfbbbd24606af2a1627d0244a7498dcb74c5fc6b2f23d7ea72005d364065"
     }
   ]
 }
