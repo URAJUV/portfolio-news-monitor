@@ -30,6 +30,31 @@
       "stock": "UBER",
       "headline": "Wall Street Is Rewarding AI Results, Not Just AI Spending",
       "url": "https://finnhub.io/api/news?id=2ccba22ec049ccd150fdb6f88563d63ce862236aeb06a8c2bc67ae5997793727"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike 2026 Threat Hunting Report: AI is Now Embedded Across Modern Adversary Operations",
+      "url": "https://finnhub.io/api/news?id=9d563562aaa9299cc95d20271eb55564b497a800bb9c38db40fc442bb2e01823"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "US Equity Investors to Focus on Quarterly Earnings, Nonfarm Payrolls, Iran Geopolitics This Week",
+      "url": "https://finnhub.io/api/news?id=b11d17b74a6242fbb4adb29300c127e2e3e60777041df10bff742b9ef5cdb313"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Earnings, PMI and Other Key Things to Watch this Week",
+      "url": "https://finnhub.io/api/news?id=76b29023b205127f17abac539d6fe371910583b31adc20a06953b4913097cc1d"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics: Ramping Towards Billions (Earnings Preview)",
+      "url": "https://finnhub.io/api/news?id=f49b462744185d564ff762ffd497f4586c10382f8763d2e5cb7ac59a9568c2ae"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Constellation Software: Relatively Insulated From AI And At A Bargain Price",
+      "url": "https://finnhub.io/api/news?id=7b411dbae91d94688e09eda6abcdbf3558c79315f359670b81ca7107ebdf5586"
     }
   ]
 }
