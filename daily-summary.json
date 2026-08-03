@@ -55,6 +55,31 @@
       "stock": "TEAM",
       "headline": "Constellation Software: Relatively Insulated From AI And At A Bargain Price",
       "url": "https://finnhub.io/api/news?id=7b411dbae91d94688e09eda6abcdbf3558c79315f359670b81ca7107ebdf5586"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Software catches a bid as investors rotate ahead of Palantir earnings",
+      "url": "https://finnhub.io/api/news?id=a1dcd14ee268fb033aff25433dde958a4efff07d46ff653d540f321071cac9ea"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon enters $3 trillion club as AI optimism sweeps through Wall Street",
+      "url": "https://finnhub.io/api/news?id=7a1de69fe87b1ee907cc790ac500b4de042a5cc0d016a531f9738a33f967117d"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Microsoft: The Gaming Sun Will Rise Again",
+      "url": "https://finnhub.io/api/news?id=f2fc755be52c51a9ac898833fef87edb0c9b2f62e190c92353ae154806f40a1d"
+    },
+    {
+      "stock": "DE",
+      "headline": "CNH Industrial (CNH) Q2 Earnings and Revenues Beat Estimates",
+      "url": "https://finnhub.io/api/news?id=f64b759052bfa67bfe5aad43761cc6509332ecc84bf6379dab263eea587383cb"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Microsoft and Alphabet Can Absorb an AI Shock. Oracle Is the One to Watch.",
+      "url": "https://finnhub.io/api/news?id=a154dfcbf04da8f356a1f1449c4df8889bfad38530523a7d1b990b25b0e262e7"
     }
   ]
 }
