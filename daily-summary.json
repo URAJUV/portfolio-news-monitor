@@ -1,80 +1,15 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Silicon Motion Crushed Earnings and Surprised Memory Chip Bears",
-      "url": "https://finnhub.io/api/news?id=5b7f97c75f4fd37312fb960e4cb8e7844949cb5fd746fd796f64e2081ca10bb9"
-    },
-    {
       "stock": "AMZN",
-      "headline": "Amazon (AMZN) Stock Fair Value Edges Higher After AWS And AI Price Target Debate",
-      "url": "https://finnhub.io/api/news?id=7df3286d32b1105dccf0efc2db6c0eee4c36e592750ace8d0e84109698acf3a2"
+      "headline": "Is Amazon Stock a Buy After CEO Andy Jassy's $1 Trillion AWS Revenue Prediction?",
+      "url": "https://finnhub.io/api/news?id=a891343e22d1c24bfe01cfb0367caff1112625c1a6b1319719c2f04af379d8ba"
     },
     {
-      "stock": "AMZN",
-      "headline": "Amazon Raised 2026 CapEx by $20 Billion— but CEO Andy Jassy Won't Say How It's Paying for It: 'Nothing to Share...'",
-      "url": "https://finnhub.io/api/news?id=1ddb4b4682166b3045feb965448ddb9dbcff3dcd38a05c99ba180a81cacd1343"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla (TSLA) Explores China Split As SpaceX Merger Talk Draws Attention",
-      "url": "https://finnhub.io/api/news?id=5bd92a491deaf95e8f0d6d0bb91d06423972d6735156ceb1d440e72ffafe6803"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Reddit Stock Tumbles as CEO Says Google Search Referrals Were 'Choppy,' Pushes Users to Its App",
-      "url": "https://finnhub.io/api/news?id=c0752daf978d5d852fe73fdc9ee57818a0d350567bff836bd99ddd878d6dffe9"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "With Paramount's Acquisition of Warner Bros. on Hold and Netflix Down 38%, Is Netflix Stock Finally a Buy?",
-      "url": "https://finnhub.io/api/news?id=e22adfbbbd24606af2a1627d0244a7498dcb74c5fc6b2f23d7ea72005d364065"
-    },
-    {
-      "stock": "MU",
-      "headline": "Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy in August",
-      "url": "https://finnhub.io/api/news?id=f7b7d2614829f459ba5e7737ad04dc3c9e53640949c05b1044512f4d29f9e24c"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching.",
-      "url": "https://finnhub.io/api/news?id=4c36f48ecfe6b4c9140a55d9d9f0f8f9e810a87611cf56b3397d39789ceb650f"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy in August",
-      "url": "https://finnhub.io/api/news?id=f7b7d2614829f459ba5e7737ad04dc3c9e53640949c05b1044512f4d29f9e24c"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Warren Buffett Passed on This Stock for Over 7 Years. Greg Abel May Not Wait Any Longer.",
-      "url": "https://finnhub.io/api/news?id=74c8e87e43806f57beb4d4cc80b3a20dc53e55f804cd98ee27415c7c067881bb"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "JPMorgan resets Amazon stock target after AI payoff",
-      "url": "https://finnhub.io/api/news?id=a8d38a805cab43ec8cb5ef3949ae31e521f1b2d523e8dd27876e57bf92b6974f"
-    },
-    {
-      "stock": "DE",
-      "headline": "Labor Union Pushes Back Hard Against Deere's Early Contract Proposal",
-      "url": "https://finnhub.io/api/news?id=587f2563fab2e5d91e61cb2f97914eb6d760800543fed8864f5deff3f75ca9e5"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Big Tech’s $2 trillion AI shakeout just changed everything",
-      "url": "https://finnhub.io/api/news?id=3bc099de1acd05440a0f9dfbc883d811885a80cb3bf5d6c795a832644ae9e0ef"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Why Morgan Stanley won’t call Rivian a buy despite upgrade",
-      "url": "https://finnhub.io/api/news?id=f13854067cb8a12b9b76704656f8ce1b40c36cb7a10c99cb2bd7e72e19a71efc"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Big Tech’s $2 trillion AI shakeout just changed everything",
-      "url": "https://finnhub.io/api/news?id=3bc099de1acd05440a0f9dfbc883d811885a80cb3bf5d6c795a832644ae9e0ef"
+      "stock": "UBER",
+      "headline": "Uber (UBER) Faces Wrongful Death Lawsuit Over Fatal Uber Eats Delivery",
+      "url": "https://finnhub.io/api/news?id=5ba46982d8d37054db66b4a3a49252f697371e44f4055a38a4a71c9627e3eec3"
     }
   ]
 }
