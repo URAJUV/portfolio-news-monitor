@@ -225,6 +225,46 @@
       "stock": "IBM",
       "headline": "Tuesday's session: top gainers and losers in the dow jones index",
       "url": "https://finnhub.io/api/news?id=30905f0760c72cb9500a521fd9bc31fde32949ac88ad843d045fab1c8fb20a6c"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Shoals Technologies Group, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://finnhub.io/api/news?id=aac65f302727456df43ced51ed3f0359d0c3583d59dcd201a708b8ac722e5d84"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Live On CNBC, Rob Sechan Announces Bought ServiceNow; Sold Adobe",
+      "url": "https://finnhub.io/api/news?id=f816f6efbe082c3c12f86178f3398da159528951868c2665acbe20b9cafe141d"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Shares of companies in the broader semiconductor sector are trading nigher, rebounding after Thursday's weakness. Additionally, stocks across sectors are rising after NY Fed President Williams indicated he sees room for a further policy adjustment in the near term.",
+      "url": "https://finnhub.io/api/news?id=7458536a30c24259ca5b2aeb0b0fd7ae84b16f95e84f5ce9e430533e09c4ddf4"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk (ADSK): Buy, Sell, or Hold Post Q1 Earnings?",
+      "url": "https://finnhub.io/api/news?id=62a10a0f576493038f8f940ff3bd286585a67d67b4081efddba3c2c687102709"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Live On CNBC, Rob Sechan Announces Bought ServiceNow; Sold Adobe",
+      "url": "https://finnhub.io/api/news?id=f816f6efbe082c3c12f86178f3398da159528951868c2665acbe20b9cafe141d"
+    },
+    {
+      "stock": "U",
+      "headline": "Live On CNBC, Rob Sechan Announces Bought ServiceNow; Sold Adobe",
+      "url": "https://finnhub.io/api/news?id=f816f6efbe082c3c12f86178f3398da159528951868c2665acbe20b9cafe141d"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "SpaceX Second-Quarter Loss Narrows, Revenue Tops Views on Connectivity, AI Gains",
+      "url": "https://finnhub.io/api/news?id=ee9f57d4fd603dcdfd22b85a503e0de3224d1db79d2c8f67bcf8feebb82ddb52"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Live On CNBC, Rob Sechan Announces Bought ServiceNow; Sold Adobe",
+      "url": "https://finnhub.io/api/news?id=f816f6efbe082c3c12f86178f3398da159528951868c2665acbe20b9cafe141d"
     }
   ]
 }
