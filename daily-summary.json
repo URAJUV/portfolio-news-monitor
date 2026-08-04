@@ -30,6 +30,51 @@
       "stock": "GOOGL",
       "headline": "The Sharpest Exchanges From META's Earnings Call",
       "url": "https://finnhub.io/api/news?id=da9d5c65a200dc2a462a4461ec00f7a94043e9f85faf6f3055e82915a43a54b7"
+    },
+    {
+      "stock": "MU",
+      "headline": "Own The AI Boom? NVIDIA's Story vs. Micron's Contracts",
+      "url": "https://finnhub.io/api/news?id=0a95889d8262d6f2a3c5057ae191a4f3fb6616710c8efaa58a1ebb573335eead"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Cerebras Systems: A Leading AI Semiconductor Company",
+      "url": "https://finnhub.io/api/news?id=6b7d2de041ebea22ff0b89a18d6c567a67f813e3e9fb1c06e2fd30ff7936336a"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent: The Mix Flipped To AI Optics, Yet The Stock Keeps Falling",
+      "url": "https://finnhub.io/api/news?id=7d9055b415d37c2de5bd565e2914370baf258c623a5f38f78a50737bb2aa1878"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits",
+      "url": "https://finnhub.io/api/news?id=025d1b60c8656ec9ef57f2765f75d81a6a113ae49811fa2d9b30a35287ac98f7"
+    },
+    {
+      "stock": "HON",
+      "headline": "Brady Corporation Completes Transformational Acquisition of Honeywell Technologies’ Productivity Solutions and Services Business, Creating Leading Industrial Technology Company",
+      "url": "https://finnhub.io/api/news?id=d5ab089108b5226dac347b9df6e2618d8e2c89b94483f0b2902276f6b70ffe06"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Get Paid 13% A Year To Hold UBER Stock You Already Own",
+      "url": "https://finnhub.io/api/news?id=501168b328c354202fb2b4571cd48835cb73f5539023a71f2e3d599a174af9c4"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Wedbush Assumes D-Wave Quantum at Outperform, Maintains Price Target of $40",
+      "url": "https://finnhub.io/api/news?id=6f2d2d028b97cee6600baa4b7d5591895712ac0a4ed5efb02cccd77d9f4f7420"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Buffett's AI concerns clash with Berkshire's Alphabet buy",
+      "url": "https://finnhub.io/api/news?id=164c9dbb57ec9be9ccb22a8c65bc41e271f591f750356b7c78bc46e49fbce8d8"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix’s stock buybacks: History & impact explained",
+      "url": "https://finnhub.io/api/news?id=e82a5bd47d0b402a01c17a3541bbf05196dc1e7f4fe139229ea3c7ef08921a10"
     }
   ]
 }
