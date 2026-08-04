@@ -1,150 +1,35 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "items": [
     {
-      "stock": "AMZN",
-      "headline": "Is Amazon Stock a Buy After CEO Andy Jassy's $1 Trillion AWS Revenue Prediction?",
-      "url": "https://finnhub.io/api/news?id=a891343e22d1c24bfe01cfb0367caff1112625c1a6b1319719c2f04af379d8ba"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber (UBER) Faces Wrongful Death Lawsuit Over Fatal Uber Eats Delivery",
-      "url": "https://finnhub.io/api/news?id=5ba46982d8d37054db66b4a3a49252f697371e44f4055a38a4a71c9627e3eec3"
-    },
-    {
-      "stock": "MU",
-      "headline": "MU, SNDK, SKHY, DRAM In Focus: Korean Stocks Dip Again, But Morgan Stanley Sees Sharp Growth Ahead",
-      "url": "https://finnhub.io/api/news?id=23987fdd060920ed1d9be9b0b892b4409a4ce611e6ccbc2beab8551438e62218"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
-      "url": "https://finnhub.io/api/news?id=d452ac77315147b55f2d4f482d19015ae63f8d23fcbd4c21e8da30965e04dcaf"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
-      "url": "https://finnhub.io/api/news?id=d452ac77315147b55f2d4f482d19015ae63f8d23fcbd4c21e8da30965e04dcaf"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Wall Street Is Rewarding AI Results, Not Just AI Spending",
-      "url": "https://finnhub.io/api/news?id=2ccba22ec049ccd150fdb6f88563d63ce862236aeb06a8c2bc67ae5997793727"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike 2026 Threat Hunting Report: AI is Now Embedded Across Modern Adversary Operations",
-      "url": "https://finnhub.io/api/news?id=9d563562aaa9299cc95d20271eb55564b497a800bb9c38db40fc442bb2e01823"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "US Equity Investors to Focus on Quarterly Earnings, Nonfarm Payrolls, Iran Geopolitics This Week",
-      "url": "https://finnhub.io/api/news?id=b11d17b74a6242fbb4adb29300c127e2e3e60777041df10bff742b9ef5cdb313"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Earnings, PMI and Other Key Things to Watch this Week",
-      "url": "https://finnhub.io/api/news?id=76b29023b205127f17abac539d6fe371910583b31adc20a06953b4913097cc1d"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Applied Optoelectronics: Ramping Towards Billions (Earnings Preview)",
-      "url": "https://finnhub.io/api/news?id=f49b462744185d564ff762ffd497f4586c10382f8763d2e5cb7ac59a9568c2ae"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Constellation Software: Relatively Insulated From AI And At A Bargain Price",
-      "url": "https://finnhub.io/api/news?id=7b411dbae91d94688e09eda6abcdbf3558c79315f359670b81ca7107ebdf5586"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Software catches a bid as investors rotate ahead of Palantir earnings",
-      "url": "https://finnhub.io/api/news?id=a1dcd14ee268fb033aff25433dde958a4efff07d46ff653d540f321071cac9ea"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon enters $3 trillion club as AI optimism sweeps through Wall Street",
-      "url": "https://finnhub.io/api/news?id=7a1de69fe87b1ee907cc790ac500b4de042a5cc0d016a531f9738a33f967117d"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Microsoft: The Gaming Sun Will Rise Again",
-      "url": "https://finnhub.io/api/news?id=f2fc755be52c51a9ac898833fef87edb0c9b2f62e190c92353ae154806f40a1d"
-    },
-    {
-      "stock": "DE",
-      "headline": "CNH Industrial (CNH) Q2 Earnings and Revenues Beat Estimates",
-      "url": "https://finnhub.io/api/news?id=f64b759052bfa67bfe5aad43761cc6509332ecc84bf6379dab263eea587383cb"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Microsoft and Alphabet Can Absorb an AI Shock. Oracle Is the One to Watch.",
-      "url": "https://finnhub.io/api/news?id=a154dfcbf04da8f356a1f1449c4df8889bfad38530523a7d1b990b25b0e262e7"
-    },
-    {
-      "stock": "MU",
-      "headline": "Analyst Drops Jaw-Dropping Micron Target Hike With a Catch",
-      "url": "https://finnhub.io/api/news?id=b08f1d086c9c3a734389439beed2ae4c093e19bb808446e4c0620edb06ee5b78"
-    },
-    {
       "stock": "TSM",
-      "headline": "SK hynix: Key Strengths In The Agentic AI Era",
-      "url": "https://finnhub.io/api/news?id=baa66d9a7fb10a689443790c39e1d8a23593c2928197f56cb2e96a38874c718c"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "This ETF, The IBD Stock Of The Day, Breaks Out As Cybersecurity Stocks Rebound",
-      "url": "https://finnhub.io/api/news?id=ed7d270fdfa421442ab6eb8a6acd8a5a02da5b96b55f29d9a350ac3213dc7aa6"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Quietly Builds Its Next Big AI Advantage",
-      "url": "https://finnhub.io/api/news?id=02b426d6f068b66b97c3c726c0cc7c9ac3354cec5607e9c442348328e831e9fc"
-    },
-    {
-      "stock": "DE",
-      "headline": "CNH Earnings Were So Good They Pulled Deere Stock Up",
-      "url": "https://finnhub.io/api/news?id=66d6af823522de7f3618ea6ca2417c59d8638823abc79bc7ce15593f447ec2e8"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=d7000975030194dacb6dbca0963193b3e61fb15dfcd3a7bb0f1be8d824315ad1"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Arm Quietly Builds Its Next Big AI Advantage",
-      "url": "https://finnhub.io/api/news?id=02b426d6f068b66b97c3c726c0cc7c9ac3354cec5607e9c442348328e831e9fc"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit Stock Gains Monday: What's Driving the Post-Earnings Rebound?",
-      "url": "https://finnhub.io/api/news?id=66d5b2abf75533a4012532be4289810e58959f6bf20eb3a54ad07d5efadce8e7"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "This Cybersecurity Growth Stock Is Up 40% in 2026, But It's Still a Bargain Compared to CrowdStrike and Palo Alto Networks",
-      "url": "https://finnhub.io/api/news?id=76cc3435302bf605518907a385e7337dcf9f7a4f8e6c4282561f44d312e45879"
+      "headline": "QUICK SPARK: SpaceX Tops Cathie Wood's Shopping List With $26 Million Bet Ahead Of First Earnings",
+      "url": "https://finnhub.io/api/news?id=7b1132cd492389a9192b2336d301bfe89458d452032fe7538cb00dbb156e58c9"
     },
     {
       "stock": "AMZN",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=d7000975030194dacb6dbca0963193b3e61fb15dfcd3a7bb0f1be8d824315ad1"
+      "headline": "The Sharpest Exchanges From META's Earnings Call",
+      "url": "https://finnhub.io/api/news?id=da9d5c65a200dc2a462a4461ec00f7a94043e9f85faf6f3055e82915a43a54b7"
     },
     {
-      "stock": "U",
-      "headline": "RBRK stock has given up its prior gain. Rubrik shares were trading higher after the company reproted better-than-expected Q4 financial results and issued strong FY27 guidance. Also, the company issued Q1 guidance above estimates.",
-      "url": "https://finnhub.io/api/news?id=56b21efaeb0b6d4cda1a51cd3cbc59be86e5ca5049364aed572fbea308161147"
+      "stock": "COHR",
+      "headline": "Photonics: The Next Big AI Investment Opportunity?",
+      "url": "https://finnhub.io/api/news?id=48d74275b07e47923ece6f8bc1acab5e5942abfe2adba67f452d4cf96c8f7d18"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Wedbush Assumes IonQ at Outperform, Maintains Price Target of $75",
+      "url": "https://finnhub.io/api/news?id=39528ac9208f99af5fc1c69feb7ce3a384382348751e2212b0505457edf646ea"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Jim Cramer rethinks Bitcoin after IBM CEO's three-year warning",
+      "url": "https://finnhub.io/api/news?id=eeb139a6b4b73bbe5bc28291c5cbf7aa18d86228e162701f24029d4b16283483"
     },
     {
       "stock": "GOOGL",
-      "headline": "Microsoft Just Proved that AI Spending Can Pay Off. Here's How the Company Separates Itself From Other AI Stocks.",
-      "url": "https://finnhub.io/api/news?id=b032c49beda7a2438cff12dde40bf436374882f07ce8f43811ccf0663049ddc2"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "RBRK stock has given up its prior gain. Rubrik shares were trading higher after the company reproted better-than-expected Q4 financial results and issued strong FY27 guidance. Also, the company issued Q1 guidance above estimates.",
-      "url": "https://finnhub.io/api/news?id=56b21efaeb0b6d4cda1a51cd3cbc59be86e5ca5049364aed572fbea308161147"
+      "headline": "The Sharpest Exchanges From META's Earnings Call",
+      "url": "https://finnhub.io/api/news?id=da9d5c65a200dc2a462a4461ec00f7a94043e9f85faf6f3055e82915a43a54b7"
     }
   ]
 }
