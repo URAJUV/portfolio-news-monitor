@@ -150,6 +150,61 @@
       "stock": "DE",
       "headline": "Zebra Technologies (ZBRA) Beats Q2 Earnings and Revenue Estimates",
       "url": "https://finnhub.io/api/news?id=2b7d3afa5b87099409884d613634eabeb1fec88be1d061fb561026a4068561a5"
+    },
+    {
+      "stock": "MU",
+      "headline": "Liqid Launches the Industry’s Most Advanced CXL Memory Pooling Platform for AI and Scientific Discovery",
+      "url": "https://finnhub.io/api/news?id=ef29727b26586d54217beeba8130efd9d3ebbb1581609172783d26eb33eb9f5a"
+    },
+    {
+      "stock": "TSM",
+      "headline": "AMD Earnings Prediction Market Preview: What Will Lisa Su Say?",
+      "url": "https://finnhub.io/api/news?id=82440ad7792ffb529787182fae08f24196bdfd20ebfbb29bc5ecdcf2deb65a86"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Stock May Be Above Fair Value On AI Threat Report",
+      "url": "https://finnhub.io/api/news?id=7a1098cb615a436a731649f3018e3319bb4771253f7beb3a8d7c5cff5604aaef"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Corning Dropped 25% Over a Month: A Major U.S. Bank Expects 66% Gains Over The Near Term",
+      "url": "https://finnhub.io/api/news?id=e83a99bfbf2175f4b9fd06fba28b7584d72451653e2660912a54adb8e02fb1ad"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Shoals Technologies Gr Q2 2026 Earnings Call: Complete Transcript",
+      "url": "https://finnhub.io/api/news?id=83d012a2167643ca7466302ce306791b56f55ee39a9a3a011998234dbbcb605a"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Semiconductor IP Market to Reach $18.64 Billion by 2032 as AI, Custom Silicon and RISC-V Adoption Accelerate",
+      "url": "https://finnhub.io/api/news?id=939ed0dd57d50ad3220876f11cb1ba2ba66494a2f4c322ab7d9a65f85e92e086"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Caterpillar, Wayfair, Zebra Technologies, Gartner And Other Big Stocks Moving Higher On Tuesday",
+      "url": "https://finnhub.io/api/news?id=6cf1c194df61e099f9ae9ce5d8de327c37a2fc168cfeb333196537ade9ecb3bf"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Ex-Uber boss Travis Kalanick lands air taxi 'vertiport' deal with Joby",
+      "url": "https://finnhub.io/api/news?id=d514e1801b054dc065b006bea29ca41e0590c8113883bd985350e7a33abab640"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics Shares Jump Following Proposed Ban on Chinese AI Hardware",
+      "url": "https://finnhub.io/api/news?id=ca8b23d0b74a12af7b1d8446cab13a13d69a4881a71c186de4f7bf9a2c716075"
+    },
+    {
+      "stock": "IBM",
+      "headline": "International Business Machines (IBM) Price Target Decreased by 15.18% to 248.19",
+      "url": "https://finnhub.io/api/news?id=4b5caaaa8be33a153ed8fa542b9710659b6e47f27b4a80311a548262d77fe622"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Amazon.com Stock Is Cheaper Than The Market On Earnings And Pricier On Cash",
+      "url": "https://finnhub.io/api/news?id=99c620daa4a943530d1e19ae62aa1c6cefa61f6c9bd6922d7d989af49636ce49"
     }
   ]
 }
