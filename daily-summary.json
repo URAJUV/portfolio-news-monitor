@@ -205,6 +205,26 @@
       "stock": "NFLX",
       "headline": "Amazon.com Stock Is Cheaper Than The Market On Earnings And Pricier On Cash",
       "url": "https://finnhub.io/api/news?id=99c620daa4a943530d1e19ae62aa1c6cefa61f6c9bd6922d7d989af49636ce49"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Above Security Announces Strategic Investment from the CrowdStrike Falcon Fund, Furthering Its Mission to Democratize Elite Insider Risk Management",
+      "url": "https://finnhub.io/api/news?id=4c100a5d19dcc55441c9bdd754c73b52ea33a65935ad6a162ae6f3a1dc2b47b9"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Shoals Technologies Group, Inc. (SHLS) Q2 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=6c3216a6254a4833e30c630e97ce6e31104348c6f1621857a478d0af5c1afa7d"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Jumps More Than 11%: Data Center Royalty Growth Drives Post-Selloff Semiconductor Rally",
+      "url": "https://finnhub.io/api/news?id=642413559b00149a2b71e8da4da142fcfaed48b8667747d630608015e4944183"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Tuesday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=30905f0760c72cb9500a521fd9bc31fde32949ac88ad843d045fab1c8fb20a6c"
     }
   ]
 }
