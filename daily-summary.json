@@ -75,6 +75,36 @@
       "stock": "NFLX",
       "headline": "Netflix’s stock buybacks: History & impact explained",
       "url": "https://finnhub.io/api/news?id=e82a5bd47d0b402a01c17a3541bbf05196dc1e7f4fe139229ea3c7ef08921a10"
+    },
+    {
+      "stock": "MU",
+      "headline": "Is Micron Technology (MU) A Bargain Following New Memory Capacity Risks?",
+      "url": "https://finnhub.io/api/news?id=13323b45538458690c7d388e9ef406ea21ff73f342eb270d625c551a67a594e3"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent (COHR) Stock Trades At A Discount On Cash Flow But A Premium On Earnings",
+      "url": "https://finnhub.io/api/news?id=c7152fd768650b22e35c0ab2f8ccc3f5a2fd459d0b75ea6ec30ced20b04ff73d"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Amazon And Microsoft Ace Wall Street’s AI Test — Analyst Warns ‘Mag Seven’ Now Faces A ‘Higher Burden Of Proof’",
+      "url": "https://finnhub.io/api/news?id=177b851151185a1b47a24a78ef065c3915444700b2879dc522d911a2f580231a"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Aerospace to Post Q2 Earnings: Here's What to Expect",
+      "url": "https://finnhub.io/api/news?id=e1c8e429d0f952804724c6cdc49f3088edab81021439078aa7b8fe89db13f067"
+    },
+    {
+      "stock": "IBM",
+      "headline": "ETFs in Spotlight as IBM Rallies Post-Q2 Earnings Despite Top-Line Miss",
+      "url": "https://finnhub.io/api/news?id=d1b65f609b874d16b7e4377b13f6d3dc3bac35ddd384b02831d83e7b1b51e250"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Amazon And Microsoft Ace Wall Street’s AI Test — Analyst Warns ‘Mag Seven’ Now Faces A ‘Higher Burden Of Proof’",
+      "url": "https://finnhub.io/api/news?id=177b851151185a1b47a24a78ef065c3915444700b2879dc522d911a2f580231a"
     }
   ]
 }
