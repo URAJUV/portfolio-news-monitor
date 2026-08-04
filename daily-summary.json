@@ -125,6 +125,31 @@
       "stock": "GOOGL",
       "headline": "3 Stocks to Buy as AI Infrastructure Continues to Surge",
       "url": "https://finnhub.io/api/news?id=4f757ecc1b69a67cd4cbf12025c3c64b6d1323c3485f6f20da26d87f5deb3db3"
+    },
+    {
+      "stock": "MU",
+      "headline": "Dow hits record, Palantir stock jumps 16% on Q2 earnings",
+      "url": "https://finnhub.io/api/news?id=74fc1f955e9c6d2f10baaad1479ff1bd6b23e6b22b967ce59ef2acfe22f3b39f"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "131 Poisoned AI Packages Hit Microsoft’s (MSFT) npm. CrowdStrike (CRWD) Couldn’t Ask for a Better Sales Pitch",
+      "url": "https://finnhub.io/api/news?id=abe7bf1e08aaec83aeb68bcf4c97b0e714cef1d492f334a7eb197b06d33d2671"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Applied Optoelectronics Rockets 17%, Coherent Climbs 11%, Lumentum Gains 6% on Reported U.S. Ban of Chinese Optics",
+      "url": "https://finnhub.io/api/news?id=c33011dc11ae5522238c4c21775df4f8dab2bb95330d14e1b0b59cf36df65b52"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Tuesday's pre-market session: top gainers and losers",
+      "url": "https://finnhub.io/api/news?id=07b953056bf581ec0d88208b2fa6ac5a419f74b96ee34cead2b2bbefdd120e41"
+    },
+    {
+      "stock": "DE",
+      "headline": "Zebra Technologies (ZBRA) Beats Q2 Earnings and Revenue Estimates",
+      "url": "https://finnhub.io/api/news?id=2b7d3afa5b87099409884d613634eabeb1fec88be1d061fb561026a4068561a5"
     }
   ]
 }
