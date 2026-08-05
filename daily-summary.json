@@ -125,6 +125,26 @@
       "stock": "GOOGL",
       "headline": "Got $500? 2 Magnificent AI Stocks to Buy Hand Over Fist Before the Anthropic IPO",
       "url": "https://finnhub.io/api/news?id=88ab65418b484bc1f588fe8b66fefa5cc254e4f662f7805acf8436659b29963d"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "The companies defying macro uncertainty and raising guidance: AlphaCheck",
+      "url": "https://finnhub.io/api/news?id=fa6da8c7216714237df7ad2060c3a28e7dc5cec383d3d2fe089ac3c85ce9e88b"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent (COHR) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+      "url": "https://finnhub.io/api/news?id=cc978b1cd38895b5def8b38124af1cf847c8967185203f79c883d4efff4bb976"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla (TSLA) Q2 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=e2838acecc96fa012100691f04a750336c0a8bd97aeaf0b68bdbb3b3989ae96f"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Why Uber Stock Is Sliding After Earnings Report, Robotaxi Update",
+      "url": "https://finnhub.io/api/news?id=31a8e36815f7a5aaa06eb60a064134cd0a044fe5fd9f84f0d3d3c3bdf3a7a655"
     }
   ]
 }
