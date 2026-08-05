@@ -145,6 +145,46 @@
       "stock": "UBER",
       "headline": "Why Uber Stock Is Sliding After Earnings Report, Robotaxi Update",
       "url": "https://finnhub.io/api/news?id=31a8e36815f7a5aaa06eb60a064134cd0a044fe5fd9f84f0d3d3c3bdf3a7a655"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Wall Street hit by wave of AI-powered ’vishing’ cyberattacks - Bloomberg",
+      "url": "https://finnhub.io/api/news?id=4e9b3095c6fb97af7b639f42a3a5ac7ea58b8dab5764357be9240b5d866260f9"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Broadcom, Marvell And Nvidia Could Feel the Impact of US Ban on Chinese AI Components",
+      "url": "https://finnhub.io/api/news?id=3a9dc6f577168b1b9381b713efd5b273e06251e86e486591631fd363a5b1bc3e"
+    },
+    {
+      "stock": "AMPX",
+      "headline": "Amprius Technologies, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://finnhub.io/api/news?id=8bbf346da44cccf1f719b80006b398b0bf4d066a9399b59250c00bf4a6d8a565"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Spotify Says Its AI Music Plans Won't Miss a Beat Without Every Major Label— Here's Why",
+      "url": "https://finnhub.io/api/news?id=38115e148beb8f60a4f82924782a71b4665db2b41b7bd53b6b41b2bf25edcde4"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ Signs MoU With Sandia National Laboratories On Co-Design Of Quantum Information Science Technologies To Support U.S. National Security Innovation",
+      "url": "https://finnhub.io/api/news?id=f7b8931429e4dddceb723372ddf4e0db0abb4ce342cf97a5e6d5426a05243e2a"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Palantir Raises 2026 Guidance as AI Demand and Cash Flow Accelerate",
+      "url": "https://finnhub.io/api/news?id=bcacc7d0d48e7fe4d5a3ccb13fd7b3e31ce52378a60112deeab4baa81972b31e"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google Stock Falls 5% as 4 AI Leaders Quit, Including the Most-Cited Researchers",
+      "url": "https://finnhub.io/api/news?id=fc7b1058b817913d8af341dc4622e2e9a85dc5dff3539f750465a7c1a29996d0"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Disney's Quarterly Earnings Top Views, Revenue Falls Short Despite 'Toy Story 5' Boost",
+      "url": "https://finnhub.io/api/news?id=b1cfa6fdbb5be4f5adc0a965ad7c528d7e4cfa4115cd2b190e4061a3fd58cc02"
     }
   ]
 }
