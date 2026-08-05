@@ -185,6 +185,26 @@
       "stock": "NFLX",
       "headline": "Disney's Quarterly Earnings Top Views, Revenue Falls Short Despite 'Toy Story 5' Boost",
       "url": "https://finnhub.io/api/news?id=b1cfa6fdbb5be4f5adc0a965ad7c528d7e4cfa4115cd2b190e4061a3fd58cc02"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Broadcom: Big, Bad News When Compute Leaders Need Optical Advantage (Upgrade)",
+      "url": "https://finnhub.io/api/news?id=30cdad70cc876fc684008b369f3ad588e5bca6c35f2bc682991246e19354ab67"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Announces $100,000 International AI Security Challenge",
+      "url": "https://finnhub.io/api/news?id=c9fea1bd399845490aba5019d6c456b6618ea1a68d94413aad28ae8b1b151d23"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "RBC Capital Maintains Outperform on Shoals Technologies Group, Raises Price Target to $10",
+      "url": "https://finnhub.io/api/news?id=771572a9e2b17cd6abcc216dcabc8c609bd26159e528973be2b8559b5d4801f3"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet's Google Reorganizes AI Leadership as Chief Scientist Jeff Dean Departs",
+      "url": "https://finnhub.io/api/news?id=ef5855ca8cc378703c2e513762d41c8240f3c6e064c12b2dcc4852b3e3be2a75"
     }
   ]
 }
