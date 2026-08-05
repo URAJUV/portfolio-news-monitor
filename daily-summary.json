@@ -65,6 +65,26 @@
       "stock": "IBM",
       "headline": "IBM (IBM) Stock Still Looks Cheap On Fair Value Despite Weak Checks",
       "url": "https://finnhub.io/api/news?id=b66d2eb0c8e2de6bd635fb259e6d15c8256c64434eba46c763be828cd0c77258"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Should You Buy, Sell or Hold AAOI Stock Ahead of Q2 Earnings?",
+      "url": "https://finnhub.io/api/news?id=4ecac2c1cf6f4c7f3c7141643d246b2027a1f6b6c5157ef8a0a71fa53f2d2431"
+    },
+    {
+      "stock": "ARM",
+      "headline": "ARM Stock Just Posted Its Best Day In Over A Year — A Week After Q1 Beat: Retail Gets More Bullish",
+      "url": "https://finnhub.io/api/news?id=2705731d575fa1ff0b23f6ffaaeb36f11f1ade1f17b49cb9f98fb8613e34be63"
+    },
+    {
+      "stock": "UBER",
+      "headline": "What's Maplebear's Probability of an Earnings Beat This Season?",
+      "url": "https://finnhub.io/api/news?id=5a0fe49b545853884212321f9a8fe13ebbc5c364de674604d8f590828c7765f1"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "SanDisk Stock Jumps 10% on New AI Memory Milestone With SK Hynix Ahead of Earnings",
+      "url": "https://finnhub.io/api/news?id=f386da1b4b8b7324957f4dddf2c5ba94e7be038709857f7fc8425b22a57e5baa"
     }
   ]
 }
