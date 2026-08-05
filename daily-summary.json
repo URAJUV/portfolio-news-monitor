@@ -85,6 +85,21 @@
       "stock": "GOOGL",
       "headline": "SanDisk Stock Jumps 10% on New AI Memory Milestone With SK Hynix Ahead of Earnings",
       "url": "https://finnhub.io/api/news?id=f386da1b4b8b7324957f4dddf2c5ba94e7be038709857f7fc8425b22a57e5baa"
+    },
+    {
+      "stock": "COHR",
+      "headline": "New report warns China transceiver ban would hurt U.S. AI giants",
+      "url": "https://finnhub.io/api/news?id=ef87f8c949a040bbd9355d84774e49ed2224d97065c348148000a227ddc5db13"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Amazon Just Landed a Big Win in the Race Against Tesla and Waymo",
+      "url": "https://finnhub.io/api/news?id=4fe501670ac22cb4f92ee4eee95eb364307a05c6281f54271e31c0c5ac3d62de"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "New report warns China transceiver ban would hurt U.S. AI giants",
+      "url": "https://finnhub.io/api/news?id=ef87f8c949a040bbd9355d84774e49ed2224d97065c348148000a227ddc5db13"
     }
   ]
 }
