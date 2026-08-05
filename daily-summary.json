@@ -45,6 +45,26 @@
       "stock": "NFLX",
       "headline": "Netflix (NFLX) Faces Tougher Streaming Competition, Is The Stock Still 10% Below Fair Value?",
       "url": "https://finnhub.io/api/news?id=031cc4c77aa4be08b98b99cec390d32ba75f91e9de81abe59f5884a5e236c086"
+    },
+    {
+      "stock": "MU",
+      "headline": "Is Micron Stock Going Higher? You Need To Hear What Elon Musk Just Said",
+      "url": "https://finnhub.io/api/news?id=ee26cada9c662486a123935d447edbebd8e619b86e27e62f9cc22e33d6c2101e"
+    },
+    {
+      "stock": "COHR",
+      "headline": "SpaceX, Palantir, AMD, Marvell,  Caterpillar, Pfizer, and More Stocks That Explain Today’s Market",
+      "url": "https://finnhub.io/api/news?id=e334cbba8a641314746c6d3ccd68f4f4da127e2d3f52d9f41939db06ef5336e2"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Shoals Technologies Group Affirms FY2026 Sales Guidance of $600.000M-$640.000M vs $624.874M Est",
+      "url": "https://finnhub.io/api/news?id=feec6b2197376995cded36d79a51fa5a24544f004a0114089283061521f3d3bd"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM (IBM) Stock Still Looks Cheap On Fair Value Despite Weak Checks",
+      "url": "https://finnhub.io/api/news?id=b66d2eb0c8e2de6bd635fb259e6d15c8256c64434eba46c763be828cd0c77258"
     }
   ]
 }
