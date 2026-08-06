@@ -120,6 +120,26 @@
       "stock": "GOOGL",
       "headline": "Google’s $15 billion India data center challenged by activists",
       "url": "https://finnhub.io/api/news?id=e0404a17c6f891ad15a1349a1f864a54d0888f32fa82977687d046c87d4c3763"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon vs. Alibaba: Two AI Giants Building Very Different Futures",
+      "url": "https://finnhub.io/api/news?id=60d459403862107da675bd43198447b93d483d40e5d5fc6c8c737fc05e765c34"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Former Coherent CEO Chuck Mattera Joins Uviquity as Strategic Advisor to Accelerate the Company's Aluminum Nitride Photonics Platform for Quantum and Advanced Sensing",
+      "url": "https://finnhub.io/api/news?id=67175e31334f04a9c2cdee3ebcadb71559275f15178d02c3ed9d7585c03470dc"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Kyndryl Holdings, Inc. Q1 2027 Earnings Call Summary",
+      "url": "https://finnhub.io/api/news?id=f3d416df2f9e926a486492d2326cbe8c08cb7179acade8be9ea70bbb61484f25"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers",
+      "url": "https://finnhub.io/api/news?id=dab40dc036edf242ee2e0ff25dc741522c9477d44ed9bd74737f7a3c75ff3cad"
     }
   ]
 }
