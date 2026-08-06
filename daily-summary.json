@@ -85,6 +85,26 @@
       "stock": "GOOGL",
       "headline": "Alphabet CEO Sundar Pichai Just Made a $200 Billion Infrastructure Move. Nvidia, Micron, and Broadcom Investors Should Rejoice.",
       "url": "https://finnhub.io/api/news?id=7ac664f64f0e20d8cdf5b9a3089e8ca231de11f22fc4a1cfeb6c6688c2b38dac"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Waymo CEO takes a not-so-subtle shot at Tesla Robotaxi over Lidar",
+      "url": "https://finnhub.io/api/news?id=24a54a32a1e0b987a9df11a861bd61e4a6df7784c908fe60a6d7455bc3563943"
+    },
+    {
+      "stock": "HON",
+      "headline": "TAT Technologies Q2 Earnings Call Highlights",
+      "url": "https://finnhub.io/api/news?id=678db7f80cce2d179d3f8fbdbfb1cea56035d000607a1c7f8ec0771591dba18a"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ, Inc. (IONQ) Q2 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=62810ec9940dbf521022a56e95a482c474f826a5a589151b9ae2515cdda08d0c"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Maximo Application Suite Achieves FedRAMP Moderate Authorization, Expanding Secure Asset Management Options for Federal Agencies",
+      "url": "https://finnhub.io/api/news?id=5378cf1565a5b9ba5035663e7faee1297a46d65f81d388af93f09117ec637433"
     }
   ]
 }
