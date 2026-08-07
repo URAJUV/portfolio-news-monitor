@@ -285,6 +285,36 @@
       "stock": "NFLX",
       "headline": "Wall Street Cheers Disney’s Report. Here’s Our New Price Target",
       "url": "https://finnhub.io/api/news?id=1e3c7a8ba24e08e898ed4d2f26a7a8b65cfc07dd5788eea6442b923a4839387b"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Trump Says AI Could Be Bigger Than Oil. These ETFs Are Betting on the Fuel Behind the Boom",
+      "url": "https://finnhub.io/api/news?id=8e9ea1de9e920980a657348d4874f1d021f913640d9d2247f35ce68c8c861b7f"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Cloudflare (NET) Jumps on AI Demand as CrowdStrike (CRWD) Sets a High Bar",
+      "url": "https://finnhub.io/api/news?id=d4fef493dfbb364d003aa30eb82c6fb7509e8ff7c8aa8c183ef6994a93393225"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "3 Signals Across The AI Stack: The Agentic Internet, The Optics Squeeze And SpaceX's First Print",
+      "url": "https://finnhub.io/api/news?id=7613578ee82dcfa439ea3a35ba06a3fe856d9cbeb95e38eabcab4dd1d56d6b8f"
+    },
+    {
+      "stock": "U",
+      "headline": "This SpaceX Analyst Turns Bullish; Here Are Top 5 Upgrades For Friday",
+      "url": "https://finnhub.io/api/news?id=b19b7df7a57f5e474ffb58581775cbfe3692142a491b02671f9837d651308125"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Whatnot raises $545M Series G at $20 billion valuation",
+      "url": "https://finnhub.io/api/news?id=c9c0d47c4670097c56464e13109efeb20fbdbee25b50923186953b81be78b284"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Earnings Roundup ",
+      "url": "https://finnhub.io/api/news?id=c7ef2464c0092883f21b67abf75af7fa6c41d66db437678788399d878fba311a"
     }
   ]
 }
