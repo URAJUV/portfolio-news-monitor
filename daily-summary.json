@@ -315,6 +315,36 @@
       "stock": "NFLX",
       "headline": "Earnings Roundup ",
       "url": "https://finnhub.io/api/news?id=c7ef2464c0092883f21b67abf75af7fa6c41d66db437678788399d878fba311a"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron Stock Falls After Citi Slashes Price Target on Memory Risks",
+      "url": "https://finnhub.io/api/news?id=6762210a53d75dd98a6ce7ddc2238e427e68f8315b4df33e045918ea56b7a91d"
+    },
+    {
+      "stock": "TSM",
+      "headline": "What's Going On With Taiwan Semiconductor Stock Friday?",
+      "url": "https://finnhub.io/api/news?id=4516ff44783fa8144f0d0770c3682334fb0a1696b2180afcd60318678afa1236"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Trade Desk's Downbeat Guidance Indicates Macro, Structural Issues, Wedbush Says",
+      "url": "https://finnhub.io/api/news?id=81d5c259f7f8b00c343b2490a3f5740583512833338b960504acfc44001f48ea"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Natera, Doximity, PubMatic, Airbnb And Other Big Stocks Moving Higher On Friday",
+      "url": "https://finnhub.io/api/news?id=8cd7f4e6a681e9ff0e0fa42b75a3a179b0115a3499930e390be00f6c26a110d9"
+    },
+    {
+      "stock": "UBER",
+      "headline": "LYFT Q2 Earnings Miss, Revenues Top Estimates on Record Rides",
+      "url": "https://finnhub.io/api/news?id=683c550576a6e65a475e7f2923abfb8c23f2dd84a9b30e70283a0624005b987d"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Oracle Stock Fell While Its Operating Margin Climbed For A Third Straight Year",
+      "url": "https://finnhub.io/api/news?id=56a4fd13d8835d2961a60928459cc9c809684a34038b7ae78bc24c8938a4e55d"
     }
   ]
 }
