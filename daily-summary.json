@@ -205,6 +205,46 @@
       "stock": "U",
       "headline": "Motorola Solutions Posts Upbeat Q2 Earnings, Joins Insmed, Diodes, Parker-Hannifin And Other Big Stocks Moving Higher On Thursday",
       "url": "https://finnhub.io/api/news?id=8f96fc1beaeba310d419ac409d971111c5e8b4a4fc5d27b53b8e8d5471268b44"
+    },
+    {
+      "stock": "MU",
+      "headline": "AI Chips Update - AMD Advances AI Strategy With Taalas Acquisition",
+      "url": "https://finnhub.io/api/news?id=14470c7fe676a501eb55e25a464e454ea42ad2fcf7ed94d61e2717b1eb0b071b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon CEO Andy Jassy Just Made a Shocking Trillion-Dollar Prediction",
+      "url": "https://finnhub.io/api/news?id=2f997011994a30ca69a2f8f4716b927c5b379be401f28dff110f3f168d2b6099"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Aerospace Tumbles on Disappointing Debut Report, but Bull Case Remains Intact",
+      "url": "https://finnhub.io/api/news?id=c8182d2a0c7f4531ca045ccd8f2b486ecd2b42819eb3781cd5bc249ff1831f23"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme Therapeutics (HALO) Q2 Earnings and Revenues Surpass Estimates",
+      "url": "https://finnhub.io/api/news?id=f4c71a63870124b4cbd1fabad8bc6a80bd4e6d5190338bca9313e88d62d61b6b"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber CEO expects AI investments to provide incremental CX gains, conversions",
+      "url": "https://finnhub.io/api/news?id=f5bbe4030858b12cba044c8b0149778416091db0f107c89937314a42c10962da"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM previews Apptio AI Value & ROI to track AI spend and results",
+      "url": "https://finnhub.io/api/news?id=1248eeae94b59133849db5a371bc4567d2dc05571d02beeddc39f85c40ae3a08"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes",
+      "url": "https://finnhub.io/api/news?id=1b7221e0dd94f8062dba63201381fd4dc40e13af17bccf05ee5bf0aeea06f32f"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "PancakeSwap Expands Tokenized Equity Offerings with 10 New 'bStocks' on BNB Chain",
+      "url": "https://finnhub.io/api/news?id=92ef598f1f84b5c487d1279b09d191167e24a1d49d1d288ff760ba12d8116708"
     }
   ]
 }
