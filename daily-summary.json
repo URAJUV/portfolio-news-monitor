@@ -165,6 +165,46 @@
       "stock": "NFLX",
       "headline": "Tracking Baillie Gifford's 13F Portfolio - Q2 2026 Update",
       "url": "https://finnhub.io/api/news?id=e4e14ccbf7af0c8c6ec733507d7d7966d1ad1045f756c55ff393f45f475b8901"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor (NYSE:TSM) Combines High Growth Momentum with a Breakout Setup",
+      "url": "https://finnhub.io/api/news?id=215c514565c32178b75d937c3db8dc8916e4ab2244bb939787f4fb86e192902b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "July 2026 Mailbag: Year 12 Begins",
+      "url": "https://finnhub.io/api/news?id=1e456129dced02b4e9f84aef8b453ed9d8cd2fa987505ab4b9827ac901d21904"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell (HON) Stock Trades Below Fair Value Despite Mixed Checks",
+      "url": "https://finnhub.io/api/news?id=f4b82972bade5532003ed5c646039c51c222b80d93cc61ded6934cd864f86756"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme Therapeutics, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://finnhub.io/api/news?id=c05ec0e5331fff2cc06d6bf4cd2dae8c771e05e3fccd3200af0e3b30dc57822a"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Cantor Fitzgerald Reiterates Overweight on IonQ, Maintains $70 Price Target",
+      "url": "https://finnhub.io/api/news?id=107b5c23eae7e53147912663ed4fdeb154390e225b656798902c773675c7879a"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "DRAM Was Just the Beginning: Roundhill's AI Playbook Expands Into Neocloud and Photonics",
+      "url": "https://finnhub.io/api/news?id=30e0aee668ef461be66f68bf7cf8f9ec747c1ad03d6bbe18d4ff44e3e9cc7649"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave Quantum Stock Drops After Q2 Earnings Miss",
+      "url": "https://finnhub.io/api/news?id=1a832d10437b09f522871c474c5033355514d5f0d8105a0706a57fa6f05304e6"
+    },
+    {
+      "stock": "U",
+      "headline": "Motorola Solutions Posts Upbeat Q2 Earnings, Joins Insmed, Diodes, Parker-Hannifin And Other Big Stocks Moving Higher On Thursday",
+      "url": "https://finnhub.io/api/news?id=8f96fc1beaeba310d419ac409d971111c5e8b4a4fc5d27b53b8e8d5471268b44"
     }
   ]
 }
