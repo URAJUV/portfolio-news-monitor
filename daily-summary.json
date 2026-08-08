@@ -120,6 +120,41 @@
       "stock": "U",
       "headline": "Deutsche Bank Upgrades Unity Software (U)",
       "url": "https://finnhub.io/api/news?id=4e3eee615a00e13d97646b637b1fe80530996c8489934ff39d4315a40d7c5f09"
+    },
+    {
+      "stock": "MU",
+      "headline": "Michael Burry issues blunt warning as he bets against 2 AI favorites",
+      "url": "https://finnhub.io/api/news?id=e74856535b7cfd6f0b870513e35bd5268cf03f567140e369c0a6c8e079ab0f31"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Should You Hold on to Applied Optoelectronics Stock Post Q2 Earnings?",
+      "url": "https://finnhub.io/api/news?id=ac23f262d58e860da2a06c0602a9ea4e064a335a1763b5e9a44553c1b13c8b12"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building",
+      "url": "https://finnhub.io/api/news?id=0e1c7925945db6e3b73ce5aa8077f58d6c68a8cef4225ad92fefc1d7949e7271"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings: Capitalizing On The Agentic AI Beyond IP Licensing",
+      "url": "https://finnhub.io/api/news?id=7cb09a6eef437220fab18c5660e80e8caf94125bbd44dccae0267b581359bf2b"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics (AAOI) Stock Sees Modest Fair Value Cut As Analyst Targets Split",
+      "url": "https://finnhub.io/api/news?id=03b55e334d666d1ff4eabebd5d3d2d631127cd22bf4264cdec8eaa7c5c5b44a1"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Apptio helps CFOs connect AI spend to business value",
+      "url": "https://finnhub.io/api/news?id=be6ba984f8ae7ba072968c2316b2807de40ebd571ead40650f4a963a49793530"
+    },
+    {
+      "stock": "U",
+      "headline": "Benchmark Upgrades Unity Software (U)",
+      "url": "https://finnhub.io/api/news?id=181467230f54b8ed2ad2bc314a3980418c7bcdf1b07f315bb5dec6b45b1730e2"
     }
   ]
 }
