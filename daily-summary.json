@@ -35,6 +35,56 @@
       "stock": "TEAM",
       "headline": "Natera, Doximity, PubMatic, Airbnb And Other Big Stocks Moving Higher On Friday",
       "url": "https://finnhub.io/api/news?id=8cd7f4e6a681e9ff0e0fa42b75a3a179b0115a3499930e390be00f6c26a110d9"
+    },
+    {
+      "stock": "MU",
+      "headline": "Citi Revamps Micron Target Target With A Twist",
+      "url": "https://finnhub.io/api/news?id=42147621e2a0779d54b30edde8ed988149bd9e80361eb5adc714796715430359"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "How AI Is Making Cybersecurity A Critical Tech Battlefield",
+      "url": "https://finnhub.io/api/news?id=f8d3388930c0e6505d0cbd000f8bb4d60b31c4e06034ece14de1895465da342c"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon (AMZN) Q2 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=151ec67fb79d4ce207815a65f52047f4d2bf9089056540fe1364ca0fe9120d8f"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm (ARM) Q1 2027 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=c7a671cf376f7cc02b1a7e0a59c945b63d1dd01ef4714ae8dccc2a4c730167b0"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ Stock Soars After Q2 Earnings Beat, Raised 2026 Outlook, Bullish Analyst Takeaways",
+      "url": "https://finnhub.io/api/news?id=8c0b6e11af27d1ff53ac06aef39f457c07511c8828907bbf632e5c60c5abac31"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Headcount Isn’t Unlimited. AI Budgets Shouldn’t Be Either.",
+      "url": "https://finnhub.io/api/news?id=3c04cb43a6498e68ba8465b77b018a7a3c5c3d60e2af1fd5de41ec676ae6b024"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Pharma Bro Shkreli Bets Against AAOI — ‘Commodity Bottleneck Doesn’t Make A Great Company’",
+      "url": "https://finnhub.io/api/news?id=2e465940e13b360386a727d2c7f2ea9526682dd5d451b6862c3784fe2fa29534"
+    },
+    {
+      "stock": "U",
+      "headline": "B of A Securities Upgrades Unity Software (U)",
+      "url": "https://finnhub.io/api/news?id=3ec43432cc1eba05f526b7f16126193bc1b6cdedac0d53968154bea9d5131a17"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Q2 Earnings: Robust Results and Positive Estimate Revisions Validate Market Fundamentals",
+      "url": "https://finnhub.io/api/news?id=0e4c5e1b50c741cae903325677f360e97b3a77ec2af45200050e890dd60ea0e2"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Nasdaq Gains Over 300 Points; US Employers Cut 23,000 Jobs In July",
+      "url": "https://finnhub.io/api/news?id=d5950dd4216d83f6522d9e4da8757abfb52466804bf9142d31f2967a65bb37ce"
     }
   ]
 }
