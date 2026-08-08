@@ -205,6 +205,31 @@
       "stock": "TEAM",
       "headline": "Atlassian Destroyed SaaSpocalypse (Rating Upgrade)",
       "url": "https://finnhub.io/api/news?id=499c420e958673460634c855910646afc5fa30c5faa9c97127827cb71073c844"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Even Without Alphabet and Amazon, the S&P 500 Just Posted Its Biggest Earnings Beat Ever",
+      "url": "https://finnhub.io/api/news?id=11f586df9df61eb9d0db16c2ffc0a0fa9db76c0bec9a9639c43efd72834ff0bd"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Is Halozyme Therapeutics (HALO) Fairly Valued As Earnings Beat And Guidance Rise?",
+      "url": "https://finnhub.io/api/news?id=42cf38473084ea7f175d2d93bfbb4e85fd557b237d1d6f286308165252a31bde"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Kyndryl Q1 Earnings Call Highlights",
+      "url": "https://finnhub.io/api/news?id=e7461dd204f7f4d4a19cf1c0328527a5d29ce320a952557f9a7afeaae5c7f8fe"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Even Without Alphabet and Amazon, the S&P 500 Just Posted Its Biggest Earnings Beat Ever",
+      "url": "https://finnhub.io/api/news?id=11f586df9df61eb9d0db16c2ffc0a0fa9db76c0bec9a9639c43efd72834ff0bd"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "UBS Maintains Neutral on Atlassian, Raises Price Target to $160",
+      "url": "https://finnhub.io/api/news?id=22447c5bb1ae091e914b19562f6c99e3fcd2b881ad908a995a055aa81e3088f4"
     }
   ]
 }
