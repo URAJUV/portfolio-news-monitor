@@ -230,6 +230,31 @@
       "stock": "TEAM",
       "headline": "UBS Maintains Neutral on Atlassian, Raises Price Target to $160",
       "url": "https://finnhub.io/api/news?id=22447c5bb1ae091e914b19562f6c99e3fcd2b881ad908a995a055aa81e3088f4"
+    },
+    {
+      "stock": "MU",
+      "headline": "AI’s Biggest Opportunity by 2027: NVIDIA vs. Micron",
+      "url": "https://finnhub.io/api/news?id=0214359f2efcb2f2aad79168155ae54e7165049fac366699b35a674e36096516"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
+      "url": "https://finnhub.io/api/news?id=8466d0b357265c1603eb07ba96a2b9acf311371e92b8a12c1825dcf655617099"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Leerink Partners Upgrades Halozyme Therapeutics to Outperform, Raises Price Target to $110",
+      "url": "https://finnhub.io/api/news?id=a92da7b0cb44feaab0cf5a4e26d0d0801434d08f2e3cc685dac7d1e0ec8a380a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
+      "url": "https://finnhub.io/api/news?id=c3d69a8b6c028bff5fbaa5db0ae926d6fd59519cecd328d411faded59810c2df"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "TD Cowen Maintains Hold on Atlassian, Raises Price Target to $145",
+      "url": "https://finnhub.io/api/news?id=ce4eb88512ec10bc8ff1d14133b62b94764bef5e977f24430f11355e6047f069"
     }
   ]
 }
