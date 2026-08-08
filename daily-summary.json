@@ -175,6 +175,36 @@
       "stock": "U",
       "headline": "HSBC Upgrades Unity Software (U)",
       "url": "https://finnhub.io/api/news?id=5373ecece780fb375c9357ed28809239df775947c78631780019f3edfd99e300"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron vs. Sandisk: Which Is the Better AI Memory Stock to Own for the Next 3 Years?",
+      "url": "https://finnhub.io/api/news?id=e3a9b6338f046c8d2e52ee5c215fcc8ffd6e0c1730434d4dabc39c1e49142a5d"
+    },
+    {
+      "stock": "TSM",
+      "headline": "The AI Chip Trade Is Getting Bigger — and More Leveraged. Meet REX’s New 3X Bets",
+      "url": "https://finnhub.io/api/news?id=4f66e5d3b25cbdce637b628e61fc6c7c9cade1a84555ee9889592d88d6a4fea1"
+    },
+    {
+      "stock": "HON",
+      "headline": "Dividend Announcements: July 18-24, 2026",
+      "url": "https://finnhub.io/api/news?id=e1de4277f5c22ac4c0037ee71ee9c2226bd01f2d336d1abf5c27b1908b45915c"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Cisco, Tencent Headline Muted Earnings Week",
+      "url": "https://finnhub.io/api/news?id=92ebcf9e88eb5cc5530a414cce8df0a9c9e063c37e41df80756b63479a5d5bdc"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile",
+      "url": "https://finnhub.io/api/news?id=19998949b3e224b193082a5bbb7690a1767ea72a594e091ae06e971f04de332f"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian Destroyed SaaSpocalypse (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=499c420e958673460634c855910646afc5fa30c5faa9c97127827cb71073c844"
     }
   ]
 }
