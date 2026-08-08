@@ -85,6 +85,41 @@
       "stock": "TEAM",
       "headline": "Nasdaq Gains Over 300 Points; US Employers Cut 23,000 Jobs In July",
       "url": "https://finnhub.io/api/news?id=d5950dd4216d83f6522d9e4da8757abfb52466804bf9142d31f2967a65bb37ce"
+    },
+    {
+      "stock": "MU",
+      "headline": "SK Hynix invests $38B in new plants amid AI memory shortages",
+      "url": "https://finnhub.io/api/news?id=48467b4b8f63b7c48d8054c3aaf8d6a64336aaa4c869bacf4f75fcce091bb1ed"
+    },
+    {
+      "stock": "COHR",
+      "headline": "These AI ‘Pick and Shovel’ Plays Soared on Friday",
+      "url": "https://finnhub.io/api/news?id=3cdc9628ddad9f19b4fbd065e372ba726c5b2c8f347762cc0c12ba354bfd1a98"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
+      "url": "https://finnhub.io/api/news?id=baf6fd986e5ab24950b3c5e1634aee35eee073d4f583b65101c3e0bfb1c64ed9"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme Therapeutics Inc (HALO) (Q2 2026) Earnings Call Highlights: Record Revenue and Royalty ...",
+      "url": "https://finnhub.io/api/news?id=22fb77b3cce53b849a75c0d92ef8d2048276849069e729f1168e7b56c5108681"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Benchmark Reiterates Buy on IonQ, Maintains $60 Price Target",
+      "url": "https://finnhub.io/api/news?id=edfba7abfc9f9ca22fe2a2e57872ffbed6fb43b9eade2afde8c0f1630c5ccd3c"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics (AAOI) Stands To Gain From Proposed US Ban On Chinese Transceivers",
+      "url": "https://finnhub.io/api/news?id=060490456988154b671e2392f917cd2c697b8e1366cdabba68734f47ac146ce8"
+    },
+    {
+      "stock": "U",
+      "headline": "Deutsche Bank Upgrades Unity Software (U)",
+      "url": "https://finnhub.io/api/news?id=4e3eee615a00e13d97646b637b1fe80530996c8489934ff39d4315a40d7c5f09"
     }
   ]
 }
