@@ -40,6 +40,21 @@
       "stock": "GOOGL",
       "headline": "Jensen Huang Says AI Will Kill Tasks, Not Jobs. Here's What That Means for Stocks Riding the AI Trade.",
       "url": "https://finnhub.io/api/news?id=935b614732c77c72a6f3e0d170cba4920b18e972042663d1bcd1548e77a396cb"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron (MU) Secures Strategic Auto Deals and AI Momentum to Offset Cyclical Pressures",
+      "url": "https://finnhub.io/api/news?id=9804693e27e0138aec625f8c5534eaf7c0013bd67a8c34c3f33b2008b550a1e5"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Nvidia CEO Jensen Huang Told Investors in Seoul to \"Buy at a Discount\" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off.",
+      "url": "https://finnhub.io/api/news?id=2e278b11eb5aff29c140ae859415179f05d198ee275380f1215e54663638593c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Nvidia CEO Jensen Huang Told Investors in Seoul to \"Buy at a Discount\" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off.",
+      "url": "https://finnhub.io/api/news?id=2e278b11eb5aff29c140ae859415179f05d198ee275380f1215e54663638593c"
     }
   ]
 }
