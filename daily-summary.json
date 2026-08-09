@@ -30,6 +30,16 @@
       "stock": "GOOGL",
       "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
       "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
+      "url": "https://finnhub.io/api/news?id=dc5b1f3df9fd34ca061fc97816b99d46bbe40b24e9d6e0a40ed048a5e17c8ca4"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Jensen Huang Says AI Will Kill Tasks, Not Jobs. Here's What That Means for Stocks Riding the AI Trade.",
+      "url": "https://finnhub.io/api/news?id=935b614732c77c72a6f3e0d170cba4920b18e972042663d1bcd1548e77a396cb"
     }
   ]
 }
