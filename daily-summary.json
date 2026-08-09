@@ -20,6 +20,16 @@
       "stock": "GOOGL",
       "headline": "What Does Oracle (ORCL) Gain From Bringing New AI Models Into Its Apps?",
       "url": "https://finnhub.io/api/news?id=23eb7fb887b8ec2f023f4ab7b092da160a1991d243987fdcecfbc40490dabfa8"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
+      "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
+      "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f"
     }
   ]
 }
