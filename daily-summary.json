@@ -10,6 +10,16 @@
       "stock": "GOOGL",
       "headline": "NiSource Q2 Earnings Call Highlights",
       "url": "https://finnhub.io/api/news?id=a459559113e875920f654d78e461024112ad94a1559d70dcc4e5b0aea3ea529f"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme Therapeutics (HALO) Is Up 24.9% After Raising 2026 Revenue Outlook and Boosting Buybacks",
+      "url": "https://finnhub.io/api/news?id=02a21704efedee733df98c4dbbf364d15656e57fb4bdc86928893df7618cfce5"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "What Does Oracle (ORCL) Gain From Bringing New AI Models Into Its Apps?",
+      "url": "https://finnhub.io/api/news?id=23eb7fb887b8ec2f023f4ab7b092da160a1991d243987fdcecfbc40490dabfa8"
     }
   ]
 }
