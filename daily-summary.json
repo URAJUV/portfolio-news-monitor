@@ -80,6 +80,21 @@
       "stock": "UBER",
       "headline": "Uber Technologies Q2 Earnings Call Highlights",
       "url": "https://finnhub.io/api/news?id=9f1dcc9ca4677404d0e858a5bc2667ba1fe8e3cfa8a8c9ef474b734467392810"
+    },
+    {
+      "stock": "MU",
+      "headline": "Opinion: The Best AI Memory Stock to Buy Isn't Micron or Sandisk -- It's This Korean Giant",
+      "url": "https://finnhub.io/api/news?id=1f47db17e08576a99d5ee61bb26ce69bec10ecf0f4e174c192439193bad82a0b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
+      "url": "https://finnhub.io/api/news?id=b563b817c44cab4548174be171266ac2b10497054b72f67873e6f2e57e20a0ff"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Billionaire investor shorting SpaceX says one possible fix won't work",
+      "url": "https://finnhub.io/api/news?id=eee08e96612a63b98b792c7a0e48c4304796ed2ee956e186e9d66be4e05d51a5"
     }
   ]
 }
