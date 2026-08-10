@@ -60,6 +60,16 @@
       "stock": "GOOGL",
       "headline": "Cold Jobs Report Warms Up Wall Street, Airbnb Steals the Show",
       "url": "https://finnhub.io/api/news?id=3265d1322a7e3a01d1233f899e1eb92b1554c6337fa460fa9b425d9af368fe77"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor (NYSE:TSM): Strong Growth Backed by a Convincing Technical Setup",
+      "url": "https://finnhub.io/api/news?id=62df15935107c77c1ffca3c58c5e72baa93a2428f4a67d5175c84ce0a9e36550"
+    },
+    {
+      "stock": "IBM",
+      "headline": "International Business Machines Corp's Dividend Analysis",
+      "url": "https://finnhub.io/api/news?id=540d63407371fc7cf88b5373a3d0c366cba9fa4b29aebcbfad271997b8df8e04"
     }
   ]
 }
