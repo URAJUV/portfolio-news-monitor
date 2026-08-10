@@ -70,6 +70,41 @@
       "stock": "IBM",
       "headline": "International Business Machines Corp's Dividend Analysis",
       "url": "https://finnhub.io/api/news?id=540d63407371fc7cf88b5373a3d0c366cba9fa4b29aebcbfad271997b8df8e04"
+    },
+    {
+      "stock": "MU",
+      "headline": "Prediction: Micron and Taiwan Semiconductor Manufacturing Stocks Will Both Rebound to Fresh Highs Before 2026 Ends",
+      "url": "https://finnhub.io/api/news?id=1802ba0297e4af3f2e567f2fdfa30f9a66390c39194ccf05741ee02202da3a34"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Microsoft’s Homegrown AI Chip Effort Shows Signs Of Life After Slow Start; Microsoft Plans To Unveil Its Next-Generation Maia 300 AI Chip In September; Microsoft Is Planning To Ramp Up Its Own Usage Of Maia While Wooing Big Customers; Microsoft Believes Maia Chips Can Run In-House And OpenAI Models At A Lower Cost; Microsoft Has Been In Talks With Chipmaker TSMC To Secure Manufacturing Capacity For Over 300,000 Of Maia Chips For Delivery In 2027",
+      "url": "https://finnhub.io/api/news?id=c902ab1fc82e8a55830984302743f341100dd12a3face59bc76ed10deb087cb9"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "China uses capital markets to fund AI and chip race against U.S.",
+      "url": "https://finnhub.io/api/news?id=f3e46eec3893ff37f71fd97b87fefec73a88f59361eb49ad374333d6f6870344"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Sony, TSMC Plan $6.3B Image Sensor Plant in Japan as Apple Camera Demand, ‘Physical AI’ Drive Expansion: Report",
+      "url": "https://finnhub.io/api/news?id=d1320d0cc63935097e9dd132dc9dc3e535639ad69c1b240ec2929b7ee9658427"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Why This Investor Sold Autodesk (ADSK) Over AI Risks",
+      "url": "https://finnhub.io/api/news?id=232db5e7c7747581c4cf6e987d0b51abd4ec3a84aa9d55e59472e03765f57516"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off",
+      "url": "https://finnhub.io/api/news?id=9b3b40e6c9c7f9bcbfb95bb22942c5e34ce410b02a047edf8656e7f2c4f3029b"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Starz Entertainment's Stock Is Powerful, But It Still Rates As A Hold",
+      "url": "https://finnhub.io/api/news?id=b690f04bda6d1bfe67192afd5d340019f450b54e25c3f5c7ec04b93ab01d7a46"
     }
   ]
 }
