@@ -45,6 +45,21 @@
       "stock": "GOOGL",
       "headline": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
       "url": "https://finnhub.io/api/news?id=88583328d77350431284e9b91fcac6cda27f7bb40bd1c4fd2915d2faa2230334"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron Trades at 6 Times Next Year's Earnings. The $38 Billion of Capacity That Ends This Cycle Doesn't Open Until 2028.",
+      "url": "https://finnhub.io/api/news?id=1922005264833be86cb75f391e58df358d6c74820799229a4e0a99b418ca2b49"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Ross Gerber Cites Data to Make a Point: Take Out Alphabet and Amazon, S&P 500 Earnings Growth Looks Far Less Impressive",
+      "url": "https://finnhub.io/api/news?id=d298a5220b40641c678eff9604c5eb557105f440d0bcf084ce2449bc3259ba43"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Cold Jobs Report Warms Up Wall Street, Airbnb Steals the Show",
+      "url": "https://finnhub.io/api/news?id=3265d1322a7e3a01d1233f899e1eb92b1554c6337fa460fa9b425d9af368fe77"
     }
   ]
 }
