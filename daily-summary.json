@@ -1,100 +1,10 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "items": [
     {
-      "stock": "AMZN",
-      "headline": "NiSource Q2 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=a459559113e875920f654d78e461024112ad94a1559d70dcc4e5b0aea3ea529f"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "NiSource Q2 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=a459559113e875920f654d78e461024112ad94a1559d70dcc4e5b0aea3ea529f"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Halozyme Therapeutics (HALO) Is Up 24.9% After Raising 2026 Revenue Outlook and Boosting Buybacks",
-      "url": "https://finnhub.io/api/news?id=02a21704efedee733df98c4dbbf364d15656e57fb4bdc86928893df7618cfce5"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "What Does Oracle (ORCL) Gain From Bringing New AI Models Into Its Apps?",
-      "url": "https://finnhub.io/api/news?id=23eb7fb887b8ec2f023f4ab7b092da160a1991d243987fdcecfbc40490dabfa8"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
-      "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
-      "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
-      "url": "https://finnhub.io/api/news?id=dc5b1f3df9fd34ca061fc97816b99d46bbe40b24e9d6e0a40ed048a5e17c8ca4"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Jensen Huang Says AI Will Kill Tasks, Not Jobs. Here's What That Means for Stocks Riding the AI Trade.",
-      "url": "https://finnhub.io/api/news?id=935b614732c77c72a6f3e0d170cba4920b18e972042663d1bcd1548e77a396cb"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron (MU) Secures Strategic Auto Deals and AI Momentum to Offset Cyclical Pressures",
-      "url": "https://finnhub.io/api/news?id=9804693e27e0138aec625f8c5534eaf7c0013bd67a8c34c3f33b2008b550a1e5"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Nvidia CEO Jensen Huang Told Investors in Seoul to \"Buy at a Discount\" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off.",
-      "url": "https://finnhub.io/api/news?id=2e278b11eb5aff29c140ae859415179f05d198ee275380f1215e54663638593c"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Nvidia CEO Jensen Huang Told Investors in Seoul to \"Buy at a Discount\" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off.",
-      "url": "https://finnhub.io/api/news?id=2e278b11eb5aff29c140ae859415179f05d198ee275380f1215e54663638593c"
-    },
-    {
-      "stock": "MU",
-      "headline": "3 Artificial Intelligence (AI) Stocks to Load Up On in August",
-      "url": "https://finnhub.io/api/news?id=8ece32cf7a99465fead4629449fc21bd4a86b7cbeea98f61cd2f1acd372e03c7"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "3 Artificial Intelligence (AI) Stocks to Load Up On in August",
-      "url": "https://finnhub.io/api/news?id=8ece32cf7a99465fead4629449fc21bd4a86b7cbeea98f61cd2f1acd372e03c7"
-    },
-    {
       "stock": "COHR",
-      "headline": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-      "url": "https://finnhub.io/api/news?id=88d7a725773851ac5002df976acc5b5fc6b0404b717c105226413e63167f51a5"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Elon Musk's Boring Company Is Raising Money at a $20 Billion Valuation. Here's How His Empire Outside Tesla Is Growing.",
-      "url": "https://finnhub.io/api/news?id=012ddd24f393591ae541d3b2dac66023dabc6b4aced6ad4c37be445f068c6507"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Technologies Q2 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=9f1dcc9ca4677404d0e858a5bc2667ba1fe8e3cfa8a8c9ef474b734467392810"
-    },
-    {
-      "stock": "MU",
-      "headline": "Opinion: The Best AI Memory Stock to Buy Isn't Micron or Sandisk -- It's This Korean Giant",
-      "url": "https://finnhub.io/api/news?id=1f47db17e08576a99d5ee61bb26ce69bec10ecf0f4e174c192439193bad82a0b"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
-      "url": "https://finnhub.io/api/news?id=b563b817c44cab4548174be171266ac2b10497054b72f67873e6f2e57e20a0ff"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Billionaire investor shorting SpaceX says one possible fix won't work",
-      "url": "https://finnhub.io/api/news?id=eee08e96612a63b98b792c7a0e48c4304796ed2ee956e186e9d66be4e05d51a5"
+      "headline": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "url": "https://finnhub.io/api/news?id=d07f539f863aae63e4ea985f4d3f429c7359be8cae6e4688105987cce16db8df"
     }
   ]
 }
