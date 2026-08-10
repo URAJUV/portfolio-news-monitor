@@ -30,6 +30,21 @@
       "stock": "GOOGL",
       "headline": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
       "url": "https://finnhub.io/api/news?id=b563b817c44cab4548174be171266ac2b10497054b72f67873e6f2e57e20a0ff"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon: Stunning Earnings Reaffirm Thesis",
+      "url": "https://finnhub.io/api/news?id=60ca9389ca584e66e564ed2d70bf639a9160b6143b708729197782c79b02b49c"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Campaign Asia Agency of the Year Awards 2026 Unveils Its Most Extensive Regional Judging Panel as Final Entry Deadline Nears",
+      "url": "https://finnhub.io/api/news?id=fee0d41997d229b35898a92e26dc9b20fafd253a016ec576d522913f46657148"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
+      "url": "https://finnhub.io/api/news?id=88583328d77350431284e9b91fcac6cda27f7bb40bd1c4fd2915d2faa2230334"
     }
   ]
 }
