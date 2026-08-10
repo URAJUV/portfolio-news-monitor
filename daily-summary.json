@@ -5,6 +5,31 @@
       "stock": "COHR",
       "headline": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
       "url": "https://finnhub.io/api/news?id=d07f539f863aae63e4ea985f4d3f429c7359be8cae6e4688105987cce16db8df"
+    },
+    {
+      "stock": "MU",
+      "headline": "MU Outpaced SNDK, WDC This Week: Now, Retail Traders Bet On Outlook Raise At Key Analyst Event",
+      "url": "https://finnhub.io/api/news?id=8ed89cdcd076f6fa0b7579fdac0b5977f0fa94451f8279861be41ee4c0397ca0"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Dow Jones Futures Fall After Market Ramps Up; Cisco, Lumentum Earnings Ahead",
+      "url": "https://finnhub.io/api/news?id=54e528fc6353b326fae9f348ae4935f21675c7b18c61d012b829b1cfa35add4d"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Explainer-What is Unitree and why are China’s humanoid robot makers racing to list?",
+      "url": "https://finnhub.io/api/news?id=d3e2a6c6cfa6e081e469e0ebaf431879b0dfea1c1ee624a0f84ec675c5bcae9f"
+    },
+    {
+      "stock": "DE",
+      "headline": "Deere (DE) Stock May Be Below Fair Value As Contract Talks Drag On",
+      "url": "https://finnhub.io/api/news?id=1858ac80c92b6d67158e0335945902f2f65aceaef559c50de45ea9f501ad92c2"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
+      "url": "https://finnhub.io/api/news?id=b563b817c44cab4548174be171266ac2b10497054b72f67873e6f2e57e20a0ff"
     }
   ]
 }
