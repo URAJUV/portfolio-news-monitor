@@ -145,6 +145,46 @@
       "stock": "IBM",
       "headline": "Broadcom Boosts VCF Security: Can it Fend Off Nutanix and IBM?",
       "url": "https://finnhub.io/api/news?id=e24104c38ab21d258dc2ebcfe835b77949c7b85d0a9537bfc7ee887c85c88a77"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Microsoft Stock Rises 2%: Upcoming Maia 300 Chip Launch Targets Reduced Nvidia Reliance",
+      "url": "https://finnhub.io/api/news?id=f10607e6591c8164da8881f3b55e8f0c2ceba4508ccd9462e1b63d4662c5a1b7"
+    },
+    {
+      "stock": "ARM",
+      "headline": "AI Workload Evolution Is Creating a New Growth Catalyst for Arm Holdings plc (ARM)",
+      "url": "https://finnhub.io/api/news?id=e6617edb2fa00a6a662a4b719025fe629057fb529afe8187550b926e8d2e5d64"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Nvidia Built the AI Brain, Now TSMC Wants to Give It Eyes",
+      "url": "https://finnhub.io/api/news?id=3322b80746ed8e5eb31cc83d31d34ddd5c4749014a44536b3835bff52303e0ad"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Consumer Tech (Aug 3-7): SpaceX Released Strong First Earnings, Meta Sued For Harming Children's Mental Health & More",
+      "url": "https://finnhub.io/api/news?id=98725731faf784bae01f148cffd10a14c8982e97b378e9b9dcfb095998ca9a45"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Can Joby's Texas Air Taxi Flights Unlock Its Next Commercial Phase?",
+      "url": "https://finnhub.io/api/news?id=fb36ea507499d6ba31f08e5ff570fcaffe5ec8ac8e74d23d3181dff44a4b1a5d"
+    },
+    {
+      "stock": "U",
+      "headline": "Citigroup Maintains Buy on Unity Software, Raises Price Target to $48",
+      "url": "https://finnhub.io/api/news?id=6f97af66c2be0e834fcbe1b89cb576202dcf87e7d325937eba7e96eb797d0f6a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sector Update: Tech Stocks Decline Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=726dec967f312df0761d5640414c3e0682e72dc874c0b75fb09674733cba9848"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Citigroup Maintains Buy on Atlassian, Raises Price Target to $170",
+      "url": "https://finnhub.io/api/news?id=8d09ffe95ef88323162f272d8bbd556d65ca584465ae6ff12b06d31710fdb178"
     }
   ]
 }
