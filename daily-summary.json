@@ -105,6 +105,46 @@
       "stock": "NFLX",
       "headline": "Starz Entertainment's Stock Is Powerful, But It Still Rates As A Hold",
       "url": "https://finnhub.io/api/news?id=b690f04bda6d1bfe67192afd5d340019f450b54e25c3f5c7ec04b93ab01d7a46"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
+      "url": "https://finnhub.io/api/news?id=591168258f393e68563e6da9dea3f941c18dfd48941990aa7fa198e9025a1e5b"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
+      "url": "https://finnhub.io/api/news?id=591168258f393e68563e6da9dea3f941c18dfd48941990aa7fa198e9025a1e5b"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys (SNPS) Unleashes Agentic AI Chip Design Tools Backed by Microsoft, AMD",
+      "url": "https://finnhub.io/api/news?id=917378de69ab5ef8db8bc17fcb505fa1bd58629fb1ecbbdc827f616f2d13c44d"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Does Tesla’s Terafab Texas Chip Bet Reshape Its AI Ambitions And Margin Story For TSLA?",
+      "url": "https://finnhub.io/api/news?id=b34481b51aebb683f91e75ea4e3c10d2a90036ec69b9807eb7cfe9a9801cbe4a"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Why Arm Holdings (ARM) Is Up 18.2% After Embedded AI Tools Deal And Strong Q1 2026 Results",
+      "url": "https://finnhub.io/api/news?id=69da1ad2660a9ed0f7f4fe85689ab1bf558c2fd0500dc843d1fbaf68788baecd"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Should You Bet on UBER Stock Following Its Q2 Earnings Beat?",
+      "url": "https://finnhub.io/api/news?id=82037620ade800f65449c71434ace34bc15a372f6fb9c9e987b4b02b78190632"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Consumer Tech (Aug 3-7): SpaceX Released Strong First Earnings, Meta Sued For Harming Children's Mental Health & More",
+      "url": "https://finnhub.io/api/news?id=98725731faf784bae01f148cffd10a14c8982e97b378e9b9dcfb095998ca9a45"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Broadcom Boosts VCF Security: Can it Fend Off Nutanix and IBM?",
+      "url": "https://finnhub.io/api/news?id=e24104c38ab21d258dc2ebcfe835b77949c7b85d0a9537bfc7ee887c85c88a77"
     }
   ]
 }
