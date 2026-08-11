@@ -60,6 +60,16 @@
       "stock": "TEAM",
       "headline": "Barclays Maintains Overweight on Atlassian, Raises Price Target to $172",
       "url": "https://finnhub.io/api/news?id=196af7302b659e83ff68a83346d1f9919c395dbef549afaf021027ccef542e8c"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Jim Cramer’s AI Security Play: Why CrowdStrike (CRWD) and Palo Alto (PANW) Are Dominating the Market",
+      "url": "https://finnhub.io/api/news?id=c370f800292c94f92015a248c38c89d42ccc27c8575da24ed1a186c78aae9e5c"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix: I Underestimated The Sector Trend And Cannibalization Risk (Downgrade)",
+      "url": "https://finnhub.io/api/news?id=45bff1f3afe2c1f0188a0de7a518b47cc492045c6e2481f9666bfba4aa268789"
     }
   ]
 }
