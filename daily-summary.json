@@ -30,6 +30,36 @@
       "stock": "TEAM",
       "headline": "Why Atlassian Shares Rose 35%: A Blowout Q4 Earnings Report",
       "url": "https://finnhub.io/api/news?id=ca5d0db3ac5a1c7fd06d1108e1a732946e8405286da0a2589a745566073dc351"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron Says AI Memory Crunch Could Last Beyond 2027 as DRAM Demand Soars",
+      "url": "https://finnhub.io/api/news?id=0011657c683ceca0f6e5fbf2a49284847e5a8e99008a9225b38b6dac428cb2c7"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Nvidia Built the AI Brain, Now TSMC Wants to Give It Eyes",
+      "url": "https://finnhub.io/api/news?id=3322b80746ed8e5eb31cc83d31d34ddd5c4749014a44536b3835bff52303e0ad"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Should COHR Stock Be in Your Portfolio Before Q4 Earnings?",
+      "url": "https://finnhub.io/api/news?id=360c89dcfc4349c6c8436a379758c74af6ec6fdec196216ca34a8e733f403334"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Draganfly Inc. (DPRO) Q2 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=f115d9231468e29cf3d9bac44040245de7061f779d74cbed45b0d293f70ccb54"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Nvidia's CEO just sent strong signal to stock market investors",
+      "url": "https://finnhub.io/api/news?id=997475d266bffb07257c750a8729944ed702f691597c54f19dc68375a626a437"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Barclays Maintains Overweight on Atlassian, Raises Price Target to $172",
+      "url": "https://finnhub.io/api/news?id=196af7302b659e83ff68a83346d1f9919c395dbef549afaf021027ccef542e8c"
     }
   ]
 }
