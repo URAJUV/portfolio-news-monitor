@@ -145,6 +145,21 @@
       "stock": "GOOGL",
       "headline": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
       "url": "https://finnhub.io/api/news?id=0eeae98792cf1e0f96b584693645a6b9358d956818b85ca5e7d69bb010026299"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Wells Fargo Maintains Equal-Weight on Synopsys, Lowers Price Target to $450",
+      "url": "https://finnhub.io/api/news?id=b670e296a2407b0ba0386ea66cc4754b011966e209dedaebbb1d775deb476b08"
+    },
+    {
+      "stock": "DE",
+      "headline": "Evercore ISI Group Maintains In-Line on Deere, Lowers Price Target to $632",
+      "url": "https://finnhub.io/api/news?id=f60e0db731cc07e7912db607b713077d049ff8a8784f90dd8b805e2357a48c49"
+    },
+    {
+      "stock": "U",
+      "headline": "AppLovin Vs. Unity: Buy The Former, The Market Got It Wrong On Earnings",
+      "url": "https://finnhub.io/api/news?id=a103070b7a887e800bcfb4b7f8cf34584d49f9de1ff6498483ca680b494f794d"
     }
   ]
 }
