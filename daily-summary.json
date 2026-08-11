@@ -70,6 +70,26 @@
       "stock": "NFLX",
       "headline": "Netflix: I Underestimated The Sector Trend And Cannibalization Risk (Downgrade)",
       "url": "https://finnhub.io/api/news?id=45bff1f3afe2c1f0188a0de7a518b47cc492045c6e2481f9666bfba4aa268789"
+    },
+    {
+      "stock": "MU",
+      "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
+      "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "The Robot ETF Actually Exists Now: Tesla, Hyundai, and the Companies Building the Joints",
+      "url": "https://finnhub.io/api/news?id=94c2136896eee47c656eb55c7fd62b9e75d7c16e464545b21f9125ecb9ee7965"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Earnings Signals And Labor Slowdowns: Testing The Limits Of Consumer Resilience",
+      "url": "https://finnhub.io/api/news?id=4128b4381d1c85d9d3549a233a9223815aa6395ab02a46a14c9f7772febba179"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Anthropic, OpenAI Said To Be Racing For Public Markets: Reports Of Pre-IPO Moves Tell Very Different Stories",
+      "url": "https://finnhub.io/api/news?id=49fb6e5f7d9c985dfcfe26a9f99a424aa06015081a0f241885345366d77d0680"
     }
   ]
 }
