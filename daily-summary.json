@@ -1,210 +1,25 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Micron poised for \"structural reset\" in earnings power, UBS says, as HBM squeeze tightens further",
-      "url": "https://finnhub.io/api/news?id=e517130443980d5e77b7a4dbcac6b27c7c4ca50fd22ab6beb61c733acbdfc3c9"
-    },
-    {
       "stock": "TSM",
-      "headline": "Which Stocks Will Go Up With The AI Boom? Part I: The Semiconductor Winners",
-      "url": "https://finnhub.io/api/news?id=a108298b6e1e25a868b935b8a2086d76cae994a58df85f7b4dd8f618416572c5"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Cybersecurity Stocks Surge, With Palo Alto Networks and CrowdStrike Leading the Charge",
-      "url": "https://finnhub.io/api/news?id=36ad61e50ce34e71a91666647f6629948fb53387b740c2d66cbf92075a1f6b55"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Retail investors end SpaceX buying spree as stock reclaims IPO price: AlphaCheck",
-      "url": "https://finnhub.io/api/news?id=316afd1f359df3bc979180c4f460a04a47dd409bf30ee2834538a21f364f1372"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Following IonQ and D-Wave Earnings, Don’t Count Out These Smaller Quantum Stocks",
-      "url": "https://finnhub.io/api/news?id=f06e4893b64d3ac7d9f778b95625fb76c96cf374b415e424b6debd327f1281dd"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Why Atlassian Shares Rose 35%: A Blowout Q4 Earnings Report",
-      "url": "https://finnhub.io/api/news?id=ca5d0db3ac5a1c7fd06d1108e1a732946e8405286da0a2589a745566073dc351"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron Says AI Memory Crunch Could Last Beyond 2027 as DRAM Demand Soars",
-      "url": "https://finnhub.io/api/news?id=0011657c683ceca0f6e5fbf2a49284847e5a8e99008a9225b38b6dac428cb2c7"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Nvidia Built the AI Brain, Now TSMC Wants to Give It Eyes",
-      "url": "https://finnhub.io/api/news?id=3322b80746ed8e5eb31cc83d31d34ddd5c4749014a44536b3835bff52303e0ad"
+      "headline": "Why China’s Billions Can’t Break Taiwan Semiconductor’s Chip Grip",
+      "url": "https://finnhub.io/api/news?id=cf05aa28cb6cf26cde6f5b52631027cfbc6964c9d6c76883119951c05da9e6c4"
     },
     {
       "stock": "COHR",
-      "headline": "Should COHR Stock Be in Your Portfolio Before Q4 Earnings?",
-      "url": "https://finnhub.io/api/news?id=360c89dcfc4349c6c8436a379758c74af6ec6fdec196216ca34a8e733f403334"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Draganfly Inc. (DPRO) Q2 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=f115d9231468e29cf3d9bac44040245de7061f779d74cbed45b0d293f70ccb54"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Nvidia's CEO just sent strong signal to stock market investors",
-      "url": "https://finnhub.io/api/news?id=997475d266bffb07257c750a8729944ed702f691597c54f19dc68375a626a437"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Barclays Maintains Overweight on Atlassian, Raises Price Target to $172",
-      "url": "https://finnhub.io/api/news?id=196af7302b659e83ff68a83346d1f9919c395dbef549afaf021027ccef542e8c"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Jim Cramer’s AI Security Play: Why CrowdStrike (CRWD) and Palo Alto (PANW) Are Dominating the Market",
-      "url": "https://finnhub.io/api/news?id=c370f800292c94f92015a248c38c89d42ccc27c8575da24ed1a186c78aae9e5c"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix: I Underestimated The Sector Trend And Cannibalization Risk (Downgrade)",
-      "url": "https://finnhub.io/api/news?id=45bff1f3afe2c1f0188a0de7a518b47cc492045c6e2481f9666bfba4aa268789"
-    },
-    {
-      "stock": "MU",
-      "headline": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
-      "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "The Robot ETF Actually Exists Now: Tesla, Hyundai, and the Companies Building the Joints",
-      "url": "https://finnhub.io/api/news?id=94c2136896eee47c656eb55c7fd62b9e75d7c16e464545b21f9125ecb9ee7965"
+      "headline": "Coherent Could Swing $10.3 Billion In Value After Earnings",
+      "url": "https://finnhub.io/api/news?id=a40145339a7014573809b3cb3292516c8f1e842388050be185ceab75d0e9cb22"
     },
     {
       "stock": "UBER",
-      "headline": "Earnings Signals And Labor Slowdowns: Testing The Limits Of Consumer Resilience",
-      "url": "https://finnhub.io/api/news?id=4128b4381d1c85d9d3549a233a9223815aa6395ab02a46a14c9f7772febba179"
+      "headline": "Nebius Earnings Preview: Michael Burry Is Short but Prediction Markets See Nvidia, Meta Taking Center Stage",
+      "url": "https://finnhub.io/api/news?id=8d55d3065d2d70a520b17721961e58aefe08a0418ce4aac49d0a1b7ef68fce3c"
     },
     {
       "stock": "GOOGL",
-      "headline": "Anthropic, OpenAI Said To Be Racing For Public Markets: Reports Of Pre-IPO Moves Tell Very Different Stories",
-      "url": "https://finnhub.io/api/news?id=49fb6e5f7d9c985dfcfe26a9f99a424aa06015081a0f241885345366d77d0680"
-    },
-    {
-      "stock": "MU",
-      "headline": "1 No-Brainer Growth ETF to Buy Right Now for Less Than $1,000",
-      "url": "https://finnhub.io/api/news?id=1ded5df88b9cb79d2ba44fa03f2d038ede67d4216632a74d425b1e3c4e9d8811"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "This AI Cloud Stock Is Obliterating Amazon, Microsoft, and Alphabet With a 1-Year Return of 275%. Is It Still a Buy?",
-      "url": "https://finnhub.io/api/news?id=8ebe30cd8b7dc05c7c9e8a6b162056fbf75580e6b037e11f3f877315b7f675aa"
-    },
-    {
-      "stock": "HALO",
-      "headline": "HALO Q2 Deep Dive: Royalty Diversification and New Pipeline Drive Upgraded Guidance",
-      "url": "https://finnhub.io/api/news?id=ba02266dff50ac8f76812221256c0aadf0769da761a090a9b6cf00dcc6b2ce79"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "This AI Cloud Stock Is Obliterating Amazon, Microsoft, and Alphabet With a 1-Year Return of 275%. Is It Still a Buy?",
-      "url": "https://finnhub.io/api/news?id=8ebe30cd8b7dc05c7c9e8a6b162056fbf75580e6b037e11f3f877315b7f675aa"
-    },
-    {
-      "stock": "TSM",
-      "headline": "EWT: Taiwan Has Passed Many AI Tests This Summer",
-      "url": "https://finnhub.io/api/news?id=863f2f82a19bd076c7ae98dd569f79b7ca5a86843bbd372875f230bcd7ea4113"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
-      "url": "https://finnhub.io/api/news?id=0eeae98792cf1e0f96b584693645a6b9358d956818b85ca5e7d69bb010026299"
-    },
-    {
-      "stock": "COHR",
-      "headline": "LITE Vs. COHR Vs. AAOI Vs. IPGP: Which Photonics Stock Do Retail Traders Prefer?",
-      "url": "https://finnhub.io/api/news?id=0c396e585dd8404844086f82bd6883dd64dbe98f2cdb53e8457a14cf5073ce1c"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
-      "url": "https://finnhub.io/api/news?id=0eeae98792cf1e0f96b584693645a6b9358d956818b85ca5e7d69bb010026299"
-    },
-    {
-      "stock": "DE",
-      "headline": "Deere: The Risk Is Front-Running (Earnings Preview)",
-      "url": "https://finnhub.io/api/news?id=d913ed6a17912b39e8aa843fbaa7e18cce180c07b5415f4d6b5254220f7cbcb2"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Needham Maintains Buy on Draganfly, Lowers Price Target to $8",
-      "url": "https://finnhub.io/api/news?id=1663dc8fb93ff96b8e5fae5e7d5545c7f1fd98c4ba4519427d5b61203969662d"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
-      "url": "https://finnhub.io/api/news?id=0eeae98792cf1e0f96b584693645a6b9358d956818b85ca5e7d69bb010026299"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Wells Fargo Maintains Equal-Weight on Synopsys, Lowers Price Target to $450",
-      "url": "https://finnhub.io/api/news?id=b670e296a2407b0ba0386ea66cc4754b011966e209dedaebbb1d775deb476b08"
-    },
-    {
-      "stock": "DE",
-      "headline": "Evercore ISI Group Maintains In-Line on Deere, Lowers Price Target to $632",
-      "url": "https://finnhub.io/api/news?id=f60e0db731cc07e7912db607b713077d049ff8a8784f90dd8b805e2357a48c49"
-    },
-    {
-      "stock": "U",
-      "headline": "AppLovin Vs. Unity: Buy The Former, The Market Got It Wrong On Earnings",
-      "url": "https://finnhub.io/api/news?id=a103070b7a887e800bcfb4b7f8cf34584d49f9de1ff6498483ca680b494f794d"
-    },
-    {
-      "stock": "MU",
-      "headline": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
-      "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CoreWeave Earnings Prediction Market Preview: What Will the AI Cloud Company Say About Nvidia and Anthropic?",
-      "url": "https://finnhub.io/api/news?id=5e65896778d995024d6113772f035107eeb30f7d93dc9c0bcff91000b16fff72"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Microsoft: Don't Get Too Excited (Rating Downgrade)",
-      "url": "https://finnhub.io/api/news?id=383b148d809392fba2c65840e1db42886431b183a7e1be340b1012550da54a8c"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent Could Swing By $9.54 Billion After Earnings",
-      "url": "https://finnhub.io/api/news?id=be62be29c6e25f8941041d7c3eca6c6e9c80586f8ac01e0fee25df224f9e6860"
-    },
-    {
-      "stock": "HON",
-      "headline": "Tuesday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=504d53a6bc26a2daa4ba0fe5a2839b181f9af8edfca931a81c5fbf2b9f157a15"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Goldman Sachs Initiates Coverage On Autodesk with Neutral Rating, Announces Price Target of $260",
-      "url": "https://finnhub.io/api/news?id=ad54d885c64f25174d270e16b695246a7dbc4debdb7aac59a5f3066bbcbbe7cf"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM Lands $240 Million AI Deal with Together AI to Scale Inference",
-      "url": "https://finnhub.io/api/news?id=26ea1910ab6451080740a5be13f6bffdeb2ccc03763cad1d66d01eedb04b6d67"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Tuesday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=504d53a6bc26a2daa4ba0fe5a2839b181f9af8edfca931a81c5fbf2b9f157a15"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "5 Earnings Losers With More Downside Ahead",
-      "url": "https://finnhub.io/api/news?id=a95d93a48081a08fd59c0d5a968f0fdfa0d907296478f226fc107aae054eeb7e"
+      "headline": "Nebius Earnings Preview: Michael Burry Is Short but Prediction Markets See Nvidia, Meta Taking Center Stage",
+      "url": "https://finnhub.io/api/news?id=8d55d3065d2d70a520b17721961e58aefe08a0418ce4aac49d0a1b7ef68fce3c"
     }
   ]
 }
