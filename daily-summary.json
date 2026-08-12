@@ -90,6 +90,41 @@
       "stock": "GOOGL",
       "headline": "Stock Market Today: Nasdaq 100 Rises on Strong AI Earnings, Benign Inflation",
       "url": "https://finnhub.io/api/news?id=7cb1bffb27ed49f5557a3674c922ff25f84eb2b4b0bc3a94822ad9cc3d702d0a"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Cerebras Earnings Prediction Market Preview: What Will Andrew Feldman Say?",
+      "url": "https://finnhub.io/api/news?id=9cd746b9a42d8a7f8ef04c7ea6d68f330a8824cc62d990ce34185f1d4e130dd6"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Corp. 2026 Q4 - Results - Earnings Call Presentation",
+      "url": "https://finnhub.io/api/news?id=6e785e5e4bf43d7ce3bc0e5f787278900099a7f4cdc269238f9ce580f8e16284"
+    },
+    {
+      "stock": "HON",
+      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Sells Serve Robotics Stake, Catches Company Off Guard: ‘Differing Views’ Sour Partnership",
+      "url": "https://finnhub.io/api/news?id=04bc6bb0a3f48bb35c2cca3472f6887cfc98e3eac20fd294b4b9adff2075bc54"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google Raises Pixel 11 Series Entry Prices Across All Three Models; Drops 128GB Tier",
+      "url": "https://finnhub.io/api/news?id=c9df3dbc2a8cc05943c78e7bd95a09e27ab3a06244d3eed26cb42ca8b4877227"
     }
   ]
 }
