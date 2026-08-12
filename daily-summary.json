@@ -75,6 +75,21 @@
       "stock": "NFLX",
       "headline": "Netflix: The Market Is Underappreciating 2027 Earnings Power",
       "url": "https://finnhub.io/api/news?id=9a46d00c56a0d762972e08efb5da37bb57a30e71da63945edf74a2087441742c"
+    },
+    {
+      "stock": "TSM",
+      "headline": "What's Going On With Taiwan Semiconductor Stock Wednesday?",
+      "url": "https://finnhub.io/api/news?id=8cb3bca3b29525f99f218326a96080c93b7b53e59a6d95b0791b64a6469057f6"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Lessons To Learn About AI And Cybersecurity From Black Hat Cyber 2026",
+      "url": "https://finnhub.io/api/news?id=f2c8e8acc25425248dba1db7a697b44cd474aee6dc51c60a525ca2ba790c470d"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Stock Market Today: Nasdaq 100 Rises on Strong AI Earnings, Benign Inflation",
+      "url": "https://finnhub.io/api/news?id=7cb1bffb27ed49f5557a3674c922ff25f84eb2b4b0bc3a94822ad9cc3d702d0a"
     }
   ]
 }
