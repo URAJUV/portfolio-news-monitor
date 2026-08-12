@@ -55,6 +55,26 @@
       "stock": "GOOGL",
       "headline": "Alphabet's Blowout Q2 Confirmed The AI Stack Thesis And Shares Are Still Undervalued",
       "url": "https://finnhub.io/api/news?id=474f30d67a4381a747b36f49fd82f9d885c2b82d2eae50b7a01db0d0185115e1"
+    },
+    {
+      "stock": "TSM",
+      "headline": "VanEck Semiconductor ETF: Cheap On Peak Earnings Is Not Cheap",
+      "url": "https://finnhub.io/api/news?id=5cd74bceeba8a223736a3ebefb542dfdff011625622b058d2bd45b60fd58784b"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber: 3 Growth Engines Make The AV Spending Risk Worth Taking (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=99e67f03b53c2835ea9e32a05c61fd6fad782c9f144cc0b30337e171e936008a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Elon Musk Says AI Will Be SpaceX's Biggest Business by September: Does the Math Check Out?",
+      "url": "https://finnhub.io/api/news?id=11e402cf842a1115f49674c4e1e0791fd4e25df9e4e0ac49e3cd626d7392d760"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix: The Market Is Underappreciating 2027 Earnings Power",
+      "url": "https://finnhub.io/api/news?id=9a46d00c56a0d762972e08efb5da37bb57a30e71da63945edf74a2087441742c"
     }
   ]
 }
