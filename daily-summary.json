@@ -130,6 +130,31 @@
       "stock": "IBM",
       "headline": "IBM and OpenAI Launch Enterprise AI Partnership With GPT-5.6 Integration",
       "url": "https://finnhub.io/api/news?id=07ea82ab31e91b1f86a320bf9aeeb826f22cf2947918cb4f461c34a500b42a06"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Analysts Revamps Coherent Targets After AI Surge",
+      "url": "https://finnhub.io/api/news?id=b0a41248f9a07dabcd120a332729574119549b296fb29d6bca35bbda03bc521e"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys (SNPS) Bets Big On Agentic AI: Can The Stock Follow?",
+      "url": "https://finnhub.io/api/news?id=be28f1b221901b75453bcc2a399e6ad33dc92e8b034f8de7111c630c4f5eb123"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
+      "url": "https://finnhub.io/api/news?id=6298b20b8bc7cfb2e25971aa03f77f56e528abb8a47c862f8b94d805a773e4cf"
+    },
+    {
+      "stock": "DE",
+      "headline": "Deere (DE) Reports Next Week: Wall Street Expects Earnings Growth",
+      "url": "https://finnhub.io/api/news?id=aefaaf2f75571921a4d41d2a61ca7d2dfa5dfd0c7410e46640f333a84b7248f5"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=a859e5acaa7a3d90b255ac2eba6c0dcb2b2f7d03225e857b1c9c47571ff4b9cd"
     }
   ]
 }
