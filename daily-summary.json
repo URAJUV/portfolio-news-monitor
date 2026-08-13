@@ -155,6 +155,31 @@
       "stock": "ADSK",
       "headline": "Thursday's session: top gainers and losers in the S&P500 index",
       "url": "https://finnhub.io/api/news?id=a859e5acaa7a3d90b255ac2eba6c0dcb2b2f7d03225e857b1c9c47571ff4b9cd"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Stock Reverses Higher as AI Optics Forecast Beats Estimates",
+      "url": "https://finnhub.io/api/news?id=d766963e6d4c30969a7ba6ef3399af6d3fe4482a206ba1b39b7341663dfebbc1"
+    },
+    {
+      "stock": "ARM",
+      "headline": "AMD Prepares Record $5B Bond Sale to Fuel Massive AI Expansion",
+      "url": "https://finnhub.io/api/news?id=d7829df9bb82f3ae92f4ef79d2e4eff0a0f97b8115b9cdab3e96e886b05dda93"
+    },
+    {
+      "stock": "UBER",
+      "headline": "OpenAI Taps Ex-Wiz Executive to Lead Its Global Sales Push",
+      "url": "https://finnhub.io/api/news?id=37ebb56c7d9040a6b5d7e40f6574188436cf0f9452b712afcc25595f6e7d2f91"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM partners with OpenAI to bolster enterprise AI push",
+      "url": "https://finnhub.io/api/news?id=41973daba8d87a9b2de199ab3f8123a72def429c4aa7deb4214e9423fc2032c8"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Fortinet shares are trading higher after reporting better-than-expected Q4 financial results and Q1 and FY26 outlook. Also, Rosenblatt raised its price target on the stock from $100 to $105.",
+      "url": "https://finnhub.io/api/news?id=17adf0d15ec4079a9bb0faf5213b615bec6367c802fd3b9c203d6f8ad2dd2679"
     }
   ]
 }
