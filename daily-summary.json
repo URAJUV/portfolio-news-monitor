@@ -50,6 +50,51 @@
       "stock": "ADSK",
       "headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Airbnb, AppLovin, Autodesk, Best Buy, BigBear.ai, Boeing, Fiserv, Jabil, Spotify Technology and More",
       "url": "https://finnhub.io/api/news?id=d1b2c9f5fa9c7c60dcbbb29152cd1678864644a8fcb83a427459a197f472c346"
+    },
+    {
+      "stock": "MU",
+      "headline": "Cool CPI Lights the Fuse Under AI Hardware as Software Takes a Beating",
+      "url": "https://finnhub.io/api/news?id=8e0b011a5673522bb64aecbf7ece47fbf08cd0f4aff0f5cdb8ff742812f72b7d"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "C3.ai vs. CrowdStrike: Which Tech Stock Is a Better Buy in 2026?",
+      "url": "https://finnhub.io/api/news?id=a1e7bb5f528076b4350cb4c31bbac4387c89aadd106343f040f5e350981d36ad"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "What Could Amazon.com (AMZN) Gain From Leading The Decart AI Bidding?",
+      "url": "https://finnhub.io/api/news?id=39874c944d40cc170adae17a0635107c9f944213218e90a4161633dc579a0ac2"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Cool CPI Lights the Fuse Under AI Hardware as Software Takes a Beating",
+      "url": "https://finnhub.io/api/news?id=8e0b011a5673522bb64aecbf7ece47fbf08cd0f4aff0f5cdb8ff742812f72b7d"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "OptimizeRx Corp. (OPRX) Q2 Earnings and Revenues Top Estimates",
+      "url": "https://finnhub.io/api/news?id=4c77b77c47e886e7eac589aa3f624d837b9b419511b2ecf3cb5441c3581b8880"
+    },
+    {
+      "stock": "HON",
+      "headline": "Quantinuum Stock Heads for Record After First Earnings Report Since IPO",
+      "url": "https://finnhub.io/api/news?id=754df8a731345bed9ec5651d3e6659d785d13d54c0b0e0203e8a9422a2930485"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Draganfly: Failing To Catch The Booming Drone Market (Downgrade)",
+      "url": "https://finnhub.io/api/news?id=b3c856ba310b295f7ce72cb9d2431a48c4d4d8213f5ea80447188abbd4ade731"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Landed A $240M AI Deal. Is That Enough?",
+      "url": "https://finnhub.io/api/news?id=e0a0fffcc5648a8ad5fb194c29305a695dc7cbc13e5cebc7bf4a4dccfcd7d8ea"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "What Is Micron Technology (MU) Up Against In The New AI Stock Race?",
+      "url": "https://finnhub.io/api/news?id=421fcaf9fca3601087fbfe7ed6132dd9ea82102887b21084c4eeb8648b2f331d"
     }
   ]
 }
