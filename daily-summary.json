@@ -115,6 +115,21 @@
       "stock": "IBM",
       "headline": "IBM Makes Massive OpenAI Push, Plans Thousands-Strong AI Practice Weeks After CEO Admitted It ‘Did Not Move Quickly Enough’",
       "url": "https://finnhub.io/api/news?id=ce2a3bd953eb923ae47ec0bf213a697103e8497b5b3f0a157f4e02aeedfc12c6"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Holdings (CRWD) Gains as Autonomous AI Agents Go Mainstream",
+      "url": "https://finnhub.io/api/news?id=7070b40077bfc783358fd41ff7ceb9e2b4ecf92008ec2f741653419b5a91a80d"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Steve Eisman warns AI boom depends on OpenAI and Anthropic",
+      "url": "https://finnhub.io/api/news?id=70adda6985a60719db0c22bab4d1b4919309c3380c6955571c9e3415ad96d122"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM and OpenAI Launch Enterprise AI Partnership With GPT-5.6 Integration",
+      "url": "https://finnhub.io/api/news?id=07ea82ab31e91b1f86a320bf9aeeb826f22cf2947918cb4f461c34a500b42a06"
     }
   ]
 }
