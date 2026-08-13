@@ -20,6 +20,26 @@
       "stock": "UBER",
       "headline": "Stock Market Today: Nasdaq 100 Rises on Strong AI Earnings, Benign Inflation",
       "url": "https://finnhub.io/api/news?id=7cb1bffb27ed49f5557a3674c922ff25f84eb2b4b0bc3a94822ad9cc3d702d0a"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Cathie Wood Calls Bitcoin 'Critical' Financial Infrastructure: 'Those Securing It Should Have Trusted Access to the Most Powerful AI Models'",
+      "url": "https://finnhub.io/api/news?id=e08fa0bfddb8c4c28c8c4b862c205a72c877a5b48c8302598b7b2cde6dcabe72"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "WeRide CEO Calls Its Tech Comparable To Tesla FSD",
+      "url": "https://finnhub.io/api/news?id=7d953bd6537e1319dd8f89b0fc93ceeb6e352ad4fcbe2db09dca640022ba0227"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Boeing upgraded, Under Armour downgraded: Wall Street's top analyst calls",
+      "url": "https://finnhub.io/api/news?id=7504c0ebdb35873be5d7ecd609349b4328e77b4cd540d93061d6e62584bac82d"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
+      "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27"
     }
   ]
 }
