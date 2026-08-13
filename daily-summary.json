@@ -95,6 +95,26 @@
       "stock": "GOOGL",
       "headline": "What Is Micron Technology (MU) Up Against In The New AI Stock Race?",
       "url": "https://finnhub.io/api/news?id=421fcaf9fca3601087fbfe7ed6132dd9ea82102887b21084c4eeb8648b2f331d"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "AI Earnings Split: Accelerating Growers Rewarded, Cloud Bellwether Sells Off",
+      "url": "https://finnhub.io/api/news?id=796cab26eda2f37b542b1500966dad0f169aac51f497d18acf126608798db5e0"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Can SNPS Leverage AI to Accelerate Chip Design and Drive Growth?",
+      "url": "https://finnhub.io/api/news?id=40ef93cd3a25001abdf948d6d333a373dd656ce8ec5f9c032ebd69b8f03b6763"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk: The AI Story Is Real, But Growth Still Needs To Catch Up",
+      "url": "https://finnhub.io/api/news?id=e25b237d4a7b84b9858add2b9a23fd40a3b7d8dcd89e6589751162eb8a5eb8bd"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Makes Massive OpenAI Push, Plans Thousands-Strong AI Practice Weeks After CEO Admitted It ‘Did Not Move Quickly Enough’",
+      "url": "https://finnhub.io/api/news?id=ce2a3bd953eb923ae47ec0bf213a697103e8497b5b3f0a157f4e02aeedfc12c6"
     }
   ]
 }
