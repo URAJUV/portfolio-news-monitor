@@ -1,130 +1,25 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "Why China’s Billions Can’t Break Taiwan Semiconductor’s Chip Grip",
-      "url": "https://finnhub.io/api/news?id=cf05aa28cb6cf26cde6f5b52631027cfbc6964c9d6c76883119951c05da9e6c4"
+      "stock": "CRWD",
+      "headline": "Citizens Maintains Market Outperform on CrowdStrike Holdings, Raises Price Target to $230",
+      "url": "https://finnhub.io/api/news?id=a7b02a676344f3be52ac506178ca9eb24c236700d1151bbf661c40f19015a68e"
     },
     {
       "stock": "COHR",
-      "headline": "Coherent Could Swing $10.3 Billion In Value After Earnings",
-      "url": "https://finnhub.io/api/news?id=a40145339a7014573809b3cb3292516c8f1e842388050be185ceab75d0e9cb22"
+      "headline": "Coherent Corp. (COHR) Q4 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=0480ed6ef8802fbbfaf707accd6bc150aaff27eec0facc1b99a191e8a3ff195b"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Shares of companies in the broader chip sector are trading higher, rebounding from recent weakness in tech stocks. Investors may also be awaiting NVIDIA's earnings report after the close.",
+      "url": "https://finnhub.io/api/news?id=c8a6a393fed27987d5b8298fe5788b1081558d3b7335b3ba3a41202a3b63440f"
     },
     {
       "stock": "UBER",
-      "headline": "Nebius Earnings Preview: Michael Burry Is Short but Prediction Markets See Nvidia, Meta Taking Center Stage",
-      "url": "https://finnhub.io/api/news?id=8d55d3065d2d70a520b17721961e58aefe08a0418ce4aac49d0a1b7ef68fce3c"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Nebius Earnings Preview: Michael Burry Is Short but Prediction Markets See Nvidia, Meta Taking Center Stage",
-      "url": "https://finnhub.io/api/news?id=8d55d3065d2d70a520b17721961e58aefe08a0418ce4aac49d0a1b7ef68fce3c"
-    },
-    {
-      "stock": "MU",
-      "headline": "Dividends Are Sending A Signal",
-      "url": "https://finnhub.io/api/news?id=babcb957e3abfc410a56107bc201d36b4dd81deae6a09eb74764ea2ad4a90095"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "PubMatic Appoints Megan Ramm as Global Chief Revenue Officer to Accelerate Growth as AI Transforms Digital Advertising",
-      "url": "https://finnhub.io/api/news?id=2eeeeed7770c18dbfab6c7e9ade7e226f3672fdd8156cb27f5b3e222a4b74cde"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
-      "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
-      "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "License To Chase The AI Frontier",
-      "url": "https://finnhub.io/api/news?id=b1a2e8841528ae00e7dceba325d39891075080c09e04ef766673d256990c7664"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "License To Chase The AI Frontier",
-      "url": "https://finnhub.io/api/news?id=b1a2e8841528ae00e7dceba325d39891075080c09e04ef766673d256990c7664"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet's Blowout Q2 Confirmed The AI Stack Thesis And Shares Are Still Undervalued",
-      "url": "https://finnhub.io/api/news?id=474f30d67a4381a747b36f49fd82f9d885c2b82d2eae50b7a01db0d0185115e1"
-    },
-    {
-      "stock": "TSM",
-      "headline": "VanEck Semiconductor ETF: Cheap On Peak Earnings Is Not Cheap",
-      "url": "https://finnhub.io/api/news?id=5cd74bceeba8a223736a3ebefb542dfdff011625622b058d2bd45b60fd58784b"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber: 3 Growth Engines Make The AV Spending Risk Worth Taking (Rating Upgrade)",
-      "url": "https://finnhub.io/api/news?id=99e67f03b53c2835ea9e32a05c61fd6fad782c9f144cc0b30337e171e936008a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Elon Musk Says AI Will Be SpaceX's Biggest Business by September: Does the Math Check Out?",
-      "url": "https://finnhub.io/api/news?id=11e402cf842a1115f49674c4e1e0791fd4e25df9e4e0ac49e3cd626d7392d760"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix: The Market Is Underappreciating 2027 Earnings Power",
-      "url": "https://finnhub.io/api/news?id=9a46d00c56a0d762972e08efb5da37bb57a30e71da63945edf74a2087441742c"
-    },
-    {
-      "stock": "TSM",
-      "headline": "What's Going On With Taiwan Semiconductor Stock Wednesday?",
-      "url": "https://finnhub.io/api/news?id=8cb3bca3b29525f99f218326a96080c93b7b53e59a6d95b0791b64a6469057f6"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Lessons To Learn About AI And Cybersecurity From Black Hat Cyber 2026",
-      "url": "https://finnhub.io/api/news?id=f2c8e8acc25425248dba1db7a697b44cd474aee6dc51c60a525ca2ba790c470d"
-    },
-    {
-      "stock": "GOOGL",
       "headline": "Stock Market Today: Nasdaq 100 Rises on Strong AI Earnings, Benign Inflation",
       "url": "https://finnhub.io/api/news?id=7cb1bffb27ed49f5557a3674c922ff25f84eb2b4b0bc3a94822ad9cc3d702d0a"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Cerebras Earnings Prediction Market Preview: What Will Andrew Feldman Say?",
-      "url": "https://finnhub.io/api/news?id=9cd746b9a42d8a7f8ef04c7ea6d68f330a8824cc62d990ce34185f1d4e130dd6"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent Corp. 2026 Q4 - Results - Earnings Call Presentation",
-      "url": "https://finnhub.io/api/news?id=6e785e5e4bf43d7ce3bc0e5f787278900099a7f4cdc269238f9ce580f8e16284"
-    },
-    {
-      "stock": "HON",
-      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Sells Serve Robotics Stake, Catches Company Off Guard: ‘Differing Views’ Sour Partnership",
-      "url": "https://finnhub.io/api/news?id=04bc6bb0a3f48bb35c2cca3472f6887cfc98e3eac20fd294b4b9adff2075bc54"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Google Raises Pixel 11 Series Entry Prices Across All Three Models; Drops 128GB Tier",
-      "url": "https://finnhub.io/api/news?id=c9df3dbc2a8cc05943c78e7bd95a09e27ab3a06244d3eed26cb42ca8b4877227"
     }
   ]
 }
