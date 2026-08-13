@@ -40,6 +40,16 @@
       "stock": "GOOGL",
       "headline": "GE Vernova: I Can't Stop Buying This AI Power Stock",
       "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "3 Ways To Get Paid For Big Tech's Volatility",
+      "url": "https://finnhub.io/api/news?id=cdbd8b46020d90895b420aaf422fe7459e7c5b74976f702183cb74b72e3bfaa3"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Airbnb, AppLovin, Autodesk, Best Buy, BigBear.ai, Boeing, Fiserv, Jabil, Spotify Technology and More",
+      "url": "https://finnhub.io/api/news?id=d1b2c9f5fa9c7c60dcbbb29152cd1678864644a8fcb83a427459a197f472c346"
     }
   ]
 }
