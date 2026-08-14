@@ -160,6 +160,26 @@
       "stock": "DE",
       "headline": "MOO: Farm Cycle Recovery And Long Term Food Security",
       "url": "https://finnhub.io/api/news?id=9c4c409bd21bdb822db04e0ba6e1f67e93a0a139b3d78bbaef9990068fc505c1"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Softbank Decreases Stake In Taiwan Semiconductor Mfg Ltd By 72% To 565,000 Shares",
+      "url": "https://finnhub.io/api/news?id=1d02131466f50f2e6b33c7e0dcb2d90bcc84adf7cc7b31b5bf413dba8a21d65a"
+    },
+    {
+      "stock": "UBER",
+      "headline": "2,000 Robotaxis, Four New Cities: Pony AI, Uber Accelerate Europe’s Driverless Push",
+      "url": "https://finnhub.io/api/news?id=56327501abb8dfbcbdd4261f6f2ecedae182f6a8cb157413bd90adc21eaa491c"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Micron and 15 Other Stocks To Play The AI Buildout Race: They Are Still 20% Below Highs",
+      "url": "https://finnhub.io/api/news?id=bf655e4a9590a743a1cba322e91ea8de0f1413e8f31e527ea290fd0522a3d79b"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit Gets Added To The S&P 500 But I'm Selling (Rating Downgrade)",
+      "url": "https://finnhub.io/api/news?id=4ba58f7531a7b15bbd554d35bac1dc494b00ab6116c49b8b5d181f23769ad849"
     }
   ]
 }
