@@ -40,6 +40,46 @@
       "stock": "RDDT",
       "headline": "Reddit Stock Pops on Long-Awaited S&P 500 Inclusion",
       "url": "https://finnhub.io/api/news?id=03d415dfa229f65b275153642341bfb2a85d72a1a5e03b42425a48b7dee5ed4d"
+    },
+    {
+      "stock": "MU",
+      "headline": "'Big Short' Michael Burry takes aim at surging AI stock",
+      "url": "https://finnhub.io/api/news?id=7ab45cd3284aee7367acb96fa9cdbcdbdf7c9cb16ec8b10e5d1d11ed44676fb7"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Grove (GROV) Q2 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=9aa2cf0c24629e0fccc6baa078019a49919aa7a7dee3422b21f9313fa6f6e81f"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Everyone Is Chasing Nvidia: BofA Securities Sees $210 Billion CPU Boom for These 3 Stocks",
+      "url": "https://finnhub.io/api/news?id=e35a1802a40f2a848b1151e34bd27b753b49d7581d958032ee9c34708aa180c9"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme (HALO) Q2 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=880797ddf60d01218273d9a9d13a0d3165a06274f4abd27c27add6d690a0e1c3"
+    },
+    {
+      "stock": "DE",
+      "headline": "8-13-2026: Tight Ranges, Falling Yields + AI Compute Financing",
+      "url": "https://finnhub.io/api/news?id=b61b6b12567fe66e8290affb53e45b13c755eeb207acaf8b36b43c721b2b9e3c"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "White House Says President Trump Signed Proclamation Imposing Tariffs On Drones And Their Parts And Components;  Proclamation Imposes A 100% Ad Valorem Tariff On Drones Of A Certain Size Or With Certain Capabilities That Are Particularly Sensitive For National Security Purposes; Proclamation Imposes A 25% Ad Valorem Tariff On Certain Drones That Are Smaller In Size And Lack Certain Capabilities That Particularly Implicate National Security",
+      "url": "https://finnhub.io/api/news?id=f503570b384f94a67fbb692563c505ed7af1556caa1ea4a9f3de09b2696fa046"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Can IBM's Together AI Cloud Deal Boost Its Growth Prospects?",
+      "url": "https://finnhub.io/api/news?id=7c8b97739746ceb6e4164e1a7b3c6eab22e0c9bbdb3c55a0259ab17d2b263f74"
+    },
+    {
+      "stock": "U",
+      "headline": "Unity (U) Q2 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=d84d92edb33589ac0576aa74ba2dcb6f7ac310ed3e0edfbcf4e96ff4070c0bf2"
     }
   ]
 }
