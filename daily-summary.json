@@ -180,6 +180,26 @@
       "stock": "RDDT",
       "headline": "Reddit Gets Added To The S&P 500 But I'm Selling (Rating Downgrade)",
       "url": "https://finnhub.io/api/news?id=4ba58f7531a7b15bbd554d35bac1dc494b00ab6116c49b8b5d181f23769ad849"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Nvidia's Next-Gen Feynman AI Platform Is Ramping Up, Forcing TSMC to Race Ahead: Report",
+      "url": "https://finnhub.io/api/news?id=e468020489b1b98c3fe7c9be950376afc3bfbc91d8af08b4b9371ae5501fe402"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "RBC Capital Maintains Outperform on CrowdStrike Holdings, Raises Price Target to $256",
+      "url": "https://finnhub.io/api/news?id=c414d0307b708e33d6f00c088aaee4517d853e948a00fe1a31057e6a4bfedffb"
+    },
+    {
+      "stock": "DE",
+      "headline": "JP Morgan Maintains Neutral on Deere, Lowers Price Target to $570",
+      "url": "https://finnhub.io/api/news?id=8836201ee322cfb00d3e8222f2957a237624750ce25c75fc4f658d554e048fd9"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "ParaZero Technologies Secures Additional Purchase Order From Israeli Defense Entity For DefendAir Counter-UAS Systems; Amount Not Disclosed",
+      "url": "https://finnhub.io/api/news?id=4c224e84b261ed9e671e45689c2e06402e4fcb5b90c9d5dd68c7b05cb24cb5b7"
     }
   ]
 }
