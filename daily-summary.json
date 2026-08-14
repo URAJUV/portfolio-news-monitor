@@ -80,6 +80,36 @@
       "stock": "U",
       "headline": "Unity (U) Q2 2026 Earnings Call Transcript",
       "url": "https://finnhub.io/api/news?id=d84d92edb33589ac0576aa74ba2dcb6f7ac310ed3e0edfbcf4e96ff4070c0bf2"
+    },
+    {
+      "stock": "MU",
+      "headline": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
+      "url": "https://finnhub.io/api/news?id=e74d8d484cef3d6bec9f9e84d5227675c131df1c0390c2fad04f198bda2daa81"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber’s Q2 Earnings Call: Our Top 5 Analyst Questions",
+      "url": "https://finnhub.io/api/news?id=f51e3c44dcc8e076b6e43af72f1718e6321a35241d2a59e61082015c23c65981"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Ladenburg Thalmann Maintains Buy on Draganfly, Lowers Price Target to $11.5",
+      "url": "https://finnhub.io/api/news?id=16a569b094e39f885c7f26e7197c74101f9276ae296d772358c1eccd034e4d0e"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM, OpenAI strike deal to deploy AI services",
+      "url": "https://finnhub.io/api/news?id=271400b75fc09c5b14096d546e64672e3431923419b146c232e8e5460afdaaba"
+    },
+    {
+      "stock": "U",
+      "headline": "Design Software Stocks Q2 Earnings: Unity (NYSE:U) Firing on All Cylinders",
+      "url": "https://finnhub.io/api/news?id=4fa8ee5300975d8859797925116d35451031ef9f41d515771e9898bf075990be"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "OpenAI's New Revenue Officer Comes From Alphabet's Wiz",
+      "url": "https://finnhub.io/api/news?id=1fddc9e7e42a9fdd628ac7985a476e301b1b61f906250a57b2d02f319cd35764"
     }
   ]
 }
