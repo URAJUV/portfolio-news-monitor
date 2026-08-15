@@ -1,4 +1,50 @@
 {
   "date": "2026-08-15",
-  "items": []
+  "items": [
+    {
+      "stock": "MU",
+      "headline": "These Three Metrics Explain Why S&P 500 Index Has Hit Record High",
+      "url": "https://finnhub.io/api/news?id=d0ebc82da0e30ec080135ef8555241856b0b5f6fe56d64438ebd4e32b1672f73"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "These Three Metrics Explain Why S&P 500 Index Has Hit Record High",
+      "url": "https://finnhub.io/api/news?id=d0ebc82da0e30ec080135ef8555241856b0b5f6fe56d64438ebd4e32b1672f73"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AI's Laser Shortage: My Favorite Bottleneck To Buy",
+      "url": "https://finnhub.io/api/news?id=8863a84be5f4eb35b314f967dca74b763bafd26c4864355d2b840410d0f9385a"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "AI's Laser Shortage: My Favorite Bottleneck To Buy",
+      "url": "https://finnhub.io/api/news?id=8863a84be5f4eb35b314f967dca74b763bafd26c4864355d2b840410d0f9385a"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
+    }
+  ]
 }
