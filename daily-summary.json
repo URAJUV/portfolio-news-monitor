@@ -55,6 +55,11 @@
       "stock": "GOOGL",
       "headline": "Third Point Raises Share Stake In Alphabet To 1M Class A Capital Stock",
       "url": "https://finnhub.io/api/news?id=e89665cdb9289d875e9420bf7b16cb1ceda8220eed5b358cc6031cd8fad1f586"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "'Anthropic Revenue Surges to Over $11.5B in Second Quarter'- Bloomberg",
+      "url": "https://finnhub.io/api/news?id=18433846120f92ab018bf7368943ca3da77d65f5ed2d86ba6f86fe7f37b64aec"
     }
   ]
 }
