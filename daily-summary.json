@@ -1,205 +1,30 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Is Micron (MU) Using Its New AI Fund to Quietly Redefine Its Memory Strategy?",
-      "url": "https://finnhub.io/api/news?id=bff1dcd61ff1fde2e1af6bed6d1081f7e0cfea025bc205c570c46bb9c3878b92"
-    },
-    {
-      "stock": "TSM",
-      "headline": "AMD Prepares Record $5B Bond Sale to Fuel Massive AI Expansion",
-      "url": "https://finnhub.io/api/news?id=d7829df9bb82f3ae92f4ef79d2e4eff0a0f97b8115b9cdab3e96e886b05dda93"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "1 Jaw-Dropping Metric That Shows Why Amazon Is a Force to Be Reckoned With in the AI Arms Race",
-      "url": "https://finnhub.io/api/news?id=a8694d0c4cb44f128fff232a9623985e64b51994ba87eff8ba7f5c4ad2d3f3d5"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
-      "url": "https://finnhub.io/api/news?id=e74d8d484cef3d6bec9f9e84d5227675c131df1c0390c2fad04f198bda2daa81"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "White House Says Proclamation Imposes A 15% Ad Valorem Tariff On Drones And Components From European Union, Japan, Liechtenstein, Republic Of Korea, Switzerland, And Taiwan; Proclamation Imposes 10% Ad Valorem Tariff For Drones From United Kingdom; Tariffs Will Take Effect 21 Days After Signing; For Components Of Drones That Are Not Particularly Sensitive, Tariffs Will Take Effect 180 Days After Signing",
-      "url": "https://finnhub.io/api/news?id=19d764cefa5be3563ba78a56158bf4f90b19cac7e719a35b312fde282a997273"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Cisco security revenue jumps 14% as agentic AI sharpens cyberattacks",
-      "url": "https://finnhub.io/api/news?id=d96f14629428c2ac9cca2362a57c64c7667b7a0c9bda0b960494fbc89a3934a7"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Fidelity’s Contrafund, FCNTX, Bet Against the Crowd and Got Enormous Doing It",
-      "url": "https://finnhub.io/api/news?id=8fd9ab5b9f93dcf3a7bb6363af7368aa7f680fa85d1ac4e677af32dd8d8b6660"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit Stock Pops on Long-Awaited S&P 500 Inclusion",
-      "url": "https://finnhub.io/api/news?id=03d415dfa229f65b275153642341bfb2a85d72a1a5e03b42425a48b7dee5ed4d"
-    },
-    {
-      "stock": "MU",
-      "headline": "'Big Short' Michael Burry takes aim at surging AI stock",
-      "url": "https://finnhub.io/api/news?id=7ab45cd3284aee7367acb96fa9cdbcdbdf7c9cb16ec8b10e5d1d11ed44676fb7"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Grove (GROV) Q2 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=9aa2cf0c24629e0fccc6baa078019a49919aa7a7dee3422b21f9313fa6f6e81f"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Everyone Is Chasing Nvidia: BofA Securities Sees $210 Billion CPU Boom for These 3 Stocks",
-      "url": "https://finnhub.io/api/news?id=e35a1802a40f2a848b1151e34bd27b753b49d7581d958032ee9c34708aa180c9"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Halozyme (HALO) Q2 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=880797ddf60d01218273d9a9d13a0d3165a06274f4abd27c27add6d690a0e1c3"
-    },
-    {
-      "stock": "DE",
-      "headline": "8-13-2026: Tight Ranges, Falling Yields + AI Compute Financing",
-      "url": "https://finnhub.io/api/news?id=b61b6b12567fe66e8290affb53e45b13c755eeb207acaf8b36b43c721b2b9e3c"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "White House Says President Trump Signed Proclamation Imposing Tariffs On Drones And Their Parts And Components;  Proclamation Imposes A 100% Ad Valorem Tariff On Drones Of A Certain Size Or With Certain Capabilities That Are Particularly Sensitive For National Security Purposes; Proclamation Imposes A 25% Ad Valorem Tariff On Certain Drones That Are Smaller In Size And Lack Certain Capabilities That Particularly Implicate National Security",
-      "url": "https://finnhub.io/api/news?id=f503570b384f94a67fbb692563c505ed7af1556caa1ea4a9f3de09b2696fa046"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Can IBM's Together AI Cloud Deal Boost Its Growth Prospects?",
-      "url": "https://finnhub.io/api/news?id=7c8b97739746ceb6e4164e1a7b3c6eab22e0c9bbdb3c55a0259ab17d2b263f74"
-    },
-    {
-      "stock": "U",
-      "headline": "Unity (U) Q2 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=d84d92edb33589ac0576aa74ba2dcb6f7ac310ed3e0edfbcf4e96ff4070c0bf2"
-    },
-    {
-      "stock": "MU",
-      "headline": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
-      "url": "https://finnhub.io/api/news?id=e74d8d484cef3d6bec9f9e84d5227675c131df1c0390c2fad04f198bda2daa81"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber’s Q2 Earnings Call: Our Top 5 Analyst Questions",
-      "url": "https://finnhub.io/api/news?id=f51e3c44dcc8e076b6e43af72f1718e6321a35241d2a59e61082015c23c65981"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Ladenburg Thalmann Maintains Buy on Draganfly, Lowers Price Target to $11.5",
-      "url": "https://finnhub.io/api/news?id=16a569b094e39f885c7f26e7197c74101f9276ae296d772358c1eccd034e4d0e"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM, OpenAI strike deal to deploy AI services",
-      "url": "https://finnhub.io/api/news?id=271400b75fc09c5b14096d546e64672e3431923419b146c232e8e5460afdaaba"
-    },
-    {
-      "stock": "U",
-      "headline": "Design Software Stocks Q2 Earnings: Unity (NYSE:U) Firing on All Cylinders",
-      "url": "https://finnhub.io/api/news?id=4fa8ee5300975d8859797925116d35451031ef9f41d515771e9898bf075990be"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "OpenAI's New Revenue Officer Comes From Alphabet's Wiz",
-      "url": "https://finnhub.io/api/news?id=1fddc9e7e42a9fdd628ac7985a476e301b1b61f906250a57b2d02f319cd35764"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Dara Khosrowshahi Hails Uber's Japan Robotaxi Expansion, Says Country Has Been a 'Terrific' Market for the Ride-Hailing Giant",
-      "url": "https://finnhub.io/api/news?id=5b0c8452ac68e7b6811fe96c50f0120c0cc1a76c0a7116adf531e0adfff3a4f3"
-    },
-    {
-      "stock": "U",
-      "headline": "AppLovin Q3 Guidance Signals Reacceleration After a Mixed Q2 Print",
-      "url": "https://finnhub.io/api/news?id=62d5d5bc6b4e5d88aa2570e22829ba3ef9d1361daee6c76ad53a299e572e2cb6"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Semiconductor Equipment Rally Tests Its Breadth as High-Growth Names Surge Ahead of ASML, Lam Earnings",
-      "url": "https://finnhub.io/api/news?id=7660d19059ee239ed9b7119169c3d1c13b42b4f720f65c8def0c9c5b0a91e9ba"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Computerized Maintenance Management System (CMMS) Market Analysis and Growth Forecast 2026-2032: AI and IoT Drive Predictive Maintenance Demand",
-      "url": "https://finnhub.io/api/news?id=0d8d6d128487a05e789df195516278a791388ad69d4d1904f3dfc2752fdef34a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Prediction: 2 Unstoppable Artificial Intelligence (AI) Hardware Leaders That Will Join Alphabet in the $4 Trillion Club by 2028",
-      "url": "https://finnhub.io/api/news?id=651bbfd3451869d4f7a3b810e72b44c2a3424590fefaf032c257e5250b800deb"
-    },
-    {
-      "stock": "MU",
-      "headline": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
-      "url": "https://finnhub.io/api/news?id=5958f486c0c7755211c6c6308a6d1f60c1b65de72ee3d5c5f19164d67a5c1552"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent: Why A Post-Earnings Sell-Off Looks About Right",
-      "url": "https://finnhub.io/api/news?id=28b3d27bf366ff2500f34b0d4399b3e7bbaec59f6fec34d02c74fa6563f4de28"
-    },
-    {
-      "stock": "AMPX",
-      "headline": "SES AI: The Selloff Has Changed The Risk-Reward Equation",
-      "url": "https://finnhub.io/api/news?id=095c1bd9111e9884f3e0e744afc0b4f076af67f37afa9ab934be753bbe16c6d8"
-    },
-    {
-      "stock": "UBER",
-      "headline": "China's Pony.ai, Uber to jointly deploy over 2,000 robotaxis in Europe",
-      "url": "https://finnhub.io/api/news?id=ba13db659f388d819cd13e683e2288ce07cc8dfd188b4a5763c3449495be9746"
-    },
-    {
-      "stock": "DE",
-      "headline": "MOO: Farm Cycle Recovery And Long Term Food Security",
-      "url": "https://finnhub.io/api/news?id=9c4c409bd21bdb822db04e0ba6e1f67e93a0a139b3d78bbaef9990068fc505c1"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Softbank Decreases Stake In Taiwan Semiconductor Mfg Ltd By 72% To 565,000 Shares",
-      "url": "https://finnhub.io/api/news?id=1d02131466f50f2e6b33c7e0dcb2d90bcc84adf7cc7b31b5bf413dba8a21d65a"
-    },
-    {
-      "stock": "UBER",
-      "headline": "2,000 Robotaxis, Four New Cities: Pony AI, Uber Accelerate Europe’s Driverless Push",
-      "url": "https://finnhub.io/api/news?id=56327501abb8dfbcbdd4261f6f2ecedae182f6a8cb157413bd90adc21eaa491c"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Micron and 15 Other Stocks To Play The AI Buildout Race: They Are Still 20% Below Highs",
-      "url": "https://finnhub.io/api/news?id=bf655e4a9590a743a1cba322e91ea8de0f1413e8f31e527ea290fd0522a3d79b"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit Gets Added To The S&P 500 But I'm Selling (Rating Downgrade)",
-      "url": "https://finnhub.io/api/news?id=4ba58f7531a7b15bbd554d35bac1dc494b00ab6116c49b8b5d181f23769ad849"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Nvidia's Next-Gen Feynman AI Platform Is Ramping Up, Forcing TSMC to Race Ahead: Report",
-      "url": "https://finnhub.io/api/news?id=e468020489b1b98c3fe7c9be950376afc3bfbc91d8af08b4b9371ae5501fe402"
-    },
-    {
       "stock": "CRWD",
-      "headline": "RBC Capital Maintains Outperform on CrowdStrike Holdings, Raises Price Target to $256",
-      "url": "https://finnhub.io/api/news?id=c414d0307b708e33d6f00c088aaee4517d853e948a00fe1a31057e6a4bfedffb"
+      "headline": "CrowdStrike Ahead Of Earnings: What Investors Need To Watch Now",
+      "url": "https://finnhub.io/api/news?id=e1ec9ef8bc72b6def51ae00efe9487557b0def7bc6066d7caa19f7902e278550"
     },
     {
-      "stock": "DE",
-      "headline": "JP Morgan Maintains Neutral on Deere, Lowers Price Target to $570",
-      "url": "https://finnhub.io/api/news?id=8836201ee322cfb00d3e8222f2957a237624750ce25c75fc4f658d554e048fd9"
+      "stock": "AMZN",
+      "headline": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
+      "url": "https://finnhub.io/api/news?id=571ce9fff3198e2e0aa709432fcc8e1fa5ee440fbc66bbaf59ac7a662e60086a"
     },
     {
-      "stock": "DPRO",
-      "headline": "ParaZero Technologies Secures Additional Purchase Order From Israeli Defense Entity For DefendAir Counter-UAS Systems; Amount Not Disclosed",
-      "url": "https://finnhub.io/api/news?id=4c224e84b261ed9e671e45689c2e06402e4fcb5b90c9d5dd68c7b05cb24cb5b7"
+      "stock": "UBER",
+      "headline": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
+      "url": "https://finnhub.io/api/news?id=571ce9fff3198e2e0aa709432fcc8e1fa5ee440fbc66bbaf59ac7a662e60086a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
+      "url": "https://finnhub.io/api/news?id=571ce9fff3198e2e0aa709432fcc8e1fa5ee440fbc66bbaf59ac7a662e60086a"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Stock Market Today: Dow Jones Futures Slip, S&P 500, Nasdaq 100 Gains as US Says it Can Maintain Iran Blockade 'Indefinitely'—SanDisk, Workday, Applied Materials in Focus (UPDATED)",
+      "url": "https://finnhub.io/api/news?id=eb1ce52df6cd12d9bc77ff0842861e4d0991401c2594028d1c101454f46b8435"
     }
   ]
 }
