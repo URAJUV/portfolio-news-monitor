@@ -40,6 +40,21 @@
       "stock": "NFLX",
       "headline": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
       "url": "https://finnhub.io/api/news?id=571ce9fff3198e2e0aa709432fcc8e1fa5ee440fbc66bbaf59ac7a662e60086a"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Viking Global Investors Raises Share Stake In Amazon Com Inc To 3.7 Mln Shares",
+      "url": "https://finnhub.io/api/news?id=2b7baabe69dd364525dd1a8a436977b7dafb3cccc6fcdb20a1123c4ff6371971"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
+      "url": "https://finnhub.io/api/news?id=bca2f8deb567ff0034e182fe71e1d80933c68be335a1637a0a4e3b4ca396b9d6"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Third Point Raises Share Stake In Alphabet To 1M Class A Capital Stock",
+      "url": "https://finnhub.io/api/news?id=e89665cdb9289d875e9420bf7b16cb1ceda8220eed5b358cc6031cd8fad1f586"
     }
   ]
 }
