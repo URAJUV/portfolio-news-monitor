@@ -45,6 +45,21 @@
       "stock": "GOOGL",
       "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
       "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "EXCLUSIVE: Ross Gerber Says SPCX Valuation Reflects the ‘Elon Premium,’ But Remains Skeptical of Musk’s Timelines: ‘I Don’t Trust…’",
+      "url": "https://finnhub.io/api/news?id=d19bd2367f78d7288d46bee79787c4a1a3546080c2b3b0f46975d422ca16e458"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
+    },
+    {
+      "stock": "HON",
+      "headline": "JP Morgan Maintains Overweight on Honeywell Intl, Lowers Price Target to $255",
+      "url": "https://finnhub.io/api/news?id=237f895e8091274023876622b5d0b4f108223c1c2eeaee73ab4f9920cfee573e"
     }
   ]
 }
