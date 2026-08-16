@@ -1,25 +1,4 @@
 {
   "date": "2026-08-16",
-  "items": [
-    {
-      "stock": "AMZN",
-      "headline": "Dell Stock Rally Pauses, But Supermicro, Lenovo Earnings Point to Upside",
-      "url": "https://finnhub.io/api/news?id=d651f92ddd0ace78f7f92c2878d40e7535eac6be810461d173aaf4347482170d"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Earnings Volatility Watch: Wolfspeed and 9 Other Stocks Could Swing Up to 17% this Week",
-      "url": "https://finnhub.io/api/news?id=6621d7a6f2e502cc585b4583099dd84b3870a370c139660c191600c400a6be5b"
-    },
-    {
-      "stock": "MU",
-      "headline": "Dell Stock Rally Pauses, But Supermicro, Lenovo Earnings Point to Upside",
-      "url": "https://finnhub.io/api/news?id=d651f92ddd0ace78f7f92c2878d40e7535eac6be810461d173aaf4347482170d"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
-    }
-  ]
+  "items": []
 }
