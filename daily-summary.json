@@ -1,65 +1,15 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "items": [
     {
-      "stock": "MU",
-      "headline": "These Three Metrics Explain Why S&P 500 Index Has Hit Record High",
-      "url": "https://finnhub.io/api/news?id=d0ebc82da0e30ec080135ef8555241856b0b5f6fe56d64438ebd4e32b1672f73"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
-    },
-    {
       "stock": "AMZN",
-      "headline": "These Three Metrics Explain Why S&P 500 Index Has Hit Record High",
-      "url": "https://finnhub.io/api/news?id=d0ebc82da0e30ec080135ef8555241856b0b5f6fe56d64438ebd4e32b1672f73"
+      "headline": "Dell Stock Rally Pauses, But Supermicro, Lenovo Earnings Point to Upside",
+      "url": "https://finnhub.io/api/news?id=d651f92ddd0ace78f7f92c2878d40e7535eac6be810461d173aaf4347482170d"
     },
     {
       "stock": "COHR",
-      "headline": "AI's Laser Shortage: My Favorite Bottleneck To Buy",
-      "url": "https://finnhub.io/api/news?id=8863a84be5f4eb35b314f967dca74b763bafd26c4864355d2b840410d0f9385a"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "AI's Laser Shortage: My Favorite Bottleneck To Buy",
-      "url": "https://finnhub.io/api/news?id=8863a84be5f4eb35b314f967dca74b763bafd26c4864355d2b840410d0f9385a"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "EXCLUSIVE: Ross Gerber Says SPCX Valuation Reflects the ‘Elon Premium,’ But Remains Skeptical of Musk’s Timelines: ‘I Don’t Trust…’",
-      "url": "https://finnhub.io/api/news?id=d19bd2367f78d7288d46bee79787c4a1a3546080c2b3b0f46975d422ca16e458"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f"
-    },
-    {
-      "stock": "HON",
-      "headline": "JP Morgan Maintains Overweight on Honeywell Intl, Lowers Price Target to $255",
-      "url": "https://finnhub.io/api/news?id=237f895e8091274023876622b5d0b4f108223c1c2eeaee73ab4f9920cfee573e"
+      "headline": "Earnings Volatility Watch: Wolfspeed and 9 Other Stocks Could Swing Up to 17% this Week",
+      "url": "https://finnhub.io/api/news?id=6621d7a6f2e502cc585b4583099dd84b3870a370c139660c191600c400a6be5b"
     }
   ]
 }
