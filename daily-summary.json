@@ -1,4 +1,40 @@
 {
   "date": "2026-08-17",
-  "items": []
+  "items": [
+    {
+      "stock": "TSM",
+      "headline": "ASE Technology Surging As AI Demand Grows By LEAPs And Bounds",
+      "url": "https://finnhub.io/api/news?id=35273e2640376d680022753b7c6706a9233194fcf35cc2348f3be77ceb066337"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Jim Cramer says these 2 cybersecurity stocks can keep climbing as AI threats grow",
+      "url": "https://finnhub.io/api/news?id=20395ec67db6f8c29c5db7cec085d3451ca2ee2b4c02c5572c508c563a13860a"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat",
+      "url": "https://finnhub.io/api/news?id=55b16960fc5530a3a894d5bd5a104f289290cc1784c955f3127ce2a195b4dc6b"
+    },
+    {
+      "stock": "ARM",
+      "headline": "QUICK SPARK: Intel Stock Rises After CEO Spends $10 Million on Shares",
+      "url": "https://finnhub.io/api/news?id=eaf8dbf4ecefeb09afdb023fcf528ca85469446f769dd0f6dec3306941b6a49f"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Zipline CEO Keller Cliffton: Uber partnership will allow us to scale to 1 million deliveries a day",
+      "url": "https://finnhub.io/api/news?id=d4508866ae7a881f343237af4400430150df21b382334aa38630a01b9bf8cfe3"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Memory Is The Best AI Story, Equipment Is The Better Trade",
+      "url": "https://finnhub.io/api/news?id=2f35153d7912668572f2ad77d391fb0992779e3cf086986fa0d3f5fe1ad6640a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Why I Like Alphabet's Debt (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=fff8288435cd26a239c8b7c2fa38d9012a701470a99e9d2e014d4e5d2cc84cdf"
+    }
+  ]
 }
