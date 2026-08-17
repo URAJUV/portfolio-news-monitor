@@ -35,6 +35,16 @@
       "stock": "GOOGL",
       "headline": "Why I Like Alphabet's Debt (Rating Upgrade)",
       "url": "https://finnhub.io/api/news?id=fff8288435cd26a239c8b7c2fa38d9012a701470a99e9d2e014d4e5d2cc84cdf"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Infleqtion: The Execution Phase (Rating Downgrade)",
+      "url": "https://finnhub.io/api/news?id=9c606af26026545e7b30b7aa9418083a3aaab0c56acea1adf685b9e76c932390"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Infleqtion: The Execution Phase (Rating Downgrade)",
+      "url": "https://finnhub.io/api/news?id=9c606af26026545e7b30b7aa9418083a3aaab0c56acea1adf685b9e76c932390"
     }
   ]
 }
