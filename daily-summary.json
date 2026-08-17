@@ -1,4 +1,15 @@
 {
   "date": "2026-08-17",
-  "items": []
+  "items": [
+    {
+      "stock": "AMZN",
+      "headline": "Consumer Data Trips Up Wall Street's Rally as MDxHealth Snatches a Lifeline and Anthropic Redraws the AI Ceiling",
+      "url": "https://finnhub.io/api/news?id=fc98510322e387155cbbc6a2eb405984bb79a57cc4f550402ec0d3960db217a3"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Consumer Data Trips Up Wall Street's Rally as MDxHealth Snatches a Lifeline and Anthropic Redraws the AI Ceiling",
+      "url": "https://finnhub.io/api/news?id=fc98510322e387155cbbc6a2eb405984bb79a57cc4f550402ec0d3960db217a3"
+    }
+  ]
 }
