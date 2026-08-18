@@ -90,6 +90,16 @@
       "stock": "NFLX",
       "headline": "EPR Properties: I'm Back Bullish Again, Here's Why (Rating Upgrade)",
       "url": "https://finnhub.io/api/news?id=c0849ba1deed5686938d876a45bc9b02c8b7bd0eadd590572eaa43a1c4e7ad58"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Connection Announces Partnership With Microsoft, Qualcomm, And OEM Partners To Launch Copilot+ PCs, A New Generation Of Windows-Based Devices For AI Workloads",
+      "url": "https://finnhub.io/api/news?id=c085ce041287e2a5527a41b81085293c6acf02879a4a6f97b08300245dfb70f7"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Connection Announces Partnership With Microsoft, Qualcomm, And OEM Partners To Launch Copilot+ PCs, A New Generation Of Windows-Based Devices For AI Workloads",
+      "url": "https://finnhub.io/api/news?id=c085ce041287e2a5527a41b81085293c6acf02879a4a6f97b08300245dfb70f7"
     }
   ]
 }
