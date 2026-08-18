@@ -65,6 +65,31 @@
       "stock": "IBM",
       "headline": "IBM: Big Blue Sees Red Hat; Mainframe Headwinds, Software Tailwinds",
       "url": "https://finnhub.io/api/news?id=da9d9e9d7b1e034598215b33fe1e27adb45547a7f4c3a701190aef14b173b15d"
+    },
+    {
+      "stock": "TSM",
+      "headline": "AI Is Not A Bubble: 4 Income Ideas To Ride The Wave",
+      "url": "https://finnhub.io/api/news?id=77453322fe1810b5de21ec7eeeb1b8a7a5d439d60f9c8386cc5c4778857532e8"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Cisco, Nvidia, Amazon and Nokia: The Customer List Behind Fabrinet's AI Boom",
+      "url": "https://finnhub.io/api/news?id=fa00239a2bbb9e2bdcdb0751f354bebd2acd1197d086a3766fc90b48d88693d7"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Shoals Technologies Begins Manufacturing And Deliveries For A 1.1 GW Hyperscale Data Center Project Under Its Agreement With ON.Energy; Expects To Produce ~360 PowerHub Systems At Tennessee Facility In Phase I",
+      "url": "https://finnhub.io/api/news?id=be4c9ae3d5d1e243f1a6b4eaae1213c49738032e31f1c24b27c0eefc3d312bc6"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sandisk's Nvidia Catalyst Just Emerged (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=c3e5cbbc28b448df3697394d77148468ce1d882e0b2ca0fbf71f4814c78bf310"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "EPR Properties: I'm Back Bullish Again, Here's Why (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=c0849ba1deed5686938d876a45bc9b02c8b7bd0eadd590572eaa43a1c4e7ad58"
     }
   ]
 }
