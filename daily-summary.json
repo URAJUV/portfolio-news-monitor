@@ -45,6 +45,11 @@
       "stock": "GOOGL",
       "headline": "Infleqtion: The Execution Phase (Rating Downgrade)",
       "url": "https://finnhub.io/api/news?id=9c606af26026545e7b30b7aa9418083a3aaab0c56acea1adf685b9e76c932390"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "QUICK SPARK: OpenAI, Anthropic and SpaceX Fuel Harbor’s New AI ETF Strategy Beyond Big Tech",
+      "url": "https://finnhub.io/api/news?id=9af41b125a7fd5571185fce064c8fce9dccc8ce58ae683fabf3def63095624e1"
     }
   ]
 }
