@@ -15,6 +15,26 @@
       "stock": "HON",
       "headline": "Jefferies Assumes Honeywell Intl at Hold, Announces Price Target of $255",
       "url": "https://finnhub.io/api/news?id=b99af0e8e0f8ba3612a0b123d6807fac7984fe8aa7fcb6b1561587c58a8ea9d2"
+    },
+    {
+      "stock": "TSM",
+      "headline": "$1000 Invested In Taiwan Semiconductor 20 Years Ago Would Be Worth This Much Today",
+      "url": "https://finnhub.io/api/news?id=5b38c8d8239c2a11948fc03b2c539db254ba530969e46d4f3d592c03fbc0d3ce"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Wells Fargo Maintains Overweight on CrowdStrike Holdings, Raises Price Target to $230",
+      "url": "https://finnhub.io/api/news?id=b044f59d171391915f13eab60b8ebc15ceae4dc2854239fde3fb8ffac27319d6"
+    },
+    {
+      "stock": "COHR",
+      "headline": "SanDisk Rips 10%, Micron Rises 6% as AI Memory Frenzy Builds: Stock Market Today",
+      "url": "https://finnhub.io/api/news?id=9a2f50b6d5bb1ed91d81965853662c1b14114e6a9fce1fe4d4fa3050312439fc"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "'Tesla Readies August Launch of Cybercab, Its Robotaxi Without a Steering Wheel; Tesla Targets August Public Launch For Cybercab Robotaxi In Austin' - The Information",
+      "url": "https://finnhub.io/api/news?id=0f03c138c712e26936f5d8f5ee0def8e900f1cdf040d1d38a597cd178a1d6ba0"
     }
   ]
 }
