@@ -35,6 +35,16 @@
       "stock": "TSLA",
       "headline": "'Tesla Readies August Launch of Cybercab, Its Robotaxi Without a Steering Wheel; Tesla Targets August Public Launch For Cybercab Robotaxi In Austin' - The Information",
       "url": "https://finnhub.io/api/news?id=0f03c138c712e26936f5d8f5ee0def8e900f1cdf040d1d38a597cd178a1d6ba0"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Walmart Earnings Preview: The Flywheel Is Still Flywheelin' But Ultimately, Operating Margin Needs To Improve",
+      "url": "https://finnhub.io/api/news?id=41c926e79635cc81075e9e16882bf4e10334111d26af900db9cce5718e10f4b6"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Infleqtion: The Execution Phase (Rating Downgrade)",
+      "url": "https://finnhub.io/api/news?id=9c606af26026545e7b30b7aa9418083a3aaab0c56acea1adf685b9e76c932390"
     }
   ]
 }
