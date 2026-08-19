@@ -85,6 +85,31 @@
       "stock": "CRWD",
       "headline": "Benchmark Maintains Buy on CrowdStrike Holdings, Raises Price Target to $250",
       "url": "https://finnhub.io/api/news?id=49cd8d3f3f1149d0d9299b52d043a2de47833b48e2aa130618a01cb4ac24b453"
+    },
+    {
+      "stock": "MU",
+      "headline": "Stripe’s $8 Billion OpenRouter Deal Reveals Where the AI ETF Trade Is Actually Expanding",
+      "url": "https://finnhub.io/api/news?id=9a884db856424f40ce0359e24909a5d2d6d87fcaabcaa4d867c003d2e6053f7a"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Intel Eyes an Opening in Taiwan Semiconductor’s AI Packaging Fortress",
+      "url": "https://finnhub.io/api/news?id=d7b8d9a8df655952f22aceb3fbb26d322a316cb314383e7106c8660a73a44372"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Don't Mail It In Before Labor Day: These 3 Events Could Shake Stock",
+      "url": "https://finnhub.io/api/news?id=6845231c5ec458df281d37ff6bb28cce9050e3efa67d557939fbd9598c3247d5"
+    },
+    {
+      "stock": "UBER",
+      "headline": "3 Sectors Investors Should Buy Now as S&P 500 Stumbles — Strategist Sees 15%-18% Upside",
+      "url": "https://finnhub.io/api/news?id=06dae45a118bedd2aa24fcab520528cf33f0e219c27c61710a1d4f40e8eb6c7e"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Broadcom Rival Marvell Surges After Google Strikes AI Chip Deal, Gets Option to Buy $12.2B Stake",
+      "url": "https://finnhub.io/api/news?id=ee610846551e06b5814d7484d6a8749e30197f4ffe09530a339f56f4264a3b15"
     }
   ]
 }
