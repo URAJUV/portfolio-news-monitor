@@ -60,6 +60,26 @@
       "stock": "UBER",
       "headline": "Pony AI CEO ‘Confident’ Robotaxi Revenue Will Beat Full-Year Target",
       "url": "https://finnhub.io/api/news?id=0bb624c37e4174b9d73d63880b9036c4266929cc2d391845bb2f7665de974e42"
+    },
+    {
+      "stock": "MU",
+      "headline": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
+      "url": "https://finnhub.io/api/news?id=fc95bb776035a8a99f006e588d26997bf8c8186e805418709d8338d1a9d649c2"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Barclays Maintains Overweight on CrowdStrike Holdings, Raises Price Target to $235",
+      "url": "https://finnhub.io/api/news?id=f1c062fc0aa5c110bfa9d45f388cc6d8e9da5ddb14aef8ef03bf9551c174a1c4"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "AI Utilization May Be The Next Driver Of Growth",
+      "url": "https://finnhub.io/api/news?id=4d2d5bcd7f640b2e20b026df63f0801731062a4dd7031dc67029e970601b4e97"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Gavin Newsom Touts Rideshare Drivers Union in California, Praises Push to Represent Uber, Lyft Drivers — Slams Trump for Attacking ‘Workers’ Rights’",
+      "url": "https://finnhub.io/api/news?id=39e9ee6e9e0874fcf9101b4869810319bd4d843d031ed24a38a46e454b95470d"
     }
   ]
 }
