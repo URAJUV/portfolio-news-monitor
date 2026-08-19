@@ -80,6 +80,11 @@
       "stock": "UBER",
       "headline": "Gavin Newsom Touts Rideshare Drivers Union in California, Praises Push to Represent Uber, Lyft Drivers — Slams Trump for Attacking ‘Workers’ Rights’",
       "url": "https://finnhub.io/api/news?id=39e9ee6e9e0874fcf9101b4869810319bd4d843d031ed24a38a46e454b95470d"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Benchmark Maintains Buy on CrowdStrike Holdings, Raises Price Target to $250",
+      "url": "https://finnhub.io/api/news?id=49cd8d3f3f1149d0d9299b52d043a2de47833b48e2aa130618a01cb4ac24b453"
     }
   ]
 }
