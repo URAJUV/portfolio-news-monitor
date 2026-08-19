@@ -30,6 +30,36 @@
       "stock": "GOOGL",
       "headline": "The Math Of The AI Bubble Is Changing",
       "url": "https://finnhub.io/api/news?id=8dd69aabbe43c613b7278c0d5e797403c3ad736312c150014a177208d23e5709"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron: Inventory Does Not Lie (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=0a3bf92b6ea5427a18cad143d92d04f9f1d1765f4cb31c52639a4c8688036a87"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Cybersecurity 'Golden Age' Is Coming, Says Dan Ives — But Warns Of A 'Sci-Fi Movie Gone Bad' Without Regulation",
+      "url": "https://finnhub.io/api/news?id=e48ba27ac09820c1b029ceafed731f0d595f0ad2ee1ed919aeffe8eebdf64c1d"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent: AI Demand Is Outrunning Its Factories",
+      "url": "https://finnhub.io/api/news?id=243f66202f5318fcd2bb54be24ece93941623c5771cd4711318fd9987e23581a"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
+      "url": "https://finnhub.io/api/news?id=fc95bb776035a8a99f006e588d26997bf8c8186e805418709d8338d1a9d649c2"
+    },
+    {
+      "stock": "HON",
+      "headline": "RBC Capital Maintains Outperform on Honeywell Intl, Lowers Price Target to $293",
+      "url": "https://finnhub.io/api/news?id=d1f32b7688e8c9f214c382940c7b9c43c2e044d08a4e7ab7a3b9dd8d5a869cbc"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Pony AI CEO ‘Confident’ Robotaxi Revenue Will Beat Full-Year Target",
+      "url": "https://finnhub.io/api/news?id=0bb624c37e4174b9d73d63880b9036c4266929cc2d391845bb2f7665de974e42"
     }
   ]
 }
