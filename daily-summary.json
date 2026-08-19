@@ -1,140 +1,35 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "items": [
     {
-      "stock": "CRWD",
-      "headline": "TD Cowen Maintains Buy on CrowdStrike Holdings, Raises Price Target to $235",
-      "url": "https://finnhub.io/api/news?id=b68fab3016b4d0eefdeca69b9202e6ef4ff07afe55b72bc837a547cf82b6d2a1"
-    },
-    {
-      "stock": "COHR",
-      "headline": "The Market Says AI Bubble, The Guidance Says Buy",
-      "url": "https://finnhub.io/api/news?id=8f1a2d17c8fc19c59e7f0aebbef7e1621b1f1fa454e48b4743f11dcbcf3b2cd5"
-    },
-    {
-      "stock": "HON",
-      "headline": "Jefferies Assumes Honeywell Intl at Hold, Announces Price Target of $255",
-      "url": "https://finnhub.io/api/news?id=b99af0e8e0f8ba3612a0b123d6807fac7984fe8aa7fcb6b1561587c58a8ea9d2"
-    },
-    {
       "stock": "TSM",
-      "headline": "$1000 Invested In Taiwan Semiconductor 20 Years Ago Would Be Worth This Much Today",
-      "url": "https://finnhub.io/api/news?id=5b38c8d8239c2a11948fc03b2c539db254ba530969e46d4f3d592c03fbc0d3ce"
+      "headline": "What's Going On With Taiwan Semiconductor Stock Tuesday?",
+      "url": "https://finnhub.io/api/news?id=d32aa4b67c441ed40376e35e6ec0283c0aebc55fb9bdc229678ffdcf59549b5e"
     },
     {
       "stock": "CRWD",
-      "headline": "Wells Fargo Maintains Overweight on CrowdStrike Holdings, Raises Price Target to $230",
-      "url": "https://finnhub.io/api/news?id=b044f59d171391915f13eab60b8ebc15ceae4dc2854239fde3fb8ffac27319d6"
-    },
-    {
-      "stock": "COHR",
-      "headline": "SanDisk Rips 10%, Micron Rises 6% as AI Memory Frenzy Builds: Stock Market Today",
-      "url": "https://finnhub.io/api/news?id=9a2f50b6d5bb1ed91d81965853662c1b14114e6a9fce1fe4d4fa3050312439fc"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "'Tesla Readies August Launch of Cybercab, Its Robotaxi Without a Steering Wheel; Tesla Targets August Public Launch For Cybercab Robotaxi In Austin' - The Information",
-      "url": "https://finnhub.io/api/news?id=0f03c138c712e26936f5d8f5ee0def8e900f1cdf040d1d38a597cd178a1d6ba0"
+      "headline": "5 Cybersecurity Stocks with More Upside Ahead",
+      "url": "https://finnhub.io/api/news?id=d0ec9dddf2b7a0a988933052e779fe9719360172958e42d0bb723cea17b028b2"
     },
     {
       "stock": "AMZN",
-      "headline": "Walmart Earnings Preview: The Flywheel Is Still Flywheelin' But Ultimately, Operating Margin Needs To Improve",
-      "url": "https://finnhub.io/api/news?id=41c926e79635cc81075e9e16882bf4e10334111d26af900db9cce5718e10f4b6"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Infleqtion: The Execution Phase (Rating Downgrade)",
-      "url": "https://finnhub.io/api/news?id=9c606af26026545e7b30b7aa9418083a3aaab0c56acea1adf685b9e76c932390"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "QUICK SPARK: OpenAI, Anthropic and SpaceX Fuel Harbor’s New AI ETF Strategy Beyond Big Tech",
-      "url": "https://finnhub.io/api/news?id=9af41b125a7fd5571185fce064c8fce9dccc8ce58ae683fabf3def63095624e1"
-    },
-    {
-      "stock": "MU",
-      "headline": "Chip Rally Broadens: AI Infrastructure Supply-Chain Names Are Leading the Market",
-      "url": "https://finnhub.io/api/news?id=8b464cc9ba12dc7fc48f2f4bcd41991c3464a7427f3e8ec3c64de7216b8f61cc"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Chip Rally Broadens: AI Infrastructure Supply-Chain Names Are Leading the Market",
-      "url": "https://finnhub.io/api/news?id=8b464cc9ba12dc7fc48f2f4bcd41991c3464a7427f3e8ec3c64de7216b8f61cc"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM: Big Blue Sees Red Hat; Mainframe Headwinds, Software Tailwinds",
-      "url": "https://finnhub.io/api/news?id=da9d9e9d7b1e034598215b33fe1e27adb45547a7f4c3a701190aef14b173b15d"
-    },
-    {
-      "stock": "TSM",
-      "headline": "AI Is Not A Bubble: 4 Income Ideas To Ride The Wave",
-      "url": "https://finnhub.io/api/news?id=77453322fe1810b5de21ec7eeeb1b8a7a5d439d60f9c8386cc5c4778857532e8"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Cisco, Nvidia, Amazon and Nokia: The Customer List Behind Fabrinet's AI Boom",
-      "url": "https://finnhub.io/api/news?id=fa00239a2bbb9e2bdcdb0751f354bebd2acd1197d086a3766fc90b48d88693d7"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "Shoals Technologies Begins Manufacturing And Deliveries For A 1.1 GW Hyperscale Data Center Project Under Its Agreement With ON.Energy; Expects To Produce ~360 PowerHub Systems At Tennessee Facility In Phase I",
-      "url": "https://finnhub.io/api/news?id=be4c9ae3d5d1e243f1a6b4eaae1213c49738032e31f1c24b27c0eefc3d312bc6"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Sandisk's Nvidia Catalyst Just Emerged (Rating Upgrade)",
-      "url": "https://finnhub.io/api/news?id=c3e5cbbc28b448df3697394d77148468ce1d882e0b2ca0fbf71f4814c78bf310"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "EPR Properties: I'm Back Bullish Again, Here's Why (Rating Upgrade)",
-      "url": "https://finnhub.io/api/news?id=c0849ba1deed5686938d876a45bc9b02c8b7bd0eadd590572eaa43a1c4e7ad58"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Connection Announces Partnership With Microsoft, Qualcomm, And OEM Partners To Launch Copilot+ PCs, A New Generation Of Windows-Based Devices For AI Workloads",
-      "url": "https://finnhub.io/api/news?id=c085ce041287e2a5527a41b81085293c6acf02879a4a6f97b08300245dfb70f7"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Connection Announces Partnership With Microsoft, Qualcomm, And OEM Partners To Launch Copilot+ PCs, A New Generation Of Windows-Based Devices For AI Workloads",
-      "url": "https://finnhub.io/api/news?id=c085ce041287e2a5527a41b81085293c6acf02879a4a6f97b08300245dfb70f7"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Connection Announces Partnership With Microsoft, Qualcomm, And OEM Partners To Launch Copilot+ PCs, A New Generation Of Windows-Based Devices For AI Workloads",
-      "url": "https://finnhub.io/api/news?id=c085ce041287e2a5527a41b81085293c6acf02879a4a6f97b08300245dfb70f7"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659"
+      "headline": "ReNew Energy: The Buy Paid Off, But Now It's Time To Hold (Rating Downgrade)",
+      "url": "https://finnhub.io/api/news?id=f7edbc3ed471f9093691c66f152989caca89da0b3b41e19da47bf4021190bf3b"
     },
     {
       "stock": "HON",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659"
+      "headline": "Honeywell Aerospace targets supplier bottlenecks to boost output",
+      "url": "https://finnhub.io/api/news?id=6a20fb95593667652cffc278d160995ccc67c65a1b13b5321f5a6b8b511c9305"
     },
     {
-      "stock": "AAOI",
-      "headline": "Applied Optoelectronics, Inc. (AAOI) Presents at Rosenblatt's 6th Annual Technology Summit: The Age of AI (Part II) Transcript",
-      "url": "https://finnhub.io/api/news?id=8279d4331b8275ad36e91f0d8bc47d614cf1c551976ccc201bf6b19345b08776"
-    },
-    {
-      "stock": "DE",
-      "headline": "Walmart Could Swing $42.1 Billion In Value After Earnings",
-      "url": "https://finnhub.io/api/news?id=767a023b8106fb1b1c6426e5a1bf342f233eb9edba06bff8f075ec0347577dbe"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659"
+      "stock": "UBER",
+      "headline": "AI Utilization May Be The Next Driver Of Growth",
+      "url": "https://finnhub.io/api/news?id=4d2d5bcd7f640b2e20b026df63f0801731062a4dd7031dc67029e970601b4e97"
     },
     {
       "stock": "GOOGL",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659"
+      "headline": "The Math Of The AI Bubble Is Changing",
+      "url": "https://finnhub.io/api/news?id=8dd69aabbe43c613b7278c0d5e797403c3ad736312c150014a177208d23e5709"
     }
   ]
 }
