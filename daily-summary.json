@@ -90,6 +90,21 @@
       "stock": "GOOGL",
       "headline": "Hyperscaler AI Capex: What The Headlines Miss",
       "url": "https://finnhub.io/api/news?id=ba236fba804b8a75f29a1300656f148d24a486838e1002f937ad75d57c912f23"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "'Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC'-CNBC",
+      "url": "https://finnhub.io/api/news?id=6eebc151c99a2d7d88924742fc24c54cc6a7934879275c9ad0df1fe3de54211d"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber And Baidu Bring Apollo Go Robotaxis To Dubai As First Market In Multi-Year Strategic Partnership",
+      "url": "https://finnhub.io/api/news?id=5a634d7c98a84e6de9d80493a5d8b285cbc9a27e203bc9c3bc2e2afe83d05227"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Truist Securities Maintains Buy on Atlassian, Raises Price Target to $185",
+      "url": "https://finnhub.io/api/news?id=1a4bd65289df28e6566cc4b06f83115e24d8c57ab12d980da0e435a74d3adb83"
     }
   ]
 }
