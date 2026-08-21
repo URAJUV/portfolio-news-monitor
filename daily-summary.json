@@ -5,6 +5,16 @@
       "stock": "CRWD",
       "headline": "Evercore ISI Group Maintains In-Line on CrowdStrike Holdings, Raises Price Target to $205",
       "url": "https://finnhub.io/api/news?id=cb6909ae74341299f92ed8a90c5c1968686b9a893c39e85d3a027a26819132c8"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "EXCLUSIVE: Nvidia Partner Says Tesla, Waymo Are Growing the Physical AI Market — Not Competing With It",
+      "url": "https://finnhub.io/api/news?id=f50aa2ea2ee3192a197d90d5fb6a2e046fbfc65772a5c7ed156d4bc479e0098f"
+    },
+    {
+      "stock": "DE",
+      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=e35621ca09fce0d3e1edebbfb4c083ea6617d2a571f2e19e5d99d4ad8722292d"
     }
   ]
 }
