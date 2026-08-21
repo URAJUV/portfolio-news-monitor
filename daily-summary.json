@@ -40,6 +40,31 @@
       "stock": "UBER",
       "headline": "Jason Calacanis Says He Supports Raising the Minimum Wage Now. People Making Under $40K Spend 100% of Their Income and 'Save Nothing'",
       "url": "https://finnhub.io/api/news?id=5e5ecdd0b118aecbf7408e604f1883450c6c0a554e25ee333937637f49b28e42"
+    },
+    {
+      "stock": "MU",
+      "headline": "Did Citadel’s $4 Billion AI Stock Selloff Weigh On MU, SNDK, NBIS?",
+      "url": "https://finnhub.io/api/news?id=db33e45db8700a7a0ad75086825d79953df31ab74d702f85ca90f0e2936ea34f"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Did Citadel’s $4 Billion AI Stock Selloff Weigh On MU, SNDK, NBIS?",
+      "url": "https://finnhub.io/api/news?id=db33e45db8700a7a0ad75086825d79953df31ab74d702f85ca90f0e2936ea34f"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
+      "url": "https://finnhub.io/api/news?id=60f0df094fa5500e24b2d1e119b1523344538360e16ca95eb13e8cd7ffae6ba6"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Baird Maintains Outperform on Autodesk, Raises Price Target to $325",
+      "url": "https://finnhub.io/api/news?id=d1aa8d745bfb826fb8bd9cd33a73129713cf2a1f543cdbda6bfd0a369745c512"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "SpaceXAI Launches Grok 4.6 On Google Cloud Vertex AI",
+      "url": "https://finnhub.io/api/news?id=050b225a5b32397771f115a515579afb5b638640c702ccd8810e09f6f9cd8c5a"
     }
   ]
 }
