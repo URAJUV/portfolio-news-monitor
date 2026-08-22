@@ -65,6 +65,51 @@
       "stock": "GOOGL",
       "headline": "Tracking Renaissance Technologies (RenTec) 13F Portfolio - Q2 2026 Update",
       "url": "https://finnhub.io/api/news?id=84bfb407c9056edad49618d27126d3b0eb9b5f9f51cc9d643b255d7ccd0cba66"
+    },
+    {
+      "stock": "MU",
+      "headline": "These 3 AI stocks are bought by both hedge funds and mutual funds",
+      "url": "https://finnhub.io/api/news?id=b1493b46750c36714a44f628d677fd6ff8f3f3f52dab3bfd24ce3bd97d3af5c5"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia, CrowdStrike, Warsh In Focus",
+      "url": "https://finnhub.io/api/news?id=4f8b7c80cbcf33b522b77ee1b4c1dc1aad6aa3920cfc545418e0c22663aee678"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Data Center and Cloud Infrastructure Earnings Face a High-Stakes AI Demand Test",
+      "url": "https://finnhub.io/api/news?id=e5f829afa2f6175b149487545832e8aa7e002e52df98231000d53e26fd1155fa"
+    },
+    {
+      "stock": "HON",
+      "headline": "The veteran Fortune 500 CEO who turned an 80-year-old AC company into an AI darling",
+      "url": "https://finnhub.io/api/news?id=a6839d4c8882ed985f73942c979e5be6c48a86141d0748393c24396ff41ae5e5"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Billionaire David Tepper Sells Lyft in Favor of Its Biggest Rival, Which Has 30% Upside, According to Wall Street",
+      "url": "https://finnhub.io/api/news?id=c73bb2432ef766f4a195fd261930c0e91b0c9bc51776b1165bd117977611eb4e"
+    },
+    {
+      "stock": "DE",
+      "headline": "Deere (DE) Is Up 6.3% After Raising 2026 Net Income Guidance - What's Changed",
+      "url": "https://finnhub.io/api/news?id=f2bcacf5c254fcd6e69e5200923281524ceb01b27f380b50af7bf11e617a6d84"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "What Adobe Stock's Low Earnings Multiple Is Actually Priced On",
+      "url": "https://finnhub.io/api/news?id=9398a3752d23bbb6c687efb7ff2dc68c5373d41d635e1e659ebc4e8dbf871d5b"
+    },
+    {
+      "stock": "IBM",
+      "headline": "TD SYNNEX (SNX) Expands IBM Footprint, Is It Still A Bargain?",
+      "url": "https://finnhub.io/api/news?id=9fd4123e365572e767c9fb3b344ae040a4a1b3d6364d0cb14e26a1305f92ea8c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Data Center and Cloud Infrastructure Earnings Face a High-Stakes AI Demand Test",
+      "url": "https://finnhub.io/api/news?id=e5f829afa2f6175b149487545832e8aa7e002e52df98231000d53e26fd1155fa"
     }
   ]
 }
