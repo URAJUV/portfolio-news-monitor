@@ -1,4 +1,40 @@
 {
   "date": "2026-08-22",
-  "items": []
+  "items": [
+    {
+      "stock": "AMZN",
+      "headline": "Should Airbnb’s AI-Fueled “Super App” Ambitions Reshape the Core Thesis for ABNB Investors?",
+      "url": "https://finnhub.io/api/news?id=c885b4a02563756e43731829292ef86eac3fdb1678c8700c884e6f8707e7a35a"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Stock Is Cooling Off Just as Its AI Thermal Opportunity Heats Up",
+      "url": "https://finnhub.io/api/news?id=1f6efd19c2ee4a5dfc57aca40433efc66f4e77c0f65e7563ac6e575c144070ea"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "OSIS Q4 Earnings Beat on Margin Gains, Revenues Miss Estimates",
+      "url": "https://finnhub.io/api/news?id=a00311e3b6ea4fab4141337dc725f50d763e377d7ee7a9a4b8945a30f6926818"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "FFA: Beware Of The AI Risk With This High-Yielding Covered Call Fund",
+      "url": "https://finnhub.io/api/news?id=0cbcff8caf58cbcfbfc47128930be73edbbd176eb424c7737c0049545a204699"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber (UBER) Stock Fair Value Edges Lower As Analysts Weigh AV Spending And Delivery Hero",
+      "url": "https://finnhub.io/api/news?id=813db1cd65aa5deeb06062edc1b892ca17eed8117039f1d6f302547f877d7005"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Want ADSK Stock 30% Cheaper? Get Paid 11% A Year While You Wait",
+      "url": "https://finnhub.io/api/news?id=2aa13aa00399d5ee8a0d4ff66bd96ed297060bf8733b4cd24883e803fb9d5268"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Billionaire Stanley Druckenmiller Bought This Newly Added S&P 500 Stock That's Up 351% Since Its IPO",
+      "url": "https://finnhub.io/api/news?id=78ab615af408197ed7bb6ce2030d82586675a917bd21a4584e6dd11ff8bbfb05"
+    }
+  ]
 }
