@@ -35,6 +35,41 @@
       "stock": "RDDT",
       "headline": "Billionaire Stanley Druckenmiller Bought This Newly Added S&P 500 Stock That's Up 351% Since Its IPO",
       "url": "https://finnhub.io/api/news?id=78ab615af408197ed7bb6ce2030d82586675a917bd21a4584e6dd11ff8bbfb05"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "AI Is Now Attacking at Machine Speed, and This CEO Says That Changes the Case for Cybersecurity Stocks",
+      "url": "https://finnhub.io/api/news?id=e8abdfdaed19e9612c72a845a7e97bb7f20af9f5c2e65443e3ce7b6f11a78e24"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "FFA: Beware Of The AI Risk With This High-Yielding Covered Call Fund",
+      "url": "https://finnhub.io/api/news?id=0cbcff8caf58cbcfbfc47128930be73edbbd176eb424c7737c0049545a204699"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Ciena vs. Coherent: Which AI Optical Networking Stock is a Better Buy?",
+      "url": "https://finnhub.io/api/news?id=874e3a6beaf028f434e3f0f52f40f41c7598967e2db4978acc5a0450db1181f2"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Stay Ahead of the Game With Synopsys (SNPS) Q3 Earnings: Wall Street's Insights on Key Metrics",
+      "url": "https://finnhub.io/api/news?id=834fe579f9fae23fa5fd8a1005afac28824c43757e2403ee82a146d6df5a2761"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Nvidia Eyes Deal With $2.3 Billion AI Chip Rival",
+      "url": "https://finnhub.io/api/news?id=b32de699913447749c9b80666aa263ce78a0ccc6b850b5e156f860a7ad92ed59"
+    },
+    {
+      "stock": "IBM",
+      "headline": "AI Cloud Firm Nscale Is Said to Seek Up to $3 Billion in US IPO",
+      "url": "https://finnhub.io/api/news?id=3c35d475e7843cccc79cd9f3169ac8b04a40e7e256cf4fe5434d80798e69c386"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
+      "url": "https://finnhub.io/api/news?id=18132ada6307d32cbe442139570e2094a0a6d4f19394ed0bc728a318644b6631"
     }
   ]
 }
