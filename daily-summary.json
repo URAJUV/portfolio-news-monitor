@@ -35,6 +35,36 @@
       "stock": "RDDT",
       "headline": "Morgan Stanley Maintains Overweight on Reddit, Lowers Price Target to $210",
       "url": "https://finnhub.io/api/news?id=1e542638e8d8cad3a0db3caeed5ee4a7ae94ea6cc33d0ed3c7093e72b0c68973"
+    },
+    {
+      "stock": "MU",
+      "headline": "Tracking Renaissance Technologies (RenTec) 13F Portfolio - Q2 2026 Update",
+      "url": "https://finnhub.io/api/news?id=84bfb407c9056edad49618d27126d3b0eb9b5f9f51cc9d643b255d7ccd0cba66"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Waymo Unveils First Custom Robotaxi Chip With More Than 1,000 TOPS of AI Processing Power",
+      "url": "https://finnhub.io/api/news?id=55e10e9aff2d75884c263b54c5c4325670d5e2b2c852f419121d534eff6e07fe"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Keybanc Maintains Overweight on CrowdStrike Holdings, Raises Price Target to $240",
+      "url": "https://finnhub.io/api/news?id=95046733e260cff8866700c06026c7e9d776d76db3f7eb6ca0da6704747da6ab"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tracking Renaissance Technologies (RenTec) 13F Portfolio - Q2 2026 Update",
+      "url": "https://finnhub.io/api/news?id=84bfb407c9056edad49618d27126d3b0eb9b5f9f51cc9d643b255d7ccd0cba66"
+    },
+    {
+      "stock": "DE",
+      "headline": "Deere Q3: In The Green As Sales Power Higher, Shares Fairly Valued",
+      "url": "https://finnhub.io/api/news?id=12c05060b79e0a790bc57c77bb9e56dbde329c9691b0b9bc05f2ee40ec1a0950"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Tracking Renaissance Technologies (RenTec) 13F Portfolio - Q2 2026 Update",
+      "url": "https://finnhub.io/api/news?id=84bfb407c9056edad49618d27126d3b0eb9b5f9f51cc9d643b255d7ccd0cba66"
     }
   ]
 }
