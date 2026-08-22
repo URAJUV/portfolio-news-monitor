@@ -1,70 +1,40 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "items": [
     {
-      "stock": "CRWD",
-      "headline": "Evercore ISI Group Maintains In-Line on CrowdStrike Holdings, Raises Price Target to $205",
-      "url": "https://finnhub.io/api/news?id=cb6909ae74341299f92ed8a90c5c1968686b9a893c39e85d3a027a26819132c8"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "EXCLUSIVE: Nvidia Partner Says Tesla, Waymo Are Growing the Physical AI Market — Not Competing With It",
-      "url": "https://finnhub.io/api/news?id=f50aa2ea2ee3192a197d90d5fb6a2e046fbfc65772a5c7ed156d4bc479e0098f"
-    },
-    {
-      "stock": "DE",
-      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=e35621ca09fce0d3e1edebbfb4c083ea6617d2a571f2e19e5d99d4ad8722292d"
-    },
-    {
-      "stock": "DE",
-      "headline": "Deere & Company (DE) Q3 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=feaea26d95f38c97224ae809ba6f49aacee5912f9f386418f7912e9892a9e0ef"
+      "stock": "TSM",
+      "headline": "174K Reasons To Be Bullish On Taiwan Semiconductor Stock",
+      "url": "https://finnhub.io/api/news?id=800e1bd3b7c70ba5bc734b2948f42a7a38ccb08557038b213f04240eb1cacf58"
     },
     {
       "stock": "CRWD",
-      "headline": "Cybersecurity Earnings: A Reckoning for Triple-Digit Price Tags?",
-      "url": "https://finnhub.io/api/news?id=c95c51d630289547a18c8c8d2224aec3b932f8d2a48bd1c635f797cc84383d03"
+      "headline": "Scotiabank Maintains Sector Outperform on CrowdStrike Holdings, Lowers Price Target to $227",
+      "url": "https://finnhub.io/api/news?id=bb8c1d005af2d5dec63a1b4db2a827a823521f8227af4a960108ce244041afc9"
     },
     {
       "stock": "ARM",
-      "headline": "NVIDIA Could Snap up Korean AI Chip Startup Rebellions in Latest AI Power Play",
-      "url": "https://finnhub.io/api/news?id=e22c540fa45c0d3d047f8990ab3de81a03ffa1dfb0def37df74046f3d2a69afa"
+      "headline": "Arm Holdings: What The $25 Billion Target Actually Requires",
+      "url": "https://finnhub.io/api/news?id=95fc669b7bfc8de616e12888438390a25c310f8706c46f814c239eadfe81b32e"
     },
     {
-      "stock": "TSM",
-      "headline": "The Boring Way To Own AI Is Now The Cheap Way",
-      "url": "https://finnhub.io/api/news?id=33b759ae54ec2c1b7dd390a8b24d7dd5de93dea22c3e3bcb0be1805704410c5b"
+      "stock": "HON",
+      "headline": "Honeywell Technologies: Good Revenue Acceleration And Earnings Growth Prospects At A Reasonable Valuation",
+      "url": "https://finnhub.io/api/news?id=16634b5945f3c8da480c9e29e450cacaee2105de1b9f2ff701f78204a1cef9a0"
     },
     {
-      "stock": "UBER",
-      "headline": "Jason Calacanis Says He Supports Raising the Minimum Wage Now. People Making Under $40K Spend 100% of Their Income and 'Save Nothing'",
-      "url": "https://finnhub.io/api/news?id=5e5ecdd0b118aecbf7408e604f1883450c6c0a554e25ee333937637f49b28e42"
-    },
-    {
-      "stock": "MU",
-      "headline": "Did Citadel’s $4 Billion AI Stock Selloff Weigh On MU, SNDK, NBIS?",
-      "url": "https://finnhub.io/api/news?id=db33e45db8700a7a0ad75086825d79953df31ab74d702f85ca90f0e2936ea34f"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Did Citadel’s $4 Billion AI Stock Selloff Weigh On MU, SNDK, NBIS?",
-      "url": "https://finnhub.io/api/news?id=db33e45db8700a7a0ad75086825d79953df31ab74d702f85ca90f0e2936ea34f"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
-      "url": "https://finnhub.io/api/news?id=60f0df094fa5500e24b2d1e119b1523344538360e16ca95eb13e8cd7ffae6ba6"
+      "stock": "DE",
+      "headline": "Oppenheimer Maintains Outperform on Deere, Raises Price Target to $685",
+      "url": "https://finnhub.io/api/news?id=c040b46b219d88848b3688a20afc547c7284235e5269437624633408bcccca1e"
     },
     {
       "stock": "ADSK",
-      "headline": "Baird Maintains Outperform on Autodesk, Raises Price Target to $325",
-      "url": "https://finnhub.io/api/news?id=d1aa8d745bfb826fb8bd9cd33a73129713cf2a1f543cdbda6bfd0a369745c512"
+      "headline": "Citigroup Maintains Neutral on Autodesk, Raises Price Target to $269",
+      "url": "https://finnhub.io/api/news?id=b100e48206d101af130f6d8e52dbfd28a4c1b6dc356b1087440e4466052c1e33"
     },
     {
-      "stock": "GOOGL",
-      "headline": "SpaceXAI Launches Grok 4.6 On Google Cloud Vertex AI",
-      "url": "https://finnhub.io/api/news?id=050b225a5b32397771f115a515579afb5b638640c702ccd8810e09f6f9cd8c5a"
+      "stock": "RDDT",
+      "headline": "Morgan Stanley Maintains Overweight on Reddit, Lowers Price Target to $210",
+      "url": "https://finnhub.io/api/news?id=1e542638e8d8cad3a0db3caeed5ee4a7ae94ea6cc33d0ed3c7093e72b0c68973"
     }
   ]
 }
