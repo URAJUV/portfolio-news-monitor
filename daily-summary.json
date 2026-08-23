@@ -1,75 +1,20 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "items": [
     {
-      "stock": "AMZN",
-      "headline": "Should Airbnb’s AI-Fueled “Super App” Ambitions Reshape the Core Thesis for ABNB Investors?",
-      "url": "https://finnhub.io/api/news?id=c885b4a02563756e43731829292ef86eac3fdb1678c8700c884e6f8707e7a35a"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent Stock Is Cooling Off Just as Its AI Thermal Opportunity Heats Up",
-      "url": "https://finnhub.io/api/news?id=1f6efd19c2ee4a5dfc57aca40433efc66f4e77c0f65e7563ac6e575c144070ea"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "OSIS Q4 Earnings Beat on Margin Gains, Revenues Miss Estimates",
-      "url": "https://finnhub.io/api/news?id=a00311e3b6ea4fab4141337dc725f50d763e377d7ee7a9a4b8945a30f6926818"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "FFA: Beware Of The AI Risk With This High-Yielding Covered Call Fund",
-      "url": "https://finnhub.io/api/news?id=0cbcff8caf58cbcfbfc47128930be73edbbd176eb424c7737c0049545a204699"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber (UBER) Stock Fair Value Edges Lower As Analysts Weigh AV Spending And Delivery Hero",
-      "url": "https://finnhub.io/api/news?id=813db1cd65aa5deeb06062edc1b892ca17eed8117039f1d6f302547f877d7005"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Want ADSK Stock 30% Cheaper? Get Paid 11% A Year While You Wait",
-      "url": "https://finnhub.io/api/news?id=2aa13aa00399d5ee8a0d4ff66bd96ed297060bf8733b4cd24883e803fb9d5268"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Billionaire Stanley Druckenmiller Bought This Newly Added S&P 500 Stock That's Up 351% Since Its IPO",
-      "url": "https://finnhub.io/api/news?id=78ab615af408197ed7bb6ce2030d82586675a917bd21a4584e6dd11ff8bbfb05"
+      "stock": "MU",
+      "headline": "Micron (MU) Fell 7%. Is the AI Memory Trade Now Too Expensive?",
+      "url": "https://finnhub.io/api/news?id=84f43f3b503b52afa504a7da1c52896977507fca1497a7c7bcfa17d903c07d74"
     },
     {
       "stock": "CRWD",
-      "headline": "AI Is Now Attacking at Machine Speed, and This CEO Says That Changes the Case for Cybersecurity Stocks",
-      "url": "https://finnhub.io/api/news?id=e8abdfdaed19e9612c72a845a7e97bb7f20af9f5c2e65443e3ce7b6f11a78e24"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "FFA: Beware Of The AI Risk With This High-Yielding Covered Call Fund",
-      "url": "https://finnhub.io/api/news?id=0cbcff8caf58cbcfbfc47128930be73edbbd176eb424c7737c0049545a204699"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Ciena vs. Coherent: Which AI Optical Networking Stock is a Better Buy?",
-      "url": "https://finnhub.io/api/news?id=874e3a6beaf028f434e3f0f52f40f41c7598967e2db4978acc5a0450db1181f2"
+      "headline": "Can Rising AI Security Adoption Help CrowdStrike Challenge PANW & ZS?",
+      "url": "https://finnhub.io/api/news?id=b661fadd4a0a558ee1aa48b9b409a1345a3fee3d47e497b665a35545777c92f5"
     },
     {
       "stock": "SNPS",
-      "headline": "Stay Ahead of the Game With Synopsys (SNPS) Q3 Earnings: Wall Street's Insights on Key Metrics",
-      "url": "https://finnhub.io/api/news?id=834fe579f9fae23fa5fd8a1005afac28824c43757e2403ee82a146d6df5a2761"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Nvidia Eyes Deal With $2.3 Billion AI Chip Rival",
-      "url": "https://finnhub.io/api/news?id=b32de699913447749c9b80666aa263ce78a0ccc6b850b5e156f860a7ad92ed59"
-    },
-    {
-      "stock": "IBM",
-      "headline": "AI Cloud Firm Nscale Is Said to Seek Up to $3 Billion in US IPO",
-      "url": "https://finnhub.io/api/news?id=3c35d475e7843cccc79cd9f3169ac8b04a40e7e256cf4fe5434d80798e69c386"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
-      "url": "https://finnhub.io/api/news?id=18132ada6307d32cbe442139570e2094a0a6d4f19394ed0bc728a318644b6631"
+      "headline": "Want ADSK Stock 30% Cheaper? Get Paid 11% A Year While You Wait",
+      "url": "https://finnhub.io/api/news?id=2aa13aa00399d5ee8a0d4ff66bd96ed297060bf8733b4cd24883e803fb9d5268"
     }
   ]
 }
