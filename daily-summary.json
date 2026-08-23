@@ -15,6 +15,11 @@
       "stock": "SNPS",
       "headline": "Want ADSK Stock 30% Cheaper? Get Paid 11% A Year While You Wait",
       "url": "https://finnhub.io/api/news?id=2aa13aa00399d5ee8a0d4ff66bd96ed297060bf8733b4cd24883e803fb9d5268"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian: No Denying Now That AI Is A Tailwind",
+      "url": "https://finnhub.io/api/news?id=be3d74a4a650cca9ec018dedc9819c908c2d3c1db22b66740d31e87a28cffced"
     }
   ]
 }
