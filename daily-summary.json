@@ -1,25 +1,4 @@
 {
   "date": "2026-08-23",
-  "items": [
-    {
-      "stock": "MU",
-      "headline": "Micron (MU) Fell 7%. Is the AI Memory Trade Now Too Expensive?",
-      "url": "https://finnhub.io/api/news?id=84f43f3b503b52afa504a7da1c52896977507fca1497a7c7bcfa17d903c07d74"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Can Rising AI Security Adoption Help CrowdStrike Challenge PANW & ZS?",
-      "url": "https://finnhub.io/api/news?id=b661fadd4a0a558ee1aa48b9b409a1345a3fee3d47e497b665a35545777c92f5"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Want ADSK Stock 30% Cheaper? Get Paid 11% A Year While You Wait",
-      "url": "https://finnhub.io/api/news?id=2aa13aa00399d5ee8a0d4ff66bd96ed297060bf8733b4cd24883e803fb9d5268"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian: No Denying Now That AI Is A Tailwind",
-      "url": "https://finnhub.io/api/news?id=be3d74a4a650cca9ec018dedc9819c908c2d3c1db22b66740d31e87a28cffced"
-    }
-  ]
+  "items": []
 }
