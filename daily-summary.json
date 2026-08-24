@@ -35,6 +35,26 @@
       "stock": "AMZN",
       "headline": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
       "url": "https://finnhub.io/api/news?id=4741189c2db3ecc3e1c852ee549c661d3ba5fa23164f186325b42b94f8ae806b"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron's Secret Weapon: The $5B Catalyst Beyond HBM",
+      "url": "https://finnhub.io/api/news?id=40597e07c6be68817dc251ca2be8e31ffe220a3b90c2f08cd5d6fdd8cd5b15b0"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Forget The Cloud Rally: Semiconductors Rule AI",
+      "url": "https://finnhub.io/api/news?id=87652d8c25e54fdb6d8316b57bd4c2a947a4545e9333fde9f835b8e6be929cbf"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Solar Stocks’ Weighted Gains Mask a Broad Selloff in the Average Name",
+      "url": "https://finnhub.io/api/news?id=91332a4036ce17030a26be9ec5ccaab0a38cff400940fabdcf5bb371b3b07f3b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Forget The Cloud Rally: Semiconductors Rule AI",
+      "url": "https://finnhub.io/api/news?id=87652d8c25e54fdb6d8316b57bd4c2a947a4545e9333fde9f835b8e6be929cbf"
     }
   ]
 }
