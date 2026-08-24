@@ -75,6 +75,16 @@
       "stock": "AAOI",
       "headline": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
       "url": "https://finnhub.io/api/news?id=d465dfca3a909d25a1f9630c0ceb17dd36079b1adaecfbf032e9a891ecc98a29"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Nvidia Could Swing $282 Billion In Value After Earnings",
+      "url": "https://finnhub.io/api/news?id=70e8d23711f67c65f10b3d4f3820e3bd0efcc3625960857ff027f0fd3f0e335b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "The AI Trade Deleveraged, Its Suppliers Didn't",
+      "url": "https://finnhub.io/api/news?id=40c34d0dd1185e79e8e69ffced14328b57b23f6c3c8acb7d14289e1b76115d73"
     }
   ]
 }
