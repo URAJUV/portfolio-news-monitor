@@ -55,6 +55,26 @@
       "stock": "GOOGL",
       "headline": "Forget The Cloud Rally: Semiconductors Rule AI",
       "url": "https://finnhub.io/api/news?id=87652d8c25e54fdb6d8316b57bd4c2a947a4545e9333fde9f835b8e6be929cbf"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Nvidia: The Next AI Upgrade Supercycle Is Exclusive - And Bigger Than GPUs",
+      "url": "https://finnhub.io/api/news?id=2b119cb948dbc9e29f9e032f928f4b695c25d81281e877ecbe16b7d4de27e69d"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
+      "url": "https://finnhub.io/api/news?id=d465dfca3a909d25a1f9630c0ceb17dd36079b1adaecfbf032e9a891ecc98a29"
+    },
+    {
+      "stock": "UBER",
+      "headline": "DoorDash, Uber Eats and Instacart Are Thriving as Consumers Cut Back Elsewhere: DASH CFO Explains Why",
+      "url": "https://finnhub.io/api/news?id=22523937c62ae70ab879557c7f90ed73c54a3a4e96d2150642d2b47c714aba4a"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
+      "url": "https://finnhub.io/api/news?id=d465dfca3a909d25a1f9630c0ceb17dd36079b1adaecfbf032e9a891ecc98a29"
     }
   ]
 }
