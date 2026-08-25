@@ -45,6 +45,21 @@
       "stock": "DE",
       "headline": "DA Davidson Maintains Buy on Deere, Raises Price Target to $760",
       "url": "https://finnhub.io/api/news?id=5100c4e8ef9acf682e9996fef6ed8d1e27d69f94506d5b9baafe3a85db3b2bf5"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon: AI Revenue Too Dependent On OpenAI And Anthropic",
+      "url": "https://finnhub.io/api/news?id=c6448c58ce6702b5c883d90b88a7a4127b238b636bd7d75295294a5fa241dc84"
+    },
+    {
+      "stock": "DE",
+      "headline": "Barclays Maintains Overweight on Deere, Raises Price Target to $675",
+      "url": "https://finnhub.io/api/news?id=287f23fbe6c5d7bc5af7afe46a329218272ec5b2758024d4a9fee804a47957e3"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Nordson: AI Chip Tailwinds Drive Durable Growth, But This Is Priced For Perfection",
+      "url": "https://finnhub.io/api/news?id=66adfcb169433da360f70489b5d6ca018e5fbe02d3d7cf33c37b252161cbff9b"
     }
   ]
 }
