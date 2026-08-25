@@ -70,6 +70,16 @@
       "stock": "DE",
       "headline": "RBC Capital Reiterates Outperform on Deere, Maintains $752 Price Target",
       "url": "https://finnhub.io/api/news?id=a6741561867ba45deb3f542f9590964ffd9aac78ec18cb0539af514ee6bdec9c"
+    },
+    {
+      "stock": "MU",
+      "headline": "The Market Is Cheap: The AI Revolution Has Created Plenty Of Bargains",
+      "url": "https://finnhub.io/api/news?id=99a8808d41a6c8c81c40512923000a5bd8120961867eefbbcb9e291f66fe8da2"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "The Market Is Cheap: The AI Revolution Has Created Plenty Of Bargains",
+      "url": "https://finnhub.io/api/news?id=99a8808d41a6c8c81c40512923000a5bd8120961867eefbbcb9e291f66fe8da2"
     }
   ]
 }
