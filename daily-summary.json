@@ -1,100 +1,40 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
-      "url": "https://finnhub.io/api/news?id=4741189c2db3ecc3e1c852ee549c661d3ba5fa23164f186325b42b94f8ae806b"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
-      "url": "https://finnhub.io/api/news?id=b755aec59d124c591eb6696c5ca304ce325b5d8990412a76c0cd6678b9d2bf1c"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week",
-      "url": "https://finnhub.io/api/news?id=8522f9c5d378b2e6f3094ea6b686f844912c8f43296bc2edff0144a92bd32f24"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week",
-      "url": "https://finnhub.io/api/news?id=8522f9c5d378b2e6f3094ea6b686f844912c8f43296bc2edff0144a92bd32f24"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week",
-      "url": "https://finnhub.io/api/news?id=8522f9c5d378b2e6f3094ea6b686f844912c8f43296bc2edff0144a92bd32f24"
-    },
-    {
-      "stock": "MU",
-      "headline": "Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week",
-      "url": "https://finnhub.io/api/news?id=8522f9c5d378b2e6f3094ea6b686f844912c8f43296bc2edff0144a92bd32f24"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
-      "url": "https://finnhub.io/api/news?id=4741189c2db3ecc3e1c852ee549c661d3ba5fa23164f186325b42b94f8ae806b"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron's Secret Weapon: The $5B Catalyst Beyond HBM",
-      "url": "https://finnhub.io/api/news?id=40597e07c6be68817dc251ca2be8e31ffe220a3b90c2f08cd5d6fdd8cd5b15b0"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Forget The Cloud Rally: Semiconductors Rule AI",
-      "url": "https://finnhub.io/api/news?id=87652d8c25e54fdb6d8316b57bd4c2a947a4545e9333fde9f835b8e6be929cbf"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Solar Stocks’ Weighted Gains Mask a Broad Selloff in the Average Name",
-      "url": "https://finnhub.io/api/news?id=91332a4036ce17030a26be9ec5ccaab0a38cff400940fabdcf5bb371b3b07f3b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Forget The Cloud Rally: Semiconductors Rule AI",
-      "url": "https://finnhub.io/api/news?id=87652d8c25e54fdb6d8316b57bd4c2a947a4545e9333fde9f835b8e6be929cbf"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Nvidia: The Next AI Upgrade Supercycle Is Exclusive - And Bigger Than GPUs",
-      "url": "https://finnhub.io/api/news?id=2b119cb948dbc9e29f9e032f928f4b695c25d81281e877ecbe16b7d4de27e69d"
-    },
-    {
       "stock": "CRWD",
-      "headline": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
-      "url": "https://finnhub.io/api/news?id=d465dfca3a909d25a1f9630c0ceb17dd36079b1adaecfbf032e9a891ecc98a29"
-    },
-    {
-      "stock": "UBER",
-      "headline": "DoorDash, Uber Eats and Instacart Are Thriving as Consumers Cut Back Elsewhere: DASH CFO Explains Why",
-      "url": "https://finnhub.io/api/news?id=22523937c62ae70ab879557c7f90ed73c54a3a4e96d2150642d2b47c714aba4a"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
-      "url": "https://finnhub.io/api/news?id=d465dfca3a909d25a1f9630c0ceb17dd36079b1adaecfbf032e9a891ecc98a29"
-    },
-    {
-      "stock": "SNPS",
       "headline": "Nvidia Could Swing $282 Billion In Value After Earnings",
       "url": "https://finnhub.io/api/news?id=70e8d23711f67c65f10b3d4f3820e3bd0efcc3625960857ff027f0fd3f0e335b"
     },
     {
+      "stock": "AMZN",
+      "headline": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
+      "url": "https://finnhub.io/api/news?id=6164f6385b35dc0f3b590f19a9191c2ede170765d8c82055d403a81a7c9365fa"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Trump’s 50% Canada Auto Tariff Shock: These ETFs Could Be in the Crosshairs",
+      "url": "https://finnhub.io/api/news?id=39011b3b644558bdbe1eb2189feb7b87b44fe7ab77d7ec19972ebcfef56dcfa9"
+    },
+    {
+      "stock": "DE",
+      "headline": "Truist Securities Maintains Buy on Deere, Lowers Price Target to $804",
+      "url": "https://finnhub.io/api/news?id=9a7acde1bf9dbbe8a575cc13195937fa6c0f6ceb8758da3ca4e89d05c1dc0a8b"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Unveils First Dual‑Architecture Mainframe Processor To Support IBM And Arm Platforms In Future IBM Z And LinuxONE Systems",
+      "url": "https://finnhub.io/api/news?id=5c690705b1f0b75e509821cfb08fe1732a0be90cf478c420a36410d7b2ef528b"
+    },
+    {
       "stock": "GOOGL",
-      "headline": "The AI Trade Deleveraged, Its Suppliers Didn't",
-      "url": "https://finnhub.io/api/news?id=40c34d0dd1185e79e8e69ffced14328b57b23f6c3c8acb7d14289e1b76115d73"
+      "headline": "Marvell: Google Strengthens The AI Thesis, But Q2 Must Justify The Premium",
+      "url": "https://finnhub.io/api/news?id=d367226c7afd0def73450d4508a39879b195389ed00dee3bb31ce07eeba5fa78"
     },
     {
-      "stock": "CRWD",
-      "headline": "Jefferies Maintains Buy on CrowdStrike Holdings, Raises Price Target to $230",
-      "url": "https://finnhub.io/api/news?id=15b1b53222045e3700ff12c8ceabbd523e57b7e0ff01434705f522436c320d29"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Perplexity Deal Highlights a Pattern in Nvidia's AI Investments",
-      "url": "https://finnhub.io/api/news?id=3193b80d04aa71d35afab754365cdc08b9a97d0cf059339394728e450ad75f24"
+      "stock": "NFLX",
+      "headline": "Netflix Gains Ground as App Bundling, Creator Push Drive Relative Strength",
+      "url": "https://finnhub.io/api/news?id=dfe3fb15d01b9a8a2558c45a518c3eb1694c4d0b4d867fb03391385f29b96afc"
     }
   ]
 }
