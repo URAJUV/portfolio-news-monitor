@@ -105,6 +105,21 @@
       "stock": "AAOI",
       "headline": "Nasdaq Tumbles 200 Points as Chip Stocks Slide: Fear & Greed Index Remains In ‘Neutral’ Zone",
       "url": "https://finnhub.io/api/news?id=d1a3741a1e46917301ef2f5318fb9b392583ba2cfb7d8ab947ab051d468f543b"
+    },
+    {
+      "stock": "MU",
+      "headline": "S&P 500 Earnings Growth Overstated And Bifurcated",
+      "url": "https://finnhub.io/api/news?id=42d9a7113f1655a274f2dec825fe848131dba114b7685b01a9c3cd5dfdd1fcb2"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys Q3 Preview: 40% Revenue Growth On AI Products, Ansys Acquisition",
+      "url": "https://finnhub.io/api/news?id=8e5695b6bad756c8290def387beb04d01a4eb93aec865a7a635b48b2d8734b5c"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Citizens Reiterates Market Outperform on Uber Technologies, Maintains $100 Price Target",
+      "url": "https://finnhub.io/api/news?id=8def4a77686784416320a7654ceeef8cc60d0c1c1ba966a9f08b785ebc55c532"
     }
   ]
 }
