@@ -120,6 +120,31 @@
       "stock": "UBER",
       "headline": "Citizens Reiterates Market Outperform on Uber Technologies, Maintains $100 Price Target",
       "url": "https://finnhub.io/api/news?id=8def4a77686784416320a7654ceeef8cc60d0c1c1ba966a9f08b785ebc55c532"
+    },
+    {
+      "stock": "MU",
+      "headline": "AI Semiconductor Chips Vs. Software Stocks: Understanding Cyclicality And Disruption",
+      "url": "https://finnhub.io/api/news?id=be982ebc4a89a5a9360ce887cc0bb555e3d0c48ed10a27a2b0c301e97e2dc1a9"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)",
+      "url": "https://finnhub.io/api/news?id=83dd865c525020fe5df0907bb850f6f2493ba32e01162770b91820599548fa60"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Nvidia Could Swing By $286 Billion After Earnings",
+      "url": "https://finnhub.io/api/news?id=68674c47e49b20815fd38ebc9ce8a659b68d1509dabebe169fe463302b55049a"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
+      "url": "https://finnhub.io/api/news?id=b79b16c471bcc0898122b4984a9697a565e0a077e356fc4b8e6fa80e5d01d750"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Joby Aviation: The Resonant Sciences Acquisition And The $750 Million Equity Program",
+      "url": "https://finnhub.io/api/news?id=628394f3200dff526c7a609c98396afeaeecf8d39e8aa25d47fd9535839038ce"
     }
   ]
 }
