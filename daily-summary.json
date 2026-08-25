@@ -60,6 +60,16 @@
       "stock": "GOOGL",
       "headline": "Nordson: AI Chip Tailwinds Drive Durable Growth, But This Is Priced For Perfection",
       "url": "https://finnhub.io/api/news?id=66adfcb169433da360f70489b5d6ca018e5fbe02d3d7cf33c37b252161cbff9b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon: The Cloud King Is Storming Back (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=0c8841c779bf255ff372a11f72cc2209db515fd1fa6e70b4a29be96cc5d92748"
+    },
+    {
+      "stock": "DE",
+      "headline": "RBC Capital Reiterates Outperform on Deere, Maintains $752 Price Target",
+      "url": "https://finnhub.io/api/news?id=a6741561867ba45deb3f542f9590964ffd9aac78ec18cb0539af514ee6bdec9c"
     }
   ]
 }
