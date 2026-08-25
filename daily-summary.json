@@ -35,6 +35,16 @@
       "stock": "NFLX",
       "headline": "Netflix Gains Ground as App Bundling, Creator Push Drive Relative Strength",
       "url": "https://finnhub.io/api/news?id=dfe3fb15d01b9a8a2558c45a518c3eb1694c4d0b4d867fb03391385f29b96afc"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
+      "url": "https://finnhub.io/api/news?id=f7f93a4f108a80e0a29d0f56809afcb0f6385c443b224895dad20328bc16045f"
+    },
+    {
+      "stock": "DE",
+      "headline": "DA Davidson Maintains Buy on Deere, Raises Price Target to $760",
+      "url": "https://finnhub.io/api/news?id=5100c4e8ef9acf682e9996fef6ed8d1e27d69f94506d5b9baafe3a85db3b2bf5"
     }
   ]
 }
