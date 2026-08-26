@@ -1,150 +1,15 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "items": [
     {
-      "stock": "CRWD",
-      "headline": "Nvidia Could Swing $282 Billion In Value After Earnings",
-      "url": "https://finnhub.io/api/news?id=70e8d23711f67c65f10b3d4f3820e3bd0efcc3625960857ff027f0fd3f0e335b"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
-      "url": "https://finnhub.io/api/news?id=6164f6385b35dc0f3b590f19a9191c2ede170765d8c82055d403a81a7c9365fa"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Trump’s 50% Canada Auto Tariff Shock: These ETFs Could Be in the Crosshairs",
-      "url": "https://finnhub.io/api/news?id=39011b3b644558bdbe1eb2189feb7b87b44fe7ab77d7ec19972ebcfef56dcfa9"
-    },
-    {
-      "stock": "DE",
-      "headline": "Truist Securities Maintains Buy on Deere, Lowers Price Target to $804",
-      "url": "https://finnhub.io/api/news?id=9a7acde1bf9dbbe8a575cc13195937fa6c0f6ceb8758da3ca4e89d05c1dc0a8b"
+      "stock": "HON",
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=d45317f41b896114f8506141212d4c216b33f338075e1988daf4bcbe28cfb3e6"
     },
     {
       "stock": "IBM",
-      "headline": "IBM Unveils First Dual‑Architecture Mainframe Processor To Support IBM And Arm Platforms In Future IBM Z And LinuxONE Systems",
-      "url": "https://finnhub.io/api/news?id=5c690705b1f0b75e509821cfb08fe1732a0be90cf478c420a36410d7b2ef528b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Marvell: Google Strengthens The AI Thesis, But Q2 Must Justify The Premium",
-      "url": "https://finnhub.io/api/news?id=d367226c7afd0def73450d4508a39879b195389ed00dee3bb31ce07eeba5fa78"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix Gains Ground as App Bundling, Creator Push Drive Relative Strength",
-      "url": "https://finnhub.io/api/news?id=dfe3fb15d01b9a8a2558c45a518c3eb1694c4d0b4d867fb03391385f29b96afc"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
-      "url": "https://finnhub.io/api/news?id=f7f93a4f108a80e0a29d0f56809afcb0f6385c443b224895dad20328bc16045f"
-    },
-    {
-      "stock": "DE",
-      "headline": "DA Davidson Maintains Buy on Deere, Raises Price Target to $760",
-      "url": "https://finnhub.io/api/news?id=5100c4e8ef9acf682e9996fef6ed8d1e27d69f94506d5b9baafe3a85db3b2bf5"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon: AI Revenue Too Dependent On OpenAI And Anthropic",
-      "url": "https://finnhub.io/api/news?id=c6448c58ce6702b5c883d90b88a7a4127b238b636bd7d75295294a5fa241dc84"
-    },
-    {
-      "stock": "DE",
-      "headline": "Barclays Maintains Overweight on Deere, Raises Price Target to $675",
-      "url": "https://finnhub.io/api/news?id=287f23fbe6c5d7bc5af7afe46a329218272ec5b2758024d4a9fee804a47957e3"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Nordson: AI Chip Tailwinds Drive Durable Growth, But This Is Priced For Perfection",
-      "url": "https://finnhub.io/api/news?id=66adfcb169433da360f70489b5d6ca018e5fbe02d3d7cf33c37b252161cbff9b"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon: The Cloud King Is Storming Back (Rating Upgrade)",
-      "url": "https://finnhub.io/api/news?id=0c8841c779bf255ff372a11f72cc2209db515fd1fa6e70b4a29be96cc5d92748"
-    },
-    {
-      "stock": "DE",
-      "headline": "RBC Capital Reiterates Outperform on Deere, Maintains $752 Price Target",
-      "url": "https://finnhub.io/api/news?id=a6741561867ba45deb3f542f9590964ffd9aac78ec18cb0539af514ee6bdec9c"
-    },
-    {
-      "stock": "MU",
-      "headline": "The Market Is Cheap: The AI Revolution Has Created Plenty Of Bargains",
-      "url": "https://finnhub.io/api/news?id=99a8808d41a6c8c81c40512923000a5bd8120961867eefbbcb9e291f66fe8da2"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "The Market Is Cheap: The AI Revolution Has Created Plenty Of Bargains",
-      "url": "https://finnhub.io/api/news?id=99a8808d41a6c8c81c40512923000a5bd8120961867eefbbcb9e291f66fe8da2"
-    },
-    {
-      "stock": "MU",
-      "headline": "'OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests' - Bloomberg",
-      "url": "https://finnhub.io/api/news?id=903e5212809579008dc7e473dd0a14501e4d115a30dfe9b9eae22f6c1a3092ed"
-    },
-    {
-      "stock": "TSM",
-      "headline": "AAXJ: The Overdiversified To Underdiversified Shift May Not Be A Bad Thing (Upgrade)",
-      "url": "https://finnhub.io/api/news?id=9b4c7e857ab53e2be69dd48207df046bc7bcaf8207a112f8d757eec97943008e"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Humanoid Robots Could Match Humans Within 5 Years, RoboStrategy CEO Says",
-      "url": "https://finnhub.io/api/news?id=dd7d78bc71c1347813cb3219f8f66ef2c139c56744d847c4bbea7cf917323bae"
-    },
-    {
-      "stock": "ARM",
-      "headline": "This Chip Stock Could Overtake Intel by 2027—Wall Street Sees 40% Upside as AI Agents Reshape the CPU Market",
-      "url": "https://finnhub.io/api/news?id=773e1d89845978e54e5326c30b7f62f4b7ac52a8848d521c0cb071859bb33ce6"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Nasdaq Tumbles 200 Points as Chip Stocks Slide: Fear & Greed Index Remains In ‘Neutral’ Zone",
-      "url": "https://finnhub.io/api/news?id=d1a3741a1e46917301ef2f5318fb9b392583ba2cfb7d8ab947ab051d468f543b"
-    },
-    {
-      "stock": "MU",
-      "headline": "S&P 500 Earnings Growth Overstated And Bifurcated",
-      "url": "https://finnhub.io/api/news?id=42d9a7113f1655a274f2dec825fe848131dba114b7685b01a9c3cd5dfdd1fcb2"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys Q3 Preview: 40% Revenue Growth On AI Products, Ansys Acquisition",
-      "url": "https://finnhub.io/api/news?id=8e5695b6bad756c8290def387beb04d01a4eb93aec865a7a635b48b2d8734b5c"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Citizens Reiterates Market Outperform on Uber Technologies, Maintains $100 Price Target",
-      "url": "https://finnhub.io/api/news?id=8def4a77686784416320a7654ceeef8cc60d0c1c1ba966a9f08b785ebc55c532"
-    },
-    {
-      "stock": "MU",
-      "headline": "AI Semiconductor Chips Vs. Software Stocks: Understanding Cyclicality And Disruption",
-      "url": "https://finnhub.io/api/news?id=be982ebc4a89a5a9360ce887cc0bb555e3d0c48ed10a27a2b0c301e97e2dc1a9"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)",
-      "url": "https://finnhub.io/api/news?id=83dd865c525020fe5df0907bb850f6f2493ba32e01162770b91820599548fa60"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Nvidia Could Swing By $286 Billion After Earnings",
-      "url": "https://finnhub.io/api/news?id=68674c47e49b20815fd38ebc9ce8a659b68d1509dabebe169fe463302b55049a"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
-      "url": "https://finnhub.io/api/news?id=b79b16c471bcc0898122b4984a9697a565e0a077e356fc4b8e6fa80e5d01d750"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Joby Aviation: The Resonant Sciences Acquisition And The $750 Million Equity Program",
-      "url": "https://finnhub.io/api/news?id=628394f3200dff526c7a609c98396afeaeecf8d39e8aa25d47fd9535839038ce"
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=d45317f41b896114f8506141212d4c216b33f338075e1988daf4bcbe28cfb3e6"
     }
   ]
 }
