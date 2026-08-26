@@ -25,6 +25,31 @@
       "stock": "CRWD",
       "headline": "Nvidia Could Swing By $286 Billion After Earnings",
       "url": "https://finnhub.io/api/news?id=68674c47e49b20815fd38ebc9ce8a659b68d1509dabebe169fe463302b55049a"
+    },
+    {
+      "stock": "MU",
+      "headline": "AI Bubble Could Be Ready to Pop and Jim Cramer May Be the Warning Sign",
+      "url": "https://finnhub.io/api/news?id=a451a16ed1610807e4f2159401eb3ed682025169d98a6c4f10732539abe725f5"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "The Deep Unknowns Of AI",
+      "url": "https://finnhub.io/api/news?id=49c2fdfb4b8f477ddec3ad318d577a50fca4171092a596bd62854dea127dc82c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "AI's Bar Mitzvah Moment: From Hype And Hope To Business Questions",
+      "url": "https://finnhub.io/api/news?id=33050069b185f62edc20d73ca7c1b76aac2cbd08e64f3ac8bac0a4c87663ecf2"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "The Deep Unknowns Of AI",
+      "url": "https://finnhub.io/api/news?id=49c2fdfb4b8f477ddec3ad318d577a50fca4171092a596bd62854dea127dc82c"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "AI's Bar Mitzvah Moment: From Hype And Hope To Business Questions",
+      "url": "https://finnhub.io/api/news?id=33050069b185f62edc20d73ca7c1b76aac2cbd08e64f3ac8bac0a4c87663ecf2"
     }
   ]
 }
