@@ -20,6 +20,11 @@
       "stock": "NFLX",
       "headline": "Wolfe Research Maintains Outperform on Netflix, Raises Price Target to $95",
       "url": "https://finnhub.io/api/news?id=3cfbc604303e5f35f1a4d7f0d2ac0d93911d61f3775fb735c8f1b203e985437a"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Nvidia Could Swing By $286 Billion After Earnings",
+      "url": "https://finnhub.io/api/news?id=68674c47e49b20815fd38ebc9ce8a659b68d1509dabebe169fe463302b55049a"
     }
   ]
 }
