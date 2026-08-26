@@ -50,6 +50,11 @@
       "stock": "NFLX",
       "headline": "AI's Bar Mitzvah Moment: From Hype And Hope To Business Questions",
       "url": "https://finnhub.io/api/news?id=33050069b185f62edc20d73ca7c1b76aac2cbd08e64f3ac8bac0a4c87663ecf2"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Why Amazon's Earnings Matter For Nvidia's Outlook",
+      "url": "https://finnhub.io/api/news?id=605b07496038751bdcf6893d550beb3dcdef7cc203d959ecfb120f16ab048c6c"
     }
   ]
 }
