@@ -1,120 +1,40 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "items": [
     {
-      "stock": "HON",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=d45317f41b896114f8506141212d4c216b33f338075e1988daf4bcbe28cfb3e6"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=d45317f41b896114f8506141212d4c216b33f338075e1988daf4bcbe28cfb3e6"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "AI Semiconductor Chips Vs. Software Stocks: Understanding Cyclicality And Disruption",
-      "url": "https://finnhub.io/api/news?id=be982ebc4a89a5a9360ce887cc0bb555e3d0c48ed10a27a2b0c301e97e2dc1a9"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Wolfe Research Maintains Outperform on Netflix, Raises Price Target to $95",
-      "url": "https://finnhub.io/api/news?id=3cfbc604303e5f35f1a4d7f0d2ac0d93911d61f3775fb735c8f1b203e985437a"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Nvidia Could Swing By $286 Billion After Earnings",
-      "url": "https://finnhub.io/api/news?id=68674c47e49b20815fd38ebc9ce8a659b68d1509dabebe169fe463302b55049a"
-    },
-    {
       "stock": "MU",
-      "headline": "AI Bubble Could Be Ready to Pop and Jim Cramer May Be the Warning Sign",
-      "url": "https://finnhub.io/api/news?id=a451a16ed1610807e4f2159401eb3ed682025169d98a6c4f10732539abe725f5"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "The Deep Unknowns Of AI",
-      "url": "https://finnhub.io/api/news?id=49c2fdfb4b8f477ddec3ad318d577a50fca4171092a596bd62854dea127dc82c"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "AI's Bar Mitzvah Moment: From Hype And Hope To Business Questions",
-      "url": "https://finnhub.io/api/news?id=33050069b185f62edc20d73ca7c1b76aac2cbd08e64f3ac8bac0a4c87663ecf2"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "The Deep Unknowns Of AI",
-      "url": "https://finnhub.io/api/news?id=49c2fdfb4b8f477ddec3ad318d577a50fca4171092a596bd62854dea127dc82c"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "AI's Bar Mitzvah Moment: From Hype And Hope To Business Questions",
-      "url": "https://finnhub.io/api/news?id=33050069b185f62edc20d73ca7c1b76aac2cbd08e64f3ac8bac0a4c87663ecf2"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Why Amazon's Earnings Matter For Nvidia's Outlook",
-      "url": "https://finnhub.io/api/news?id=605b07496038751bdcf6893d550beb3dcdef7cc203d959ecfb120f16ab048c6c"
-    },
-    {
-      "stock": "MU",
-      "headline": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
-      "url": "https://finnhub.io/api/news?id=3043a64782e861938741cf46a220a3d6180567fd623cc1f61989a61fc51d4f93"
+      "headline": "Howmet Aerospace shares are trading higher after B of A Securities raised its price target on the stock from $250 to $300.",
+      "url": "https://finnhub.io/api/news?id=4f8729313aec0207dd007101aabb3b63509933bd65c7a59412eb1777fdd30dc8"
     },
     {
       "stock": "TSM",
-      "headline": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
-      "url": "https://finnhub.io/api/news?id=3043a64782e861938741cf46a220a3d6180567fd623cc1f61989a61fc51d4f93"
+      "headline": "Nvidia: It's Time To Turn Greedy (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=164eb0c70a1abd1892a4f35247601a94d22f6b0160d748c5511cf31afb7c06eb"
     },
     {
-      "stock": "CRWD",
-      "headline": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
-      "url": "https://finnhub.io/api/news?id=3043a64782e861938741cf46a220a3d6180567fd623cc1f61989a61fc51d4f93"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
-      "url": "https://finnhub.io/api/news?id=3043a64782e861938741cf46a220a3d6180567fd623cc1f61989a61fc51d4f93"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Bernie Sanders Says Sergey Brin 'Leading' Campaign to Stop California's 5% Billionaire Tax: 'Greed is a Sickness'",
-      "url": "https://finnhub.io/api/news?id=1d96a7dd4a638fca9ac9faa8a9f67aeb170e5763c3173c4d2b2bade3e32b6e44"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Pony AI’s Revenue Is Soaring, But Profitability Hinges On A Shared Ride",
-      "url": "https://finnhub.io/api/news?id=261399d649e7b4af15b8157733bf2a507f0656a85dbd5f0d0489b47769dcf938"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "ServiceNow: A Loaded Rocket On The AI Launch Pad",
-      "url": "https://finnhub.io/api/news?id=5eac96abe82e07445f5d5db40ddc111e36f81a4f9bd3220e3a1e9f430d28b608"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Nvidia Earnings: Top AI Stocks And What We Need To See For A Rally",
-      "url": "https://finnhub.io/api/news?id=0476f7ef930de980f7966778d688764048769fe102d32ccca11e277073a8723b"
+      "stock": "SHLS",
+      "headline": "Shoals Technologies Wins Patent Case Against Voltage; Jury Awards $96M+ For Willful Infringement And Court To Block LYNX Sales In U.S.",
+      "url": "https://finnhub.io/api/news?id=40ce004ae0833a4a318b175baa1ff231c7fd80dcc48495ab6ec52bdf2ba3f117"
     },
     {
       "stock": "SNPS",
-      "headline": "EXCLUSIVE: Synopsys Says AI Is Already Delivering 6x Productivity Gains",
-      "url": "https://finnhub.io/api/news?id=4015761461b57aed8253fc664ce1709ba2b6e789632db6f1c71ad133b8546a4e"
+      "headline": "EXCLUSIVE: Nvidia's $2 Billion Synopsys Bet Signals AI's Next Frontier",
+      "url": "https://finnhub.io/api/news?id=9633811da555350b956cff2db16ae15ab502edec08eabcb4fb1add3992963814"
     },
     {
-      "stock": "ARM",
-      "headline": "SoftBank: A Discounted Bet On The Entire AI Stack",
-      "url": "https://finnhub.io/api/news?id=b0151f2b2730b4fffa3538733f7921ed3bd5a34daf40df0794bfe5cf02bdbfbb"
+      "stock": "TSLA",
+      "headline": "Tesla: Potential Merger Has Some Upside, But I'm Still Bearish (Upgrade)",
+      "url": "https://finnhub.io/api/news?id=b382890d9c645179fedf5db41f4f6b4f29473bfc3286616827ab24d4f7656204"
     },
     {
-      "stock": "GOOGL",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=45b7ccfee9169d8cf3dc418bd809f9b83e3e927cd7530f4e98fda7ca7f6a2c9d"
+      "stock": "TEAM",
+      "headline": "RBC Capital Initiates Coverage On Atlassian with Outperform Rating, Announces Price Target of $215",
+      "url": "https://finnhub.io/api/news?id=4cb606afefc34c324414d54bc6fbb7e76821e83cea543ab88bfd3aec40888cc3"
     },
     {
-      "stock": "NFLX",
-      "headline": "Wall Street Lunch: Meta Settles Minors' Addiction, Data Privacy Claims For $12.7B",
-      "url": "https://finnhub.io/api/news?id=93693e522727c16ce265ecaefe78c970775937a2523bdf51c209f1a64665f5fb"
+      "stock": "RDDT",
+      "headline": "Meta Agrees To Pay Maximum Settlement Of $16.68B To States As Part Of Agreement, Including $2.2B To California; Deal Requires Nationwide Changes For Teen Users Of Instagram And Facebook; Judgement Requires Meta Default Daily Limits And Nighttime Blocks For Teenage Users",
+      "url": "https://finnhub.io/api/news?id=c0e8dad1437f939fa65549e3beb3972ba784012d1bd783ece48fe0a6a584666b"
     }
   ]
 }
