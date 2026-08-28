@@ -1,75 +1,35 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "items": [
     {
       "stock": "MU",
-      "headline": "Howmet Aerospace shares are trading higher after B of A Securities raised its price target on the stock from $250 to $300.",
-      "url": "https://finnhub.io/api/news?id=4f8729313aec0207dd007101aabb3b63509933bd65c7a59412eb1777fdd30dc8"
+      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=dbe97060b57c6fcca42b09bac712bf7bcd8a4983c5dc92553f86f718d593e9cd"
     },
     {
-      "stock": "TSM",
-      "headline": "Nvidia: It's Time To Turn Greedy (Rating Upgrade)",
-      "url": "https://finnhub.io/api/news?id=164eb0c70a1abd1892a4f35247601a94d22f6b0160d748c5511cf31afb7c06eb"
+      "stock": "AMZN",
+      "headline": "Thursday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf"
     },
     {
-      "stock": "SHLS",
-      "headline": "Shoals Technologies Wins Patent Case Against Voltage; Jury Awards $96M+ For Willful Infringement And Court To Block LYNX Sales In U.S.",
-      "url": "https://finnhub.io/api/news?id=40ce004ae0833a4a318b175baa1ff231c7fd80dcc48495ab6ec52bdf2ba3f117"
+      "stock": "IONQ",
+      "headline": "Nvidia CEO Jensen Huang Jokes His Dinner Plans Can Double a Stock—His Track Record Says He’s Not Wrong",
+      "url": "https://finnhub.io/api/news?id=4c686b94218dc10831e09c92bf705c397131b070a9fcd5327fee6f82a20c6a91"
     },
     {
-      "stock": "SNPS",
-      "headline": "EXCLUSIVE: Nvidia's $2 Billion Synopsys Bet Signals AI's Next Frontier",
-      "url": "https://finnhub.io/api/news?id=9633811da555350b956cff2db16ae15ab502edec08eabcb4fb1add3992963814"
+      "stock": "IBM",
+      "headline": "Thursday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf"
     },
     {
-      "stock": "TSLA",
-      "headline": "Tesla: Potential Merger Has Some Upside, But I'm Still Bearish (Upgrade)",
-      "url": "https://finnhub.io/api/news?id=b382890d9c645179fedf5db41f4f6b4f29473bfc3286616827ab24d4f7656204"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "RBC Capital Initiates Coverage On Atlassian with Outperform Rating, Announces Price Target of $215",
-      "url": "https://finnhub.io/api/news?id=4cb606afefc34c324414d54bc6fbb7e76821e83cea543ab88bfd3aec40888cc3"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Meta Agrees To Pay Maximum Settlement Of $16.68B To States As Part Of Agreement, Including $2.2B To California; Deal Requires Nationwide Changes For Teen Users Of Instagram And Facebook; Judgement Requires Meta Default Daily Limits And Nighttime Blocks For Teenage Users",
-      "url": "https://finnhub.io/api/news?id=c0e8dad1437f939fa65549e3beb3972ba784012d1bd783ece48fe0a6a584666b"
-    },
-    {
-      "stock": "MU",
-      "headline": "Nvidia Earnings: Top AI Stocks And What We Need To See For A Rally",
-      "url": "https://finnhub.io/api/news?id=0476f7ef930de980f7966778d688764048769fe102d32ccca11e277073a8723b"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Holdings, Inc. (CRWD) Q2 2027 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=bce61a95b590c452e62866f5d0dce891ef0d95b881c0684b8d290151364bb9fd"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys: The Silent AI Winner In Chip Design",
-      "url": "https://finnhub.io/api/news?id=45dece40ec6f05c496c84343ba6abc2c4c2d874a0e56df8cce095cf819d3889d"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "How Investors Can Participate In AI",
-      "url": "https://finnhub.io/api/news?id=31af6443b7bfd53b015bb374b399e20a63049b682e4891e31aeb3cfc81bf073e"
-    },
-    {
-      "stock": "HON",
-      "headline": "How Investors Can Participate In AI",
-      "url": "https://finnhub.io/api/news?id=31af6443b7bfd53b015bb374b399e20a63049b682e4891e31aeb3cfc81bf073e"
+      "stock": "QBTS",
+      "headline": "Nvidia CEO Jensen Huang Jokes His Dinner Plans Can Double a Stock—His Track Record Says He’s Not Wrong",
+      "url": "https://finnhub.io/api/news?id=4c686b94218dc10831e09c92bf705c397131b070a9fcd5327fee6f82a20c6a91"
     },
     {
       "stock": "GOOGL",
-      "headline": "Alphabet's Hidden AI Goldmine: Why TPU Sales Could Supercharge ROIC",
-      "url": "https://finnhub.io/api/news?id=3492ea2645f4dd286cdad64a3e47e68e4707a667ab93e88a933886336b64b680"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Meta Agrees To Settlement With U.S. States Regarding Lawsuit Claiming That Its Technology Harmed Children",
-      "url": "https://finnhub.io/api/news?id=4c8d2a2467cb843f2f33b750bc1bdfa66953fdecf6e6dd3fd93b1817cb378429"
+      "headline": "Thursday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf"
     }
   ]
 }
