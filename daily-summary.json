@@ -15,6 +15,16 @@
       "stock": "UBER",
       "headline": "Uber Advances Delivery Hero Acquisition With Formal Cash Offer",
       "url": "https://finnhub.io/api/news?id=4a99b3b5180194f82da19bb07ef95434da3b11d11761252c8c12bfd68d3bd70b"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Introduces New Mainframe Processor Combining Its Own Tech With Arm Architecture",
+      "url": "https://finnhub.io/api/news?id=1cac6bc5d1b48b51b3241f189efddbd062ff705a579968fa932f227e9ac1e42c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Marvell’s Google AI Chip Deal Could Drive $120 Billion in Long-Term Revenue: Analyst",
+      "url": "https://finnhub.io/api/news?id=e77e8cf70ecc98e852fe1fee5b1997608e093632fe46b11766d869fa1791065b"
     }
   ]
 }
