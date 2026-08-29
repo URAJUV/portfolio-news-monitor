@@ -1,110 +1,20 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=dbe97060b57c6fcca42b09bac712bf7bcd8a4983c5dc92553f86f718d593e9cd"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Thursday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Nvidia CEO Jensen Huang Jokes His Dinner Plans Can Double a Stock—His Track Record Says He’s Not Wrong",
-      "url": "https://finnhub.io/api/news?id=4c686b94218dc10831e09c92bf705c397131b070a9fcd5327fee6f82a20c6a91"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Thursday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Nvidia CEO Jensen Huang Jokes His Dinner Plans Can Double a Stock—His Track Record Says He’s Not Wrong",
-      "url": "https://finnhub.io/api/news?id=4c686b94218dc10831e09c92bf705c397131b070a9fcd5327fee6f82a20c6a91"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Thursday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf"
-    },
-    {
-      "stock": "MU",
-      "headline": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
-      "url": "https://finnhub.io/api/news?id=457bd7fc29d410106289bf72204c3d054ee7a43a67c755c3ca5fa615916a810e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor (NYSE:TSM) Combines High Growth Momentum with a Breakout Setup",
-      "url": "https://finnhub.io/api/news?id=de2daab401a9eac9092827c1ccd58419db0577542c13b9c11d64ea7d0064b091"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
-      "url": "https://finnhub.io/api/news?id=457bd7fc29d410106289bf72204c3d054ee7a43a67c755c3ca5fa615916a810e"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "AI Stocks Enter a High-Stakes Earnings Gauntlet",
-      "url": "https://finnhub.io/api/news?id=a55a04d5b30dd8970e2a9e574d09c90f5e0125ae17f03079c65646e6e33f86a2"
-    },
-    {
       "stock": "COHR",
-      "headline": "Semiconductor Equipment Earnings: A Test for Growth and Value Alike",
-      "url": "https://finnhub.io/api/news?id=27db79e0ff8cf239b1251b6d0ae81ae1a8e7b811ddaf219a08d7d5457e49ea23"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=dbe97060b57c6fcca42b09bac712bf7bcd8a4983c5dc92553f86f718d593e9cd"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla's Optimus Rival Could Be Worth $6 Billion As SoftBank Circles OpenAI-Backed 1X",
-      "url": "https://finnhub.io/api/news?id=bd66963e476ca2fb1ee267ca5b153ab944593e89826bf2b31ce20dc36f995695"
-    },
-    {
-      "stock": "AMPX",
-      "headline": "Amprius: A Better Entry Point After A 50%+ Decline (Rating Upgrade)",
-      "url": "https://finnhub.io/api/news?id=466f84c0669412ee85e7aba3f772fcc75d1c3e58c05ea0458d3d911e038936a7"
-    },
-    {
-      "stock": "UBER",
-      "headline": "'Uber cuts AI costs even as usage jumps' - Axios Exclusive",
-      "url": "https://finnhub.io/api/news?id=ad46605b330c4cedea4686091c11270a9e3c44fafaee5b85f0780a943e167383"
-    },
-    {
-      "stock": "ADSK",
       "headline": "Friday's pre-market session: top gainers and losers in the S&P500 index",
       "url": "https://finnhub.io/api/news?id=dcb4b71fd2871b34d27da0105bf9221f9976270688aee3d4fc4cdfc744af2869"
     },
     {
-      "stock": "IBM",
-      "headline": "IBM: Get Paid To Wait For Growth",
-      "url": "https://finnhub.io/api/news?id=3f6e70179a3bc5a241dd89fac0072ecae700c3ee11c649867a543339d9652ec7"
-    },
-    {
-      "stock": "U",
-      "headline": "Unity Software (U) Price Target Increased by 31.85% to 50.50",
-      "url": "https://finnhub.io/api/news?id=e4c3858efbe08df507c05fead82548b4993cdfb6004c48eadfa89ea5f7365324"
-    },
-    {
-      "stock": "MU",
-      "headline": "Warsh Sparks Rate-Hike Bets, Nvidia Reaffirms AI Growth Story: This Week on Wall Street",
-      "url": "https://finnhub.io/api/news?id=226a087fb2c034cf2076b7844135dd196ce111c2eb8062283e71ffc0a6e21d87"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Cathie Wood Trims AMD After a 120% Rally — Is the AI Trade Getting Too Crowded?",
-      "url": "https://finnhub.io/api/news?id=00ca459523d00476785ba984c3513109ae093739e21e9ba21e3bb04f30aa7dd6"
+      "stock": "TSLA",
+      "headline": "Trump’s Grid Security Order Could Put These ETFs on the Power-Equipment Watchlist",
+      "url": "https://finnhub.io/api/news?id=9e8070394ea5d53718fc3d003613467491b5689966a3f60907c3d5632d1bec46"
     },
     {
       "stock": "UBER",
-      "headline": "Rivian Stock Slips After Hours as CFO Claire McDonough Steps Down After Nearly 6 Years",
-      "url": "https://finnhub.io/api/news?id=f3efa012827aa1ee492dc284fc7939f3e68d721e69ceb6c20937d09fe41dc40c"
+      "headline": "Uber Advances Delivery Hero Acquisition With Formal Cash Offer",
+      "url": "https://finnhub.io/api/news?id=4a99b3b5180194f82da19bb07ef95434da3b11d11761252c8c12bfd68d3bd70b"
     }
   ]
 }
