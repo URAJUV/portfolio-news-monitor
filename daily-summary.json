@@ -1,45 +1,10 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "items": [
     {
-      "stock": "COHR",
-      "headline": "Friday's pre-market session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=dcb4b71fd2871b34d27da0105bf9221f9976270688aee3d4fc4cdfc744af2869"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Trump’s Grid Security Order Could Put These ETFs on the Power-Equipment Watchlist",
-      "url": "https://finnhub.io/api/news?id=9e8070394ea5d53718fc3d003613467491b5689966a3f60907c3d5632d1bec46"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Advances Delivery Hero Acquisition With Formal Cash Offer",
-      "url": "https://finnhub.io/api/news?id=4a99b3b5180194f82da19bb07ef95434da3b11d11761252c8c12bfd68d3bd70b"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM Introduces New Mainframe Processor Combining Its Own Tech With Arm Architecture",
-      "url": "https://finnhub.io/api/news?id=1cac6bc5d1b48b51b3241f189efddbd062ff705a579968fa932f227e9ac1e42c"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Marvell’s Google AI Chip Deal Could Drive $120 Billion in Long-Term Revenue: Analyst",
-      "url": "https://finnhub.io/api/news?id=e77e8cf70ecc98e852fe1fee5b1997608e093632fe46b11766d869fa1791065b"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "BNP Paribas Maintains Outperform on Autodesk, Raises Price Target to $300",
-      "url": "https://finnhub.io/api/news?id=d2e132050e1682ccf11c6aa0e1e9327adff07407db4ce56beda5cf52697f76f0"
-    },
-    {
       "stock": "MU",
-      "headline": "Dell Stock Analysis: Options and Technicals Send Mixed Signals Ahead of Earnings",
-      "url": "https://finnhub.io/api/news?id=69a0e0125ff75464ed9cd6b1eb24058bc9b919b8c5e4361e52a3287cd4a628bb"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet has the four pillars in AI, says Glenview Trust's Bill Stone",
-      "url": "https://finnhub.io/api/news?id=59a0de77575baf87db7f7e63a713a38646fbaa24a812ab4571d225bdc68879c1"
+      "headline": "Broadcom Stock Faces Valuation Test as Fiscal Q3 Earnings Approach",
+      "url": "https://finnhub.io/api/news?id=57465e6b570887927c69c198fa50b0fec911d3b237cc3b4a0007f20fa1eb78e1"
     }
   ]
 }
