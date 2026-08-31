@@ -1,4 +1,10 @@
 {
   "date": "2026-08-31",
-  "items": []
+  "items": [
+    {
+      "stock": "SONY",
+      "headline": "AI Threat To Global Financial System",
+      "url": "https://finnhub.io/api/news?id=700b0dcac7386e497ccee5924ba0fffc7f5c416a51977aef6382e7e470de55d2"
+    }
+  ]
 }
