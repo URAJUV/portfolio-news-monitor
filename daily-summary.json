@@ -1,35 +1,4 @@
 {
-  "date": "2026-08-30",
-  "items": [
-    {
-      "stock": "MU",
-      "headline": "Broadcom Stock Faces Valuation Test as Fiscal Q3 Earnings Approach",
-      "url": "https://finnhub.io/api/news?id=57465e6b570887927c69c198fa50b0fec911d3b237cc3b4a0007f20fa1eb78e1"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys Crushed Earnings, But I'm Downgrading The Stock (Rating Downgrade)",
-      "url": "https://finnhub.io/api/news?id=fc74132f1a02be994ce83cc597798e549c925dbbc9bef3a7ca58c3d8b9ccfb66"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood",
-      "url": "https://finnhub.io/api/news?id=b1c233d5799408d07e2e32b2a1adca075e81e92599584c8165fa077acb1c0882"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Wall Street Brunch: Jobs And More AI Litmus Test Earnings",
-      "url": "https://finnhub.io/api/news?id=b65dcfa0f8f8e542ff67693f72381cc5309af36902e5be4ba7bbc2a6c8f91e94"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood",
-      "url": "https://finnhub.io/api/news?id=b1c233d5799408d07e2e32b2a1adca075e81e92599584c8165fa077acb1c0882"
-    },
-    {
-      "stock": "HON",
-      "headline": "Microsoft Among 14 Dividend Growth Companies To Announce Annual Dividend Increases In September",
-      "url": "https://finnhub.io/api/news?id=d51433a38a0f4890cf4c5e89cba7f152e5467f9b5df585ace5da77fceb26f54f"
-    }
-  ]
+  "date": "2026-08-31",
+  "items": []
 }
