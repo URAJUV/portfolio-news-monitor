@@ -1,10 +1,20 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "items": [
     {
-      "stock": "SONY",
-      "headline": "AI Threat To Global Financial System",
-      "url": "https://finnhub.io/api/news?id=700b0dcac7386e497ccee5924ba0fffc7f5c416a51977aef6382e7e470de55d2"
+      "stock": "MU",
+      "headline": "Trump’s Truth Social ETF Manager Is Betting Big on AI, Crypto and New ETFs",
+      "url": "https://finnhub.io/api/news?id=379b352d0de5bb6d45d2ce5d132795804bbcda6cdfa1bba75116c990e11b8a61"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Billionaire Investor Raises TSMC Stake 67% as Profit Soars 77%, Revenue Climbs 36%",
+      "url": "https://finnhub.io/api/news?id=588551889f11d42fff4cd1fb39ae978e4eab4a5e5345f412c9f30956b8920882"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "B of A Securities Maintains Buy on Atlassian, Raises Price Target to $210",
+      "url": "https://finnhub.io/api/news?id=8525f48dd975603286afd22e829c5b17695408de5ee12077ed253a2832ddb7f8"
     }
   ]
 }
