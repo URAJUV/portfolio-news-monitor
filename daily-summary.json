@@ -50,6 +50,21 @@
       "stock": "GOOGL",
       "headline": "Alphabet: Question Marks Behind The AI Boom",
       "url": "https://finnhub.io/api/news?id=d164d6d7f051248a902d19755dd9143bcf56d75a2687c4254ff9f4549a4e9894"
+    },
+    {
+      "stock": "MU",
+      "headline": "Memory Mania: AI Demand Meets Single-Digit Multiples",
+      "url": "https://finnhub.io/api/news?id=231d9ac9489a88128c94d0acb0c220c8e8d11dc47b3c8ca10ff3fe24db3d7297"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Urgent AI Defense Makes CIBR A Buy",
+      "url": "https://finnhub.io/api/news?id=c76decd75a80aa7c3798f50bddbcd3c45fac0b8266aa13b139eae4fee3d9ae3a"
+    },
+    {
+      "stock": "HALO",
+      "headline": "AI Exhaustion? 3 Healthcare Stocks With 38% EPS Growth That Could Be The Cure",
+      "url": "https://finnhub.io/api/news?id=f54a713cd766e38d9964bcfba8ebb9ffac875d178e8f35d3a8217093c53fd367"
     }
   ]
 }
