@@ -90,6 +90,41 @@
       "stock": "NFLX",
       "headline": "DUOL Stock Rises Premarket: Analyst Sees ‘Netflix-Like’ Growth Scenario, Doubles Price Target",
       "url": "https://finnhub.io/api/news?id=ce2555554c17080e2d1ec3ab82df373dbd7ebc4a48d7465272ec8ec35697e446"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Deutsche Bank Names Lumentum and Coherent Top AI Picks as Spending Surges",
+      "url": "https://finnhub.io/api/news?id=270f7b075f5072783e394ae88924eb86eb999eb5c2ee995d83c94d9818a935f3"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Lucid Is A Penny Stock Again",
+      "url": "https://finnhub.io/api/news?id=37ee98f87d1e8ec73011ff1c57d123f741aedb7c730480c8ab40d4306861f5a2"
+    },
+    {
+      "stock": "DE",
+      "headline": "Stocks making big moves yesterday: Jazz Pharmaceuticals, SAIC, Herbalife, AGCO, and Deere",
+      "url": "https://finnhub.io/api/news?id=4108160c92505b51ab77d3c762e422ef9c79b754dc8621bfbf6148481bb6ca65"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Draganfly Receives Section 44807 Special Authority From FAA For Certain Unmanned Aircraft Systems Exemption For Its Heavy Lift Drone Platform",
+      "url": "https://finnhub.io/api/news?id=9a988bcc3e86c24da99524c5827d63c1bb820cdfa7d0aded857e8261becd4360"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Retail Investors’ 2 Favorite AI Stocks for the Long Term: Alphabet, IBM",
+      "url": "https://finnhub.io/api/news?id=f1ac8112989a8677c6f27e43c85b88169b301b5ea68012c93b62ab0bc2974446"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "EXCLUSIVE: DeepSeek Was Just the Start. New ETF Targets China’s AI Tigers in a 'Convergence Trade'",
+      "url": "https://finnhub.io/api/news?id=ce4a34ffd5b68578288640c4739fd959587f86c71b03c46cc139407987a1faf1"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Citigroup Maintains Buy on Atlassian, Raises Price Target to $225",
+      "url": "https://finnhub.io/api/news?id=aa6a205e2635114a017275e8698db8d70e7c3eba70a83ed792a9e932908f9d4f"
     }
   ]
 }
