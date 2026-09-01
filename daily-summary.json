@@ -65,6 +65,31 @@
       "stock": "HALO",
       "headline": "AI Exhaustion? 3 Healthcare Stocks With 38% EPS Growth That Could Be The Cure",
       "url": "https://finnhub.io/api/news?id=f54a713cd766e38d9964bcfba8ebb9ffac875d178e8f35d3a8217093c53fd367"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon (AMZN): Buy, Sell, or Hold Post Q2 Earnings?",
+      "url": "https://finnhub.io/api/news?id=416f79f3fbe5088729f7977b3fc2cee79b9ae67771fa1626fe14d61ebd663d28"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "The Market May Be Underestimating This AI Chip-Design Stock",
+      "url": "https://finnhub.io/api/news?id=bc5dedf03f755be4fe1e89d478f62ff908280d0d16100a0a84345c7c72452671"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "The Market May Be Underestimating This AI Chip-Design Stock",
+      "url": "https://finnhub.io/api/news?id=bc5dedf03f755be4fe1e89d478f62ff908280d0d16100a0a84345c7c72452671"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "T3 Defense Announces That CEO Menachem Shalom Converted ~$2.14M Of Personally Held Promissory Notes Into ~4.1M Restricted Shares",
+      "url": "https://finnhub.io/api/news?id=791a5e13ea4dbd7a6584f0c2e67e1095efdac1797cb85ae39fd07ce4ff023a3f"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "DUOL Stock Rises Premarket: Analyst Sees ‘Netflix-Like’ Growth Scenario, Doubles Price Target",
+      "url": "https://finnhub.io/api/news?id=ce2555554c17080e2d1ec3ab82df373dbd7ebc4a48d7465272ec8ec35697e446"
     }
   ]
 }
