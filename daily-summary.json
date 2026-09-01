@@ -15,6 +15,41 @@
       "stock": "TEAM",
       "headline": "B of A Securities Maintains Buy on Atlassian, Raises Price Target to $210",
       "url": "https://finnhub.io/api/news?id=8525f48dd975603286afd22e829c5b17695408de5ee12077ed253a2832ddb7f8"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron: Hyperscalers Bought The Fab, Bears Bought Fairy Tales",
+      "url": "https://finnhub.io/api/news?id=ba94c10d144aa803f0b7952e56c7b6fb36f21512d3cf4f017ead8e8cf86d63de"
+    },
+    {
+      "stock": "HON",
+      "headline": "Morgan Stanley Maintains Equal-Weight on Honeywell Intl, Raises Price Target to $250",
+      "url": "https://finnhub.io/api/news?id=1e29ca8ef0f40ed46cc69594056158716a473e816dd7303b55df2ce1de9e5751"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme: The Market May Be Underpricing The Second Growth Wave",
+      "url": "https://finnhub.io/api/news?id=cb952d0e1fdc4b96c3376cb9bb2dbd9cbef9f5167af13a613485447aae218345"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Billionaire Investor Raises TSMC Stake 67% as Profit Soars 77%, Revenue Climbs 36%",
+      "url": "https://finnhub.io/api/news?id=588551889f11d42fff4cd1fb39ae978e4eab4a5e5345f412c9f30956b8920882"
+    },
+    {
+      "stock": "DE",
+      "headline": "Baird Upgrades Deere (DE)",
+      "url": "https://finnhub.io/api/news?id=7e15e98ae6c9684f1d2fe999fa1f17344c3d7306b1479d21f8533cb2fdcf59af"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Susquehanna Maintains Neutral on IBM, Raises Price Target to $235",
+      "url": "https://finnhub.io/api/news?id=93cfbade59079b2791abe78cd42e6835611e68968a59a763fd868b907ad0f6c5"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet: Question Marks Behind The AI Boom",
+      "url": "https://finnhub.io/api/news?id=d164d6d7f051248a902d19755dd9143bcf56d75a2687c4254ff9f4549a4e9894"
     }
   ]
 }
