@@ -130,6 +130,46 @@
       "stock": "NFLX",
       "headline": "Sirius XM upgraded, Toast downgraded: Wall Street's top analyst calls",
       "url": "https://finnhub.io/api/news?id=8516fefd2a35173aa62476707580400a1db2e41384346018cfcd8590df085ca6"
+    },
+    {
+      "stock": "MU",
+      "headline": "GitLab Q2 Earnings Beat on Revenue Growth and Sales Productivity",
+      "url": "https://finnhub.io/api/news?id=1e4ffbeb4fc93c76bf82362d5e2f7e0785b0e3795667075521eb535cb87850d3"
+    },
+    {
+      "stock": "TSM",
+      "headline": "What's Going On With Taiwan Semiconductor Stock Wednesday?",
+      "url": "https://finnhub.io/api/news?id=047dcb98f9e41165aca0ca646df8d0171e64b0dd5dd086fbe318bb8618e9e8f2"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "DoJ requests beef price data from major retailers including Amazon and Walmart",
+      "url": "https://finnhub.io/api/news?id=e7c71427fa4139760214f4ff7aa965f0b4b990db64433e4164032bcd0cee496f"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Can Coherent's 79% Datacenter Mix Sustain Its Growth Momentum?",
+      "url": "https://finnhub.io/api/news?id=c504645279ee924bebd417d3377960357d7054b65e53daf836c7b02d95ba2bb6"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys (SNPS) Stock Looks Reasonable On Cash Flow While Earnings Look Rich",
+      "url": "https://finnhub.io/api/news?id=4fc8108f595bc03d0b48d4565fd9e99dc61ffd5d6d8110cce4c39cab1ab3d77a"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Musk’s $30 Trillion AI Forecast Hinges on a Timeline Even NVIDIA Says Is Unrealistic",
+      "url": "https://finnhub.io/api/news?id=18b62f2a74eb4779bcdbe8538df5ee3159c55f05b56213785e34823ae114ca7f"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Lucid’s CEO Promised a $1.4 Billion Turnaround, Then This Happened",
+      "url": "https://finnhub.io/api/news?id=43170ca2ad1a8f26ae3513d8675a6d94258363ad0054464672eb8c7643414fca"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "SpaceX AI Buildout Shows Cracks as Musk Shakes Up Data Center Team",
+      "url": "https://finnhub.io/api/news?id=d97f03042287faf032e16d2a1ee855da58a1a103ec275f6189284de9639c18ba"
     }
   ]
 }
