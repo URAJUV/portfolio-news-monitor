@@ -1,130 +1,50 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "items": [
     {
       "stock": "MU",
-      "headline": "Trump’s Truth Social ETF Manager Is Betting Big on AI, Crypto and New ETFs",
-      "url": "https://finnhub.io/api/news?id=379b352d0de5bb6d45d2ce5d132795804bbcda6cdfa1bba75116c990e11b8a61"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Billionaire Investor Raises TSMC Stake 67% as Profit Soars 77%, Revenue Climbs 36%",
-      "url": "https://finnhub.io/api/news?id=588551889f11d42fff4cd1fb39ae978e4eab4a5e5345f412c9f30956b8920882"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "B of A Securities Maintains Buy on Atlassian, Raises Price Target to $210",
-      "url": "https://finnhub.io/api/news?id=8525f48dd975603286afd22e829c5b17695408de5ee12077ed253a2832ddb7f8"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron: Hyperscalers Bought The Fab, Bears Bought Fairy Tales",
-      "url": "https://finnhub.io/api/news?id=ba94c10d144aa803f0b7952e56c7b6fb36f21512d3cf4f017ead8e8cf86d63de"
-    },
-    {
-      "stock": "HON",
-      "headline": "Morgan Stanley Maintains Equal-Weight on Honeywell Intl, Raises Price Target to $250",
-      "url": "https://finnhub.io/api/news?id=1e29ca8ef0f40ed46cc69594056158716a473e816dd7303b55df2ce1de9e5751"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Halozyme: The Market May Be Underpricing The Second Growth Wave",
-      "url": "https://finnhub.io/api/news?id=cb952d0e1fdc4b96c3376cb9bb2dbd9cbef9f5167af13a613485447aae218345"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Billionaire Investor Raises TSMC Stake 67% as Profit Soars 77%, Revenue Climbs 36%",
-      "url": "https://finnhub.io/api/news?id=588551889f11d42fff4cd1fb39ae978e4eab4a5e5345f412c9f30956b8920882"
-    },
-    {
-      "stock": "DE",
-      "headline": "Baird Upgrades Deere (DE)",
-      "url": "https://finnhub.io/api/news?id=7e15e98ae6c9684f1d2fe999fa1f17344c3d7306b1479d21f8533cb2fdcf59af"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Susquehanna Maintains Neutral on IBM, Raises Price Target to $235",
-      "url": "https://finnhub.io/api/news?id=93cfbade59079b2791abe78cd42e6835611e68968a59a763fd868b907ad0f6c5"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet: Question Marks Behind The AI Boom",
-      "url": "https://finnhub.io/api/news?id=d164d6d7f051248a902d19755dd9143bcf56d75a2687c4254ff9f4549a4e9894"
-    },
-    {
-      "stock": "MU",
-      "headline": "Memory Mania: AI Demand Meets Single-Digit Multiples",
-      "url": "https://finnhub.io/api/news?id=231d9ac9489a88128c94d0acb0c220c8e8d11dc47b3c8ca10ff3fe24db3d7297"
+      "headline": "The 3 Best Artificial Intelligence (AI) Stocks for September",
+      "url": "https://finnhub.io/api/news?id=04d9bda988e6249f35bfc2bdcc5c7016f3a0aabfb9fd325e7bd6b651220cd01c"
     },
     {
       "stock": "CRWD",
-      "headline": "Urgent AI Defense Makes CIBR A Buy",
-      "url": "https://finnhub.io/api/news?id=c76decd75a80aa7c3798f50bddbcd3c45fac0b8266aa13b139eae4fee3d9ae3a"
-    },
-    {
-      "stock": "HALO",
-      "headline": "AI Exhaustion? 3 Healthcare Stocks With 38% EPS Growth That Could Be The Cure",
-      "url": "https://finnhub.io/api/news?id=f54a713cd766e38d9964bcfba8ebb9ffac875d178e8f35d3a8217093c53fd367"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon (AMZN): Buy, Sell, or Hold Post Q2 Earnings?",
-      "url": "https://finnhub.io/api/news?id=416f79f3fbe5088729f7977b3fc2cee79b9ae67771fa1626fe14d61ebd663d28"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "The Market May Be Underestimating This AI Chip-Design Stock",
-      "url": "https://finnhub.io/api/news?id=bc5dedf03f755be4fe1e89d478f62ff908280d0d16100a0a84345c7c72452671"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "The Market May Be Underestimating This AI Chip-Design Stock",
-      "url": "https://finnhub.io/api/news?id=bc5dedf03f755be4fe1e89d478f62ff908280d0d16100a0a84345c7c72452671"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "T3 Defense Announces That CEO Menachem Shalom Converted ~$2.14M Of Personally Held Promissory Notes Into ~4.1M Restricted Shares",
-      "url": "https://finnhub.io/api/news?id=791a5e13ea4dbd7a6584f0c2e67e1095efdac1797cb85ae39fd07ce4ff023a3f"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "DUOL Stock Rises Premarket: Analyst Sees ‘Netflix-Like’ Growth Scenario, Doubles Price Target",
-      "url": "https://finnhub.io/api/news?id=ce2555554c17080e2d1ec3ab82df373dbd7ebc4a48d7465272ec8ec35697e446"
+      "headline": "Why Is CrowdStrike (CRWD) Building An AI Cyber Lab And New Defense Tools?",
+      "url": "https://finnhub.io/api/news?id=3dceaf78d8d3f0f0ad4de8bf729c52bb70a81f23edff77176ef04b982f811260"
     },
     {
       "stock": "COHR",
-      "headline": "Deutsche Bank Names Lumentum and Coherent Top AI Picks as Spending Surges",
-      "url": "https://finnhub.io/api/news?id=270f7b075f5072783e394ae88924eb86eb999eb5c2ee995d83c94d9818a935f3"
+      "headline": "Deutsche Bank Names 2 Stocks for AI's Next Wave",
+      "url": "https://finnhub.io/api/news?id=05e922034a3efb454e1f1fc6e340c01c1229b9e79fb2a7380bfc5e2baf9d4de4"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "CEVA Stock Slides 19% in a Month: Should You Buy the Dip or Wait?",
+      "url": "https://finnhub.io/api/news?id=30fffe14cddb148e6e061f26bf9f2ae7acc740d5c215cc5f31458c57cb01c214"
+    },
+    {
+      "stock": "ARM",
+      "headline": "ARM vs. Sandisk: Comparing Steady Historical Revenue Generation Against Rapid Sequential Revenue Expansion",
+      "url": "https://finnhub.io/api/news?id=1deaf7a19bceba3d59398f2a9420a48afa5bd761a82f7d3b2e0969070279d62c"
     },
     {
       "stock": "UBER",
-      "headline": "Lucid Is A Penny Stock Again",
-      "url": "https://finnhub.io/api/news?id=37ee98f87d1e8ec73011ff1c57d123f741aedb7c730480c8ab40d4306861f5a2"
+      "headline": "Strategy's CEO Says Bitcoin Buys Come Down to Capital Costs, Not Price",
+      "url": "https://finnhub.io/api/news?id=bb97d54a075cf9b2a0b49a368b72d31bd90427b8c881f35b943a1f6e2cacddfa"
     },
     {
-      "stock": "DE",
-      "headline": "Stocks making big moves yesterday: Jazz Pharmaceuticals, SAIC, Herbalife, AGCO, and Deere",
-      "url": "https://finnhub.io/api/news?id=4108160c92505b51ab77d3c762e422ef9c79b754dc8621bfbf6148481bb6ca65"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Draganfly Receives Section 44807 Special Authority From FAA For Certain Unmanned Aircraft Systems Exemption For Its Heavy Lift Drone Platform",
-      "url": "https://finnhub.io/api/news?id=9a988bcc3e86c24da99524c5827d63c1bb820cdfa7d0aded857e8261becd4360"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Retail Investors’ 2 Favorite AI Stocks for the Long Term: Alphabet, IBM",
-      "url": "https://finnhub.io/api/news?id=f1ac8112989a8677c6f27e43c85b88169b301b5ea68012c93b62ab0bc2974446"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "EXCLUSIVE: DeepSeek Was Just the Start. New ETF Targets China’s AI Tigers in a 'Convergence Trade'",
-      "url": "https://finnhub.io/api/news?id=ce4a34ffd5b68578288640c4739fd959587f86c71b03c46cc139407987a1faf1"
+      "stock": "ADSK",
+      "headline": "Trading Halt: Halt status updated at 10:10:00 AM ET: Quotation Resumption: IPO security released for quotation",
+      "url": "https://finnhub.io/api/news?id=2da6ec745278e3a811925654f9b41382ae6d2f8b5083263bfc7c9581a7b3287d"
     },
     {
       "stock": "TEAM",
-      "headline": "Citigroup Maintains Buy on Atlassian, Raises Price Target to $225",
-      "url": "https://finnhub.io/api/news?id=aa6a205e2635114a017275e8698db8d70e7c3eba70a83ed792a9e932908f9d4f"
+      "headline": "Trading Halt: Halt status updated at 10:10:00 AM ET: Quotation Resumption: IPO security released for quotation",
+      "url": "https://finnhub.io/api/news?id=2da6ec745278e3a811925654f9b41382ae6d2f8b5083263bfc7c9581a7b3287d"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "QYOU Media Inc (QYOUF) (Q2 2026) Earnings Call Highlights: Revenue Surges 27% as Creator ...",
+      "url": "https://finnhub.io/api/news?id=5ebfca5af5c1cbb18e4f18320403e21a188ead833f5168636fd04a868fdccdbd"
     }
   ]
 }
