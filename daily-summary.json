@@ -85,6 +85,51 @@
       "stock": "NFLX",
       "headline": "A Disney Strangle Strategy Can Profit From Big Swings By The Entertainment Stock",
       "url": "https://finnhub.io/api/news?id=b13c4cab6e88dde0c2156f0a8a8895fbcf3f6fb7f4a19b65f9960f5eab59b726"
+    },
+    {
+      "stock": "MU",
+      "headline": "4 Stocks to Buy Now to Ride the AI Data Center Spending Boom",
+      "url": "https://finnhub.io/api/news?id=e59b437f7c611781eedb4a687a630a6d991f3469db1b4c4506059fb83c9bc072"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Why Palo Alto Stock Is Getting Crushed After a Huge Earnings Beat",
+      "url": "https://finnhub.io/api/news?id=e9a43680106e77ad234f9295a05dbf210633dc1c4508c65fdfffe9ea6d060e74"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
+      "url": "https://finnhub.io/api/news?id=ea81a501caccc2a21676d989f71593e1eaf7bfd4fcc598b5ee3ef4c1a7d73e47"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Nvidia Put $2 Billion Into Coherent. Is Optical Bandwidth the Next AI Bottleneck?",
+      "url": "https://finnhub.io/api/news?id=3d709cdf8bdd5add0bc9c101301d160b5a316ff9b2578014e5781fe8de779b9c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
+      "url": "https://finnhub.io/api/news?id=ea81a501caccc2a21676d989f71593e1eaf7bfd4fcc598b5ee3ef4c1a7d73e47"
+    },
+    {
+      "stock": "DE",
+      "headline": "Deere (DE) Upgrade Puts Valuation Back In Focus",
+      "url": "https://finnhub.io/api/news?id=6c1ef24a7438126f68ff0bc7e458ab30ae0759d9b39d81ec6149426d25f719e9"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk (ADSK) Q2 2027 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=3d9e931ee79e9cd79521a3a4b0a25b6ab29bb5ac387b9549cf26df646987793c"
+    },
+    {
+      "stock": "IBM",
+      "headline": "AI Helps Integrated Tools Take on Security Threats, ISG Says",
+      "url": "https://finnhub.io/api/news?id=68c61749e5122608b276a6967cf1cae9b341b7fda0fc59cb388ef6b68bd3472b"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Sirius XM upgraded, Toast downgraded: Wall Street's top analyst calls",
+      "url": "https://finnhub.io/api/news?id=8516fefd2a35173aa62476707580400a1db2e41384346018cfcd8590df085ca6"
     }
   ]
 }
