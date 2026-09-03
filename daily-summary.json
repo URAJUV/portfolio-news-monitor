@@ -1,215 +1,30 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "items": [
     {
       "stock": "MU",
-      "headline": "The 3 Best Artificial Intelligence (AI) Stocks for September",
-      "url": "https://finnhub.io/api/news?id=04d9bda988e6249f35bfc2bdcc5c7016f3a0aabfb9fd325e7bd6b651220cd01c"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Why Is CrowdStrike (CRWD) Building An AI Cyber Lab And New Defense Tools?",
-      "url": "https://finnhub.io/api/news?id=3dceaf78d8d3f0f0ad4de8bf729c52bb70a81f23edff77176ef04b982f811260"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Deutsche Bank Names 2 Stocks for AI's Next Wave",
-      "url": "https://finnhub.io/api/news?id=05e922034a3efb454e1f1fc6e340c01c1229b9e79fb2a7380bfc5e2baf9d4de4"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "CEVA Stock Slides 19% in a Month: Should You Buy the Dip or Wait?",
-      "url": "https://finnhub.io/api/news?id=30fffe14cddb148e6e061f26bf9f2ae7acc740d5c215cc5f31458c57cb01c214"
-    },
-    {
-      "stock": "ARM",
-      "headline": "ARM vs. Sandisk: Comparing Steady Historical Revenue Generation Against Rapid Sequential Revenue Expansion",
-      "url": "https://finnhub.io/api/news?id=1deaf7a19bceba3d59398f2a9420a48afa5bd761a82f7d3b2e0969070279d62c"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Strategy's CEO Says Bitcoin Buys Come Down to Capital Costs, Not Price",
-      "url": "https://finnhub.io/api/news?id=bb97d54a075cf9b2a0b49a368b72d31bd90427b8c881f35b943a1f6e2cacddfa"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Trading Halt: Halt status updated at 10:10:00 AM ET: Quotation Resumption: IPO security released for quotation",
-      "url": "https://finnhub.io/api/news?id=2da6ec745278e3a811925654f9b41382ae6d2f8b5083263bfc7c9581a7b3287d"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Trading Halt: Halt status updated at 10:10:00 AM ET: Quotation Resumption: IPO security released for quotation",
-      "url": "https://finnhub.io/api/news?id=2da6ec745278e3a811925654f9b41382ae6d2f8b5083263bfc7c9581a7b3287d"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "QYOU Media Inc (QYOUF) (Q2 2026) Earnings Call Highlights: Revenue Surges 27% as Creator ...",
-      "url": "https://finnhub.io/api/news?id=5ebfca5af5c1cbb18e4f18320403e21a188ead833f5168636fd04a868fdccdbd"
+      "headline": "Micron's Taiwan Unions Are Asking for a Bonus Worth 83 Months of Pay. A Strike Vote Could Come This Month.",
+      "url": "https://finnhub.io/api/news?id=931124ee7e6b348e4d760ca0c0a919fef11cf450484f4061649b29a5679d0c62"
     },
     {
       "stock": "TSM",
-      "headline": "Taiwan Semiconductor (NYSE:TSM) Combines Strong Growth with a Favorable Technical Setup",
-      "url": "https://finnhub.io/api/news?id=aa845c0ebf6bac87c9e313cd98645cccf55b175ea3f8f804ad9f7a91c3b863a4"
+      "headline": "Stifel Initiates Coverage On Taiwan Semiconductor with Buy Rating, Announces Price Target of $515",
+      "url": "https://finnhub.io/api/news?id=25a336e62298cde6a93c6bcd098c26dfae58d159e8b4b544c6267bf6d52ddda6"
     },
     {
       "stock": "CRWD",
-      "headline": "Palo Alto Networks Reports Strong Earnings. It Underlines the AI Cyber Bull Story.",
-      "url": "https://finnhub.io/api/news?id=0b0cb4856f31297bd1a3ce795631db54537bfe3c07b44eea686b525335754650"
+      "headline": "AI Agents Should Scare Everyone",
+      "url": "https://finnhub.io/api/news?id=49616e3dff09cf653bc45d0bccb6273351b2a9bfb3bb2c15a89ed0078c133beb"
     },
     {
       "stock": "TSLA",
-      "headline": "Precision Camshafts Ltd (BOM:539636) (Q1 2027) Earnings Call Highlights: Standalone Profit ...",
-      "url": "https://finnhub.io/api/news?id=c1c1c9c22c8a0435a01c25cd527fe4348d8e561a8968c9de4c606416ab21a958"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell Aerospace Agrees To Pay Over $2M To Settle Cybersecurity Allegations — HONA Stock Falls 2.5%",
-      "url": "https://finnhub.io/api/news?id=a197cc28bc75dd97c69c38af8e8c65f2da82f758d107be1780e0ffc5976fb573"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Duolingo (DUOL) Is Up 8.7% After AI-Proof Upgrade And Buyback — Has The Bull Case Changed?",
-      "url": "https://finnhub.io/api/news?id=291e9535420b2b37c8b9a533d011d1bbe7a24ffeb20a88f44f9101a280b8a387"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "The Memory Wall And Next Leg Of The AI Story: The Connection Bottleneck",
-      "url": "https://finnhub.io/api/news?id=e26e5c96b0453ee0036503ccc72bf4c90cdf2bd3762053a1319d40455f51185c"
-    },
-    {
-      "stock": "IBM",
-      "headline": "3 Lesser Discussed Stocks That Offer Meaningful AI Exposure",
-      "url": "https://finnhub.io/api/news?id=55625929bf234e4bb53943f6cb6d477c8ba3ef2d1ea3b35d57eedab5ebf900c1"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "A Disney Strangle Strategy Can Profit From Big Swings By The Entertainment Stock",
-      "url": "https://finnhub.io/api/news?id=b13c4cab6e88dde0c2156f0a8a8895fbcf3f6fb7f4a19b65f9960f5eab59b726"
-    },
-    {
-      "stock": "MU",
-      "headline": "4 Stocks to Buy Now to Ride the AI Data Center Spending Boom",
-      "url": "https://finnhub.io/api/news?id=e59b437f7c611781eedb4a687a630a6d991f3469db1b4c4506059fb83c9bc072"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Why Palo Alto Stock Is Getting Crushed After a Huge Earnings Beat",
-      "url": "https://finnhub.io/api/news?id=e9a43680106e77ad234f9295a05dbf210633dc1c4508c65fdfffe9ea6d060e74"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
-      "url": "https://finnhub.io/api/news?id=ea81a501caccc2a21676d989f71593e1eaf7bfd4fcc598b5ee3ef4c1a7d73e47"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Nvidia Put $2 Billion Into Coherent. Is Optical Bandwidth the Next AI Bottleneck?",
-      "url": "https://finnhub.io/api/news?id=3d709cdf8bdd5add0bc9c101301d160b5a316ff9b2578014e5781fe8de779b9c"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
-      "url": "https://finnhub.io/api/news?id=ea81a501caccc2a21676d989f71593e1eaf7bfd4fcc598b5ee3ef4c1a7d73e47"
+      "headline": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
+      "url": "https://finnhub.io/api/news?id=37725a2afd6627e93ea8ff813862aa30b4e2fedcce9463b1029a50dda64ca1af"
     },
     {
       "stock": "DE",
-      "headline": "Deere (DE) Upgrade Puts Valuation Back In Focus",
-      "url": "https://finnhub.io/api/news?id=6c1ef24a7438126f68ff0bc7e458ab30ae0759d9b39d81ec6149426d25f719e9"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Autodesk (ADSK) Q2 2027 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=3d9e931ee79e9cd79521a3a4b0a25b6ab29bb5ac387b9549cf26df646987793c"
-    },
-    {
-      "stock": "IBM",
-      "headline": "AI Helps Integrated Tools Take on Security Threats, ISG Says",
-      "url": "https://finnhub.io/api/news?id=68c61749e5122608b276a6967cf1cae9b341b7fda0fc59cb388ef6b68bd3472b"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Sirius XM upgraded, Toast downgraded: Wall Street's top analyst calls",
-      "url": "https://finnhub.io/api/news?id=8516fefd2a35173aa62476707580400a1db2e41384346018cfcd8590df085ca6"
-    },
-    {
-      "stock": "MU",
-      "headline": "GitLab Q2 Earnings Beat on Revenue Growth and Sales Productivity",
-      "url": "https://finnhub.io/api/news?id=1e4ffbeb4fc93c76bf82362d5e2f7e0785b0e3795667075521eb535cb87850d3"
-    },
-    {
-      "stock": "TSM",
-      "headline": "What's Going On With Taiwan Semiconductor Stock Wednesday?",
-      "url": "https://finnhub.io/api/news?id=047dcb98f9e41165aca0ca646df8d0171e64b0dd5dd086fbe318bb8618e9e8f2"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "DoJ requests beef price data from major retailers including Amazon and Walmart",
-      "url": "https://finnhub.io/api/news?id=e7c71427fa4139760214f4ff7aa965f0b4b990db64433e4164032bcd0cee496f"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Can Coherent's 79% Datacenter Mix Sustain Its Growth Momentum?",
-      "url": "https://finnhub.io/api/news?id=c504645279ee924bebd417d3377960357d7054b65e53daf836c7b02d95ba2bb6"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys (SNPS) Stock Looks Reasonable On Cash Flow While Earnings Look Rich",
-      "url": "https://finnhub.io/api/news?id=4fc8108f595bc03d0b48d4565fd9e99dc61ffd5d6d8110cce4c39cab1ab3d77a"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Musk’s $30 Trillion AI Forecast Hinges on a Timeline Even NVIDIA Says Is Unrealistic",
-      "url": "https://finnhub.io/api/news?id=18b62f2a74eb4779bcdbe8538df5ee3159c55f05b56213785e34823ae114ca7f"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Lucid’s CEO Promised a $1.4 Billion Turnaround, Then This Happened",
-      "url": "https://finnhub.io/api/news?id=43170ca2ad1a8f26ae3513d8675a6d94258363ad0054464672eb8c7643414fca"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "SpaceX AI Buildout Shows Cracks as Musk Shakes Up Data Center Team",
-      "url": "https://finnhub.io/api/news?id=d97f03042287faf032e16d2a1ee855da58a1a103ec275f6189284de9639c18ba"
-    },
-    {
-      "stock": "MU",
-      "headline": "AI Capital Spending Could Top $31 Trillion as Tech Expansion Accelerates",
-      "url": "https://finnhub.io/api/news?id=5dbff0b15d2bfda13ad1c1ae39cf8ca0e143dac529eacac8df8b4104d567b539"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Dell Technologies: The Sovereign AI Wave Is Just Beginning",
-      "url": "https://finnhub.io/api/news?id=5db9c9ca473194c30c1e7f152fbb63cd52f0d673d54f4f6da9b1e40268f1f5c3"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Credo Earnings: Waiting For A Buying Opportunity? Here It Is",
-      "url": "https://finnhub.io/api/news?id=d16e510f97a25fba80459af0e6701a5bc5531e25c7d5dba20f469231fde710a0"
-    },
-    {
-      "stock": "HALO",
-      "headline": "HC Wainwright & Co. Reiterates Buy on Halozyme Therapeutics, Maintains $115 Price Target",
-      "url": "https://finnhub.io/api/news?id=ca1dc0b880cbb8e4e26599b93b36ab48e940c3567d6d79d234d1530835526925"
-    },
-    {
-      "stock": "DE",
-      "headline": "Stock Market Today: Dow Rises On Surprise Jobs Data; AI Name Credo Dives On Earnings Report (Live Coverage)",
-      "url": "https://finnhub.io/api/news?id=86d421ee08854c072b0e6f5c7545dcd5861e6edefab4efb9aded31f00f1d8aae"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Here’s Why Berenberg Sees More Upside on Autodesk Stock Despite Key AI Headwinds",
-      "url": "https://finnhub.io/api/news?id=df789c824432c440e37396031e278ada3ffb3cc4ec14e5f53d71640a538f1d04"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy",
-      "url": "https://finnhub.io/api/news?id=2b841c03994bdbeaf8a4f9d29cd333752a1fd60a9a87c9844aa5170f19069119"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "The $277 Billion That GOOGL Stock Quietly Paid Its Owners",
-      "url": "https://finnhub.io/api/news?id=06f38cc0c2bacadc255373916dad613fbc155c0a71a3767988a70a290aa8cc9a"
+      "headline": "Baird Upgrades Deere (DE) to Outperform on Hopes of Recovery",
+      "url": "https://finnhub.io/api/news?id=29091c9a85613a22c308541f2fbdf48b25f1e3be89d754c32b90fbfa36f039ed"
     }
   ]
 }
