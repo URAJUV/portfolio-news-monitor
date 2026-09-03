@@ -55,6 +55,31 @@
       "stock": "RDDT",
       "headline": "Everyday People Are Turning Their Investments Into an Additional Income Stream. One Says Dividends Feel Like Having Someone Working for You",
       "url": "https://finnhub.io/api/news?id=7d7f42a84fa3a00a3e4200618c21468e8f938ebdb244b0d9720289a5b33b0286"
+    },
+    {
+      "stock": "MU",
+      "headline": "Zacks Earnings Trends Highlights: Alphabet, Micron and Nvidia",
+      "url": "https://finnhub.io/api/news?id=4d03c0a9a098d0b26ee4e0431edb06ec701b6350c475b5dd7df6d3b2c42c0539"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Semiconductor Market Splits as AI Heavyweights Mask a Broad Chip Selloff",
+      "url": "https://finnhub.io/api/news?id=287c31428601e0f36560db5f3271591b320e73e9b22ab8efc6205f27f05e2b8e"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Assessment of the U.S. Nuclear Power and Small Modular Reactor Market 2026 Now Available — Reveals Why Big Tech Is Becoming an Active Force in Nuclear Project Formation, Not Just a Power Buyer",
+      "url": "https://finnhub.io/api/news?id=3566f6f862dfedfb0e67aca7bf85099c0e835cc4ffaa39101bfbaf76b553bf1f"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Is Solving Real AI Problems. Is It Still a Buy at This Price?",
+      "url": "https://finnhub.io/api/news?id=1f7a0ad435f03656e3d577a7a4beff1b57272c4423879fa838c69b853b3d6eed"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Argus Research Reiterates Buy on Autodesk, Maintains $355 Price Target",
+      "url": "https://finnhub.io/api/news?id=9ea9eb5ac3cce7540510e74fd5a87626027dfef6545c6386eec2cc814ba5cced"
     }
   ]
 }
