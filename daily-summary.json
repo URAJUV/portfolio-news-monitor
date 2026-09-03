@@ -80,6 +80,31 @@
       "stock": "ADSK",
       "headline": "Argus Research Reiterates Buy on Autodesk, Maintains $355 Price Target",
       "url": "https://finnhub.io/api/news?id=9ea9eb5ac3cce7540510e74fd5a87626027dfef6545c6386eec2cc814ba5cced"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=1bb1adddd9848981c1ec4238462275e64b89e0340003f691f5242cca88dfc968"
+    },
+    {
+      "stock": "HON",
+      "headline": "How Long Would You Wait For GE Aerospace Stock To Come Back?",
+      "url": "https://finnhub.io/api/news?id=20374cd87cdbd8c95583aab5d1b4fe31478ca9a4628981f30cd8ffa234926c7f"
+    },
+    {
+      "stock": "DE",
+      "headline": "UBS Remains Bullish on Deere (DE) Despite Weakness in Farm Equipment Cycle: Here’s Why",
+      "url": "https://finnhub.io/api/news?id=ff859e30d8a2ac345b0951718cf12468639b373d682c1046cc1faa4df0b29ec3"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM (IBM) Stock Could Be Below Fair Value Despite Cautious Broader Checks",
+      "url": "https://finnhub.io/api/news?id=85db44ce59d6122878dffcf6b7a5557419e8b206cce27bf98844306c5f5e1f1f"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Meta Rises 4% as Muse Spark 1.3 Claims Parity With Anthropic and OpenAI",
+      "url": "https://finnhub.io/api/news?id=d9e9f00e59bd1c23d43abefbcd7a1ca46a8c2a360dc497a2ea7f0586d722af82"
     }
   ]
 }
