@@ -90,6 +90,36 @@
       "stock": "RDDT",
       "headline": "Reddit CEO Steve Huffman Sells 18,000 Shares for $2.7 Million",
       "url": "https://finnhub.io/api/news?id=403b9d1439acb07046ba0aaf7717f001d20eb4a8c687cd0a92b8abf7316478bc"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "VAST Data and CrowdStrike Deliver First-of-Its-Kind Cybersecurity Across the AI Operating System",
+      "url": "https://finnhub.io/api/news?id=b1a9445b870ed2c4ede92c47279087c0584c0c6cbc56101fb99a75e271aab49c"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)",
+      "url": "https://finnhub.io/api/news?id=d23582e41c78c80e10a78d9db66c6b0c82bac796e1e498776af0c978473ad9da"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Marvell Rises 6% as Beaten-Down AI Silicon Bounces, Qualcomm Barely Budges",
+      "url": "https://finnhub.io/api/news?id=5c5f1033f4c42345d20bf9c704f050455e74dfbce12245e557cb95efbbb770c9"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "NVIDIA & 4 Stocks Beyond Pure Plays to Gain From Quantum Boom in 2026",
+      "url": "https://finnhub.io/api/news?id=04d60ae2a32e57082622429af5d36b2a8f4061119b63296192b1f09318aa9a17"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Why Is Uber (UBER) Up 7.8% Since Last Earnings Report?",
+      "url": "https://finnhub.io/api/news?id=c347eddc5ddf3e83ff624fb7e86e08bdc75f089e89266024f75a8b466a7aa7dd"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Trump Media Falls 5%, Rumble Slips 3%: Is Alternative Media Losing Its Retail Bid?",
+      "url": "https://finnhub.io/api/news?id=38d3b61faffe9dc9f4dce2313b370990c6630ae398a2c57fe2dd89a07c23a185"
     }
   ]
 }
