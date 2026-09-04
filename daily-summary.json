@@ -60,6 +60,36 @@
       "stock": "NFLX",
       "headline": "Netflix’s Acquisition Wishlist: Which Streaming Target Has the Best Odds?",
       "url": "https://finnhub.io/api/news?id=157fc2b7805cff7346bc80fd48fb0bbeec8cd526ea1f510dc16c562b8ee30178"
+    },
+    {
+      "stock": "MU",
+      "headline": "Goldman Sachs Says the AI Trade Is Barely Started. The Stocks That Got You Here Will Not Take You There",
+      "url": "https://finnhub.io/api/news?id=3cd0c9da06fb66db1546885a1152493735a3d3ab4b97ee8c640d88fa43710042"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor Scrambles to Feed the AI Boom",
+      "url": "https://finnhub.io/api/news?id=f3b6a1de9e09da0074485b99ce864543d45f26156d493139dc5887822aa42543"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "AI Is Driving an Increased Need for Cybersecurity. Here's the Best Way to Invest.",
+      "url": "https://finnhub.io/api/news?id=fbc84c954c3fb23f03f19f09ffeed5b977e91d25e3e9e60a6368a8a5c2b5fa55"
+    },
+    {
+      "stock": "HON",
+      "headline": "Brady Q4 Earnings Call Highlights",
+      "url": "https://finnhub.io/api/news?id=5e9c4b6c41369010072c6e0445bf34eb08b684bcb809f57c2746eadca98fb0ee"
+    },
+    {
+      "stock": "DE",
+      "headline": "Evercore ISI Group Upgrades Deere to Outperform, Raises Price Target to $813",
+      "url": "https://finnhub.io/api/news?id=26ea9e033f1f5e9acfa5c052eb0f07e7390db666f1c2cea2e8b8fac80c24dfa4"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit CEO Steve Huffman Sells 18,000 Shares for $2.7 Million",
+      "url": "https://finnhub.io/api/news?id=403b9d1439acb07046ba0aaf7717f001d20eb4a8c687cd0a92b8abf7316478bc"
     }
   ]
 }
