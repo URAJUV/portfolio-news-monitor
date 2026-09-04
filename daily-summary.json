@@ -120,6 +120,41 @@
       "stock": "RDDT",
       "headline": "Trump Media Falls 5%, Rumble Slips 3%: Is Alternative Media Losing Its Retail Bid?",
       "url": "https://finnhub.io/api/news?id=38d3b61faffe9dc9f4dce2313b370990c6630ae398a2c57fe2dd89a07c23a185"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "David Tepper Sold 41% of His Micron Shares and It Is Still His Second-Biggest Holding",
+      "url": "https://finnhub.io/api/news?id=9d3350274a8c6433c826ac5b3e477c01df84cdf5320d257609a47ea71a307de9"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Volkswagen Targets 10% Margin by 2030 With €135B Plan, 50,000 Job Cuts",
+      "url": "https://finnhub.io/api/news?id=097b64f506ae901b599f98534aeefd8a718bcd48404c3bfdd42675afbf145a89"
+    },
+    {
+      "stock": "DE",
+      "headline": "Evercore ISI Group Upgrades Deere (DE) to Outperform from In-Line",
+      "url": "https://finnhub.io/api/news?id=54d664dfe3838e458e68d0f75f1e622ef488ce50d25ab0d6abfc0643bd3798f5"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Should You Worry That IBM Has Gone Quiet On Its AI Total?",
+      "url": "https://finnhub.io/api/news?id=850b2a681a98ba877b7c40fd138b1df0ce52202ebfe638f6767df7e9044d938a"
+    },
+    {
+      "stock": "U",
+      "headline": "1 Stock Under $50 to Target This Week and 2 We Find Risky",
+      "url": "https://finnhub.io/api/news?id=c1d609aaab913c7e42875b2fed39a13981d9514cc3b793995f6e81d443d84001"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "5-star analyst resets Broadcom stock price target",
+      "url": "https://finnhub.io/api/news?id=8c2c1ec02ce244ebf7d821189eb20f805e144044ea63de5f675e58802b8bfdc9"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Stocks making big moves this week: SAIC, Reddit, Fortrea, GitLab, and G-III",
+      "url": "https://finnhub.io/api/news?id=25468af967938f456899b3fdb741548e8921c88841ffa061918b85a3414fa6cf"
     }
   ]
 }
