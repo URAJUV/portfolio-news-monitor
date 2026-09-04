@@ -1,115 +1,30 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Micron's Taiwan Unions Are Asking for a Bonus Worth 83 Months of Pay. A Strike Vote Could Come This Month.",
-      "url": "https://finnhub.io/api/news?id=931124ee7e6b348e4d760ca0c0a919fef11cf450484f4061649b29a5679d0c62"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Stifel Initiates Coverage On Taiwan Semiconductor with Buy Rating, Announces Price Target of $515",
-      "url": "https://finnhub.io/api/news?id=25a336e62298cde6a93c6bcd098c26dfae58d159e8b4b544c6267bf6d52ddda6"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "AI Agents Should Scare Everyone",
-      "url": "https://finnhub.io/api/news?id=49616e3dff09cf653bc45d0bccb6273351b2a9bfb3bb2c15a89ed0078c133beb"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
-      "url": "https://finnhub.io/api/news?id=37725a2afd6627e93ea8ff813862aa30b4e2fedcce9463b1029a50dda64ca1af"
-    },
-    {
-      "stock": "DE",
-      "headline": "Baird Upgrades Deere (DE) to Outperform on Hopes of Recovery",
-      "url": "https://finnhub.io/api/news?id=29091c9a85613a22c308541f2fbdf48b25f1e3be89d754c32b90fbfa36f039ed"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Market Chatter: Global Corporate Giants Draw Regulatory Attention to Blacklisted Groups in Supply Chains",
-      "url": "https://finnhub.io/api/news?id=1367861c8581009df096115fff6512db7c531e25a30f18071cd3089d1e09b0e9"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Market Chatter: Global Corporate Giants Draw Regulatory Attention to Blacklisted Groups in Supply Chains",
-      "url": "https://finnhub.io/api/news?id=1367861c8581009df096115fff6512db7c531e25a30f18071cd3089d1e09b0e9"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Shares of technology companies are trading lower possibly amid overall market weakness. The sector might also be down amid a rise in treasury yields.",
-      "url": "https://finnhub.io/api/news?id=d9b38f19e2e63bae5a22fa9785b25dea241fce0e279a29038831cac741dc4ac9"
-    },
-    {
-      "stock": "IBM",
-      "headline": "NVIDIA & 4 Stocks Beyond Pure Plays to Gain From Quantum Boom in 2026",
-      "url": "https://finnhub.io/api/news?id=04d60ae2a32e57082622429af5d36b2a8f4061119b63296192b1f09318aa9a17"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "A Video Game Trailer Was Netflix's Most-Watched English Film Late Last Month. Here's Why This Matters for Investors.",
-      "url": "https://finnhub.io/api/news?id=c328de356d25a97bbaa5b653c92890092acb1c2de5eaadd1a58bb5e0d65bec66"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Everyday People Are Turning Their Investments Into an Additional Income Stream. One Says Dividends Feel Like Having Someone Working for You",
-      "url": "https://finnhub.io/api/news?id=7d7f42a84fa3a00a3e4200618c21468e8f938ebdb244b0d9720289a5b33b0286"
-    },
-    {
-      "stock": "MU",
-      "headline": "Zacks Earnings Trends Highlights: Alphabet, Micron and Nvidia",
-      "url": "https://finnhub.io/api/news?id=4d03c0a9a098d0b26ee4e0431edb06ec701b6350c475b5dd7df6d3b2c42c0539"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Semiconductor Market Splits as AI Heavyweights Mask a Broad Chip Selloff",
-      "url": "https://finnhub.io/api/news?id=287c31428601e0f36560db5f3271591b320e73e9b22ab8efc6205f27f05e2b8e"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Assessment of the U.S. Nuclear Power and Small Modular Reactor Market 2026 Now Available — Reveals Why Big Tech Is Becoming an Active Force in Nuclear Project Formation, Not Just a Power Buyer",
-      "url": "https://finnhub.io/api/news?id=3566f6f862dfedfb0e67aca7bf85099c0e835cc4ffaa39101bfbaf76b553bf1f"
-    },
-    {
       "stock": "COHR",
-      "headline": "Coherent Is Solving Real AI Problems. Is It Still a Buy at This Price?",
-      "url": "https://finnhub.io/api/news?id=1f7a0ad435f03656e3d577a7a4beff1b57272c4423879fa838c69b853b3d6eed"
+      "headline": "Is COHR Stock a Buy as AI Growth Meets Premium Valuation and Risk?",
+      "url": "https://finnhub.io/api/news?id=7524069426faeabcbb1bd8bdb625d174d247b70862cfb17fba5f2b079738b6b2"
     },
     {
-      "stock": "ADSK",
-      "headline": "Argus Research Reiterates Buy on Autodesk, Maintains $355 Price Target",
-      "url": "https://finnhub.io/api/news?id=9ea9eb5ac3cce7540510e74fd5a87626027dfef6545c6386eec2cc814ba5cced"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=1bb1adddd9848981c1ec4238462275e64b89e0340003f691f5242cca88dfc968"
-    },
-    {
-      "stock": "HON",
-      "headline": "How Long Would You Wait For GE Aerospace Stock To Come Back?",
-      "url": "https://finnhub.io/api/news?id=20374cd87cdbd8c95583aab5d1b4fe31478ca9a4628981f30cd8ffa234926c7f"
-    },
-    {
-      "stock": "DE",
-      "headline": "UBS Remains Bullish on Deere (DE) Despite Weakness in Farm Equipment Cycle: Here’s Why",
-      "url": "https://finnhub.io/api/news?id=ff859e30d8a2ac345b0951718cf12468639b373d682c1046cc1faa4df0b29ec3"
+      "stock": "UBER",
+      "headline": "Three Of Credit's Biggest Names Are In Talks On Waymo's $3 Billion Debt Raise",
+      "url": "https://finnhub.io/api/news?id=f244b417a90f38b9f652f4dcbc2a1c419d9243a7642088c7c9c241bc6e52fac3"
     },
     {
       "stock": "IBM",
-      "headline": "IBM (IBM) Stock Could Be Below Fair Value Despite Cautious Broader Checks",
-      "url": "https://finnhub.io/api/news?id=85db44ce59d6122878dffcf6b7a5557419e8b206cce27bf98844306c5f5e1f1f"
+      "headline": "The Dealmaking 3: Athletes Unlimited Retreats, NFL Kills the Pro Bowl, AI Takes Over the US Open",
+      "url": "https://finnhub.io/api/news?id=812fa83fa73023ac8669a415e51ea935c92bc2af7b19ace595eb7acfe60d45fc"
     },
     {
-      "stock": "RDDT",
-      "headline": "Meta Rises 4% as Muse Spark 1.3 Claims Parity With Anthropic and OpenAI",
-      "url": "https://finnhub.io/api/news?id=d9e9f00e59bd1c23d43abefbcd7a1ca46a8c2a360dc497a2ea7f0586d722af82"
+      "stock": "GOOGL",
+      "headline": "Does Marvell (MRVL) Signal Patience or Urgency With Its AI Data Center Timeline and Buybacks?",
+      "url": "https://finnhub.io/api/news?id=34e2e60420052a6c879f3b870fb3ba08349ac15433e4c96b3dba701e7cdcece1"
     },
     {
-      "stock": "MU",
-      "headline": "eGain (EGAN) Q4 Earnings and Revenues Beat Estimates",
-      "url": "https://finnhub.io/api/news?id=9d386e9c8548322143120bc5188a56e13a31d6b6dfe65cdd5de6e61362fd669a"
+      "stock": "TEAM",
+      "headline": "BTIG Maintains Buy on Atlassian, Raises Price Target to $230",
+      "url": "https://finnhub.io/api/news?id=739e4661dd554fdb7feca90fd12614d8a59d7d3ce3db5fe615c8f808eb663b45"
     }
   ]
 }
