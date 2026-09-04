@@ -25,6 +25,41 @@
       "stock": "TEAM",
       "headline": "BTIG Maintains Buy on Atlassian, Raises Price Target to $230",
       "url": "https://finnhub.io/api/news?id=739e4661dd554fdb7feca90fd12614d8a59d7d3ce3db5fe615c8f808eb663b45"
+    },
+    {
+      "stock": "MU",
+      "headline": "Nvidia vs. Micron: Which Is the Better AI Semiconductor Stock to Own for the Next 5 Years?",
+      "url": "https://finnhub.io/api/news?id=621e1b678a037049c86a70afcad64cf225bcf14f4a3782849cecd216c92e4ace"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "OpenAI Declares “AGI Era” With Astra Launch. Anthropic’s Fable 5.1 More Than Doubled Its Predecessor’s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge",
+      "url": "https://finnhub.io/api/news?id=e5332eae237462b6ab774d53ca05e813f77fb15d434104a9934410e0addfdbe0"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Dow Jones Futures Await Jobs Report After Bullish Market Move; Tesla Cybercabs Hit The Road",
+      "url": "https://finnhub.io/api/news?id=4d47d9e4de9b2edd086977f6f843750a1d541ce8429472ff501406f87e95f81e"
+    },
+    {
+      "stock": "HON",
+      "headline": "Brady Corporation Q4 2026 Earnings Call Summary",
+      "url": "https://finnhub.io/api/news?id=6ddd2b39693eb6dfaa3bcbec78cfd6c354f0bf8ae7b399c144266f1bb4903717"
+    },
+    {
+      "stock": "UBER",
+      "headline": "TSLA Stock Slips Overnight As Safety Regulator Scrutinizes Cybercab — Retail Fumes Over Event Blackout",
+      "url": "https://finnhub.io/api/news?id=70a6e8489a212bfe64aac69079f9f9e670963e3360184d59e484a064a892b7f7"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
+      "url": "https://finnhub.io/api/news?id=0a5ac898eab6bbd6b41d4e67bff3068cda9d383fee1fe16906213dde50b04f98"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix’s Acquisition Wishlist: Which Streaming Target Has the Best Odds?",
+      "url": "https://finnhub.io/api/news?id=157fc2b7805cff7346bc80fd48fb0bbeec8cd526ea1f510dc16c562b8ee30178"
     }
   ]
 }
