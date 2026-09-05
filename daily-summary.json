@@ -105,6 +105,16 @@
       "stock": "GOOGL",
       "headline": "Alphabet's Stock Slipped 2.2% After Sundar Pichai's Earnings Beat Was Inflated by a $77.1 Billion Unrealized Gain on Equity Holdings. Should Investors Discount That Gain When Judging the Real Growth Story?",
       "url": "https://finnhub.io/api/news?id=471d86a51f588be1a870c3977aa8e718c04a275f395ed19b785ab08e403aa9d0"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Cadence Design Systems (CDNS) Following PCIe 6.0 Progress Has Fair Value Back In Focus",
+      "url": "https://finnhub.io/api/news?id=0b5cf4f3e5d1b2a0104296c04765a9a6ef60c233af4aeb78cdc5acbf602a3007"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "AI’s Next Winners? Investor Bets on Snowflake, CrowdStrike and Palantir",
+      "url": "https://finnhub.io/api/news?id=8f8a6b5f4133111819463fc584550cb7e590786996b6b8367da79bc9fb2e2bd6"
     }
   ]
 }
