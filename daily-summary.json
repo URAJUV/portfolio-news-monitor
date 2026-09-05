@@ -1,160 +1,30 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "items": [
     {
-      "stock": "COHR",
-      "headline": "Is COHR Stock a Buy as AI Growth Meets Premium Valuation and Risk?",
-      "url": "https://finnhub.io/api/news?id=7524069426faeabcbb1bd8bdb625d174d247b70862cfb17fba5f2b079738b6b2"
+      "stock": "TSM",
+      "headline": "Insider Move: Shu-Hua Fang Invests $154K In Taiwan Semiconductor Stock",
+      "url": "https://finnhub.io/api/news?id=796857e1b09107fc367bc66044ea9736905283b50d6e10e3f6008896a8a00a40"
     },
     {
-      "stock": "UBER",
-      "headline": "Three Of Credit's Biggest Names Are In Talks On Waymo's $3 Billion Debt Raise",
-      "url": "https://finnhub.io/api/news?id=f244b417a90f38b9f652f4dcbc2a1c419d9243a7642088c7c9c241bc6e52fac3"
+      "stock": "CRWD",
+      "headline": "Jim Cramer Couldn’t Stop Gushing About This Computer Hardware AI Stock",
+      "url": "https://finnhub.io/api/news?id=37c599a5ff8b2e8525c6df6398f33b72a4f4bdc8b46e6ad32cc3bd94f358ea29"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "What Pays Adobe Stock Owners While The Freemium Bet Waits",
+      "url": "https://finnhub.io/api/news?id=cc75bd1d9d0440de3a70e25016ca9eb5c9533fff17e3b57e71af380079119ba6"
     },
     {
       "stock": "IBM",
-      "headline": "The Dealmaking 3: Athletes Unlimited Retreats, NFL Kills the Pro Bowl, AI Takes Over the US Open",
-      "url": "https://finnhub.io/api/news?id=812fa83fa73023ac8669a415e51ea935c92bc2af7b19ace595eb7acfe60d45fc"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Does Marvell (MRVL) Signal Patience or Urgency With Its AI Data Center Timeline and Buybacks?",
-      "url": "https://finnhub.io/api/news?id=34e2e60420052a6c879f3b870fb3ba08349ac15433e4c96b3dba701e7cdcece1"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "BTIG Maintains Buy on Atlassian, Raises Price Target to $230",
-      "url": "https://finnhub.io/api/news?id=739e4661dd554fdb7feca90fd12614d8a59d7d3ce3db5fe615c8f808eb663b45"
-    },
-    {
-      "stock": "MU",
-      "headline": "Nvidia vs. Micron: Which Is the Better AI Semiconductor Stock to Own for the Next 5 Years?",
-      "url": "https://finnhub.io/api/news?id=621e1b678a037049c86a70afcad64cf225bcf14f4a3782849cecd216c92e4ace"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "OpenAI Declares “AGI Era” With Astra Launch. Anthropic’s Fable 5.1 More Than Doubled Its Predecessor’s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge",
-      "url": "https://finnhub.io/api/news?id=e5332eae237462b6ab774d53ca05e813f77fb15d434104a9934410e0addfdbe0"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Dow Jones Futures Await Jobs Report After Bullish Market Move; Tesla Cybercabs Hit The Road",
-      "url": "https://finnhub.io/api/news?id=4d47d9e4de9b2edd086977f6f843750a1d541ce8429472ff501406f87e95f81e"
-    },
-    {
-      "stock": "HON",
-      "headline": "Brady Corporation Q4 2026 Earnings Call Summary",
-      "url": "https://finnhub.io/api/news?id=6ddd2b39693eb6dfaa3bcbec78cfd6c354f0bf8ae7b399c144266f1bb4903717"
-    },
-    {
-      "stock": "UBER",
-      "headline": "TSLA Stock Slips Overnight As Safety Regulator Scrutinizes Cybercab — Retail Fumes Over Event Blackout",
-      "url": "https://finnhub.io/api/news?id=70a6e8489a212bfe64aac69079f9f9e670963e3360184d59e484a064a892b7f7"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
-      "url": "https://finnhub.io/api/news?id=0a5ac898eab6bbd6b41d4e67bff3068cda9d383fee1fe16906213dde50b04f98"
+      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week September 6",
+      "url": "https://finnhub.io/api/news?id=a14fa2d71c991d1424c650e89ccc0365f647e29aec84a754bdf9a4133b2e0743"
     },
     {
       "stock": "NFLX",
-      "headline": "Netflix’s Acquisition Wishlist: Which Streaming Target Has the Best Odds?",
-      "url": "https://finnhub.io/api/news?id=157fc2b7805cff7346bc80fd48fb0bbeec8cd526ea1f510dc16c562b8ee30178"
-    },
-    {
-      "stock": "MU",
-      "headline": "Goldman Sachs Says the AI Trade Is Barely Started. The Stocks That Got You Here Will Not Take You There",
-      "url": "https://finnhub.io/api/news?id=3cd0c9da06fb66db1546885a1152493735a3d3ab4b97ee8c640d88fa43710042"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor Scrambles to Feed the AI Boom",
-      "url": "https://finnhub.io/api/news?id=f3b6a1de9e09da0074485b99ce864543d45f26156d493139dc5887822aa42543"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "AI Is Driving an Increased Need for Cybersecurity. Here's the Best Way to Invest.",
-      "url": "https://finnhub.io/api/news?id=fbc84c954c3fb23f03f19f09ffeed5b977e91d25e3e9e60a6368a8a5c2b5fa55"
-    },
-    {
-      "stock": "HON",
-      "headline": "Brady Q4 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=5e9c4b6c41369010072c6e0445bf34eb08b684bcb809f57c2746eadca98fb0ee"
-    },
-    {
-      "stock": "DE",
-      "headline": "Evercore ISI Group Upgrades Deere to Outperform, Raises Price Target to $813",
-      "url": "https://finnhub.io/api/news?id=26ea9e033f1f5e9acfa5c052eb0f07e7390db666f1c2cea2e8b8fac80c24dfa4"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit CEO Steve Huffman Sells 18,000 Shares for $2.7 Million",
-      "url": "https://finnhub.io/api/news?id=403b9d1439acb07046ba0aaf7717f001d20eb4a8c687cd0a92b8abf7316478bc"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "VAST Data and CrowdStrike Deliver First-of-Its-Kind Cybersecurity Across the AI Operating System",
-      "url": "https://finnhub.io/api/news?id=b1a9445b870ed2c4ede92c47279087c0584c0c6cbc56101fb99a75e271aab49c"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)",
-      "url": "https://finnhub.io/api/news?id=d23582e41c78c80e10a78d9db66c6b0c82bac796e1e498776af0c978473ad9da"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Marvell Rises 6% as Beaten-Down AI Silicon Bounces, Qualcomm Barely Budges",
-      "url": "https://finnhub.io/api/news?id=5c5f1033f4c42345d20bf9c704f050455e74dfbce12245e557cb95efbbb770c9"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "NVIDIA & 4 Stocks Beyond Pure Plays to Gain From Quantum Boom in 2026",
-      "url": "https://finnhub.io/api/news?id=04d60ae2a32e57082622429af5d36b2a8f4061119b63296192b1f09318aa9a17"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Why Is Uber (UBER) Up 7.8% Since Last Earnings Report?",
-      "url": "https://finnhub.io/api/news?id=c347eddc5ddf3e83ff624fb7e86e08bdc75f089e89266024f75a8b466a7aa7dd"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Trump Media Falls 5%, Rumble Slips 3%: Is Alternative Media Losing Its Retail Bid?",
-      "url": "https://finnhub.io/api/news?id=38d3b61faffe9dc9f4dce2313b370990c6630ae398a2c57fe2dd89a07c23a185"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "David Tepper Sold 41% of His Micron Shares and It Is Still His Second-Biggest Holding",
-      "url": "https://finnhub.io/api/news?id=9d3350274a8c6433c826ac5b3e477c01df84cdf5320d257609a47ea71a307de9"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Volkswagen Targets 10% Margin by 2030 With €135B Plan, 50,000 Job Cuts",
-      "url": "https://finnhub.io/api/news?id=097b64f506ae901b599f98534aeefd8a718bcd48404c3bfdd42675afbf145a89"
-    },
-    {
-      "stock": "DE",
-      "headline": "Evercore ISI Group Upgrades Deere (DE) to Outperform from In-Line",
-      "url": "https://finnhub.io/api/news?id=54d664dfe3838e458e68d0f75f1e622ef488ce50d25ab0d6abfc0643bd3798f5"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Should You Worry That IBM Has Gone Quiet On Its AI Total?",
-      "url": "https://finnhub.io/api/news?id=850b2a681a98ba877b7c40fd138b1df0ce52202ebfe638f6767df7e9044d938a"
-    },
-    {
-      "stock": "U",
-      "headline": "1 Stock Under $50 to Target This Week and 2 We Find Risky",
-      "url": "https://finnhub.io/api/news?id=c1d609aaab913c7e42875b2fed39a13981d9514cc3b793995f6e81d443d84001"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "5-star analyst resets Broadcom stock price target",
-      "url": "https://finnhub.io/api/news?id=8c2c1ec02ce244ebf7d821189eb20f805e144044ea63de5f675e58802b8bfdc9"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Stocks making big moves this week: SAIC, Reddit, Fortrea, GitLab, and G-III",
-      "url": "https://finnhub.io/api/news?id=25468af967938f456899b3fdb741548e8921c88841ffa061918b85a3414fa6cf"
+      "headline": "S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",
+      "url": "https://finnhub.io/api/news?id=edf096e6792c207b0d0c8ecea67ebbe33d0294943b3f3486d6969b08c6574e5d"
     }
   ]
 }
