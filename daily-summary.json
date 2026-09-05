@@ -90,6 +90,21 @@
       "stock": "QBTS",
       "headline": "Here's How D-Wave Quantum's Commercial Momentum Is Gaining Strength",
       "url": "https://finnhub.io/api/news?id=873571d2c1b8172346fc93a6c50b36d6c2281bea9b2eb03d03ba625ca60dcdc0"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Jim Cramer Says “Own It, Don’t Trade It” as CVS Health Gains Momentum",
+      "url": "https://finnhub.io/api/news?id=6619411ceaa1efbb1ed0ef4abfe8c96999c54ce69f6f08ca3c1b59d458fc62b9"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "HPE Cannot Build AI Servers Fast Enough. Is the Stock Still Cheap?",
+      "url": "https://finnhub.io/api/news?id=e96f064c375b7fefcdcc79a241c67bab26639a78c1d230248f01f465e84f426d"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet's Stock Slipped 2.2% After Sundar Pichai's Earnings Beat Was Inflated by a $77.1 Billion Unrealized Gain on Equity Holdings. Should Investors Discount That Gain When Judging the Real Growth Story?",
+      "url": "https://finnhub.io/api/news?id=471d86a51f588be1a870c3977aa8e718c04a275f395ed19b785ab08e403aa9d0"
     }
   ]
 }
