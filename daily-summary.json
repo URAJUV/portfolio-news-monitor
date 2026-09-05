@@ -25,6 +25,36 @@
       "stock": "NFLX",
       "headline": "S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",
       "url": "https://finnhub.io/api/news?id=edf096e6792c207b0d0c8ecea67ebbe33d0294943b3f3486d6969b08c6574e5d"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike and Palo Alto Made the SaaSmageddon Survivor List. Can AI Expand Their Moats Faster Than It Compresses Software Prices?",
+      "url": "https://finnhub.io/api/news?id=e7d5299388c6961635fff8044313435c3448f84332896178951672be76c97c06"
+    },
+    {
+      "stock": "COHR",
+      "headline": "GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3%",
+      "url": "https://finnhub.io/api/news?id=f4cd1e985d5f0d0dd650f0ec64360c43779f228908471c2596d762cf8077d0f1"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys Fell 11% This Year. Wall Street Expects It to Gain 50% in the Next 12 Months",
+      "url": "https://finnhub.io/api/news?id=efb4f914e97821027880e13a51e90233c04ac9d841bf5b48818f99341d977853"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'",
+      "url": "https://finnhub.io/api/news?id=a3f6d12be635c3e6aaf3bdbfc14656957b6b65a0e5b4574a70c65ee129881e08"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Marvell Raised Its Outlook but Fell as Google Chip Revenue Stayed Distant. Has the AI Payoff Been Priced In? (Ready for review)",
+      "url": "https://finnhub.io/api/news?id=c671bd5fcba653dfdc97d99024b47750c2036530faca328cad1456ce7b7e280b"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Why Is HubSpot (HUBS) Up 26% Since Last Earnings Report?",
+      "url": "https://finnhub.io/api/news?id=a25a5890a9b29b8b8a3426b514fae22a174b0e8d049024a4a89b3209395af971"
     }
   ]
 }
