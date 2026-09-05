@@ -75,6 +75,21 @@
       "stock": "IBM",
       "headline": "IonQ (IONQ) Down 1.8% Since Last Earnings Report: Can It Rebound?",
       "url": "https://finnhub.io/api/news?id=8fb820b0805ca44aace04cabb422d6a314d6487c79fa6ae977fe69553b13ae86"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Stock Faces High Expectations After Strong Gains, DA Davidson Stays Bullish",
+      "url": "https://finnhub.io/api/news?id=4c43c845c5e3aa687db051a29b58cbb26fcb56e3102523465caf6f60b1362e57"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "3 AI-Related Stocks Worth a Closer Look After Pullbacks",
+      "url": "https://finnhub.io/api/news?id=8bfdd43d0b7a45edab42a175b5001f46f534c28c06e9f1c5c5d66252845b21eb"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Here's How D-Wave Quantum's Commercial Momentum Is Gaining Strength",
+      "url": "https://finnhub.io/api/news?id=873571d2c1b8172346fc93a6c50b36d6c2281bea9b2eb03d03ba625ca60dcdc0"
     }
   ]
 }
