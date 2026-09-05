@@ -55,6 +55,26 @@
       "stock": "RDDT",
       "headline": "Why Is HubSpot (HUBS) Up 26% Since Last Earnings Report?",
       "url": "https://finnhub.io/api/news?id=a25a5890a9b29b8b8a3426b514fae22a174b0e8d049024a4a89b3209395af971"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Cybersecurity's Next Test: Investors Reward Margin Discipline Over Revenue Growth",
+      "url": "https://finnhub.io/api/news?id=8b0a8226d76fb017485efb90423c0d143d2b49cafe4ad5c3368f2b23d8b15f17"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent (COHR) Stock Looks Below Fair Value While Earnings Look Fair",
+      "url": "https://finnhub.io/api/news?id=d11eb6e0d60f816b14a0f5b99d10937cc843b463e23bc3dbd24bd19718d14eb5"
+    },
+    {
+      "stock": "SONY",
+      "headline": "2025 NFL Season Marked a Historic Step Forward for Sony + NFL Partnership with Capture of 130,000 Images by The AP, 1,100+ Hours of Broadcast Television, Deployment of 2,300+ Coach's Headsets, and Collaboration on 600+ Officiating Events",
+      "url": "https://finnhub.io/api/news?id=0dad1b99cfd57bba95f44ac9a17195c906edd25c2aac44bb6590f7c97dfc6ce2"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IonQ (IONQ) Down 1.8% Since Last Earnings Report: Can It Rebound?",
+      "url": "https://finnhub.io/api/news?id=8fb820b0805ca44aace04cabb422d6a314d6487c79fa6ae977fe69553b13ae86"
     }
   ]
 }
