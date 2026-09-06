@@ -1,120 +1,25 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "Insider Move: Shu-Hua Fang Invests $154K In Taiwan Semiconductor Stock",
-      "url": "https://finnhub.io/api/news?id=796857e1b09107fc367bc66044ea9736905283b50d6e10e3f6008896a8a00a40"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Jim Cramer Couldn’t Stop Gushing About This Computer Hardware AI Stock",
-      "url": "https://finnhub.io/api/news?id=37c599a5ff8b2e8525c6df6398f33b72a4f4bdc8b46e6ad32cc3bd94f358ea29"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "What Pays Adobe Stock Owners While The Freemium Bet Waits",
-      "url": "https://finnhub.io/api/news?id=cc75bd1d9d0440de3a70e25016ca9eb5c9533fff17e3b57e71af380079119ba6"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week September 6",
-      "url": "https://finnhub.io/api/news?id=a14fa2d71c991d1424c650e89ccc0365f647e29aec84a754bdf9a4133b2e0743"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",
-      "url": "https://finnhub.io/api/news?id=edf096e6792c207b0d0c8ecea67ebbe33d0294943b3f3486d6969b08c6574e5d"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike and Palo Alto Made the SaaSmageddon Survivor List. Can AI Expand Their Moats Faster Than It Compresses Software Prices?",
-      "url": "https://finnhub.io/api/news?id=e7d5299388c6961635fff8044313435c3448f84332896178951672be76c97c06"
-    },
-    {
-      "stock": "COHR",
-      "headline": "GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3%",
-      "url": "https://finnhub.io/api/news?id=f4cd1e985d5f0d0dd650f0ec64360c43779f228908471c2596d762cf8077d0f1"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys Fell 11% This Year. Wall Street Expects It to Gain 50% in the Next 12 Months",
-      "url": "https://finnhub.io/api/news?id=efb4f914e97821027880e13a51e90233c04ac9d841bf5b48818f99341d977853"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'",
-      "url": "https://finnhub.io/api/news?id=a3f6d12be635c3e6aaf3bdbfc14656957b6b65a0e5b4574a70c65ee129881e08"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Marvell Raised Its Outlook but Fell as Google Chip Revenue Stayed Distant. Has the AI Payoff Been Priced In? (Ready for review)",
-      "url": "https://finnhub.io/api/news?id=c671bd5fcba653dfdc97d99024b47750c2036530faca328cad1456ce7b7e280b"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Why Is HubSpot (HUBS) Up 26% Since Last Earnings Report?",
-      "url": "https://finnhub.io/api/news?id=a25a5890a9b29b8b8a3426b514fae22a174b0e8d049024a4a89b3209395af971"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Cybersecurity's Next Test: Investors Reward Margin Discipline Over Revenue Growth",
-      "url": "https://finnhub.io/api/news?id=8b0a8226d76fb017485efb90423c0d143d2b49cafe4ad5c3368f2b23d8b15f17"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent (COHR) Stock Looks Below Fair Value While Earnings Look Fair",
-      "url": "https://finnhub.io/api/news?id=d11eb6e0d60f816b14a0f5b99d10937cc843b463e23bc3dbd24bd19718d14eb5"
-    },
-    {
-      "stock": "SONY",
-      "headline": "2025 NFL Season Marked a Historic Step Forward for Sony + NFL Partnership with Capture of 130,000 Images by The AP, 1,100+ Hours of Broadcast Television, Deployment of 2,300+ Coach's Headsets, and Collaboration on 600+ Officiating Events",
-      "url": "https://finnhub.io/api/news?id=0dad1b99cfd57bba95f44ac9a17195c906edd25c2aac44bb6590f7c97dfc6ce2"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IonQ (IONQ) Down 1.8% Since Last Earnings Report: Can It Rebound?",
-      "url": "https://finnhub.io/api/news?id=8fb820b0805ca44aace04cabb422d6a314d6487c79fa6ae977fe69553b13ae86"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) Stock Faces High Expectations After Strong Gains, DA Davidson Stays Bullish",
-      "url": "https://finnhub.io/api/news?id=4c43c845c5e3aa687db051a29b58cbb26fcb56e3102523465caf6f60b1362e57"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "3 AI-Related Stocks Worth a Closer Look After Pullbacks",
-      "url": "https://finnhub.io/api/news?id=8bfdd43d0b7a45edab42a175b5001f46f534c28c06e9f1c5c5d66252845b21eb"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Here's How D-Wave Quantum's Commercial Momentum Is Gaining Strength",
-      "url": "https://finnhub.io/api/news?id=873571d2c1b8172346fc93a6c50b36d6c2281bea9b2eb03d03ba625ca60dcdc0"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Jim Cramer Says “Own It, Don’t Trade It” as CVS Health Gains Momentum",
-      "url": "https://finnhub.io/api/news?id=6619411ceaa1efbb1ed0ef4abfe8c96999c54ce69f6f08ca3c1b59d458fc62b9"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "HPE Cannot Build AI Servers Fast Enough. Is the Stock Still Cheap?",
-      "url": "https://finnhub.io/api/news?id=e96f064c375b7fefcdcc79a241c67bab26639a78c1d230248f01f465e84f426d"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet's Stock Slipped 2.2% After Sundar Pichai's Earnings Beat Was Inflated by a $77.1 Billion Unrealized Gain on Equity Holdings. Should Investors Discount That Gain When Judging the Real Growth Story?",
-      "url": "https://finnhub.io/api/news?id=471d86a51f588be1a870c3977aa8e718c04a275f395ed19b785ab08e403aa9d0"
+      "stock": "MU",
+      "headline": "The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher",
+      "url": "https://finnhub.io/api/news?id=0fad523b307e56d5b27009955d4c0b12ba8bb44bff70502a0a9f3bb4c6c1563b"
     },
     {
       "stock": "TSM",
-      "headline": "Cadence Design Systems (CDNS) Following PCIe 6.0 Progress Has Fair Value Back In Focus",
-      "url": "https://finnhub.io/api/news?id=0b5cf4f3e5d1b2a0104296c04765a9a6ef60c233af4aeb78cdc5acbf602a3007"
+      "headline": "Japan, U.S. advance $550 billion investment pact with AI, chips in focus",
+      "url": "https://finnhub.io/api/news?id=c7dc97fa535dc090bc63cd128e31c734698c6bec7cc3916e034de36c578b9437"
     },
     {
       "stock": "CRWD",
-      "headline": "AI’s Next Winners? Investor Bets on Snowflake, CrowdStrike and Palantir",
-      "url": "https://finnhub.io/api/news?id=8f8a6b5f4133111819463fc584550cb7e590786996b6b8367da79bc9fb2e2bd6"
+      "headline": "CrowdStrike (CRWD) Unveiled A Broad AI Security Platform Push",
+      "url": "https://finnhub.io/api/news?id=637e9aa1d50656e33eca79927bbee46855a41ce9f83908a276fb7b91f2b3e3fb"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "CrowdStrike (CRWD) Unveiled A Broad AI Security Platform Push",
+      "url": "https://finnhub.io/api/news?id=637e9aa1d50656e33eca79927bbee46855a41ce9f83908a276fb7b91f2b3e3fb"
     }
   ]
 }
