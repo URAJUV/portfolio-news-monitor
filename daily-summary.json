@@ -1,4 +1,20 @@
 {
   "date": "2026-09-06",
-  "items": []
+  "items": [
+    {
+      "stock": "MU",
+      "headline": "Chasing AI fortunes, investors race to snap up land",
+      "url": "https://finnhub.io/api/news?id=4b80b21a8bc58f264632165fd4b12db5a0fb72f12e99241d32dadf01db1d788b"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "What Could IonQ (IONQ) Gain From Adding Two Veteran Board Members?",
+      "url": "https://finnhub.io/api/news?id=61c8a7931296da95df802ddec4158739f5de974752ff2ba8edebe363ac7b3006"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+      "url": "https://finnhub.io/api/news?id=40ff8d57a306d2282f291e686c8a14791db8f71a7e9540e73c0489b86bf6fec4"
+    }
+  ]
 }
