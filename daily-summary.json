@@ -30,6 +30,31 @@
       "stock": "AAOI",
       "headline": "These 3 AI Stocks Are Way Off Their Highs. Is the Pullback a Buying Opportunity?",
       "url": "https://finnhub.io/api/news?id=14ba9aa89d0b03f43386ac970f17c9a6dea7ac3832918ed06e64d37d5907993c"
+    },
+    {
+      "stock": "MU",
+      "headline": "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner",
+      "url": "https://finnhub.io/api/news?id=609fd8dc7ca05cb32273a37e4bf4e411a5b7aaa02536fa011c5e01eb09f77ee1"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor Retains 73% Foundry Share: Is the Stock a Buy?",
+      "url": "https://finnhub.io/api/news?id=e537059c39c5734e161a12aa290b5bb3226c0cfb5a469dcc03168fc1cdc76e4e"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Rising CPU Demand Positions Arm Holdings (ARM) for Gains",
+      "url": "https://finnhub.io/api/news?id=88da3b49a3b116b01a7abe571ae17ea786c88d06ec25454af8b4e1520bca21cd"
+    },
+    {
+      "stock": "IBM",
+      "headline": "OpenAI, Anthropic IPOs Could Spark a Selloff in These Struggling Stocks — IBM, Tesla, AppLovin Among Names at Risk",
+      "url": "https://finnhub.io/api/news?id=386aa18e98fb870ea7514f556f06b6384620eb206a018df8e4dbc247126709c4"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "I Thought I ‘Co-Signed’ My Parents' FHA Mortgage But Turns Out, I'm A Borrower Who Accidentally Claimed I Live There — DTI Is 100% and I Can't Get A $16K Loan",
+      "url": "https://finnhub.io/api/news?id=2a106ab5889848989fa6f3c645c054ebd18f52b66712556deaec9ab7e38912c6"
     }
   ]
 }
