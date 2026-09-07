@@ -10,6 +10,26 @@
       "stock": "NFLX",
       "headline": "Netflix Raised U.K. Prices Again. History Says a Netflix Price Increase Has Never Cost It a Year of Revenue Growth.",
       "url": "https://finnhub.io/api/news?id=6846f6785f2dc060e77303948060702c19df463bc05bafd64a9eae0963242d6c"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor (NYSE:TSM) Displays Strong Technical Breakout Setup",
+      "url": "https://finnhub.io/api/news?id=7906c106a44855e8dc2e9fec5c6e64781ae5cd43686d8bfa12147093bda294c1"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Up 90% in 2026, This Cybersecurity Growth Stock Under $300 Is the Best One to Buy Now",
+      "url": "https://finnhub.io/api/news?id=9c30beb70632b473689ebb3ac7006511075dd84a11ad310862a7c143d8f16e44"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Anthropic Has Committed More Than $100 Billion to AWS, and Its Prospectus Could Reveal More Details About This Contract",
+      "url": "https://finnhub.io/api/news?id=cd58e97c5c5b76bf4fccf8f4b286e1ba6f9c1d350d3666c39ad2a8a1c31456ab"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "These 3 AI Stocks Are Way Off Their Highs. Is the Pullback a Buying Opportunity?",
+      "url": "https://finnhub.io/api/news?id=14ba9aa89d0b03f43386ac970f17c9a6dea7ac3832918ed06e64d37d5907993c"
     }
   ]
 }
