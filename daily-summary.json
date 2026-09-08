@@ -50,6 +50,16 @@
       "stock": "NFLX",
       "headline": "Netflix Has No Dividend. Here's Why Long-Term Investors Should Own It Anyway.",
       "url": "https://finnhub.io/api/news?id=cfb52c6248a575cd07cc0be48541db040f0bb4e3f02ec495a2630b842c8e0c60"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Wedbush Reiterates Outperform on Uber Technologies, Maintains $91 Price Target",
+      "url": "https://finnhub.io/api/news?id=1b1502ea9bd6b9f2008bd751fccb1358bbccc9c51291d7536929613c3a5e8794"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Billionaire Bill Ackman Sells Alphabet Stock and Buys a Mega-Cap Stock Down 42% From Its High",
+      "url": "https://finnhub.io/api/news?id=8d32481f9c84c3ca2b511a135e42cf9ce1e624a8a747641f58512160f1aedde3"
     }
   ]
 }
