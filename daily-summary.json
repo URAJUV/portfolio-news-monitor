@@ -1,80 +1,40 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "items": [
     {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD)’s CEO Warns AI Is Exposing Gaps in Legacy Cybersecurity Tools",
-      "url": "https://finnhub.io/api/news?id=f5588f96997e1bf5dc587524f32e58a9992c9fc33baa0a406cc6b3fff4fce668"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix Raised U.K. Prices Again. History Says a Netflix Price Increase Has Never Cost It a Year of Revenue Growth.",
-      "url": "https://finnhub.io/api/news?id=6846f6785f2dc060e77303948060702c19df463bc05bafd64a9eae0963242d6c"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor (NYSE:TSM) Displays Strong Technical Breakout Setup",
-      "url": "https://finnhub.io/api/news?id=7906c106a44855e8dc2e9fec5c6e64781ae5cd43686d8bfa12147093bda294c1"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Up 90% in 2026, This Cybersecurity Growth Stock Under $300 Is the Best One to Buy Now",
-      "url": "https://finnhub.io/api/news?id=9c30beb70632b473689ebb3ac7006511075dd84a11ad310862a7c143d8f16e44"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Anthropic Has Committed More Than $100 Billion to AWS, and Its Prospectus Could Reveal More Details About This Contract",
-      "url": "https://finnhub.io/api/news?id=cd58e97c5c5b76bf4fccf8f4b286e1ba6f9c1d350d3666c39ad2a8a1c31456ab"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "These 3 AI Stocks Are Way Off Their Highs. Is the Pullback a Buying Opportunity?",
-      "url": "https://finnhub.io/api/news?id=14ba9aa89d0b03f43386ac970f17c9a6dea7ac3832918ed06e64d37d5907993c"
-    },
-    {
       "stock": "MU",
-      "headline": "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner",
-      "url": "https://finnhub.io/api/news?id=609fd8dc7ca05cb32273a37e4bf4e411a5b7aaa02536fa011c5e01eb09f77ee1"
+      "headline": "The AI Memory Stock That Could Outshine the Obvious Picks",
+      "url": "https://finnhub.io/api/news?id=7b2b76e594e318638fb2f66348ef1a4ac576b5b0178ede94487b2392db08d790"
     },
     {
       "stock": "TSM",
-      "headline": "Taiwan Semiconductor Retains 73% Foundry Share: Is the Stock a Buy?",
-      "url": "https://finnhub.io/api/news?id=e537059c39c5734e161a12aa290b5bb3226c0cfb5a469dcc03168fc1cdc76e4e"
+      "headline": "TSMC Rises Nearly 3% as $265 Billion Becomes Taiwan's Diplomatic Currency",
+      "url": "https://finnhub.io/api/news?id=8bf0cd38ae488bf7801bc604bc46253bb4aef1d2499fe164b1bc0226a4c6e116"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AAOI Dips 46% in Three Months: Should You Buy the Stock Now or Wait?",
+      "url": "https://finnhub.io/api/news?id=2bea7e6dd87581a93a83f0d8e1eafdbbdebcab56e774936f36a4076ffe16df0d"
     },
     {
       "stock": "ARM",
-      "headline": "Rising CPU Demand Positions Arm Holdings (ARM) for Gains",
-      "url": "https://finnhub.io/api/news?id=88da3b49a3b116b01a7abe571ae17ea786c88d06ec25454af8b4e1520bca21cd"
-    },
-    {
-      "stock": "IBM",
-      "headline": "OpenAI, Anthropic IPOs Could Spark a Selloff in These Struggling Stocks — IBM, Tesla, AppLovin Among Names at Risk",
-      "url": "https://finnhub.io/api/news?id=386aa18e98fb870ea7514f556f06b6384620eb206a018df8e4dbc247126709c4"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "I Thought I ‘Co-Signed’ My Parents' FHA Mortgage But Turns Out, I'm A Borrower Who Accidentally Claimed I Live There — DTI Is 100% and I Can't Get A $16K Loan",
-      "url": "https://finnhub.io/api/news?id=2a106ab5889848989fa6f3c645c054ebd18f52b66712556deaec9ab7e38912c6"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Buy These 5 Semiconductor Stocks as Sales Skyrocket on Solid AI Demand",
-      "url": "https://finnhub.io/api/news?id=c819a0537cb5cb7719195a12be6e40f5f7f9af28b8b0167fcc7bebd96843d1f9"
+      "headline": "Arm Expands Into AI Accelerators With Samsung — But It’s Not the Data Center Goldmine Investors Hope For",
+      "url": "https://finnhub.io/api/news?id=5dfb465de93e57439b0edc51fed4446e972ca8839601e2d555a4509470d8b577"
     },
     {
       "stock": "HON",
-      "headline": "The S&P 100 ETF Just Dumped Nike and Colgate for 4 AI Stocks. Here’s What That Means for Your Portfolio",
-      "url": "https://finnhub.io/api/news?id=42fbcd571f4e0ff319ea17c0fe94bd2d9085859a6a211459ff345ebc0a878b0d"
+      "headline": "Airport Security Solutions, Global, 2025-2030 Now Available — Tracks 9.4 Billion 2024 Passengers Across 7 Regions as 100+ Vendors Compete for Smart Airport Contracts",
+      "url": "https://finnhub.io/api/news?id=c0e3d36fa0e884aec1d3025ac1b28eef5253694c523fff0a21d65dc6ba8c082d"
     },
     {
-      "stock": "GOOGL",
-      "headline": "Microsoft Stock Is Building a Trillion-Dollar AI Opportunity. Is $600 Next?",
-      "url": "https://finnhub.io/api/news?id=cb0691a9cce468da03f653426f3bea8ca9143c1dd284f0365fe1f7bfe52756fc"
+      "stock": "AAOI",
+      "headline": "AAOI Dips 46% in Three Months: Should You Buy the Stock Now or Wait?",
+      "url": "https://finnhub.io/api/news?id=2bea7e6dd87581a93a83f0d8e1eafdbbdebcab56e774936f36a4076ffe16df0d"
     },
     {
-      "stock": "NFLX",
-      "headline": "Netflix Has Momentum Despite Being Down in 2026. One Analyst’s Price Target Implies 70% Upside",
-      "url": "https://finnhub.io/api/news?id=8abdb4cf56a069812eadf109c149712c0e763851025b53657df246ba7aa1e96d"
+      "stock": "IBM",
+      "headline": "Evercore Warns AI IPOs Could Pressure These Struggling Stocks. IBM and AppLovin Face Different Tests",
+      "url": "https://finnhub.io/api/news?id=3eafa22f98a8b24b97869e865fec97a70df4a642fe8b0419799210928d3d169b"
     }
   ]
 }
