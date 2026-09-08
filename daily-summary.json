@@ -60,6 +60,31 @@
       "stock": "NFLX",
       "headline": "Billionaire Bill Ackman Sells Alphabet Stock and Buys a Mega-Cap Stock Down 42% From Its High",
       "url": "https://finnhub.io/api/news?id=8d32481f9c84c3ca2b511a135e42cf9ce1e624a8a747641f58512160f1aedde3"
+    },
+    {
+      "stock": "MU",
+      "headline": "Why Today's AI Boom Differs From the Internet Bubble",
+      "url": "https://finnhub.io/api/news?id=6b3967b90ac1c0647ab05789e0d02c1332e86091b1e5ddba7905106a004be673"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=2d497d3dd33abc83c11ee636ae98c94220ee63fa1e1879442691e4e523db3eff"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave Secures up to $100 Million in US Funding",
+      "url": "https://finnhub.io/api/news?id=37dbe36c66dea6c0c56c1cbaf91fcf243188399a18ff4a508bae660dca7773c7"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google Cloud Boss Makes Bold Claim About AI Chip Business",
+      "url": "https://finnhub.io/api/news?id=2f37a657654100ecfda7d8c506a3d76ffe1d4522e3bba0ce8983d49e4274f483"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit CEO Says Growing Users, Including Improving New User Retention, Is Key Focus For Next 12-18 Months",
+      "url": "https://finnhub.io/api/news?id=b12a261c08bc0975221103cb1064ea2377eb3cd84cf6aab330f52ccf1965b2c4"
     }
   ]
 }
