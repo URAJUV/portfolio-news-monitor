@@ -35,6 +35,21 @@
       "stock": "IBM",
       "headline": "Evercore Warns AI IPOs Could Pressure These Struggling Stocks. IBM and AppLovin Face Different Tests",
       "url": "https://finnhub.io/api/news?id=3eafa22f98a8b24b97869e865fec97a70df4a642fe8b0419799210928d3d169b"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Lumentum Holdings: The Earnings Are Catching Up With The 521% Rally",
+      "url": "https://finnhub.io/api/news?id=edac159e85e8a863238aeac939336f31be6dadb8058692111857a69d0aa65a8a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google's AI Slashes Contrail Warming 40% in a Real-World Test",
+      "url": "https://finnhub.io/api/news?id=0001709625f8e66ce7e841ce60023c282ffe04437460d74927a125daa720d8ca"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Has No Dividend. Here's Why Long-Term Investors Should Own It Anyway.",
+      "url": "https://finnhub.io/api/news?id=cfb52c6248a575cd07cc0be48541db040f0bb4e3f02ec495a2630b842c8e0c60"
     }
   ]
 }
