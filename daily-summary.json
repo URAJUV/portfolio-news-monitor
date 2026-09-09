@@ -120,6 +120,21 @@
       "stock": "ARM",
       "headline": "Arm Refreshes For Agentic AI",
       "url": "https://finnhub.io/api/news?id=4ee6ac590ff8f98c03b0598f75118db7e21f2044be6d117cf72002f51c4a4ec8"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Morgan Stanley upgrades Synopsys as it turns selective on chip stocks",
+      "url": "https://finnhub.io/api/news?id=86bd3dfe29cd22d7bdb9159f192bdb5a859a0409fc57be9d87ba634095f5d04f"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Mizuho Maintains Outperform on IonQ, Lowers Price Target to $52",
+      "url": "https://finnhub.io/api/news?id=fa2b6336bea12b1bc50cf882ba47a0c9c98bd2b5c6f103347919295bfd250489"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "SailPoint: Noticeable Deceleration Amid Steep Multiples (Downgrade)",
+      "url": "https://finnhub.io/api/news?id=329530da2b65bf50188571d313beef6267be14912d6414be8f3401262e6d0fa5"
     }
   ]
 }
