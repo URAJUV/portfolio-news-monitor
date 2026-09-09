@@ -100,6 +100,26 @@
       "stock": "GOOGL",
       "headline": "Accenture Dedicates 1,000 Engineers to Google’s Agentic AI — And Exposes Where the Real Bottleneck Lives",
       "url": "https://finnhub.io/api/news?id=87300eff99639498480488883b3e5c3d8b888c0d94c338624f04d3c44280bef7"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Arista vs. IBM: Which Cloud AI Stock Should Investors Buy Now?",
+      "url": "https://finnhub.io/api/news?id=4c6721f6863f81b0676afbb9dfe754f6ba86610426f9c0a38b666c45568ab23a"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Buy 3 AI-Powered Photonics Stocks to Tap Solid Short-Term Price Upside",
+      "url": "https://finnhub.io/api/news?id=4405df7aa13429f46ef3d8e9b2c71ae27b1520c2aea971e13cb2e9c29b7d8ebf"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Intel upgraded, Reddit initiated: Wall Street's top analyst calls",
+      "url": "https://finnhub.io/api/news?id=953fd7c963e0c5c7fefec12d69c7c78db5d8c24be2387123c7a503f0a80f1920"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Refreshes For Agentic AI",
+      "url": "https://finnhub.io/api/news?id=4ee6ac590ff8f98c03b0598f75118db7e21f2044be6d117cf72002f51c4a4ec8"
     }
   ]
 }
