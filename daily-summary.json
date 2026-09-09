@@ -1,90 +1,50 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "items": [
     {
-      "stock": "MU",
-      "headline": "The AI Memory Stock That Could Outshine the Obvious Picks",
-      "url": "https://finnhub.io/api/news?id=7b2b76e594e318638fb2f66348ef1a4ac576b5b0178ede94487b2392db08d790"
-    },
-    {
-      "stock": "TSM",
-      "headline": "TSMC Rises Nearly 3% as $265 Billion Becomes Taiwan's Diplomatic Currency",
-      "url": "https://finnhub.io/api/news?id=8bf0cd38ae488bf7801bc604bc46253bb4aef1d2499fe164b1bc0226a4c6e116"
-    },
-    {
-      "stock": "COHR",
-      "headline": "AAOI Dips 46% in Three Months: Should You Buy the Stock Now or Wait?",
-      "url": "https://finnhub.io/api/news?id=2bea7e6dd87581a93a83f0d8e1eafdbbdebcab56e774936f36a4076ffe16df0d"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Expands Into AI Accelerators With Samsung — But It’s Not the Data Center Goldmine Investors Hope For",
-      "url": "https://finnhub.io/api/news?id=5dfb465de93e57439b0edc51fed4446e972ca8839601e2d555a4509470d8b577"
-    },
-    {
-      "stock": "HON",
-      "headline": "Airport Security Solutions, Global, 2025-2030 Now Available — Tracks 9.4 Billion 2024 Passengers Across 7 Regions as 100+ Vendors Compete for Smart Airport Contracts",
-      "url": "https://finnhub.io/api/news?id=c0e3d36fa0e884aec1d3025ac1b28eef5253694c523fff0a21d65dc6ba8c082d"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "AAOI Dips 46% in Three Months: Should You Buy the Stock Now or Wait?",
-      "url": "https://finnhub.io/api/news?id=2bea7e6dd87581a93a83f0d8e1eafdbbdebcab56e774936f36a4076ffe16df0d"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Evercore Warns AI IPOs Could Pressure These Struggling Stocks. IBM and AppLovin Face Different Tests",
-      "url": "https://finnhub.io/api/news?id=3eafa22f98a8b24b97869e865fec97a70df4a642fe8b0419799210928d3d169b"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Lumentum Holdings: The Earnings Are Catching Up With The 521% Rally",
-      "url": "https://finnhub.io/api/news?id=edac159e85e8a863238aeac939336f31be6dadb8058692111857a69d0aa65a8a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Google's AI Slashes Contrail Warming 40% in a Real-World Test",
-      "url": "https://finnhub.io/api/news?id=0001709625f8e66ce7e841ce60023c282ffe04437460d74927a125daa720d8ca"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix Has No Dividend. Here's Why Long-Term Investors Should Own It Anyway.",
-      "url": "https://finnhub.io/api/news?id=cfb52c6248a575cd07cc0be48541db040f0bb4e3f02ec495a2630b842c8e0c60"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Wedbush Reiterates Outperform on Uber Technologies, Maintains $91 Price Target",
-      "url": "https://finnhub.io/api/news?id=1b1502ea9bd6b9f2008bd751fccb1358bbccc9c51291d7536929613c3a5e8794"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Billionaire Bill Ackman Sells Alphabet Stock and Buys a Mega-Cap Stock Down 42% From Its High",
-      "url": "https://finnhub.io/api/news?id=8d32481f9c84c3ca2b511a135e42cf9ce1e624a8a747641f58512160f1aedde3"
-    },
-    {
-      "stock": "MU",
-      "headline": "Why Today's AI Boom Differs From the Internet Bubble",
-      "url": "https://finnhub.io/api/news?id=6b3967b90ac1c0647ab05789e0d02c1332e86091b1e5ddba7905106a004be673"
+      "stock": "CRWD",
+      "headline": "CrowdStrike vs. OKTA: What Revenue Trends Between These Cybersecurity Giants Tell Investors",
+      "url": "https://finnhub.io/api/news?id=ca56b639118e024d48358430d2fae50f21918fd3f9e666ddb21170dbeda800e5"
     },
     {
       "stock": "AMZN",
-      "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=2d497d3dd33abc83c11ee636ae98c94220ee63fa1e1879442691e4e523db3eff"
+      "headline": "Jeff Bezos Remains Amazon's Largest Individual Shareholder With Roughly 900 Million Shares. Here's Why That Stake Still Anchors the Stock.",
+      "url": "https://finnhub.io/api/news?id=9d3478d05e0df28fa049f428db1d5a10096fe21b38abf87e794af9aab642212a"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AMD, Amgen, Novartis, Qualcomn, Corning, and More Stocks That Explain Today’s Market",
+      "url": "https://finnhub.io/api/news?id=d2230444116caaee267ba7fa13217fd189e5ab1e2ca883b2705ce76e6663f6e2"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Extends AI Reach From Data Centers To Edge Devices",
+      "url": "https://finnhub.io/api/news?id=1369554d73a9d1f3ad13f924ae23dce65c026596bbfed0c513b2501bfef28ada"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Meta Platforms Settles Major Lawsuit, Pays $18 Billion",
+      "url": "https://finnhub.io/api/news?id=5f31aa1688ce6739aeaf219c3674b3e7415c138734496e4490764e314dc75f56"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "FN's AI Optical Growth Accelerates: Can It Challenge LITE & AAOI?",
+      "url": "https://finnhub.io/api/news?id=d78e8de2fadc96252ec80c089383a135f077174b8742374f97400143bd955b42"
     },
     {
       "stock": "QBTS",
-      "headline": "D-Wave Secures up to $100 Million in US Funding",
-      "url": "https://finnhub.io/api/news?id=37dbe36c66dea6c0c56c1cbaf91fcf243188399a18ff4a508bae660dca7773c7"
+      "headline": "Stock Market Today, Sept. 8: IonQ Raises 2026 Revenue Guidance on Investor Day",
+      "url": "https://finnhub.io/api/news?id=f1c34a3325858ca9d16fde0c7245d545ac98cb4121c8682c9178bfb623c11b3b"
     },
     {
       "stock": "GOOGL",
-      "headline": "Google Cloud Boss Makes Bold Claim About AI Chip Business",
-      "url": "https://finnhub.io/api/news?id=2f37a657654100ecfda7d8c506a3d76ffe1d4522e3bba0ce8983d49e4274f483"
+      "headline": "Bill Ackman Sold His Remaining Alphabet Shares and Bought This Streaming Stock",
+      "url": "https://finnhub.io/api/news?id=ebc88ed8c055359f55158cd3e5655db5833a39dee816a95542f05eb6c12857a7"
     },
     {
-      "stock": "RDDT",
-      "headline": "Reddit CEO Says Growing Users, Including Improving New User Retention, Is Key Focus For Next 12-18 Months",
-      "url": "https://finnhub.io/api/news?id=b12a261c08bc0975221103cb1064ea2377eb3cd84cf6aab330f52ccf1965b2c4"
+      "stock": "NFLX",
+      "headline": "Bill Ackman Sold His Remaining Alphabet Shares and Bought This Streaming Stock",
+      "url": "https://finnhub.io/api/news?id=ebc88ed8c055359f55158cd3e5655db5833a39dee816a95542f05eb6c12857a7"
     }
   ]
 }
