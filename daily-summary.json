@@ -45,6 +45,61 @@
       "stock": "NFLX",
       "headline": "Bill Ackman Sold His Remaining Alphabet Shares and Bought This Streaming Stock",
       "url": "https://finnhub.io/api/news?id=ebc88ed8c055359f55158cd3e5655db5833a39dee816a95542f05eb6c12857a7"
+    },
+    {
+      "stock": "MU",
+      "headline": "This Little-Known AI Storage Stock Will Join the S&P 500 (Not Micron or Sandisk). History Says This Will Happen Next.",
+      "url": "https://finnhub.io/api/news?id=78be41fc9b9ee297a59eff236ac960a5797d7a492f5465ade90d78f0299796d8"
+    },
+    {
+      "stock": "TSM",
+      "headline": "AMKR Stock Gains After-Hours — Amkor Doubles Down On US Chip Manufacturing With $12B Arizona Campus Expansion",
+      "url": "https://finnhub.io/api/news?id=b51d30b25dccee7414e606f2c9facd77b2ba9b2c83e4af4d091cc731d8484c21"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "QCOM Stock Rises Premarket: CFO Touts ‘Well-Priced’ Shares After Amazon Deal And  ‘Port Once’ AI Stack For Rival Chips",
+      "url": "https://finnhub.io/api/news?id=dc1cd377227cdea618c051db5e789dd48535292273257ad1e37f74494a37d8d5"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Brings AI Datacenter and Photonics Thought Leadership to ECOC 2026 in Málaga, Spain",
+      "url": "https://finnhub.io/api/news?id=b71ba586ca38908ce7a20e7b5ead0843eda8a991641166b5728ba92121bfbd3f"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Morgan Stanley Upgrades Synopsys to Overweight, Maintains Price Target to $500",
+      "url": "https://finnhub.io/api/news?id=4207a1d87dd5492915355e62816abec54866142ca39a1824a7a7bf81d26106d8"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
+      "url": "https://finnhub.io/api/news?id=2ac2ba787536589b8e9b25b125562b5cf8a6fed3b33a834f5fb8f3541beb7db9"
+    },
+    {
+      "stock": "ARM",
+      "headline": "AI Could Eventually Crack Cancer and Drug Discovery, Says Arm CEO — But This Is What’s Holding It Back",
+      "url": "https://finnhub.io/api/news?id=649b29b871f468e0579b3903f7d79c2aac4d143b682d97b799d70ef12858c5e5"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ Just Raised Its 2026 Revenue Outlook by About 60%. Most of the Raise Isn't Quantum Computing.",
+      "url": "https://finnhub.io/api/news?id=458a5da8d1664460c0aa928c5f0977e4e686bcf52d02e9ec6a06be61239783a5"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Inside CEO Cristiano Amon’s vision for Qualcomm’s future",
+      "url": "https://finnhub.io/api/news?id=5a16a74ceff7584cf0a7c95f913de0a3c1721a17e68c5827bee0f06482737006"
+    },
+    {
+      "stock": "DE",
+      "headline": "3 Earnings Season Winners That Analysts Can't Stop Upgrading",
+      "url": "https://finnhub.io/api/news?id=7849a5e4d6d57de5839691d113e57f41c7ec7edc6e494d8b3795e69131ac139c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Accenture Dedicates 1,000 Engineers to Google’s Agentic AI — And Exposes Where the Real Bottleneck Lives",
+      "url": "https://finnhub.io/api/news?id=87300eff99639498480488883b3e5c3d8b888c0d94c338624f04d3c44280bef7"
     }
   ]
 }
