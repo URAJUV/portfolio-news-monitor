@@ -95,6 +95,51 @@
       "stock": "HON",
       "headline": "Forget Overvalued Tech: Build an AI Fortress Portfolio With These 5 Dividend Aristocrats",
       "url": "https://finnhub.io/api/news?id=252eab5212e7850ef0333107b73f59f8168c98bc10347fa8f2ab0ea36596142f"
+    },
+    {
+      "stock": "MU",
+      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=7c28e78d9040a5cce97fe2b77384836940d53d535f5f71724541cccc657ad8ee"
+    },
+    {
+      "stock": "TSM",
+      "headline": "OpenAI’s Samsung Pivot: The Reality of Manufacturing Diversification",
+      "url": "https://finnhub.io/api/news?id=997b2f710b18faeda19b5a495e873294f9d546f68418a20d6af9784e6ce873c1"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "NVDA, CRWD, PANW, PLTR Stock In Focus — Nvidia's Huang Highlights Cybersecurity As Next AI Leg",
+      "url": "https://finnhub.io/api/news?id=084b7abb337c0f152fa4fe8a742599e604483480b62be6becd320242144190e8"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Anthropic Drops Stark AI Forecast for U.S. Economy",
+      "url": "https://finnhub.io/api/news?id=e18218a63dd9f9377690c39bd531491d7973e88ae624fbf05f931093a5b7d227"
+    },
+    {
+      "stock": "COHR",
+      "headline": "GoPro Spikes 11% as Lumentum Eases and Coherent Holds Flat: Is This a Merger Trade or a Meme Trade?",
+      "url": "https://finnhub.io/api/news?id=b66d533dd27d5264d40c95ba304afa7ed195264f13942927fc7d33513d59daf2"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "This Meta Analyst Turns Bullish; Here Are Top 5 Upgrades For Thursday",
+      "url": "https://finnhub.io/api/news?id=a8d60c34af1b6706b3623880dfe6601d0eb6c5e3fa698c7bc60bbf9f75686ee3"
+    },
+    {
+      "stock": "ARM",
+      "headline": "SoftBank's $25.9 Billion Move Could Unlock Its Biggest AI Bet Yet",
+      "url": "https://finnhub.io/api/news?id=01e65882ecc5c4be1952fbb452917687e2d802280994e89d7d715091db47c3d7"
+    },
+    {
+      "stock": "UBER",
+      "headline": "UBER Stock Jumps After CEO Dara Khosrowshahi Buys $10 Million In Shares",
+      "url": "https://finnhub.io/api/news?id=6b31c52a0ed859a2183989202e4a304c48b4f73337de7b8922c268aeaf11e1e5"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Is The AI Capex Surge A Threat To Amazon Stock?",
+      "url": "https://finnhub.io/api/news?id=48c9520fb49bcbd0e32a8e3325775f2a88e958a41b0db591ced3fb898250437a"
     }
   ]
 }
