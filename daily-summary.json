@@ -140,6 +140,46 @@
       "stock": "NFLX",
       "headline": "Is The AI Capex Surge A Threat To Amazon Stock?",
       "url": "https://finnhub.io/api/news?id=48c9520fb49bcbd0e32a8e3325775f2a88e958a41b0db591ced3fb898250437a"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Janus Henderson Global Sustainable Equity (ADR) Managed Account Q2 2026 Portfolio Update",
+      "url": "https://finnhub.io/api/news?id=89cb57547d412435307bb9f21f5d4dfe69480622ee86b74a472f5db60470e660"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Oracle earnings: Do concentration risks fall on Oracle or the big AI firms?",
+      "url": "https://finnhub.io/api/news?id=6b000404723b86e53d7b40ab3da4806b3023a605c5ae20a0fa1b99b75e02d760"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Wells Fargo Upgrades Synopsys to Overweight, Raises Price Target to $475",
+      "url": "https://finnhub.io/api/news?id=74a603e8cd8112971e2c860198ac879faaeda4d5578c9fec78e5a95dbd3488f6"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Qorvo shares are trading lower after the company reported Q3 financial results and issued Q4 sales guidance below estimates. Also, multiple firms lowered their respective price targets on the stock.",
+      "url": "https://finnhub.io/api/news?id=f7b503bbcf45e76892e70c769020db75207f83d97e1644e83f0a215a3219a944"
+    },
+    {
+      "stock": "HON",
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=3c6dd7e37edbe2d02b33bc261a6730d798fa99bd613b91d01d5e24dda6b86b3d"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Stock Market Today, Sept. 10: Grab Holdings Slips on Atome Fintech Acquisition Reports",
+      "url": "https://finnhub.io/api/news?id=2d9385e250fe8b10e8c4da08b46bd6bb10a0a309193ada27c058fe2f6a91f7c8"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "‘I’m a Renter, But I Have $150,000 Sitting in Cash’: The Price of Waiting Out Record Home Prices",
+      "url": "https://finnhub.io/api/news?id=c57feac8f2987583d6f871b1a83ee9128199cacc8004f2caf72fd48219db9870"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=7c28e78d9040a5cce97fe2b77384836940d53d535f5f71724541cccc657ad8ee"
     }
   ]
 }
