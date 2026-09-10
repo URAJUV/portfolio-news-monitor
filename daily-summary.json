@@ -1,185 +1,35 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "items": [
     {
       "stock": "CRWD",
-      "headline": "CrowdStrike vs. OKTA: What Revenue Trends Between These Cybersecurity Giants Tell Investors",
-      "url": "https://finnhub.io/api/news?id=ca56b639118e024d48358430d2fae50f21918fd3f9e666ddb21170dbeda800e5"
+      "headline": "Should You Get Paid To Wait For Palo Alto Networks To Slow Down?",
+      "url": "https://finnhub.io/api/news?id=f4812382a75c8002754d7afceb08410fa9b15cd56cdbed42866b15ea010c5df2"
     },
     {
-      "stock": "AMZN",
-      "headline": "Jeff Bezos Remains Amazon's Largest Individual Shareholder With Roughly 900 Million Shares. Here's Why That Stake Still Anchors the Stock.",
-      "url": "https://finnhub.io/api/news?id=9d3478d05e0df28fa049f428db1d5a10096fe21b38abf87e794af9aab642212a"
+      "stock": "SNPS",
+      "headline": "Morgan Stanley Just Upgraded Synopsys Stock. Here's Why.",
+      "url": "https://finnhub.io/api/news?id=fbd718ace1b7c1a2145ebddeaa7e0b12902ccbd7efab829dcf3b32e93f5e4494"
     },
     {
-      "stock": "COHR",
-      "headline": "AMD, Amgen, Novartis, Qualcomn, Corning, and More Stocks That Explain Today’s Market",
-      "url": "https://finnhub.io/api/news?id=d2230444116caaee267ba7fa13217fd189e5ab1e2ca883b2705ce76e6663f6e2"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Extends AI Reach From Data Centers To Edge Devices",
-      "url": "https://finnhub.io/api/news?id=1369554d73a9d1f3ad13f924ae23dce65c026596bbfed0c513b2501bfef28ada"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Meta Platforms Settles Major Lawsuit, Pays $18 Billion",
-      "url": "https://finnhub.io/api/news?id=5f31aa1688ce6739aeaf219c3674b3e7415c138734496e4490764e314dc75f56"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "FN's AI Optical Growth Accelerates: Can It Challenge LITE & AAOI?",
-      "url": "https://finnhub.io/api/news?id=d78e8de2fadc96252ec80c089383a135f077174b8742374f97400143bd955b42"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Stock Market Today, Sept. 8: IonQ Raises 2026 Revenue Guidance on Investor Day",
-      "url": "https://finnhub.io/api/news?id=f1c34a3325858ca9d16fde0c7245d545ac98cb4121c8682c9178bfb623c11b3b"
+      "stock": "DPRO",
+      "headline": "Draganfly Appoints Colonel (Ret’d) Kevin Leblond to Lead Canadian Defence and Security Initiatives",
+      "url": "https://finnhub.io/api/news?id=4355558c428a9895c9b954d22a420c3d3f5fb2959916433da8edaab7772547db"
     },
     {
       "stock": "GOOGL",
-      "headline": "Bill Ackman Sold His Remaining Alphabet Shares and Bought This Streaming Stock",
-      "url": "https://finnhub.io/api/news?id=ebc88ed8c055359f55158cd3e5655db5833a39dee816a95542f05eb6c12857a7"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Bill Ackman Sold His Remaining Alphabet Shares and Bought This Streaming Stock",
-      "url": "https://finnhub.io/api/news?id=ebc88ed8c055359f55158cd3e5655db5833a39dee816a95542f05eb6c12857a7"
-    },
-    {
-      "stock": "MU",
-      "headline": "This Little-Known AI Storage Stock Will Join the S&P 500 (Not Micron or Sandisk). History Says This Will Happen Next.",
-      "url": "https://finnhub.io/api/news?id=78be41fc9b9ee297a59eff236ac960a5797d7a492f5465ade90d78f0299796d8"
-    },
-    {
-      "stock": "TSM",
-      "headline": "AMKR Stock Gains After-Hours — Amkor Doubles Down On US Chip Manufacturing With $12B Arizona Campus Expansion",
-      "url": "https://finnhub.io/api/news?id=b51d30b25dccee7414e606f2c9facd77b2ba9b2c83e4af4d091cc731d8484c21"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "QCOM Stock Rises Premarket: CFO Touts ‘Well-Priced’ Shares After Amazon Deal And  ‘Port Once’ AI Stack For Rival Chips",
-      "url": "https://finnhub.io/api/news?id=dc1cd377227cdea618c051db5e789dd48535292273257ad1e37f74494a37d8d5"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent Brings AI Datacenter and Photonics Thought Leadership to ECOC 2026 in Málaga, Spain",
-      "url": "https://finnhub.io/api/news?id=b71ba586ca38908ce7a20e7b5ead0843eda8a991641166b5728ba92121bfbd3f"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Morgan Stanley Upgrades Synopsys to Overweight, Maintains Price Target to $500",
-      "url": "https://finnhub.io/api/news?id=4207a1d87dd5492915355e62816abec54866142ca39a1824a7a7bf81d26106d8"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
-      "url": "https://finnhub.io/api/news?id=2ac2ba787536589b8e9b25b125562b5cf8a6fed3b33a834f5fb8f3541beb7db9"
-    },
-    {
-      "stock": "ARM",
-      "headline": "AI Could Eventually Crack Cancer and Drug Discovery, Says Arm CEO — But This Is What’s Holding It Back",
-      "url": "https://finnhub.io/api/news?id=649b29b871f468e0579b3903f7d79c2aac4d143b682d97b799d70ef12858c5e5"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ Just Raised Its 2026 Revenue Outlook by About 60%. Most of the Raise Isn't Quantum Computing.",
-      "url": "https://finnhub.io/api/news?id=458a5da8d1664460c0aa928c5f0977e4e686bcf52d02e9ec6a06be61239783a5"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Inside CEO Cristiano Amon’s vision for Qualcomm’s future",
-      "url": "https://finnhub.io/api/news?id=5a16a74ceff7584cf0a7c95f913de0a3c1721a17e68c5827bee0f06482737006"
-    },
-    {
-      "stock": "DE",
-      "headline": "3 Earnings Season Winners That Analysts Can't Stop Upgrading",
-      "url": "https://finnhub.io/api/news?id=7849a5e4d6d57de5839691d113e57f41c7ec7edc6e494d8b3795e69131ac139c"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Accenture Dedicates 1,000 Engineers to Google’s Agentic AI — And Exposes Where the Real Bottleneck Lives",
-      "url": "https://finnhub.io/api/news?id=87300eff99639498480488883b3e5c3d8b888c0d94c338624f04d3c44280bef7"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Arista vs. IBM: Which Cloud AI Stock Should Investors Buy Now?",
-      "url": "https://finnhub.io/api/news?id=4c6721f6863f81b0676afbb9dfe754f6ba86610426f9c0a38b666c45568ab23a"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Buy 3 AI-Powered Photonics Stocks to Tap Solid Short-Term Price Upside",
-      "url": "https://finnhub.io/api/news?id=4405df7aa13429f46ef3d8e9b2c71ae27b1520c2aea971e13cb2e9c29b7d8ebf"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Intel upgraded, Reddit initiated: Wall Street's top analyst calls",
-      "url": "https://finnhub.io/api/news?id=953fd7c963e0c5c7fefec12d69c7c78db5d8c24be2387123c7a503f0a80f1920"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Refreshes For Agentic AI",
-      "url": "https://finnhub.io/api/news?id=4ee6ac590ff8f98c03b0598f75118db7e21f2044be6d117cf72002f51c4a4ec8"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Morgan Stanley upgrades Synopsys as it turns selective on chip stocks",
-      "url": "https://finnhub.io/api/news?id=86bd3dfe29cd22d7bdb9159f192bdb5a859a0409fc57be9d87ba634095f5d04f"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Mizuho Maintains Outperform on IonQ, Lowers Price Target to $52",
-      "url": "https://finnhub.io/api/news?id=fa2b6336bea12b1bc50cf882ba47a0c9c98bd2b5c6f103347919295bfd250489"
+      "headline": "Dan Ives Warns 10%-15% of US Data Center Projects Could Be Cut as AI Boom Faces Political Backlash, Calls It the ‘Biggest Threat’",
+      "url": "https://finnhub.io/api/news?id=01344eed6869260b8a9e6f7af97d8fde8461e6323f182a4e6ceb4e06c6386e91"
     },
     {
       "stock": "TEAM",
-      "headline": "SailPoint: Noticeable Deceleration Amid Steep Multiples (Downgrade)",
-      "url": "https://finnhub.io/api/news?id=329530da2b65bf50188571d313beef6267be14912d6414be8f3401262e6d0fa5"
+      "headline": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem",
+      "url": "https://finnhub.io/api/news?id=f997e67e68a4e3e63b9e5338aae37a8be5c4d78837d3664769028896f64946a3"
     },
     {
-      "stock": "MU",
-      "headline": "Prediction: Micron's Sept. 30 Earnings Could Be the Most Important Catalyst for AI Memory Stocks This Year",
-      "url": "https://finnhub.io/api/news?id=4500dfcf417845cbc130ffe52c4a04b7d0e7f5127e1881cd9067e6ccc0c08b38"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Apple iPhone 18 Pro Launched With New A20 Pro Chip, Siri AI, Camera Upgrades and $1,199 Starting Price",
-      "url": "https://finnhub.io/api/news?id=fff9a56bb83b073c9b61228180c554d9dd7397e9d59c0e9b3ccb04653f89d23f"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "How Autonomous Agent Risks Are Reshaping Cybersecurity Investing",
-      "url": "https://finnhub.io/api/news?id=089ef67074d6a3ecee3122c92d6aece5e33f07e390d9ab6b73c3886c91ce7d5c"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "AMZN, META, GOOGL Might Lose Billions As Ohio State Reconsiders Data Center Tax Breaks, Says Report",
-      "url": "https://finnhub.io/api/news?id=4844d095a2ba9ad4c216955ed49fa3250cf37fb47466d25dd03a5fc1631fe4a7"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "This billionaire is now worth more than Jeff Bezos",
-      "url": "https://finnhub.io/api/news?id=14ff168478ab1fd26d9dc15f1ae845710b97c720dc4794d24c9121aa30f1c828"
-    },
-    {
-      "stock": "DE",
-      "headline": "Can Data Center Power Fuel CAT Stock To New Highs?",
-      "url": "https://finnhub.io/api/news?id=49146ec6f36f4b499c5fc5f90910b14ad2f7faf94b89e7a32926afd4e0ebea32"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Q2 Earnings Highlights: IBM (NYSE:IBM) Vs The Rest Of The IT Services & Consulting Stocks",
-      "url": "https://finnhub.io/api/news?id=3d70e3bae6daa2361ff7239ca6f000406d515f19a23efd56745839e28aa2af91"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Stock Market Today, Sept. 9: Meta Surges Over 6.5% on Muse AI Agent Launch",
-      "url": "https://finnhub.io/api/news?id=2c50c9c122ce361357da6c5f6f43119bb626ae70541fda74045942e1bcefff7f"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Florida Accuses Netflix Of Privacy 'Bait-And-Switch'",
-      "url": "https://finnhub.io/api/news?id=e829fa09d6a9731a57785b69c03396a981e48890e2e81f0e00797a40a741bad3"
+      "stock": "RDDT",
+      "headline": "They Bought a House That Made Them House Poor. Would They Do It Again? 'I Was Sick and Stressed With Anxiety Like Every Day'",
+      "url": "https://finnhub.io/api/news?id=c6e2780d5cb9afda8363802c4d706b8148ca4ec6b7430db55144943f1b65bc21"
     }
   ]
 }
