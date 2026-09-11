@@ -80,6 +80,56 @@
       "stock": "RDDT",
       "headline": "It's 2026 and Gurus Are Still Promising $10K a Month From Low-Effort AI Side Hustles. It Feels Like 99% of the Money Is ‘About Selling the Shovel’",
       "url": "https://finnhub.io/api/news?id=fd596c9d3cb6820bf1a59df81d6bce0228c265db3e9eb77048d51500a62603f0"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron Stays Flat as 68-Month Bonuses Fail to End Strike Risk",
+      "url": "https://finnhub.io/api/news?id=48f3e4abf0d3a64469bfa5884324bfadacbd54fcc755b7347ff6c74f5ae23594"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Why Micron Needs To Be In An AI Portfolio",
+      "url": "https://finnhub.io/api/news?id=62ecc9d4d989d019cf488bd2676e7475c81e8cf22270780edfbb336ed8d30b90"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "EBAY Paid Holders $19 Billion While The Stock Trailed The Market",
+      "url": "https://finnhub.io/api/news?id=377a42729a754b3ba1ddd3b37b86f1786ae7d6be65eab0789e3652934d90dd95"
+    },
+    {
+      "stock": "COHR",
+      "headline": "ADBE Q3 Earnings Beat Estimates, Revenues Rise on Subscription Growth",
+      "url": "https://finnhub.io/api/news?id=b886f43b329cd73dff7c5bb01c44c32a15c6608f55759401ecaaf7ad1f6b6c72"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Would You Be Glad To Own Synopsys At A Discount While AI Tests Its Software?",
+      "url": "https://finnhub.io/api/news?id=f7781d3e84ebbbab99e5dbe06837bbdcac3465ba7305f2cb193eb4262a10627d"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Elon Musk’s Boring Company raises $3B at $23B valuation",
+      "url": "https://finnhub.io/api/news?id=9e9bfd16d56a11a776b61b425c5ab8c9f88fd1ff10c31f3d63413f53e0f48e66"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber CEO makes shocking admission about layoffs",
+      "url": "https://finnhub.io/api/news?id=2ca33bbd8da0d073ccc97e3dc1919b01302e1ffb3094914305e056fe23f43a00"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Adobe Just Fell Off Another Cliff: Why One Wall Street Manager Remains Resolute That It Will Increase 55% Soon",
+      "url": "https://finnhub.io/api/news?id=7d02b33fe942f9bbe75d5b45499349525113ab59a3470fde7ec696aa116e11f2"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Gains 2% as Lunar AI Beats Mapping Methods by 23%",
+      "url": "https://finnhub.io/api/news?id=56802dc47bb80538777318fcd506a487a9778c3aac939917bec121877abe166a"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Hyperscalers Bet on AI & Quantum: Watch GOOGL, AMZN, IBM in September",
+      "url": "https://finnhub.io/api/news?id=05bf89e2ad40453f7813c704283cc3ff58cf9a2ba8587c32e0dbcf3ce6d14029"
     }
   ]
 }
