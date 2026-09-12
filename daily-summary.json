@@ -1,4 +1,35 @@
 {
   "date": "2026-09-12",
-  "items": []
+  "items": [
+    {
+      "stock": "TSM",
+      "headline": "Marvell Is Winning Custom AI Business. TSMC May Be the Safer Way to Play It",
+      "url": "https://finnhub.io/api/news?id=83c4b728c795b00010684b8e8271456fdf2b3ad6e2c8f37d786e1b6f63034822"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Sirius XM CEO Highlights Cash Flow Growth, New Sports Plans and Ad Expansion at Conference",
+      "url": "https://finnhub.io/api/news?id=0ab3dc89501a319813963f5ce0faef10bd91fdc5d6fcde435c50ed97d1e895ce"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Prediction: Synopsys Could Be The Next AI Winner",
+      "url": "https://finnhub.io/api/news?id=0668ac70af5f30bf7c12e6c933ab38ef40b1b8b9c0ed7784485688a916610f85"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Prediction: Synopsys Could Be The Next AI Winner",
+      "url": "https://finnhub.io/api/news?id=0668ac70af5f30bf7c12e6c933ab38ef40b1b8b9c0ed7784485688a916610f85"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google's Historic 396 MW Clean Energy Deal Just Changed the Game for 1 AI Power Play",
+      "url": "https://finnhub.io/api/news?id=547aacb955fd8ad53b9a48b5b9fada52d5ad914cd9a01910856e8429208de56e"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Why Am I Punished With a Higher Tax Bill for Improving My Own Home? I Already Paid Taxes on the Materials and Labor",
+      "url": "https://finnhub.io/api/news?id=1535a5987e25305e84605d202a46d8ee1c7b32625783708b3534e3ccbd273e77"
+    }
+  ]
 }
