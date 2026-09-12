@@ -1,155 +1,30 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "items": [
     {
-      "stock": "TSLA",
-      "headline": "Uber Stock Pops After CEO Buys Shares Worth $10 Million",
-      "url": "https://finnhub.io/api/news?id=097a2291b2ef4c103c3199f1ed7fea9dbf492469a075b6e811f285ced72e1984"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Stock Pops After CEO Buys Shares Worth $10 Million",
-      "url": "https://finnhub.io/api/news?id=097a2291b2ef4c103c3199f1ed7fea9dbf492469a075b6e811f285ced72e1984"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Why Did Autodesk Stock Drop So Soon After Raising Its Forecast?",
-      "url": "https://finnhub.io/api/news?id=9bbf20ff8f6977c9d2aa360b0567830c37d894ab4fbed4cf3c7524476efd08c5"
-    },
-    {
       "stock": "MU",
-      "headline": "These 2 Hardware Leaders Will Cash In on the Next Data Center Memory Crunch",
-      "url": "https://finnhub.io/api/news?id=08f81dca96bfc4bd9701f8ae80951abb63658830359bf2f85b43cbc290881db5"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Nvidia CEO Reportedly Dismisses Anthropic Exec's AI Doomsday Warning As ‘Outlandish’ And ‘Deeply Untrue’",
-      "url": "https://finnhub.io/api/news?id=fa32a2e0b4c62ef194ce2a68300d003c10f56ee5db00a67fc28265031aad011f"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "These 2 Hardware Leaders Will Cash In on the Next Data Center Memory Crunch",
-      "url": "https://finnhub.io/api/news?id=08f81dca96bfc4bd9701f8ae80951abb63658830359bf2f85b43cbc290881db5"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Why Did Autodesk Stock Drop So Soon After Raising Its Forecast?",
-      "url": "https://finnhub.io/api/news?id=9bbf20ff8f6977c9d2aa360b0567830c37d894ab4fbed4cf3c7524476efd08c5"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings (ARM): AI Infrastructure and CPU Demand Drive Upbeat Outlook",
-      "url": "https://finnhub.io/api/news?id=4e752d0c16fed46470f1d1fe19a2598f289e82dd0175da50abe335107b450dfc"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Technologies Targets Sparse Markets, AV Scale as Uber One Membership Tops 50 Million",
-      "url": "https://finnhub.io/api/news?id=5d67f30ed9c9755a660e4b5b671c46588440fd109b1fb0b31eade5afdba590ac"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "C3.ai vs. Atlassian: Which Technology Stock Is a Better Buy in 2026?",
-      "url": "https://finnhub.io/api/news?id=11e7b3cf1f7b285cb61c26fb0169dca332be599203b8ed91d577badd63cbb4c4"
+      "headline": "David Tepper makes surprising double bet on AI's biggest bottleneck",
+      "url": "https://finnhub.io/api/news?id=8d100c24886d2ccaf2ae3f9105ca2e433a7e54ce011328ca811aab6bfaebbe03"
     },
     {
       "stock": "TSM",
-      "headline": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin",
-      "url": "https://finnhub.io/api/news?id=c5641df9bbd4bd4c27bfa16a035e562452a01002e28403e764c12c085e3a47cc"
+      "headline": "Broadcom’s Custom AI Chip Boom Has a Powerful Landlord: TSM",
+      "url": "https://finnhub.io/api/news?id=7376d3abf269ea758e4c34e245cc45d2d0121c3eb4c5b7962aba4318a3e388da"
     },
     {
       "stock": "CRWD",
-      "headline": "CRWD Stock Leads Wedbush’s Cybersecurity Bets: Check Point, Fortinet, Varonis, Telos Downgraded",
-      "url": "https://finnhub.io/api/news?id=991b93eeb05ffec5bbb4fe725e48478916cd0f00ca44cf07c2e9f7fa9910a2de"
+      "headline": "Jensen Huang Says Cybersecurity Is AI’s Next Blockbuster App. CrowdStrike Is Already Building It With Nvidia",
+      "url": "https://finnhub.io/api/news?id=f13b6fc855e24895d4d334790564fbc8285c896392906770ae0a98fb6653e264"
     },
     {
-      "stock": "SNPS",
-      "headline": "What to Know as Wells Fargo Upgrades Synopsys Stock",
-      "url": "https://finnhub.io/api/news?id=133854339cf530db2c9ad01d1c84c3c339fb037a3d154a46ea78b0dcafd78630"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Will Counter-UAS Demand Sustain Ondas' Momentum Into 2027?",
-      "url": "https://finnhub.io/api/news?id=3d6380cd97b38a2a6c1d62bf2c677d7fd7660785b07270c4874fe53489c00790"
+      "stock": "AMZN",
+      "headline": "David Tepper makes surprising double bet on AI's biggest bottleneck",
+      "url": "https://finnhub.io/api/news?id=8d100c24886d2ccaf2ae3f9105ca2e433a7e54ce011328ca811aab6bfaebbe03"
     },
     {
       "stock": "GOOGL",
-      "headline": "Sector Update: Financial Stocks Advance Pre-Bell Friday",
-      "url": "https://finnhub.io/api/news?id=d41b82e010e4fdd57c16c3ca52d4d75336f407afa187eb22a8f34d1ab2a560b7"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "It's 2026 and Gurus Are Still Promising $10K a Month From Low-Effort AI Side Hustles. It Feels Like 99% of the Money Is ‘About Selling the Shovel’",
-      "url": "https://finnhub.io/api/news?id=fd596c9d3cb6820bf1a59df81d6bce0228c265db3e9eb77048d51500a62603f0"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron Stays Flat as 68-Month Bonuses Fail to End Strike Risk",
-      "url": "https://finnhub.io/api/news?id=48f3e4abf0d3a64469bfa5884324bfadacbd54fcc755b7347ff6c74f5ae23594"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Why Micron Needs To Be In An AI Portfolio",
-      "url": "https://finnhub.io/api/news?id=62ecc9d4d989d019cf488bd2676e7475c81e8cf22270780edfbb336ed8d30b90"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "EBAY Paid Holders $19 Billion While The Stock Trailed The Market",
-      "url": "https://finnhub.io/api/news?id=377a42729a754b3ba1ddd3b37b86f1786ae7d6be65eab0789e3652934d90dd95"
-    },
-    {
-      "stock": "COHR",
-      "headline": "ADBE Q3 Earnings Beat Estimates, Revenues Rise on Subscription Growth",
-      "url": "https://finnhub.io/api/news?id=b886f43b329cd73dff7c5bb01c44c32a15c6608f55759401ecaaf7ad1f6b6c72"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Would You Be Glad To Own Synopsys At A Discount While AI Tests Its Software?",
-      "url": "https://finnhub.io/api/news?id=f7781d3e84ebbbab99e5dbe06837bbdcac3465ba7305f2cb193eb4262a10627d"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Elon Musk’s Boring Company raises $3B at $23B valuation",
-      "url": "https://finnhub.io/api/news?id=9e9bfd16d56a11a776b61b425c5ab8c9f88fd1ff10c31f3d63413f53e0f48e66"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber CEO makes shocking admission about layoffs",
-      "url": "https://finnhub.io/api/news?id=2ca33bbd8da0d073ccc97e3dc1919b01302e1ffb3094914305e056fe23f43a00"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Adobe Just Fell Off Another Cliff: Why One Wall Street Manager Remains Resolute That It Will Increase 55% Soon",
-      "url": "https://finnhub.io/api/news?id=7d02b33fe942f9bbe75d5b45499349525113ab59a3470fde7ec696aa116e11f2"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM Gains 2% as Lunar AI Beats Mapping Methods by 23%",
-      "url": "https://finnhub.io/api/news?id=56802dc47bb80538777318fcd506a487a9778c3aac939917bec121877abe166a"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Hyperscalers Bet on AI & Quantum: Watch GOOGL, AMZN, IBM in September",
-      "url": "https://finnhub.io/api/news?id=05bf89e2ad40453f7813c704283cc3ff58cf9a2ba8587c32e0dbcf3ce6d14029"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent (COHR) Down 10.4% Since Last Earnings Report: Can It Rebound?",
-      "url": "https://finnhub.io/api/news?id=0fdb852a0c6f0c18d927e3e9cb22b3edde1db3592af4b0fcf1fbee25ceb83a6c"
-    },
-    {
-      "stock": "HON",
-      "headline": "Friday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=d203da3fbc27c56f1bb176547ad99ad90d3267147090af2aa48d0f2d8febe0d4"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Draganfly Receives Five-Year, C$24.25M Contract From Canada Government To Supply Additional 4,900 Uncrewed Aircraft Systems",
-      "url": "https://finnhub.io/api/news?id=dc60af6dd2ddf10d55a23ec558c0aeb38eaa99d6e12e15dc921bac2246b67ec0"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Rigetti Secures $100 Million CHIPS Award to Advance Quantum Scaling",
-      "url": "https://finnhub.io/api/news?id=e0ad0d23c9c476c3092b04a341024b031ffe844952fb2c7753e0f6f1f2e4b7e3"
+      "headline": "David Tepper makes surprising double bet on AI's biggest bottleneck",
+      "url": "https://finnhub.io/api/news?id=8d100c24886d2ccaf2ae3f9105ca2e433a7e54ce011328ca811aab6bfaebbe03"
     }
   ]
 }
