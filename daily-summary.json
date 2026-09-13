@@ -1,43 +1,28 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "items": [
     {
       "stock": "TSM",
-      "headline": "Marvell Is Winning Custom AI Business. TSMC May Be the Safer Way to Play It",
-      "url": "https://finnhub.io/api/news?id=83c4b728c795b00010684b8e8271456fdf2b3ad6e2c8f37d786e1b6f63034822"
+      "headline": "Apple, Taiwan Semi Lead Five Stocks Near Buy Points",
+      "url": "https://finnhub.io/api/news?id=9800edf1611a06a111c18e1929db27b1209f5b8bfa2f8b5aac93e80430ddc6d5"
     },
     {
       "stock": "AMZN",
-      "headline": "Sirius XM CEO Highlights Cash Flow Growth, New Sports Plans and Ad Expansion at Conference",
-      "url": "https://finnhub.io/api/news?id=0ab3dc89501a319813963f5ce0faef10bd91fdc5d6fcde435c50ed97d1e895ce"
+      "headline": "Anthropic’s Prisoner’s Dilemma: Dario Amodei Hits the Brakes on AI While Begging Everyone Else to Do the Same",
+      "url": "https://finnhub.io/api/news?id=485f6577a9a81ce3a8dd89eab7650f5df4a35b969d4a7205b6268b48116fa74d"
     },
     {
-      "stock": "SNPS",
-      "headline": "Prediction: Synopsys Could Be The Next AI Winner",
-      "url": "https://finnhub.io/api/news?id=0668ac70af5f30bf7c12e6c933ab38ef40b1b8b9c0ed7784485688a916610f85"
+      "stock": "TSLA",
+      "headline": "Longevity Entrepreneur Peter Diamandis Says He’s Not Trying to Live Longer Because He’s Afraid of Dying — He’s Just Not Done Being ‘Curious’",
+      "url": "https://finnhub.io/api/news?id=a976bb6a0d7fdd32cc143b33adad14d07be10c228a1e55a1b456bc06fff303e0"
     },
     {
-      "stock": "ADSK",
-      "headline": "Prediction: Synopsys Could Be The Next AI Winner",
-      "url": "https://finnhub.io/api/news?id=0668ac70af5f30bf7c12e6c933ab38ef40b1b8b9c0ed7784485688a916610f85"
+      "stock": "QBTS",
+      "headline": "BigBear.ai vs. D-Wave Quantum: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://finnhub.io/api/news?id=d349aa16552136cc078fbeafc8d6b509e7e81b7445ee5488706c5999c2558fdf"
     },
     {
       "stock": "GOOGL",
-      "headline": "Google's Historic 396 MW Clean Energy Deal Just Changed the Game for 1 AI Power Play",
-      "url": "https://finnhub.io/api/news?id=547aacb955fd8ad53b9a48b5b9fada52d5ad914cd9a01910856e8429208de56e"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Why Am I Punished With a Higher Tax Bill for Improving My Own Home? I Already Paid Taxes on the Materials and Labor",
-      "url": "https://finnhub.io/api/news?id=1535a5987e25305e84605d202a46d8ee1c7b32625783708b3534e3ccbd273e77"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Zscaler Conference: AI Agents, Agentic SOC Fuel Zero-Trust Growth Ambitions",
-      "url": "https://finnhub.io/api/news?id=53cb125a3634a9dd4ae2f0eb07792cb9c7b04cf795a373da9f536028de280c22"
-    },
-    {
-      "stock": "AMZN",
       "headline": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
       "url": "https://finnhub.io/api/news?id=6490e4ac2a408fad6a7e99a108b5027590baebdb2f8bd9abf6aa66d2bb3bf38a"
     }
