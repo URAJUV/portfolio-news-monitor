@@ -70,6 +70,26 @@
       "stock": "GOOGL",
       "headline": "Google Bought YouTube for $1.65 Billion in 2006. The Streaming Platform Is Now the Main Driver of a Roughly $93 Billion Business at Alphabet.",
       "url": "https://finnhub.io/api/news?id=c6496489e08510f4066ed1b0011c27210180b5c022d6dbc65dbb2f27f48f1968"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Beyond Nvidia: Finding Opportunity In The AI Buildout",
+      "url": "https://finnhub.io/api/news?id=43dd2e87fc78e1c2c00d864bcafad7355f31721e5953f44cd8683a05fe6db3af"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
+      "url": "https://finnhub.io/api/news?id=18cfe03a8839403419e3d03e6a1c18dc288f071d189cda5e28bee8153ac6db91"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders",
+      "url": "https://finnhub.io/api/news?id=2eaa5dbc845c565644de45665b35b3a95161a7587828070179c17f4b8f0403f5"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Airbnb’s CEO Says AI Is the Best Thing That Ever Happened to His Company. Here’s Why",
+      "url": "https://finnhub.io/api/news?id=81324a4cf5a3fd5ed4e1cc2a5a4cb7a1c042eaa1a3ecdc4678e5c833b8f470d8"
     }
   ]
 }
