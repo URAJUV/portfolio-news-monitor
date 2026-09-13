@@ -25,6 +25,21 @@
       "stock": "GOOGL",
       "headline": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
       "url": "https://finnhub.io/api/news?id=6490e4ac2a408fad6a7e99a108b5027590baebdb2f8bd9abf6aa66d2bb3bf38a"
+    },
+    {
+      "stock": "MU",
+      "headline": "Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case.",
+      "url": "https://finnhub.io/api/news?id=4e6e8471eafd333d014f6319ff458022c276914c6e69a28c09f531f323f1f24c"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Anthropic’s Prisoner’s Dilemma: Dario Amodei Hits the Brakes on AI While Begging Everyone Else to Do the Same",
+      "url": "https://finnhub.io/api/news?id=485f6577a9a81ce3a8dd89eab7650f5df4a35b969d4a7205b6268b48116fa74d"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Musk attacks Britain over ‘stifling’ driverless car rules",
+      "url": "https://finnhub.io/api/news?id=2973ace00175f9c2256f936672d4f430653d374685ee88fd6a967c229a0be297"
     }
   ]
 }
