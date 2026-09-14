@@ -1,100 +1,20 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "items": [
     {
       "stock": "TSM",
-      "headline": "Apple, Taiwan Semi Lead Five Stocks Near Buy Points",
-      "url": "https://finnhub.io/api/news?id=9800edf1611a06a111c18e1929db27b1209f5b8bfa2f8b5aac93e80430ddc6d5"
+      "headline": "Amazon and 2 Other AI Stocks to Buy With $5,000",
+      "url": "https://finnhub.io/api/news?id=0e847eacb7767c1f8b61116e237bb15488e2418bf0638be3345bc59f1cad05bd"
     },
     {
       "stock": "AMZN",
-      "headline": "Anthropic’s Prisoner’s Dilemma: Dario Amodei Hits the Brakes on AI While Begging Everyone Else to Do the Same",
-      "url": "https://finnhub.io/api/news?id=485f6577a9a81ce3a8dd89eab7650f5df4a35b969d4a7205b6268b48116fa74d"
+      "headline": "Amazon and 2 Other AI Stocks to Buy With $5,000",
+      "url": "https://finnhub.io/api/news?id=0e847eacb7767c1f8b61116e237bb15488e2418bf0638be3345bc59f1cad05bd"
     },
     {
-      "stock": "TSLA",
-      "headline": "Longevity Entrepreneur Peter Diamandis Says He’s Not Trying to Live Longer Because He’s Afraid of Dying — He’s Just Not Done Being ‘Curious’",
-      "url": "https://finnhub.io/api/news?id=a976bb6a0d7fdd32cc143b33adad14d07be10c228a1e55a1b456bc06fff303e0"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "BigBear.ai vs. D-Wave Quantum: Which Technology Stock Is a Better Buy in 2026?",
-      "url": "https://finnhub.io/api/news?id=d349aa16552136cc078fbeafc8d6b509e7e81b7445ee5488706c5999c2558fdf"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
-      "url": "https://finnhub.io/api/news?id=6490e4ac2a408fad6a7e99a108b5027590baebdb2f8bd9abf6aa66d2bb3bf38a"
-    },
-    {
-      "stock": "MU",
-      "headline": "Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case.",
-      "url": "https://finnhub.io/api/news?id=4e6e8471eafd333d014f6319ff458022c276914c6e69a28c09f531f323f1f24c"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Anthropic’s Prisoner’s Dilemma: Dario Amodei Hits the Brakes on AI While Begging Everyone Else to Do the Same",
-      "url": "https://finnhub.io/api/news?id=485f6577a9a81ce3a8dd89eab7650f5df4a35b969d4a7205b6268b48116fa74d"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Musk attacks Britain over ‘stifling’ driverless car rules",
-      "url": "https://finnhub.io/api/news?id=2973ace00175f9c2256f936672d4f430653d374685ee88fd6a967c229a0be297"
-    },
-    {
-      "stock": "MU",
-      "headline": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Sept. 30 (Hint: It's Not Micron)",
-      "url": "https://finnhub.io/api/news?id=54e3ec4ccfac9b4142b36ad7b81c0dd0f565ff41f57c7d48f4d6e2585b4ca374"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Hit $600 by the End of 2027",
-      "url": "https://finnhub.io/api/news?id=3a461a319b1aa58a968ebff66655ca54ce43bd37ddae590ef55f0fb922889376"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Amazon’s Zoox Enters San Francisco’s Crowded Robotaxi Market, Taking Direct Aim at Waymo and Tesla",
-      "url": "https://finnhub.io/api/news?id=b272ecf70bd060047588146b95771cdc643bea2ba38d400fa4607aa47ca6e332"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
-      "url": "https://finnhub.io/api/news?id=e4c6cecba5f5a33e9ea40e3edc9a2a2ac21b3b0fe97c685213ec6949b86ec585"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant",
-      "url": "https://finnhub.io/api/news?id=3bfae5d98b8ccb4e8438bd2aed0ccb5ef1acf615d8444c7835aaa0b7feb97199"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Google Bought YouTube for $1.65 Billion in 2006. The Streaming Platform Is Now the Main Driver of a Roughly $93 Billion Business at Alphabet.",
-      "url": "https://finnhub.io/api/news?id=c6496489e08510f4066ed1b0011c27210180b5c022d6dbc65dbb2f27f48f1968"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Beyond Nvidia: Finding Opportunity In The AI Buildout",
-      "url": "https://finnhub.io/api/news?id=43dd2e87fc78e1c2c00d864bcafad7355f31721e5953f44cd8683a05fe6db3af"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
-      "url": "https://finnhub.io/api/news?id=18cfe03a8839403419e3d03e6a1c18dc288f071d189cda5e28bee8153ac6db91"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders",
-      "url": "https://finnhub.io/api/news?id=2eaa5dbc845c565644de45665b35b3a95161a7587828070179c17f4b8f0403f5"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Airbnb’s CEO Says AI Is the Best Thing That Ever Happened to His Company. Here’s Why",
-      "url": "https://finnhub.io/api/news?id=81324a4cf5a3fd5ed4e1cc2a5a4cb7a1c042eaa1a3ecdc4678e5c833b8f470d8"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Apple and Taiwan Semiconductor Manufacturing Just Announced a Cutting-Edge Chip. 1 Stock Offers Far Greater Upside.",
-      "url": "https://finnhub.io/api/news?id=4b6449707f953acd9b5a6928bd1f587d4e7019e018c0d2db66479e4ef5f28ebe"
+      "stock": "RDDT",
+      "headline": "I Retired at 62 After 40 Years as an Auto Mechanic. It was a Big Mistake, as Social Security Isn't Enough, but now Nobody Wants to Hire Me",
+      "url": "https://finnhub.io/api/news?id=ed481d0cf4b470bc6ab692f127d210b968f49330d89dbff5a543b9b482ae278e"
     }
   ]
 }
