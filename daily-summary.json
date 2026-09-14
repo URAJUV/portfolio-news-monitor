@@ -50,6 +50,41 @@
       "stock": "DE",
       "headline": "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
       "url": "https://finnhub.io/api/news?id=bf77f1e813adcffba3e7ffa63652bfabc0b11679ccac621b9c6739865f0b9ba4"
+    },
+    {
+      "stock": "MU",
+      "headline": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
+      "url": "https://finnhub.io/api/news?id=3086ce98c2030ae87a703075da360704d392c311f567a47242863841cfaa49f4"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Prediction: Arm Could Be the Picks-and-Shovels Winner of the AI Boom",
+      "url": "https://finnhub.io/api/news?id=4e1eb5210a447cb19a38e970be2add0d0791738e927509aa65d3487b405e067e"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Netflix Stock Rose 4% While the AI Trade Sold Off on Monday. Its Capital Goes Into Shows, Not Silicon.",
+      "url": "https://finnhub.io/api/news?id=3730fea430f92b8ef87c851cc4557e36e5950ca4724ab1da5a9f8b4e425733f0"
+    },
+    {
+      "stock": "HON",
+      "headline": "International Luxury Hotel Association Adds Culture, Wellness and AI Sessions to INSPIRE 2026 Agenda",
+      "url": "https://finnhub.io/api/news?id=c487782f8e30896805bca691edd7f5ff2b3e6012281393a2a9de2f91c2eba7c8"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "How Far Can Adobe Stock Fall While It Waits On Freemium?",
+      "url": "https://finnhub.io/api/news?id=78f44efe0feffbec1a96f32cc394d696b2dd731d2ae9db52910257b60a908c50"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
+      "url": "https://finnhub.io/api/news?id=90ec7de50bce06e131bad79726bd4df850afa47acc3da8ba426d9ece1d110b45"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit Inc. (RDDT) Gains As Market Dips: What You Should Know",
+      "url": "https://finnhub.io/api/news?id=8bfa02b6669bf6609b95643db8e21c1cfb4ccff54fc22ea098572524adf21522"
     }
   ]
 }
