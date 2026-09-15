@@ -1,90 +1,40 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "items": [
     {
       "stock": "TSM",
-      "headline": "Amazon and 2 Other AI Stocks to Buy With $5,000",
-      "url": "https://finnhub.io/api/news?id=0e847eacb7767c1f8b61116e237bb15488e2418bf0638be3345bc59f1cad05bd"
+      "headline": "Megaprojects: A Cross-Sector Industrial Capex Cycle",
+      "url": "https://finnhub.io/api/news?id=3a41e75fbd554b6ad743f2ee384d179733732ed0ae371ff310a9741245287f8f"
     },
     {
       "stock": "AMZN",
-      "headline": "Amazon and 2 Other AI Stocks to Buy With $5,000",
-      "url": "https://finnhub.io/api/news?id=0e847eacb7767c1f8b61116e237bb15488e2418bf0638be3345bc59f1cad05bd"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "I Retired at 62 After 40 Years as an Auto Mechanic. It was a Big Mistake, as Social Security Isn't Enough, but now Nobody Wants to Hire Me",
-      "url": "https://finnhub.io/api/news?id=ed481d0cf4b470bc6ab692f127d210b968f49330d89dbff5a543b9b482ae278e"
-    },
-    {
-      "stock": "MU",
-      "headline": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
-      "url": "https://finnhub.io/api/news?id=0b1d111c70928ee16f3f64b47e2961a0b0f958735b22d4b22c842eb804a74d10"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Intel, AMD, Marvell, Oracle, CrowdStrike, and More Stocks That Explain Today’s Market",
-      "url": "https://finnhub.io/api/news?id=7abe5d1bb90b7a4aa11f6d1a6da95ec31617a0288b5fe9ed2ae0f7677d14d7dd"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "US manufacturers raise concerns about AI shopping chatbots",
-      "url": "https://finnhub.io/api/news?id=aaf74ab9a96068de10f21cc4954a51e4743c14c7c35bc3ee3686ea42aeaea628"
+      "headline": "Amazon Partners with Wiwynn to Expand U.S. AI Infrastructure Capacity",
+      "url": "https://finnhub.io/api/news?id=9d6f938474dcced437940a650150120826e2569d92b9e30d51edea96f8f199f9"
     },
     {
       "stock": "HON",
-      "headline": "Aircraft Lightning Protection Market Outlook 2026-2035 - Featuring Profiles of Honeywell International, TE Connectivity, and Parker Hannifin",
-      "url": "https://finnhub.io/api/news?id=43345b0036ca293f00ed2a44ef382fdbe36d4098e9dc79f16a006341925bcd37"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Viral AI Doomer Tweet: Engineered Panic?",
-      "url": "https://finnhub.io/api/news?id=b0c60bf972dbd9b39901a56bdfb0e44a59d33c729c730c6c665e4b12ebb13a78"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Prediction: Arm Could Be the Picks-and-Shovels Winner of the AI Boom",
-      "url": "https://finnhub.io/api/news?id=4e1eb5210a447cb19a38e970be2add0d0791738e927509aa65d3487b405e067e"
+      "headline": "Why Today’s GE Downgrade Wasn’t Just a Downgrade",
+      "url": "https://finnhub.io/api/news?id=8d940ada7a921e3930f90d263870f07a7cb09217a5ff470dfaaeb0ea9b154e7f"
     },
     {
       "stock": "DE",
-      "headline": "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
-      "url": "https://finnhub.io/api/news?id=bf77f1e813adcffba3e7ffa63652bfabc0b11679ccac621b9c6739865f0b9ba4"
-    },
-    {
-      "stock": "MU",
-      "headline": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
-      "url": "https://finnhub.io/api/news?id=3086ce98c2030ae87a703075da360704d392c311f567a47242863841cfaa49f4"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Prediction: Arm Could Be the Picks-and-Shovels Winner of the AI Boom",
-      "url": "https://finnhub.io/api/news?id=4e1eb5210a447cb19a38e970be2add0d0791738e927509aa65d3487b405e067e"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Netflix Stock Rose 4% While the AI Trade Sold Off on Monday. Its Capital Goes Into Shows, Not Silicon.",
-      "url": "https://finnhub.io/api/news?id=3730fea430f92b8ef87c851cc4557e36e5950ca4724ab1da5a9f8b4e425733f0"
-    },
-    {
-      "stock": "HON",
-      "headline": "International Luxury Hotel Association Adds Culture, Wellness and AI Sessions to INSPIRE 2026 Agenda",
-      "url": "https://finnhub.io/api/news?id=c487782f8e30896805bca691edd7f5ff2b3e6012281393a2a9de2f91c2eba7c8"
+      "headline": "Megaprojects: A Cross-Sector Industrial Capex Cycle",
+      "url": "https://finnhub.io/api/news?id=3a41e75fbd554b6ad743f2ee384d179733732ed0ae371ff310a9741245287f8f"
     },
     {
       "stock": "ADSK",
-      "headline": "How Far Can Adobe Stock Fall While It Waits On Freemium?",
-      "url": "https://finnhub.io/api/news?id=78f44efe0feffbec1a96f32cc394d696b2dd731d2ae9db52910257b60a908c50"
+      "headline": "Autodesk, C3.ai, GoDaddy, Rapid7, and Sprout Social Stocks Trade Up, What You Need To Know",
+      "url": "https://finnhub.io/api/news?id=7dac4c8862762569c1782785a2b0cff711ab8c335cd38100d27f3ce2491a659b"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Did You Pay For Palantir's Guidance Or For Something Else?",
+      "url": "https://finnhub.io/api/news?id=c3974509279070742f85a17dc52cf35f3ccacec4f79c8067045cb4f8fe25d44d"
     },
     {
       "stock": "GOOGL",
-      "headline": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
-      "url": "https://finnhub.io/api/news?id=90ec7de50bce06e131bad79726bd4df850afa47acc3da8ba426d9ece1d110b45"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit Inc. (RDDT) Gains As Market Dips: What You Should Know",
-      "url": "https://finnhub.io/api/news?id=8bfa02b6669bf6609b95643db8e21c1cfb4ccff54fc22ea098572524adf21522"
+      "headline": "'We owe it to humanity to try': Anthropic's CEO Just Called For Global AI Slowdown. Elon Musk, Sam Altman, and Google’s AI Chief Agree.",
+      "url": "https://finnhub.io/api/news?id=8f9d0c4d3b67f44740f229033040842d0c45fe158ddb989abe9c39e90cb4d972"
     }
   ]
 }
