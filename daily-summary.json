@@ -165,6 +165,36 @@
       "stock": "TEAM",
       "headline": "Atlassian (TEAM) Rolls Out New Jira AI Features, Is The Stock Fully Priced?",
       "url": "https://finnhub.io/api/news?id=549d6faf5862eeba4bfa647d06bdaa3ebf6e593d9b16d25e4783718bd61267ea"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Intel: No Bad Products, Just Bad Prices (Rating Downgrade)",
+      "url": "https://finnhub.io/api/news?id=24253218157182bdae74306508e7f30ef1f0e4b3be7679ed837b8e25702026a8"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike CEO Warns AI Cyber Threat Is Already Here",
+      "url": "https://finnhub.io/api/news?id=e8f5d5ab1be5113b3ebc6d3f8c4ab60eb376278b5c752ff4d24d9408e0dec878"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Nvidia, Coinbase, Skyworks, Axon, Tesla, Applied Aerospace, and More Stocks That Explain Today’s Market",
+      "url": "https://finnhub.io/api/news?id=a2157e9f5a610237a2b186b1c0291e52b1bd430d39cc91638003ad02ecbdabe3"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "IonQ Earns Four Best Paper Awards Ahead of IEEE Quantum Week 2026 for Breakthroughs in AI, Hybrid Computing, and Life Sciences",
+      "url": "https://finnhub.io/api/news?id=e1f84119f2a03797ffbd5d55945e77f883b45cd27326f279b8803b74ecc990c6"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Surges as the AI Selloff Tests Its Royalty Machine",
+      "url": "https://finnhub.io/api/news?id=859579f851dfcc7f00c69b04dde928902c88096e17ca06c3522fed58c8e8a461"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM's New AI Deal Must Handle 23 Million Transactions Daily",
+      "url": "https://finnhub.io/api/news?id=0b32ec7dd29543a1451e3452a099a3fdbfbc06f840846eb3f9d50e47e91d84e3"
     }
   ]
 }
