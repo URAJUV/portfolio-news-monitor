@@ -55,6 +55,41 @@
       "stock": "IBM",
       "headline": "Telemedicine Market Report Now Available, Reveals Up to $120 Saved Per Visit, Profiling Teladoc, Cisco, Philips, IBM & 38 Other Key Players",
       "url": "https://finnhub.io/api/news?id=0f6f77af23c83b9fb00e07ac919c1c9d0fafccd74a22f21032539c5226048b40"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor Executive Calls AI Toddler With Superpowers",
+      "url": "https://finnhub.io/api/news?id=30d1d6a3f67fc04bc2e4442d6024d0c8ff077e37cc39961ffb0f94c8adecd202"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CSCO's Splunk AI Push Gains Momentum: Can It Outpace DDOG & CRWD?",
+      "url": "https://finnhub.io/api/news?id=04f1a83e928bdae0d528b42a69e8a1b73345ec35e11e120a9227f89611b1b2fc"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Elon Musk’s SpaceX Could Become A $15 Trillion Business, Says Rob Baron – Remains Skeptical Of Tesla’s Humanoid Robots",
+      "url": "https://finnhub.io/api/news?id=1eeb2f88e475ccb1d4955a7450b972796fb1f1e467a9fe2d269693ea59603a40"
+    },
+    {
+      "stock": "ARM",
+      "headline": "OpenAI, Anthropic Slowdown Call Won't Derail AI Infrastructure Demand, Why One Fund Manager Sees No Spending Pause in Sight",
+      "url": "https://finnhub.io/api/news?id=605275a419acf1105a4e8aa5de1df9d6265d2dfa23567e22d7a0816011fd0b99"
+    },
+    {
+      "stock": "DE",
+      "headline": "Is Deere (DE) Undervalued As Its Earnings Beat Reframes The Valuation Debate?",
+      "url": "https://finnhub.io/api/news?id=d6174a84db93d29043549d898273a7442c88b0ef1f15388a543025c4428a2798"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Frontier AI developers must be 'liable for the things their products do': Autodesk CEO",
+      "url": "https://finnhub.io/api/news?id=48223c1daa33c9f3efe60923a1d0a82265c791f7c16c2d8e49a78ca9dda30d2a"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Garbutt Joins Brandtech As Global CCO, Leads AI-Produced Advertising",
+      "url": "https://finnhub.io/api/news?id=b6866bc068c380ee83232e07babfec5bc288e1ba776b7b3c7eba0d9a80b68543"
     }
   ]
 }
