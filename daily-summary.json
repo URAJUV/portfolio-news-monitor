@@ -105,6 +105,26 @@
       "stock": "TSLA",
       "headline": "Starship Test: SpaceX's Quest for the Holy Grail of Rocketry",
       "url": "https://finnhub.io/api/news?id=5058adb7f96ab07f92111f56f49aafaacd090ffe2b6ce141fba117c35f7134d1"
+    },
+    {
+      "stock": "TSM",
+      "headline": "EOD: Distribution Growth Is Nice But Sector Allocation Might Not Be Ideal",
+      "url": "https://finnhub.io/api/news?id=06e3af21fa9c959a547872914298598841078f88e6ef747ccf91a7e28e8c0d5b"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme Therapeutics, Inc. (HALO) Presents at H.C. Wainwright 28th Annual Global Investment Conference Transcript",
+      "url": "https://finnhub.io/api/news?id=bc535fa260b6c53981140227bc619b3612264672b00753f9af760c28f5a82542"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ Best Paper Awards Highlight Quantum Advances in AI, Hybrid Computing and Life Sciences",
+      "url": "https://finnhub.io/api/news?id=f410c816209288f2e2c32dcc75d3dda6395d509cecdf11b07df65e45cc8f5c2c"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=a7f4a33ec0874d76807fce9f33e2df62237dd14cd3496691d1338c9a8a2f7b1a"
     }
   ]
 }
