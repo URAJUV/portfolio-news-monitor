@@ -1,200 +1,40 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "Megaprojects: A Cross-Sector Industrial Capex Cycle",
-      "url": "https://finnhub.io/api/news?id=3a41e75fbd554b6ad743f2ee384d179733732ed0ae371ff310a9741245287f8f"
-    },
-    {
       "stock": "AMZN",
-      "headline": "Amazon Partners with Wiwynn to Expand U.S. AI Infrastructure Capacity",
-      "url": "https://finnhub.io/api/news?id=9d6f938474dcced437940a650150120826e2569d92b9e30d51edea96f8f199f9"
+      "headline": "Credo (CRDO) vs. Marvell (MRVL): Which AI Chip Stock Is the Better Buy?",
+      "url": "https://finnhub.io/api/news?id=ebf12ffcb67a09ec7a1f6d4ced50523a5bf9e1c5b1709b40081e86d6738b08bf"
     },
     {
       "stock": "HON",
-      "headline": "Why Today’s GE Downgrade Wasn’t Just a Downgrade",
-      "url": "https://finnhub.io/api/news?id=8d940ada7a921e3930f90d263870f07a7cb09217a5ff470dfaaeb0ea9b154e7f"
-    },
-    {
-      "stock": "DE",
-      "headline": "Megaprojects: A Cross-Sector Industrial Capex Cycle",
-      "url": "https://finnhub.io/api/news?id=3a41e75fbd554b6ad743f2ee384d179733732ed0ae371ff310a9741245287f8f"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Autodesk, C3.ai, GoDaddy, Rapid7, and Sprout Social Stocks Trade Up, What You Need To Know",
-      "url": "https://finnhub.io/api/news?id=7dac4c8862762569c1782785a2b0cff711ab8c335cd38100d27f3ce2491a659b"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Did You Pay For Palantir's Guidance Or For Something Else?",
-      "url": "https://finnhub.io/api/news?id=c3974509279070742f85a17dc52cf35f3ccacec4f79c8067045cb4f8fe25d44d"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "'We owe it to humanity to try': Anthropic's CEO Just Called For Global AI Slowdown. Elon Musk, Sam Altman, and Google’s AI Chief Agree.",
-      "url": "https://finnhub.io/api/news?id=8f9d0c4d3b67f44740f229033040842d0c45fe158ddb989abe9c39e90cb4d972"
-    },
-    {
-      "stock": "MU",
-      "headline": "Watch Out SKHY, MU, SNDK: Japan’s Kioxia Reportedly Eyes $10B US Listing To Ride AI Memory Boom",
-      "url": "https://finnhub.io/api/news?id=4a98ae0ca329afb8b781d88770532343287f62f1fa376ffa6883bd19032c5434"
-    },
-    {
-      "stock": "TSM",
-      "headline": "5 Top AI Stocks to Buy on the Dip as Slowdown Fears Hit Markets",
-      "url": "https://finnhub.io/api/news?id=86460638325249bdc5208abfb23be0a0d5af476e8c9f11543eb0433c87d2221f"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Wall Street Sells the AI-Pause Weekend as Brent Punches Through $106 and the Ten-Year Cracks 5% for the First Time Since 2023",
-      "url": "https://finnhub.io/api/news?id=1b41e3fd3fcef742b5861b9456231cbbf5da3f8f3bfc7c8ee35a7249d7649144"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Anthropic Expects a Second Straight Quarter of Adjusted Operating Profit. Amazon and Alphabet Investors Should Read the Fine Print",
-      "url": "https://finnhub.io/api/news?id=2674ebc6289625a3f9c0d3ddc374a830cde7e15a9a0a533e3fd00936639cc3b4"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent: I'm Completely Unfazed (Upgrade)",
-      "url": "https://finnhub.io/api/news?id=3cfc56d23d81b88162c637bb0b0b2de52bcaadc1767a84ba60c5c8ea2f4975eb"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla, SpaceX Stocks Rise Overnight: Elon Musk Fuels Merger Speculation, ‘Hints’ At Action Amid ‘Close Collaboration’",
-      "url": "https://finnhub.io/api/news?id=b45de987449ba7b66ed9151b2baf646fdce89e96f912ecf81230076b2ef62ae0"
+      "headline": "Honeywell International Inc. (HON) Gains As Market Dips: What You Should Know",
+      "url": "https://finnhub.io/api/news?id=88488a356fa2c54f3e89a3d3b18e86415d8752bf5ed64d8c27ade15557c1e396"
     },
     {
       "stock": "UBER",
-      "headline": "Uber’s CEO hints at cheaper rides after the company announced 3,300 corporate jobs",
-      "url": "https://finnhub.io/api/news?id=eb4130913774598ca3a85ed68177d8813b1c241b85b77e2bca2f247e9d38abb7"
-    },
-    {
-      "stock": "DE",
-      "headline": "Q2 Earnings Outperformers: Deere (NYSE:DE) And The Rest Of The Agricultural Machinery Stocks",
-      "url": "https://finnhub.io/api/news?id=4ca5ee8ae8f5a713cc05bc70189a804f074ed1fd742e4e5adfefec9c95c9ca5e"
+      "headline": "Uber slashes jobs in California after CEO announces staffing cuts",
+      "url": "https://finnhub.io/api/news?id=61e5b48f962d1ac173e91d833d367bc5ff41791fab9a3ec4c2c55e29fa8bed61"
     },
     {
       "stock": "ADSK",
-      "headline": "Primepoint Brings Traceable Construction AI to the Field with New Autodesk Forma Integration",
-      "url": "https://finnhub.io/api/news?id=9c9db56cd82b403a43826427188fcab8fe82d8e3df596656dc62b934d8307f98"
+      "headline": "Autodesk Or Fair Isaac: Which One Earns Its Growth Without Buying It?",
+      "url": "https://finnhub.io/api/news?id=de4542bef3bf26610de5fbf7dafadb490b9db2cc4281cb6e333a8491f6ebb486"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Can DPRO Gain From the Shift Toward Secure, Domestic Drone Technology?",
+      "url": "https://finnhub.io/api/news?id=cb69cd2480eb9bce2b3b20dcb8d26c1dcbfe5fbb633f6dbae18d051d44dafca5"
+    },
+    {
+      "stock": "U",
+      "headline": "Why Did Roblox Stock Surge Past The Target An Analyst Just Raised?",
+      "url": "https://finnhub.io/api/news?id=2096a7e45191a84e9f33c312999d16ab654051468e378b996b914669c45dc56d"
     },
     {
       "stock": "GOOGL",
-      "headline": "Global Humanoid Robots Market Poised for Expansion Through 2036 as AI Advances Unlock Opportunities Across Manufacturing, Healthcare and Services",
-      "url": "https://finnhub.io/api/news?id=10a1c762d41aeed06b3c1fdc8e1eafef0c6fc5e66473750e64242c2ce00d18e4"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian’s New Agentic AI Platform Might Change The Case For Investing In Atlassian (TEAM)",
-      "url": "https://finnhub.io/api/news?id=b57dca03860a057bf91e59d2f0089f46afe866e58e549662efd94103b6d8aa62"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Five Years From Now, the World Could Be Completely Different Because of AI. Who Will Actually Be the Long-Term AI Winners?",
-      "url": "https://finnhub.io/api/news?id=ec43a61ef5f3c0e38e3787447cdcb967716661987a64f3193309dead0db0a045"
-    },
-    {
-      "stock": "TSM",
-      "headline": "AI chip sell-off overblown: Zero GPU slowdown after Anthropic essay, analyst says",
-      "url": "https://finnhub.io/api/news?id=b2041c9601060ffcaffe51f41372587b35c72c61d9a89086850644580ce48e19"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "This Cybersecurity Stock Could Turn $1,000 Into More Than $4,400",
-      "url": "https://finnhub.io/api/news?id=0e84b15e77e8c5be07c908953fc35d459eb88eb731955f334bfabcebbf790f28"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Elon Musk Makes Strongest Hint Yet About A Tesla-SpaceX Merger",
-      "url": "https://finnhub.io/api/news?id=da2f2145f193ffeba098896500ae24d126d835026e25c9be73d7c677e54fc4b3"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Is Arm Holdings (ARM) Cheap After The AI Stock Pullback?",
-      "url": "https://finnhub.io/api/news?id=87159c1a4977aed004381f6b06516654e481e6cbed42917e2e8fda9043b0544d"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Qorvo downgraded, Ulta Beauty upgraded: Wall Street's top analyst calls",
-      "url": "https://finnhub.io/api/news?id=c854be8b19ebb875ef91eb7098e80a5dafa099788e352d98160ac41aeb045d16"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Latest News In Cloud AI - Bitdeer AI Expands With New AI Cloud Data Center",
-      "url": "https://finnhub.io/api/news?id=5fd4972db095df5b72f6c169e2b9c6e01bee0f87d32a4a314d1b8a6f3f164448"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian Says AI Tailwind Is Building as Cloud Growth and Rovo Adoption Accelerate",
-      "url": "https://finnhub.io/api/news?id=781180d9945eda5b3d3fd5ac0ad4c66ca04763a62855121e7b0f873016bece7e"
-    },
-    {
-      "stock": "MU",
-      "headline": "Western Digital Falls 4% Despite Its AI Storage Pitch; Seagate Drops 5%, Micron Holds Steady",
-      "url": "https://finnhub.io/api/news?id=b204f174fb5c651d2eac65d4d5782e1e2e6f73386e2758958839da47298a973a"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Time to Boost Cybersecurity ETF Exposure as AI Safety Concerns Rise",
-      "url": "https://finnhub.io/api/news?id=9ec85cb6056f02edefd0f9e833a7b36e1383118996d743c0510adf45cc73b8d3"
-    },
-    {
-      "stock": "COHR",
-      "headline": "The AI Slowdown Call: Another Reason To Hedge, Not To Exit",
-      "url": "https://finnhub.io/api/news?id=1769e710bf16759e8159b120b039f7700b90b14575028e52fc8b1dd564547911"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "IonQ Best Paper Awards Highlight Quantum Advances in AI, Hybrid Computing and Life Sciences",
-      "url": "https://finnhub.io/api/news?id=f410c816209288f2e2c32dcc75d3dda6395d509cecdf11b07df65e45cc8f5c2c"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "The AI Slowdown Call: Another Reason To Hedge, Not To Exit",
-      "url": "https://finnhub.io/api/news?id=1769e710bf16759e8159b120b039f7700b90b14575028e52fc8b1dd564547911"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Autodesk Advances Agentic AI in Its Three Industry Clouds",
-      "url": "https://finnhub.io/api/news?id=3f597d8e42781489ffa29ae75e9aa9e99304c352977c0586add4cf5cb7034223"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian (TEAM) Rolls Out New Jira AI Features, Is The Stock Fully Priced?",
-      "url": "https://finnhub.io/api/news?id=549d6faf5862eeba4bfa647d06bdaa3ebf6e593d9b16d25e4783718bd61267ea"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Intel: No Bad Products, Just Bad Prices (Rating Downgrade)",
-      "url": "https://finnhub.io/api/news?id=24253218157182bdae74306508e7f30ef1f0e4b3be7679ed837b8e25702026a8"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike CEO Warns AI Cyber Threat Is Already Here",
-      "url": "https://finnhub.io/api/news?id=e8f5d5ab1be5113b3ebc6d3f8c4ab60eb376278b5c752ff4d24d9408e0dec878"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Nvidia, Coinbase, Skyworks, Axon, Tesla, Applied Aerospace, and More Stocks That Explain Today’s Market",
-      "url": "https://finnhub.io/api/news?id=a2157e9f5a610237a2b186b1c0291e52b1bd430d39cc91638003ad02ecbdabe3"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "IonQ Earns Four Best Paper Awards Ahead of IEEE Quantum Week 2026 for Breakthroughs in AI, Hybrid Computing, and Life Sciences",
-      "url": "https://finnhub.io/api/news?id=e1f84119f2a03797ffbd5d55945e77f883b45cd27326f279b8803b74ecc990c6"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Surges as the AI Selloff Tests Its Royalty Machine",
-      "url": "https://finnhub.io/api/news?id=859579f851dfcc7f00c69b04dde928902c88096e17ca06c3522fed58c8e8a461"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM's New AI Deal Must Handle 23 Million Transactions Daily",
-      "url": "https://finnhub.io/api/news?id=0b32ec7dd29543a1451e3452a099a3fdbfbc06f840846eb3f9d50e47e91d84e3"
+      "headline": "Workday (WDAY) Names Sarah Kennedy Ellis CMO As AI Marketing Takes Center Stage",
+      "url": "https://finnhub.io/api/news?id=ca9149014d888e72fadda059b380d6f38a0b05172b03fb4f5f92da1013fc718e"
     }
   ]
 }
