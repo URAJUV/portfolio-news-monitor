@@ -90,6 +90,21 @@
       "stock": "IBM",
       "headline": "Garbutt Joins Brandtech As Global CCO, Leads AI-Produced Advertising",
       "url": "https://finnhub.io/api/news?id=b6866bc068c380ee83232e07babfec5bc288e1ba776b7b3c7eba0d9a80b68543"
+    },
+    {
+      "stock": "TSM",
+      "headline": "AIA: Asia's AI And Semiconductor Paradigm",
+      "url": "https://finnhub.io/api/news?id=feace0443d27439a58560b0763f74b6ba1a0ee75f95b7a05145346c31025e9fa"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
+      "url": "https://finnhub.io/api/news?id=568783958075196b65740530debea12cb32f6534984a1b55719ef4f7c7471b7c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Starship Test: SpaceX's Quest for the Holy Grail of Rocketry",
+      "url": "https://finnhub.io/api/news?id=5058adb7f96ab07f92111f56f49aafaacd090ffe2b6ce141fba117c35f7134d1"
     }
   ]
 }
