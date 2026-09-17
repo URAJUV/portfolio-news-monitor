@@ -30,6 +30,46 @@
       "stock": "RDDT",
       "headline": "Reddit co-founder says tech industry has been 'tone deaf' in explaining AI: 'Misinformation flying around' ",
       "url": "https://finnhub.io/api/news?id=98ce5ac144fe6e4f7e0dbfe8252ae23e8387945df767fa513600881923cab961"
+    },
+    {
+      "stock": "MU",
+      "headline": "Zacks Earnings Trends Highlights: Micron  and Nvidia",
+      "url": "https://finnhub.io/api/news?id=2481cbb6ddea58a228fede50bccc3bfa870af0a2540bfc2dd1525e1f6729b186"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC Gains as 2-Nanometer Chips Enter the Smartphone Race",
+      "url": "https://finnhub.io/api/news?id=05a6ee56ba2aa7cd3f7895633fa84c91a94806be694a10304aaab247f8759682"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Okta Just Rallied 28% in a Month and Cybersecurity Stocks Are Red-Hot Now. Is $200 Coming Soon?",
+      "url": "https://finnhub.io/api/news?id=6d85c20e56146091905f119dd80e90727a5ede6d8b07caf025dc3027876f5454"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Could SpaceX Buy Tesla? Ron Baron Says He Gave Elon Musk Reasons For And Against A Blockbuster Deal",
+      "url": "https://finnhub.io/api/news?id=d0d473dacbcd512d0baac43d7e5f3ac28667b22ac9e662be6eaf2b55b797ea3c"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "CIEN Targets 30% Revenue Growth Through 2029 — Peers COHR, GLW And AAOI Rally After Guidance",
+      "url": "https://finnhub.io/api/news?id=631f7fade29f95dfc76ce44ccaa4c73ba9a11fd4b252188b6feaf111dbdb9cd7"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Did AI Servers Really Quadruple Dell Stock?",
+      "url": "https://finnhub.io/api/news?id=4909ea4bada9f6a3b6849b062a4f75db9788952a90be9b4297a03fbd877fe0c0"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Twilio's AI Deals Grow: Can New Wins Accelerate TWLO's Growth?",
+      "url": "https://finnhub.io/api/news?id=9fb457027334fc582797b4f1dbd6b4b1e25be4ecf27ba391e99dc5c62460433b"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Man, 30, is Worth More Than $50M But Still Takes The Train And Drives a Honda — The Only Luxury He Embraces Is 'Experiential Spend'",
+      "url": "https://finnhub.io/api/news?id=17b01b1367687be18e71837557a7759e6e71d0289ea3b43176f993b9ec3c16e3"
     }
   ]
 }
