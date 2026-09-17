@@ -1,130 +1,35 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "items": [
     {
-      "stock": "AMZN",
-      "headline": "Credo (CRDO) vs. Marvell (MRVL): Which AI Chip Stock Is the Better Buy?",
-      "url": "https://finnhub.io/api/news?id=ebf12ffcb67a09ec7a1f6d4ced50523a5bf9e1c5b1709b40081e86d6738b08bf"
+      "stock": "MU",
+      "headline": "Michael Burry reveals his verdict on the ongoing AI bubble",
+      "url": "https://finnhub.io/api/news?id=f46394469a52bec18f5d042023230334c31c16b57d79810305f7cca62e1cd805"
     },
     {
-      "stock": "HON",
-      "headline": "Honeywell International Inc. (HON) Gains As Market Dips: What You Should Know",
-      "url": "https://finnhub.io/api/news?id=88488a356fa2c54f3e89a3d3b18e86415d8752bf5ed64d8c27ade15557c1e396"
+      "stock": "AMZN",
+      "headline": "The Next Short? Economist Compares Hyperscaler AI Debt Stress to 2008 Housing Collapse",
+      "url": "https://finnhub.io/api/news?id=5381226b9e2c126572bc7a1bc40343514bb578645a0e3628085055863895de45"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ CEO Sells Over 16,000 Shares Worth Nearly $600,000 After the Company Raised Its Full-Year Sales Outlook",
+      "url": "https://finnhub.io/api/news?id=8a2a094dd5c9fd559bb273b207668f309b5956bff89e50232a46d6c4beaebdf0"
     },
     {
       "stock": "UBER",
-      "headline": "Uber slashes jobs in California after CEO announces staffing cuts",
-      "url": "https://finnhub.io/api/news?id=61e5b48f962d1ac173e91d833d367bc5ff41791fab9a3ec4c2c55e29fa8bed61"
+      "headline": "Delta Air Lines just unlocked a new perk travelers will love",
+      "url": "https://finnhub.io/api/news?id=dfde945430b2a8a2a90bbb5498cc98a606cb651c5f783eede1ed77b0ec3f1d0f"
     },
     {
-      "stock": "ADSK",
-      "headline": "Autodesk Or Fair Isaac: Which One Earns Its Growth Without Buying It?",
-      "url": "https://finnhub.io/api/news?id=de4542bef3bf26610de5fbf7dafadb490b9db2cc4281cb6e333a8491f6ebb486"
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics (AAOI) Pulled Back Sharply, Is It Still Above Fair Value?",
+      "url": "https://finnhub.io/api/news?id=33aa2c3e69a3b962f246e2bd45ca00d029a20b2815d727ca7a1c73630015ace5"
     },
     {
-      "stock": "DPRO",
-      "headline": "Can DPRO Gain From the Shift Toward Secure, Domestic Drone Technology?",
-      "url": "https://finnhub.io/api/news?id=cb69cd2480eb9bce2b3b20dcb8d26c1dcbfe5fbb633f6dbae18d051d44dafca5"
-    },
-    {
-      "stock": "U",
-      "headline": "Why Did Roblox Stock Surge Past The Target An Analyst Just Raised?",
-      "url": "https://finnhub.io/api/news?id=2096a7e45191a84e9f33c312999d16ab654051468e378b996b914669c45dc56d"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Workday (WDAY) Names Sarah Kennedy Ellis CMO As AI Marketing Takes Center Stage",
-      "url": "https://finnhub.io/api/news?id=ca9149014d888e72fadda059b380d6f38a0b05172b03fb4f5f92da1013fc718e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semi Revenue Keeps Surging. How to Play TSM Stock in September 2026.",
-      "url": "https://finnhub.io/api/news?id=72a47bc4c6a1c88c39c631bd073d6609954e42aef7107235be3d3fdb422de2aa"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell Sees Strong Start as Pure-Play Automation Push Gains Momentum",
-      "url": "https://finnhub.io/api/news?id=b1a5217d6f0c9361905fe6f60d3f03a18e283a30073f6a8602fef3cd5e7c5a76"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ's Historic Low Valuation Meets Record-Breaking Guidance (Upgrade)",
-      "url": "https://finnhub.io/api/news?id=f09b18f2d115c6aac46fc070db2d256697f844745b5d71c769cb60a35bebe85d"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Telemedicine Market Report Now Available, Reveals Up to $120 Saved Per Visit, Profiling Teladoc, Cisco, Philips, IBM & 38 Other Key Players",
-      "url": "https://finnhub.io/api/news?id=0f6f77af23c83b9fb00e07ac919c1c9d0fafccd74a22f21032539c5226048b40"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor Executive Calls AI Toddler With Superpowers",
-      "url": "https://finnhub.io/api/news?id=30d1d6a3f67fc04bc2e4442d6024d0c8ff077e37cc39961ffb0f94c8adecd202"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CSCO's Splunk AI Push Gains Momentum: Can It Outpace DDOG & CRWD?",
-      "url": "https://finnhub.io/api/news?id=04f1a83e928bdae0d528b42a69e8a1b73345ec35e11e120a9227f89611b1b2fc"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Elon Musk’s SpaceX Could Become A $15 Trillion Business, Says Rob Baron – Remains Skeptical Of Tesla’s Humanoid Robots",
-      "url": "https://finnhub.io/api/news?id=1eeb2f88e475ccb1d4955a7450b972796fb1f1e467a9fe2d269693ea59603a40"
-    },
-    {
-      "stock": "ARM",
-      "headline": "OpenAI, Anthropic Slowdown Call Won't Derail AI Infrastructure Demand, Why One Fund Manager Sees No Spending Pause in Sight",
-      "url": "https://finnhub.io/api/news?id=605275a419acf1105a4e8aa5de1df9d6265d2dfa23567e22d7a0816011fd0b99"
-    },
-    {
-      "stock": "DE",
-      "headline": "Is Deere (DE) Undervalued As Its Earnings Beat Reframes The Valuation Debate?",
-      "url": "https://finnhub.io/api/news?id=d6174a84db93d29043549d898273a7442c88b0ef1f15388a543025c4428a2798"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Frontier AI developers must be 'liable for the things their products do': Autodesk CEO",
-      "url": "https://finnhub.io/api/news?id=48223c1daa33c9f3efe60923a1d0a82265c791f7c16c2d8e49a78ca9dda30d2a"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Garbutt Joins Brandtech As Global CCO, Leads AI-Produced Advertising",
-      "url": "https://finnhub.io/api/news?id=b6866bc068c380ee83232e07babfec5bc288e1ba776b7b3c7eba0d9a80b68543"
-    },
-    {
-      "stock": "TSM",
-      "headline": "AIA: Asia's AI And Semiconductor Paradigm",
-      "url": "https://finnhub.io/api/news?id=feace0443d27439a58560b0763f74b6ba1a0ee75f95b7a05145346c31025e9fa"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
-      "url": "https://finnhub.io/api/news?id=568783958075196b65740530debea12cb32f6534984a1b55719ef4f7c7471b7c"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Starship Test: SpaceX's Quest for the Holy Grail of Rocketry",
-      "url": "https://finnhub.io/api/news?id=5058adb7f96ab07f92111f56f49aafaacd090ffe2b6ce141fba117c35f7134d1"
-    },
-    {
-      "stock": "TSM",
-      "headline": "EOD: Distribution Growth Is Nice But Sector Allocation Might Not Be Ideal",
-      "url": "https://finnhub.io/api/news?id=06e3af21fa9c959a547872914298598841078f88e6ef747ccf91a7e28e8c0d5b"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Halozyme Therapeutics, Inc. (HALO) Presents at H.C. Wainwright 28th Annual Global Investment Conference Transcript",
-      "url": "https://finnhub.io/api/news?id=bc535fa260b6c53981140227bc619b3612264672b00753f9af760c28f5a82542"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ Best Paper Awards Highlight Quantum Advances in AI, Hybrid Computing and Life Sciences",
-      "url": "https://finnhub.io/api/news?id=f410c816209288f2e2c32dcc75d3dda6395d509cecdf11b07df65e45cc8f5c2c"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "url": "https://finnhub.io/api/news?id=a7f4a33ec0874d76807fce9f33e2df62237dd14cd3496691d1338c9a8a2f7b1a"
+      "stock": "RDDT",
+      "headline": "Reddit co-founder says tech industry has been 'tone deaf' in explaining AI: 'Misinformation flying around' ",
+      "url": "https://finnhub.io/api/news?id=98ce5ac144fe6e4f7e0dbfe8252ae23e8387945df767fa513600881923cab961"
     }
   ]
 }
