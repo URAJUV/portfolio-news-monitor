@@ -70,6 +70,36 @@
       "stock": "RDDT",
       "headline": "Man, 30, is Worth More Than $50M But Still Takes The Train And Drives a Honda — The Only Luxury He Embraces Is 'Experiential Spend'",
       "url": "https://finnhub.io/api/news?id=17b01b1367687be18e71837557a7759e6e71d0289ea3b43176f993b9ec3c16e3"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Thursday's pre-market session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=79297d4ba8c67746e1ab4669964a024be87599dc02da183ce972a67432a4ae14"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm’s CEO Says Demand Is ‘Off the Charts.’ The Problem Is Nobody Can Build Chips Fast Enough",
+      "url": "https://finnhub.io/api/news?id=f46086f78b26ca4653489c57be690d52c9c36258ecad07adb12416985611277d"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Ross Gerber Says He Found ‘Secret’ Lot With Hundreds of Waymo Robotaxis: ‘Something Crazy Is About to Happen’",
+      "url": "https://finnhub.io/api/news?id=681a03e549f99f468e1c73cb33d3c8be8632ecb042c9d8cae21d2a272c7389ec"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "RBC Capital Reiterates Outperform on Autodesk, Maintains $305 Price Target",
+      "url": "https://finnhub.io/api/news?id=4fea315728d96814d32673252f6eeb2e005cc577ba64a22688272894511e6541"
+    },
+    {
+      "stock": "U",
+      "headline": "Unity: This Forgotten AI Winner Is Firing On All Cylinders",
+      "url": "https://finnhub.io/api/news?id=054201351447e1edafffe124a1ad06bb974a4e5b9b754fbbb2a636b460b68874"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Earnings Drag and Geopolitical Headwinds Weigh on Lockheed Martin’s (LMT) Performance",
+      "url": "https://finnhub.io/api/news?id=73e12dba546ef59f77e9756e020dfbb1d2f2768cbf0348efea7d8f2f145240a1"
     }
   ]
 }
