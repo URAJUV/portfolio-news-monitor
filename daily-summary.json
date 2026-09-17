@@ -100,6 +100,31 @@
       "stock": "GOOGL",
       "headline": "Earnings Drag and Geopolitical Headwinds Weigh on Lockheed Martin’s (LMT) Performance",
       "url": "https://finnhub.io/api/news?id=73e12dba546ef59f77e9756e020dfbb1d2f2768cbf0348efea7d8f2f145240a1"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Options Action: Cybersecurity Takes Off",
+      "url": "https://finnhub.io/api/news?id=9ee722eed4d112eabfd21123c3d7756537aee67aa90be9438077fe08e7e857c9"
+    },
+    {
+      "stock": "COHR",
+      "headline": "OpenAI Reveals 6 ‘Concerning’ Incidents. Why AI Stocks Are Rising Anyway.",
+      "url": "https://finnhub.io/api/news?id=85ff37d0ab29bfdc6186d4fdc0bfcdc669c0dddbcea5d6f83925e31ea126bb7c"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ, ORNL, NVIDIA, and the University of Tennessee, Knoxville Show AI Method Reduces Quantum Optimization Trade Off",
+      "url": "https://finnhub.io/api/news?id=65a8680ff989082e4cf55d5443629eca4d09203a6573a993ba9b9e8caa18a4b0"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Palantir Stock: The AI Token Boom Is Hiding A Bigger Opportunity",
+      "url": "https://finnhub.io/api/news?id=a7c3a965b417831579c2e300db6fcb4cf5bd3b1d162242246505248f06a7b5a1"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Full Transcript: D-Wave Quantum Q2 2026 Earnings Call",
+      "url": "https://finnhub.io/api/news?id=d48e8f508b44290290a408a217aee7b511b0e998e4c0a1131d7803006f6f490b"
     }
   ]
 }
