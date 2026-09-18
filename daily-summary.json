@@ -35,6 +35,31 @@
       "stock": "RDDT",
       "headline": "A 19-Year-Old Learns They're the Sole Heir to $8.2M — One Person's Warning: 'I Hope That The Financial Advisor Is Not Paid A % Of The Investment'",
       "url": "https://finnhub.io/api/news?id=7da0f853291872f4a0b1a37c83fc90a73298652508c31dc63f6c01415e569902"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor Manufacturing (TSM) Could Be 14% Overvalued As 2nm MediaTek Win Lands",
+      "url": "https://finnhub.io/api/news?id=0c0104d92e465e0d7797fae1165ab7537218d06bde2767c0886ad652dca4c867"
+    },
+    {
+      "stock": "HON",
+      "headline": "Lyft downgraded, Trip.com upgraded: Wall Street's top analyst calls",
+      "url": "https://finnhub.io/api/news?id=d99d5e1187f23e29a9ff120b12014e1baa6cb57a766045222ed8c5a02a544c29"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM (IBM) Lands $1 Billion Quantum Foundry Award And Deepens AI Oversight",
+      "url": "https://finnhub.io/api/news?id=655d94cbbc632a5d259e2201624007b1b7c4f94350c7845969cd42a39c75450d"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Warren Buffett's Successor, Greg Abel, Is Wagering Heavily on an AI-Driven Future",
+      "url": "https://finnhub.io/api/news?id=daa6d8e27013dc54ee24bdca3571468a4eae82b951f5f1ab6b4286a984653845"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "He Has $9M, His Kids' College Is Paid For And His Wife Makes $800K — But He Still Can't Pull The Trigger On Retirement",
+      "url": "https://finnhub.io/api/news?id=ac08a29c7fb2640d765106e39a867bd2887eb6949f853518ce0fc4436209c0f5"
     }
   ]
 }
