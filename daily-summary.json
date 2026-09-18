@@ -105,6 +105,51 @@
       "stock": "RDDT",
       "headline": "DA Davidson Maintains Buy on Reddit, Lowers Price Target to $185",
       "url": "https://finnhub.io/api/news?id=a2092f16c721a732ec714011ce5409e7a85069ea6703d3f17872c6767bb90291"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Why Is Taiwan Semiconductor Manufacturing (TSM) Ramping 2nm Production And Spending More?",
+      "url": "https://finnhub.io/api/news?id=8237836198e63b6a24506018ea0c7bb96887dff0010314cfb0bc5789b5ac6b58"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Cybersecurity Stock Fortinet Forms Rare Pattern, Flirts With Buy Point",
+      "url": "https://finnhub.io/api/news?id=503507d7e889916fbc0cb5474d72e2286601d5bb8ab197040800715610ba5ba3"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Goldman Sachs Sends Stark Warning on S&P 500 Earnings",
+      "url": "https://finnhub.io/api/news?id=b2e1130de4a9258488eadedb5e1b1cd99757d7a229b9434160b946aa2ff062d8"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Bet on These Photonics ETFs to Exploit the Next Wave of AI Revolution",
+      "url": "https://finnhub.io/api/news?id=1fc1b7efc14480ca25c73b2f91afca3e6595ce98053607a3c3844da0ac003836"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Astera Labs vs. Arm: Which AI-Driven Tech Stock Is a Better Buy in 2026?",
+      "url": "https://finnhub.io/api/news?id=e9f9fb966de4430d963a6cf541415e80794ede098b25814c319c880e496e8daf"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell CEO Calls GE-CPP Deal Positive Amid Persistent Supply Constraints",
+      "url": "https://finnhub.io/api/news?id=5a23f9376755d251d9974d95bc2092ac45c3c9b1e369d4898a76540be068264b"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Sector Update: Consumer Stocks Softer Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=4cdae084c18ed338a73a2ef6fb6ff0876862a1f6f754a3a2c52f3e1526294810"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "ROP Benefits From Strength in Application Software Unit: Can the Momentum Sustain?",
+      "url": "https://finnhub.io/api/news?id=c3e5b56e7b6ef9158b418adba59b14b19f376526e2b30f82d772343851eee44b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "2 Stocks to Buy as Google Starts Selling Its AI Chips",
+      "url": "https://finnhub.io/api/news?id=d2f043e722b20ab410e604ec24193502993846347e79beb0e30fe261b4d6f14a"
     }
   ]
 }
