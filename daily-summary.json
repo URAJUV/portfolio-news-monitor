@@ -1,130 +1,40 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Michael Burry reveals his verdict on the ongoing AI bubble",
-      "url": "https://finnhub.io/api/news?id=f46394469a52bec18f5d042023230334c31c16b57d79810305f7cca62e1cd805"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "The Next Short? Economist Compares Hyperscaler AI Debt Stress to 2008 Housing Collapse",
-      "url": "https://finnhub.io/api/news?id=5381226b9e2c126572bc7a1bc40343514bb578645a0e3628085055863895de45"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ CEO Sells Over 16,000 Shares Worth Nearly $600,000 After the Company Raised Its Full-Year Sales Outlook",
-      "url": "https://finnhub.io/api/news?id=8a2a094dd5c9fd559bb273b207668f309b5956bff89e50232a46d6c4beaebdf0"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Delta Air Lines just unlocked a new perk travelers will love",
-      "url": "https://finnhub.io/api/news?id=dfde945430b2a8a2a90bbb5498cc98a606cb651c5f783eede1ed77b0ec3f1d0f"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Applied Optoelectronics (AAOI) Pulled Back Sharply, Is It Still Above Fair Value?",
-      "url": "https://finnhub.io/api/news?id=33aa2c3e69a3b962f246e2bd45ca00d029a20b2815d727ca7a1c73630015ace5"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit co-founder says tech industry has been 'tone deaf' in explaining AI: 'Misinformation flying around' ",
-      "url": "https://finnhub.io/api/news?id=98ce5ac144fe6e4f7e0dbfe8252ae23e8387945df767fa513600881923cab961"
-    },
-    {
-      "stock": "MU",
-      "headline": "Zacks Earnings Trends Highlights: Micron  and Nvidia",
-      "url": "https://finnhub.io/api/news?id=2481cbb6ddea58a228fede50bccc3bfa870af0a2540bfc2dd1525e1f6729b186"
-    },
-    {
       "stock": "TSM",
-      "headline": "TSMC Gains as 2-Nanometer Chips Enter the Smartphone Race",
-      "url": "https://finnhub.io/api/news?id=05a6ee56ba2aa7cd3f7895633fa84c91a94806be694a10304aaab247f8759682"
+      "headline": "TSMC Gains 1.65% as 2-Nanometer Phones Leave the Lab",
+      "url": "https://finnhub.io/api/news?id=218d21846fa112156e9b6773bb7d3a46c07d33324a44296c8c40ae43b2ef0d8d"
     },
     {
       "stock": "CRWD",
-      "headline": "Okta Just Rallied 28% in a Month and Cybersecurity Stocks Are Red-Hot Now. Is $200 Coming Soon?",
-      "url": "https://finnhub.io/api/news?id=6d85c20e56146091905f119dd80e90727a5ede6d8b07caf025dc3027876f5454"
+      "headline": "Salesforce CEO warns AI companies not to repeat this costly mistake",
+      "url": "https://finnhub.io/api/news?id=0589620161dba732f7d848df27285ae41b168d525600f1feef35a2dd97d23998"
     },
     {
-      "stock": "TSLA",
-      "headline": "Could SpaceX Buy Tesla? Ron Baron Says He Gave Elon Musk Reasons For And Against A Blockbuster Deal",
-      "url": "https://finnhub.io/api/news?id=d0d473dacbcd512d0baac43d7e5f3ac28667b22ac9e662be6eaf2b55b797ea3c"
+      "stock": "COHR",
+      "headline": "Coherent Expands Pluggable Optical Line Systems Portfolio with Full C-Band Amplification to Enable AI Datacenter Networks",
+      "url": "https://finnhub.io/api/news?id=59fcf337b218ee5f58f4b41269a3094f61fefc1fd82218ea5f31d17d70ba1156"
     },
     {
-      "stock": "AAOI",
-      "headline": "CIEN Targets 30% Revenue Growth Through 2029 — Peers COHR, GLW And AAOI Rally After Guidance",
-      "url": "https://finnhub.io/api/news?id=631f7fade29f95dfc76ce44ccaa4c73ba9a11fd4b252188b6feaf111dbdb9cd7"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Did AI Servers Really Quadruple Dell Stock?",
-      "url": "https://finnhub.io/api/news?id=4909ea4bada9f6a3b6849b062a4f75db9788952a90be9b4297a03fbd877fe0c0"
+      "stock": "HON",
+      "headline": "Could Eaton Stock Lose A Third Or Gain Half In A Year?",
+      "url": "https://finnhub.io/api/news?id=b804bf6d5f5e5bd3ad09087d40a0d4da7442502c58b7ee22fce1e83b199074f3"
     },
     {
       "stock": "TEAM",
-      "headline": "Twilio's AI Deals Grow: Can New Wins Accelerate TWLO's Growth?",
-      "url": "https://finnhub.io/api/news?id=9fb457027334fc582797b4f1dbd6b4b1e25be4ecf27ba391e99dc5c62460433b"
+      "headline": "ROP Benefits From Strength in Application Software Unit: Can the Momentum Sustain?",
+      "url": "https://finnhub.io/api/news?id=c3e5b56e7b6ef9158b418adba59b14b19f376526e2b30f82d772343851eee44b"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Paramount Is One of Today’s Worst S&P 500 Stocks on a Warning Against Mega-Merger",
+      "url": "https://finnhub.io/api/news?id=17e40af79e0bf425478b864dc4fe032714dcd8b6c2fe3d175fbf07010b096274"
     },
     {
       "stock": "RDDT",
-      "headline": "Man, 30, is Worth More Than $50M But Still Takes The Train And Drives a Honda — The Only Luxury He Embraces Is 'Experiential Spend'",
-      "url": "https://finnhub.io/api/news?id=17b01b1367687be18e71837557a7759e6e71d0289ea3b43176f993b9ec3c16e3"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Thursday's pre-market session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=79297d4ba8c67746e1ab4669964a024be87599dc02da183ce972a67432a4ae14"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm’s CEO Says Demand Is ‘Off the Charts.’ The Problem Is Nobody Can Build Chips Fast Enough",
-      "url": "https://finnhub.io/api/news?id=f46086f78b26ca4653489c57be690d52c9c36258ecad07adb12416985611277d"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Ross Gerber Says He Found ‘Secret’ Lot With Hundreds of Waymo Robotaxis: ‘Something Crazy Is About to Happen’",
-      "url": "https://finnhub.io/api/news?id=681a03e549f99f468e1c73cb33d3c8be8632ecb042c9d8cae21d2a272c7389ec"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "RBC Capital Reiterates Outperform on Autodesk, Maintains $305 Price Target",
-      "url": "https://finnhub.io/api/news?id=4fea315728d96814d32673252f6eeb2e005cc577ba64a22688272894511e6541"
-    },
-    {
-      "stock": "U",
-      "headline": "Unity: This Forgotten AI Winner Is Firing On All Cylinders",
-      "url": "https://finnhub.io/api/news?id=054201351447e1edafffe124a1ad06bb974a4e5b9b754fbbb2a636b460b68874"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Earnings Drag and Geopolitical Headwinds Weigh on Lockheed Martin’s (LMT) Performance",
-      "url": "https://finnhub.io/api/news?id=73e12dba546ef59f77e9756e020dfbb1d2f2768cbf0348efea7d8f2f145240a1"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Options Action: Cybersecurity Takes Off",
-      "url": "https://finnhub.io/api/news?id=9ee722eed4d112eabfd21123c3d7756537aee67aa90be9438077fe08e7e857c9"
-    },
-    {
-      "stock": "COHR",
-      "headline": "OpenAI Reveals 6 ‘Concerning’ Incidents. Why AI Stocks Are Rising Anyway.",
-      "url": "https://finnhub.io/api/news?id=85ff37d0ab29bfdc6186d4fdc0bfcdc669c0dddbcea5d6f83925e31ea126bb7c"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ, ORNL, NVIDIA, and the University of Tennessee, Knoxville Show AI Method Reduces Quantum Optimization Trade Off",
-      "url": "https://finnhub.io/api/news?id=65a8680ff989082e4cf55d5443629eca4d09203a6573a993ba9b9e8caa18a4b0"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Palantir Stock: The AI Token Boom Is Hiding A Bigger Opportunity",
-      "url": "https://finnhub.io/api/news?id=a7c3a965b417831579c2e300db6fcb4cf5bd3b1d162242246505248f06a7b5a1"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Full Transcript: D-Wave Quantum Q2 2026 Earnings Call",
-      "url": "https://finnhub.io/api/news?id=d48e8f508b44290290a408a217aee7b511b0e998e4c0a1131d7803006f6f490b"
+      "headline": "A 19-Year-Old Learns They're the Sole Heir to $8.2M — One Person's Warning: 'I Hope That The Financial Advisor Is Not Paid A % Of The Investment'",
+      "url": "https://finnhub.io/api/news?id=7da0f853291872f4a0b1a37c83fc90a73298652508c31dc63f6c01415e569902"
     }
   ]
 }
