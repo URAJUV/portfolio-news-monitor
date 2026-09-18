@@ -150,6 +150,16 @@
       "stock": "GOOGL",
       "headline": "2 Stocks to Buy as Google Starts Selling Its AI Chips",
       "url": "https://finnhub.io/api/news?id=d2f043e722b20ab410e604ec24193502993846347e79beb0e30fe261b4d6f14a"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "ZS, CRWD, PANW Stock In Focus — Cybersecurity Firms Lead Weekly Nasdaq 100 Gains As AI Security Debate Intensifies",
+      "url": "https://finnhub.io/api/news?id=52a062d78b9ffaae1f418c9b43659044376445dbd9c5f627da55a0d65f2a9207"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Stock Market Today, Sept. 18: Netflix Falls on Analyst Downgrade and Slashed Price Target",
+      "url": "https://finnhub.io/api/news?id=5a4e7329910915ed039df2b8ec54d71bca90d51cfb7d055dd83eb096a29df4f0"
     }
   ]
 }
