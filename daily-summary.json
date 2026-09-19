@@ -20,6 +20,21 @@
       "stock": "GOOGL",
       "headline": "Alphabet's Ad Business Got a Lift From a Key Antitrust Ruling, Helping End Google's Worst Losing Streak in Over a Decade. Is Sundar Pichai's Alphabet Stock a Buy Now?",
       "url": "https://finnhub.io/api/news?id=9f497c8334afd4d993e07860481e805fbd5c59475e82894b5b457d247aa697d1"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Jim Cramer Shared What CrowdStrike Holdings, Inc. (NASDAQ:CRWD)’s CEO Told Him About AI “Doomsaying”",
+      "url": "https://finnhub.io/api/news?id=628a63ca22beae14dd6320b8db62181e9fa4a51e9590cf4b54275d32b8b89e2a"
+    },
+    {
+      "stock": "ARM",
+      "headline": "SoftBank's AI spending spree now carries a $25 billion twist",
+      "url": "https://finnhub.io/api/news?id=65758f8c615e65e07564c3a6e8c3d99b7e16122e7dbc1c7213dffa45e18c18fb"
+    },
+    {
+      "stock": "HON",
+      "headline": "Investors Look Beyond AI As Market Signals Blur",
+      "url": "https://finnhub.io/api/news?id=7c1428615e53491a696b7edf944bae6b1b264a1d8d6772edb1c9a6094324f30a"
     }
   ]
 }
