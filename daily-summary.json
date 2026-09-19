@@ -55,6 +55,21 @@
       "stock": "UBER",
       "headline": "Uber CEO Dara Khosrowshahi fled Iran at 9 — and watched the government seize his family's business that made them rich",
       "url": "https://finnhub.io/api/news?id=1d135c85063cefc04391b68bdc44ab9ee5e278cb9ef0506a15e30d4400ddd95a"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Lands Forrester Leadership Nod As AI Security Ties Deepen",
+      "url": "https://finnhub.io/api/news?id=dde9c3abb031dbf806d5789a99d3990cf0f4d02c04f7ebd619b7d3c161a94727"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
+      "url": "https://finnhub.io/api/news?id=3c1f06dd43dfb92bc4580221c728e7d579d60bf1b6d31eeed7317cb274e178d5"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix (NFLX) Gets a Bullish $110 Target: What’s Driving the Outlook?",
+      "url": "https://finnhub.io/api/news?id=d8f8f4b768850dd50bac180e726a59f4afe824cce7fc726030f3486a27f36cd9"
     }
   ]
 }
