@@ -70,6 +70,21 @@
       "stock": "NFLX",
       "headline": "Netflix (NFLX) Gets a Bullish $110 Target: What’s Driving the Outlook?",
       "url": "https://finnhub.io/api/news?id=d8f8f4b768850dd50bac180e726a59f4afe824cce7fc726030f3486a27f36cd9"
+    },
+    {
+      "stock": "MU",
+      "headline": "Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron",
+      "url": "https://finnhub.io/api/news?id=4ee5d8f73b7bcfc2f2111ad1c3df3c392ea4da661144196a049ad018f0f14e71"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike CEO sends strong six-word message on AI cyber safety",
+      "url": "https://finnhub.io/api/news?id=660709c0abea217b3fae48feee6d0f6813953a63d22efd42fb09b0ad8ae2a212"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Cathie Wood Never Sold Ark's Core Stake in Tesla Despite the Stock Trailing Every Other Magnificent Seven Name in 2026. Here's Why Her Multi-Year Conviction Hasn't Wavered.",
+      "url": "https://finnhub.io/api/news?id=f7f592d30f5a57fd96f1a0e8a799c26aeeb8c2a1a3b50a11b64db46fb753ac4c"
     }
   ]
 }
