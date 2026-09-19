@@ -35,6 +35,26 @@
       "stock": "HON",
       "headline": "Investors Look Beyond AI As Market Signals Blur",
       "url": "https://finnhub.io/api/news?id=7c1428615e53491a696b7edf944bae6b1b264a1d8d6772edb1c9a6094324f30a"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor (NYSE:TSM): High Growth Momentum Meets a Breakout Setup",
+      "url": "https://finnhub.io/api/news?id=669181b8d0ac2ef827da8bc3252067bf4d5403a8240e92f33eb1bae08636fb97"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "This Week in TSLA: Elon Musk Touts Roadster Debut, Fuels SpaceX Merger  Talks and More",
+      "url": "https://finnhub.io/api/news?id=a4e04271b0588e222363c4a9fafd550679ffe85e0be1c22556593d677085f366"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Is Arm Holdings Still a Hidden Winner of the AI Chip Race?",
+      "url": "https://finnhub.io/api/news?id=c2d93f6fb9f59283664d404a56f946de9f98e383522f57f627b707c4fc87fccf"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber CEO Dara Khosrowshahi fled Iran at 9 — and watched the government seize his family's business that made them rich",
+      "url": "https://finnhub.io/api/news?id=1d135c85063cefc04391b68bdc44ab9ee5e278cb9ef0506a15e30d4400ddd95a"
     }
   ]
 }
