@@ -1,165 +1,25 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "TSMC Gains 1.65% as 2-Nanometer Phones Leave the Lab",
-      "url": "https://finnhub.io/api/news?id=218d21846fa112156e9b6773bb7d3a46c07d33324a44296c8c40ae43b2ef0d8d"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Salesforce CEO warns AI companies not to repeat this costly mistake",
-      "url": "https://finnhub.io/api/news?id=0589620161dba732f7d848df27285ae41b168d525600f1feef35a2dd97d23998"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent Expands Pluggable Optical Line Systems Portfolio with Full C-Band Amplification to Enable AI Datacenter Networks",
-      "url": "https://finnhub.io/api/news?id=59fcf337b218ee5f58f4b41269a3094f61fefc1fd82218ea5f31d17d70ba1156"
-    },
-    {
-      "stock": "HON",
-      "headline": "Could Eaton Stock Lose A Third Or Gain Half In A Year?",
-      "url": "https://finnhub.io/api/news?id=b804bf6d5f5e5bd3ad09087d40a0d4da7442502c58b7ee22fce1e83b199074f3"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "ROP Benefits From Strength in Application Software Unit: Can the Momentum Sustain?",
-      "url": "https://finnhub.io/api/news?id=c3e5b56e7b6ef9158b418adba59b14b19f376526e2b30f82d772343851eee44b"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Paramount Is One of Today’s Worst S&P 500 Stocks on a Warning Against Mega-Merger",
-      "url": "https://finnhub.io/api/news?id=17e40af79e0bf425478b864dc4fe032714dcd8b6c2fe3d175fbf07010b096274"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "A 19-Year-Old Learns They're the Sole Heir to $8.2M — One Person's Warning: 'I Hope That The Financial Advisor Is Not Paid A % Of The Investment'",
-      "url": "https://finnhub.io/api/news?id=7da0f853291872f4a0b1a37c83fc90a73298652508c31dc63f6c01415e569902"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor Manufacturing (TSM) Could Be 14% Overvalued As 2nm MediaTek Win Lands",
-      "url": "https://finnhub.io/api/news?id=0c0104d92e465e0d7797fae1165ab7537218d06bde2767c0886ad652dca4c867"
-    },
-    {
-      "stock": "HON",
-      "headline": "Lyft downgraded, Trip.com upgraded: Wall Street's top analyst calls",
-      "url": "https://finnhub.io/api/news?id=d99d5e1187f23e29a9ff120b12014e1baa6cb57a766045222ed8c5a02a544c29"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM (IBM) Lands $1 Billion Quantum Foundry Award And Deepens AI Oversight",
-      "url": "https://finnhub.io/api/news?id=655d94cbbc632a5d259e2201624007b1b7c4f94350c7845969cd42a39c75450d"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Warren Buffett's Successor, Greg Abel, Is Wagering Heavily on an AI-Driven Future",
-      "url": "https://finnhub.io/api/news?id=daa6d8e27013dc54ee24bdca3571468a4eae82b951f5f1ab6b4286a984653845"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "He Has $9M, His Kids' College Is Paid For And His Wife Makes $800K — But He Still Can't Pull The Trigger On Retirement",
-      "url": "https://finnhub.io/api/news?id=ac08a29c7fb2640d765106e39a867bd2887eb6949f853518ce0fc4436209c0f5"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Portfolio Fit: AIFR",
-      "url": "https://finnhub.io/api/news?id=6139fb22b1de9adcc6a9afa0b13db818c53dde19ba97c283ab22152c25da4097"
-    },
-    {
       "stock": "AMZN",
-      "headline": "Prysmian and Rio Tinto Announce First Electrical Cables Made with ELYSIS(R) Technology Aluminum Contracted for Installation at Amazon Data Center",
-      "url": "https://finnhub.io/api/news?id=7202539dbf0c4ab8b8a24e51e97cd98b917c0d25c012a05357b911a1b5205094"
+      "headline": "Sir Lynton Crosby, CT Group Executive Chairman, on the Case for Capitalism",
+      "url": "https://finnhub.io/api/news?id=f125c282aaf3fa35b7d503e47811e6597747a32bfdd61cab499b5e92e240e8e5"
     },
     {
-      "stock": "COHR",
-      "headline": "Intel, Netflix, Berkshire Hathaway, and More Stocks That Explain Today’s Market",
-      "url": "https://finnhub.io/api/news?id=499c49aeb3fa0a1348ccccbc27623c722a54d6186230e4918f9d0df30f0a4e43"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Volatility Aside, ARM’s AI Thesis Is Untouched",
-      "url": "https://finnhub.io/api/news?id=060eb545547f447f06a6509be0ee347fde64619c82b03c86e9564aec01ecedf4"
-    },
-    {
-      "stock": "HON",
-      "headline": "Roblox downgraded, Hershey upgraded: Wall Street's top analyst calls",
-      "url": "https://finnhub.io/api/news?id=c1d3b315c0cd0044514dccc82f693ebb2731b22eb23eeeb98e8f74df5ddfdf6f"
-    },
-    {
-      "stock": "UBER",
-      "headline": "2 Cash-Producing Stocks to Target This Week and 1 We Avoid",
-      "url": "https://finnhub.io/api/news?id=2d516c4c7cfec7282553074646515e730c9400ad2545b15a16c4c58f2fc42dee"
+      "stock": "SONY",
+      "headline": "Sony (SONY) Stock Drops Despite Market Gains: Important Facts to Note",
+      "url": "https://finnhub.io/api/news?id=bf4b08ab99c403e953b79a94de895b62d0e0243448677bc84288053758c9164f"
     },
     {
       "stock": "ADSK",
-      "headline": "BTIG Reiterates Buy on Autodesk, Maintains $300 Price Target",
-      "url": "https://finnhub.io/api/news?id=d2a2e5cfa4e2d1a3457fdb8389b5ea8f8e164a6396a7a97274e70c508783c2ab"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "How Atlassian Stock Shook Off 'SaaSpocalypse' AI Fears For A Big Rally",
-      "url": "https://finnhub.io/api/news?id=f95c417e16efe06bedcdf058b22e1e63df845f8f574a948733033f5310b0aeef"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "DA Davidson Maintains Buy on Reddit, Lowers Price Target to $185",
-      "url": "https://finnhub.io/api/news?id=a2092f16c721a732ec714011ce5409e7a85069ea6703d3f17872c6767bb90291"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Why Is Taiwan Semiconductor Manufacturing (TSM) Ramping 2nm Production And Spending More?",
-      "url": "https://finnhub.io/api/news?id=8237836198e63b6a24506018ea0c7bb96887dff0010314cfb0bc5789b5ac6b58"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Cybersecurity Stock Fortinet Forms Rare Pattern, Flirts With Buy Point",
-      "url": "https://finnhub.io/api/news?id=503507d7e889916fbc0cb5474d72e2286601d5bb8ab197040800715610ba5ba3"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Goldman Sachs Sends Stark Warning on S&P 500 Earnings",
-      "url": "https://finnhub.io/api/news?id=b2e1130de4a9258488eadedb5e1b1cd99757d7a229b9434160b946aa2ff062d8"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Bet on These Photonics ETFs to Exploit the Next Wave of AI Revolution",
-      "url": "https://finnhub.io/api/news?id=1fc1b7efc14480ca25c73b2f91afca3e6595ce98053607a3c3844da0ac003836"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Astera Labs vs. Arm: Which AI-Driven Tech Stock Is a Better Buy in 2026?",
-      "url": "https://finnhub.io/api/news?id=e9f9fb966de4430d963a6cf541415e80794ede098b25814c319c880e496e8daf"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell CEO Calls GE-CPP Deal Positive Amid Persistent Supply Constraints",
-      "url": "https://finnhub.io/api/news?id=5a23f9376755d251d9974d95bc2092ac45c3c9b1e369d4898a76540be068264b"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Sector Update: Consumer Stocks Softer Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=4cdae084c18ed338a73a2ef6fb6ff0876862a1f6f754a3a2c52f3e1526294810"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "ROP Benefits From Strength in Application Software Unit: Can the Momentum Sustain?",
-      "url": "https://finnhub.io/api/news?id=c3e5b56e7b6ef9158b418adba59b14b19f376526e2b30f82d772343851eee44b"
+      "headline": "Workday Or Autodesk: Is The Louder AI Story The Better Stock?",
+      "url": "https://finnhub.io/api/news?id=365b76091abd327cea117a5c4e53814e022664d6b6bd7ee7a6793e6aee7a2663"
     },
     {
       "stock": "GOOGL",
-      "headline": "2 Stocks to Buy as Google Starts Selling Its AI Chips",
-      "url": "https://finnhub.io/api/news?id=d2f043e722b20ab410e604ec24193502993846347e79beb0e30fe261b4d6f14a"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "ZS, CRWD, PANW Stock In Focus — Cybersecurity Firms Lead Weekly Nasdaq 100 Gains As AI Security Debate Intensifies",
-      "url": "https://finnhub.io/api/news?id=52a062d78b9ffaae1f418c9b43659044376445dbd9c5f627da55a0d65f2a9207"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Stock Market Today, Sept. 18: Netflix Falls on Analyst Downgrade and Slashed Price Target",
-      "url": "https://finnhub.io/api/news?id=5a4e7329910915ed039df2b8ec54d71bca90d51cfb7d055dd83eb096a29df4f0"
+      "headline": "Alphabet's Ad Business Got a Lift From a Key Antitrust Ruling, Helping End Google's Worst Losing Streak in Over a Decade. Is Sundar Pichai's Alphabet Stock a Buy Now?",
+      "url": "https://finnhub.io/api/news?id=9f497c8334afd4d993e07860481e805fbd5c59475e82894b5b457d247aa697d1"
     }
   ]
 }
