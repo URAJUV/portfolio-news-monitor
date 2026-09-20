@@ -50,6 +50,21 @@
       "stock": "GOOGL",
       "headline": "Berkshire Hathaway's Favorite Artificial Intelligence (AI) Stock Looks Like a Genius Buy Now",
       "url": "https://finnhub.io/api/news?id=8b619b6cac8fc95683114599508de70e2f0b1b5d867c834492d832f1ba598237"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "President Trump to Create an “AI Force,” Appoint an AI Czar as AI Fears Grow",
+      "url": "https://finnhub.io/api/news?id=f4577ce5a26da99804853b4c3f238d383759e0ae666cb209be8a30e95a739f7c"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Could IonQ (IONQ) AI Written Quantum Circuits Unlock More Real World Workloads?",
+      "url": "https://finnhub.io/api/news?id=caa0f406b1559f63052d82a39594b125cf1e79be3da80a3dd71edaba40adbd3a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak",
+      "url": "https://finnhub.io/api/news?id=56a88259e6c7a2b419478646572c22a8e11ababde44e86683f8b7b0d43bdbdeb"
     }
   ]
 }
