@@ -1,90 +1,30 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "items": [
     {
+      "stock": "TSM",
+      "headline": "Amodei, Altman, and Musk Called for an AI Slowdown. Here’s Why It’s a Warning Sign for ASML Shareholders.",
+      "url": "https://finnhub.io/api/news?id=187db4a88fa0758c68a12618d6066470129bd586a41ad0dbbb71b0bf0c35b073"
+    },
+    {
       "stock": "AMZN",
-      "headline": "Sir Lynton Crosby, CT Group Executive Chairman, on the Case for Capitalism",
-      "url": "https://finnhub.io/api/news?id=f125c282aaf3fa35b7d503e47811e6597747a32bfdd61cab499b5e92e240e8e5"
+      "headline": "AI risk debate: Existential threat or dangerous tool?",
+      "url": "https://finnhub.io/api/news?id=1df6b2682d2c7a0c4ccc2ee48309f59c455ee67ccc2b1e0e65779f21dd1ea392"
     },
     {
-      "stock": "SONY",
-      "headline": "Sony (SONY) Stock Drops Despite Market Gains: Important Facts to Note",
-      "url": "https://finnhub.io/api/news?id=bf4b08ab99c403e953b79a94de895b62d0e0243448677bc84288053758c9164f"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Workday Or Autodesk: Is The Louder AI Story The Better Stock?",
-      "url": "https://finnhub.io/api/news?id=365b76091abd327cea117a5c4e53814e022664d6b6bd7ee7a6793e6aee7a2663"
+      "stock": "TSLA",
+      "headline": "SpaceX-Tesla Merger: Ron Baron Told Elon Musk 'Whatever You Decide... Is What I'm Going to Support'",
+      "url": "https://finnhub.io/api/news?id=f42007628d279d7de6cb2a405028d25206eedfb3705390fa580a3d197a13cb15"
     },
     {
       "stock": "GOOGL",
-      "headline": "Alphabet's Ad Business Got a Lift From a Key Antitrust Ruling, Helping End Google's Worst Losing Streak in Over a Decade. Is Sundar Pichai's Alphabet Stock a Buy Now?",
-      "url": "https://finnhub.io/api/news?id=9f497c8334afd4d993e07860481e805fbd5c59475e82894b5b457d247aa697d1"
+      "headline": "Nvidia (NVDA) Forms Alliance To Build A Power Flexible AI Data Center",
+      "url": "https://finnhub.io/api/news?id=3cc167e549bf08f7f13503d5b8418f61d23e85d41fa18892cea7039507542882"
     },
     {
-      "stock": "CRWD",
-      "headline": "Jim Cramer Shared What CrowdStrike Holdings, Inc. (NASDAQ:CRWD)’s CEO Told Him About AI “Doomsaying”",
-      "url": "https://finnhub.io/api/news?id=628a63ca22beae14dd6320b8db62181e9fa4a51e9590cf4b54275d32b8b89e2a"
-    },
-    {
-      "stock": "ARM",
-      "headline": "SoftBank's AI spending spree now carries a $25 billion twist",
-      "url": "https://finnhub.io/api/news?id=65758f8c615e65e07564c3a6e8c3d99b7e16122e7dbc1c7213dffa45e18c18fb"
-    },
-    {
-      "stock": "HON",
-      "headline": "Investors Look Beyond AI As Market Signals Blur",
-      "url": "https://finnhub.io/api/news?id=7c1428615e53491a696b7edf944bae6b1b264a1d8d6772edb1c9a6094324f30a"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor (NYSE:TSM): High Growth Momentum Meets a Breakout Setup",
-      "url": "https://finnhub.io/api/news?id=669181b8d0ac2ef827da8bc3252067bf4d5403a8240e92f33eb1bae08636fb97"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "This Week in TSLA: Elon Musk Touts Roadster Debut, Fuels SpaceX Merger  Talks and More",
-      "url": "https://finnhub.io/api/news?id=a4e04271b0588e222363c4a9fafd550679ffe85e0be1c22556593d677085f366"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Is Arm Holdings Still a Hidden Winner of the AI Chip Race?",
-      "url": "https://finnhub.io/api/news?id=c2d93f6fb9f59283664d404a56f946de9f98e383522f57f627b707c4fc87fccf"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber CEO Dara Khosrowshahi fled Iran at 9 — and watched the government seize his family's business that made them rich",
-      "url": "https://finnhub.io/api/news?id=1d135c85063cefc04391b68bdc44ab9ee5e278cb9ef0506a15e30d4400ddd95a"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) Lands Forrester Leadership Nod As AI Security Ties Deepen",
-      "url": "https://finnhub.io/api/news?id=dde9c3abb031dbf806d5789a99d3990cf0f4d02c04f7ebd619b7d3c161a94727"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
-      "url": "https://finnhub.io/api/news?id=3c1f06dd43dfb92bc4580221c728e7d579d60bf1b6d31eeed7317cb274e178d5"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix (NFLX) Gets a Bullish $110 Target: What’s Driving the Outlook?",
-      "url": "https://finnhub.io/api/news?id=d8f8f4b768850dd50bac180e726a59f4afe824cce7fc726030f3486a27f36cd9"
-    },
-    {
-      "stock": "MU",
-      "headline": "Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron",
-      "url": "https://finnhub.io/api/news?id=4ee5d8f73b7bcfc2f2111ad1c3df3c392ea4da661144196a049ad018f0f14e71"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike CEO sends strong six-word message on AI cyber safety",
-      "url": "https://finnhub.io/api/news?id=660709c0abea217b3fae48feee6d0f6813953a63d22efd42fb09b0ad8ae2a212"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Cathie Wood Never Sold Ark's Core Stake in Tesla Despite the Stock Trailing Every Other Magnificent Seven Name in 2026. Here's Why Her Multi-Year Conviction Hasn't Wavered.",
-      "url": "https://finnhub.io/api/news?id=f7f592d30f5a57fd96f1a0e8a799c26aeeb8c2a1a3b50a11b64db46fb753ac4c"
+      "stock": "TEAM",
+      "headline": "Atlassian (TEAM) Just Turned Jira Into an AI Coding Command Center",
+      "url": "https://finnhub.io/api/news?id=e8d9934ed6974fd6958b5f0ba0e4a43f669643ae6a95f8949dfe08fdd86622bb"
     }
   ]
 }
