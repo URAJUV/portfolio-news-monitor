@@ -65,6 +65,26 @@
       "stock": "GOOGL",
       "headline": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak",
       "url": "https://finnhub.io/api/news?id=56a88259e6c7a2b419478646572c22a8e11ababde44e86683f8b7b0d43bdbdeb"
+    },
+    {
+      "stock": "TSM",
+      "headline": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+      "url": "https://finnhub.io/api/news?id=2ed95da84b24edf38219019a1c78a35702733de9a44cff9f341c994e5131bf3d"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo Alto Rally While Chips Fall",
+      "url": "https://finnhub.io/api/news?id=36ccd7c7b39359f222379065cc488d37e21c8d47d29516c2f7cdb2e82b962eac"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout",
+      "url": "https://finnhub.io/api/news?id=28a41481c75499589658b6f742f2f78b120e7e352845cc895886c76a9ac2169d"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Showcases Optical Innovations to Scale AI Infrastructure at ECOC 2026",
+      "url": "https://finnhub.io/api/news?id=67909d5c1f1f0166c739dfba8ac2236a4bc591897bdefb7b3ae51898f0f6fcbc"
     }
   ]
 }
