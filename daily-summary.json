@@ -30,6 +30,41 @@
       "stock": "COHR",
       "headline": "CUbIQ Technologies and Coherent Corp. demonstrate scalable, physical-layer security for AI infrastructure",
       "url": "https://finnhub.io/api/news?id=635315cc6c9ee18814731abea4189cca39fb41433e4fc68989182bd8c92ae26a"
+    },
+    {
+      "stock": "MU",
+      "headline": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years",
+      "url": "https://finnhub.io/api/news?id=419f3c0225c94bd05942c0074d1f53101db89a1041819618c7c38cccb350f728"
+    },
+    {
+      "stock": "TSM",
+      "headline": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
+      "url": "https://finnhub.io/api/news?id=fae669ecb6e184066d966bca9ef2e7bfed6d0b0685bbf660792d31f03bac5450"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Cybersecurity Stocks Extend Gains on AI Safety Warnings: CrowdStrike and Okta Rise 4%, Palo Alto Ticks Up",
+      "url": "https://finnhub.io/api/news?id=2b9cdfc13c93e89a6e4aa6dae62e4689216fbc3e955c65ad09dd31360cb7f540"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Sector Update: Tech Stocks Gain Monday Afternoon",
+      "url": "https://finnhub.io/api/news?id=bf5d5f64eb4c0e641f9955aa3ce69001be6d7aa8bb44887f109db1fcb34f6e50"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Corning Climbs 6% as AI Optical Interconnect Demo Highlights Its Fiber; Lumentum, Coherent and Applied Optoelectronics Rise 4%",
+      "url": "https://finnhub.io/api/news?id=a545359c0b87175d4bf7a1ab317ce8bced0ef12db7e8f30abad8cbb81cc717da"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave Appoints Bernard Gavgani to Board of Directors and Cybersecurity Committee",
+      "url": "https://finnhub.io/api/news?id=0bd475ba44741146a70a4c29c365f1f5bf5a56f430e4882dcdd1bbdced21d60e"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit founder’s unexpected message about AI doomsday panic",
+      "url": "https://finnhub.io/api/news?id=85f74291db0e54edc9810495d3f8ca701260dbbd00d0dfa9ee509cbe8c024700"
     }
   ]
 }
