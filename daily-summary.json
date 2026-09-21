@@ -1,90 +1,25 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "items": [
     {
       "stock": "TSM",
-      "headline": "Amodei, Altman, and Musk Called for an AI Slowdown. Here’s Why It’s a Warning Sign for ASML Shareholders.",
-      "url": "https://finnhub.io/api/news?id=187db4a88fa0758c68a12618d6066470129bd586a41ad0dbbb71b0bf0c35b073"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "AI risk debate: Existential threat or dangerous tool?",
-      "url": "https://finnhub.io/api/news?id=1df6b2682d2c7a0c4ccc2ee48309f59c455ee67ccc2b1e0e65779f21dd1ea392"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "SpaceX-Tesla Merger: Ron Baron Told Elon Musk 'Whatever You Decide... Is What I'm Going to Support'",
-      "url": "https://finnhub.io/api/news?id=f42007628d279d7de6cb2a405028d25206eedfb3705390fa580a3d197a13cb15"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Nvidia (NVDA) Forms Alliance To Build A Power Flexible AI Data Center",
-      "url": "https://finnhub.io/api/news?id=3cc167e549bf08f7f13503d5b8418f61d23e85d41fa18892cea7039507542882"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian (TEAM) Just Turned Jira Into an AI Coding Command Center",
-      "url": "https://finnhub.io/api/news?id=e8d9934ed6974fd6958b5f0ba0e4a43f669643ae6a95f8949dfe08fdd86622bb"
-    },
-    {
-      "stock": "MU",
-      "headline": "Should You Buy Micron Stock Before Its Next Earnings Report?",
-      "url": "https://finnhub.io/api/news?id=540c21b47b0aa9bfdb2cae0fbefe9fafcffe63b088c71ac7620d0b8de8f80812"
-    },
-    {
-      "stock": "MU",
-      "headline": "Billionaire David Tepper Has 40% of His Fund in Just 3 AI Stocks. Are They Still Buys?",
-      "url": "https://finnhub.io/api/news?id=45ef144ad4453ff673a80a712dcdf71f76575d05190c1e1d0ba08e0b42b1287c"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor Manufacturing's Foundry Market Share Is a Massive Moat Nobody Talks About",
-      "url": "https://finnhub.io/api/news?id=e633b04380d8ba61b8d0af190c7c392e0cdf932776b064e4ff55b48dee612f1f"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Billionaire David Tepper Has 40% of His Fund in Just 3 AI Stocks. Are They Still Buys?",
-      "url": "https://finnhub.io/api/news?id=45ef144ad4453ff673a80a712dcdf71f76575d05190c1e1d0ba08e0b42b1287c"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Berkshire Hathaway's Favorite Artificial Intelligence (AI) Stock Looks Like a Genius Buy Now",
-      "url": "https://finnhub.io/api/news?id=8b619b6cac8fc95683114599508de70e2f0b1b5d867c834492d832f1ba598237"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "President Trump to Create an “AI Force,” Appoint an AI Czar as AI Fears Grow",
-      "url": "https://finnhub.io/api/news?id=f4577ce5a26da99804853b4c3f238d383759e0ae666cb209be8a30e95a739f7c"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Could IonQ (IONQ) AI Written Quantum Circuits Unlock More Real World Workloads?",
-      "url": "https://finnhub.io/api/news?id=caa0f406b1559f63052d82a39594b125cf1e79be3da80a3dd71edaba40adbd3a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak",
-      "url": "https://finnhub.io/api/news?id=56a88259e6c7a2b419478646572c22a8e11ababde44e86683f8b7b0d43bdbdeb"
-    },
-    {
-      "stock": "TSM",
-      "headline": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
-      "url": "https://finnhub.io/api/news?id=2ed95da84b24edf38219019a1c78a35702733de9a44cff9f341c994e5131bf3d"
+      "headline": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
+      "url": "https://finnhub.io/api/news?id=8c69db0d3d99efd1444fd0b5c88390a4d70bf5b030efe1d6bd477ef579b7f8ce"
     },
     {
       "stock": "CRWD",
-      "headline": "The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo Alto Rally While Chips Fall",
-      "url": "https://finnhub.io/api/news?id=36ccd7c7b39359f222379065cc488d37e21c8d47d29516c2f7cdb2e82b962eac"
+      "headline": "Why CrowdStrike, Palo Alto Networks, SentinelOne, and Other Cybersecurity Stocks Surged This Week",
+      "url": "https://finnhub.io/api/news?id=6ac758b08867c75879bc3b16a15b96bdc03508f044b058fe73dbd2593f239c0b"
     },
     {
       "stock": "AMZN",
-      "headline": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout",
-      "url": "https://finnhub.io/api/news?id=28a41481c75499589658b6f742f2f78b120e7e352845cc895886c76a9ac2169d"
+      "headline": "BofA cuts to the chase on AI data center demand",
+      "url": "https://finnhub.io/api/news?id=ef216bc246daeab3d61359d8076032c5155eb8b99d20532e762695b71ab4d34c"
     },
     {
-      "stock": "COHR",
-      "headline": "Coherent Showcases Optical Innovations to Scale AI Infrastructure at ECOC 2026",
-      "url": "https://finnhub.io/api/news?id=67909d5c1f1f0166c739dfba8ac2236a4bc591897bdefb7b3ae51898f0f6fcbc"
+      "stock": "GOOGL",
+      "headline": "BofA cuts to the chase on AI data center demand",
+      "url": "https://finnhub.io/api/news?id=ef216bc246daeab3d61359d8076032c5155eb8b99d20532e762695b71ab4d34c"
     }
   ]
 }
