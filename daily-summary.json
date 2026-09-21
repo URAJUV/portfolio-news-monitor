@@ -65,6 +65,36 @@
       "stock": "RDDT",
       "headline": "Reddit founder’s unexpected message about AI doomsday panic",
       "url": "https://finnhub.io/api/news?id=85f74291db0e54edc9810495d3f8ca701260dbbd00d0dfa9ee509cbe8c024700"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue?",
+      "url": "https://finnhub.io/api/news?id=8b3f4913e028c7843280fdaf038151963880095d895871c22bb748c1173a7647"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Launches PhotonLink™ Integrated Optics Platform for AI Infrastructure",
+      "url": "https://finnhub.io/api/news?id=8060bf55a49786663c433e1053d3debe2e1784415a435c78c509eebc4ae7a1e7"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Gains 3% as Fremont Bias Claims Reach Trial",
+      "url": "https://finnhub.io/api/news?id=362fc92b927c1734f1db770add08121b18631576eecb33a2a62ea2aab3b0e0a5"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Guggenheim Reiterates Buy on Autodesk, Maintains $283 Price Target",
+      "url": "https://finnhub.io/api/news?id=c91d7e5123bc837b5a507e4ae4ad02b2789969cb39ccd5d4f9fee00b262aa575"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Stock Market Today, Sept. 21: Meta Surges on Excitement Over Muse Personal AI Agent",
+      "url": "https://finnhub.io/api/news?id=33112552d514cebd13c537152919d4e8b3e551bec9ac42be74177076db0ec0f9"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Cantor Fitzgerald Maintains Overweight on Atlassian, Raises Price Target to $220",
+      "url": "https://finnhub.io/api/news?id=29184bc5327a9a1284e0c8726c423d0bf7f393bd466880cfc086efac68dd2227"
     }
   ]
 }
