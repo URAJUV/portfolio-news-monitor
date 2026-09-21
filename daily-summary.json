@@ -20,6 +20,16 @@
       "stock": "GOOGL",
       "headline": "BofA cuts to the chase on AI data center demand",
       "url": "https://finnhub.io/api/news?id=ef216bc246daeab3d61359d8076032c5155eb8b99d20532e762695b71ab4d34c"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Water-AI Nexus™ Center of Excellence Marks One Year Anniversary at Climate Week NYC With Advisory Council Expansion, Workforce Development Initiatives, and Foundational Insight Reports",
+      "url": "https://finnhub.io/api/news?id=74ca01fd650bd433294a157119f40c105a54951a97df70d430e70f6e660b11b1"
+    },
+    {
+      "stock": "COHR",
+      "headline": "CUbIQ Technologies and Coherent Corp. demonstrate scalable, physical-layer security for AI infrastructure",
+      "url": "https://finnhub.io/api/news?id=635315cc6c9ee18814731abea4189cca39fb41433e4fc68989182bd8c92ae26a"
     }
   ]
 }
