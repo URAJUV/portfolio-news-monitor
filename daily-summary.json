@@ -165,6 +165,36 @@
       "stock": "NFLX",
       "headline": "HSBC Resets Netflix Stock Target For 2026",
       "url": "https://finnhub.io/api/news?id=5b8f7f16407cde47e7c6e95b6f0bf21a97066e97967ed916df3a169ad2ffdedf"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon.com (AMZN) Blocks Rival AI Shopping Agent On Its Platform",
+      "url": "https://finnhub.io/api/news?id=7d96e1f939a7d93111edee3ea421edb3a4bc9f031b1392f9a3a21031cd0ae943"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "What Happens To Synopsys Stock If AI Learns To Design Chips Without It?",
+      "url": "https://finnhub.io/api/news?id=ae40f229dee4aa6a4da1a9429ad50aa6b2e6e23f457d63afdd84ce203e9cee14"
+    },
+    {
+      "stock": "HON",
+      "headline": "Pentair nabs ex-Fiserv CFO for finance chief",
+      "url": "https://finnhub.io/api/news?id=51625bdf1d604d3e37c3abf135c1bccc70bc314f2438a25e3a1fe5a1d0ddc89a"
+    },
+    {
+      "stock": "DE",
+      "headline": "The Fed Is Watching AI Inflation. Here's What ETF Investors Should Watch",
+      "url": "https://finnhub.io/api/news?id=a2a676d9cbc73dffdbc66c83bdb41b4067437c63aa929b82cda868f68225b566"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "INTEGRITY Global Security Launches AI Dome™, Nuclear-Grade Security That Neutralizes All AI Cyberattacks",
+      "url": "https://finnhub.io/api/news?id=bf3f061f4fa06cb6ba360ebfd3faf7065b5c1fc919ff83e78a3678bc9244cb03"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Stock Downgraded As YouTube Swipes Viewers",
+      "url": "https://finnhub.io/api/news?id=7b1944202dbbe98b28ff3a9b084447123cb2ff6021bafa38d7fcf2b329fe0dc8"
     }
   ]
 }
