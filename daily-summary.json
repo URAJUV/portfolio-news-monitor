@@ -1,100 +1,40 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
-      "url": "https://finnhub.io/api/news?id=8c69db0d3d99efd1444fd0b5c88390a4d70bf5b030efe1d6bd477ef579b7f8ce"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Why CrowdStrike, Palo Alto Networks, SentinelOne, and Other Cybersecurity Stocks Surged This Week",
-      "url": "https://finnhub.io/api/news?id=6ac758b08867c75879bc3b16a15b96bdc03508f044b058fe73dbd2593f239c0b"
-    },
-    {
       "stock": "AMZN",
-      "headline": "BofA cuts to the chase on AI data center demand",
-      "url": "https://finnhub.io/api/news?id=ef216bc246daeab3d61359d8076032c5155eb8b99d20532e762695b71ab4d34c"
+      "headline": "Cohesity Introduces Agent Resilience to Protect and Recover AI Agent Infrastructure",
+      "url": "https://finnhub.io/api/news?id=d9ccd4bef38abd8564ff5fffe1a62183b413bddeb6f60761bdd13bc27fb47939"
     },
     {
-      "stock": "GOOGL",
-      "headline": "BofA cuts to the chase on AI data center demand",
-      "url": "https://finnhub.io/api/news?id=ef216bc246daeab3d61359d8076032c5155eb8b99d20532e762695b71ab4d34c"
+      "stock": "TSLA",
+      "headline": "What Could A Space Exploration Technologies (SPCX) Merger Mean For Investors?",
+      "url": "https://finnhub.io/api/news?id=fe047ca97c0dd028e8229782caa809efead63d8342be52d37ebacb8254cc5cec"
     },
     {
-      "stock": "AMZN",
-      "headline": "Water-AI Nexus™ Center of Excellence Marks One Year Anniversary at Climate Week NYC With Advisory Council Expansion, Workforce Development Initiatives, and Foundational Insight Reports",
-      "url": "https://finnhub.io/api/news?id=74ca01fd650bd433294a157119f40c105a54951a97df70d430e70f6e660b11b1"
+      "stock": "ARM",
+      "headline": "ARM, Intel, AMD Surge As Meta’s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
+      "url": "https://finnhub.io/api/news?id=d0eb2b00556f5ff54107e4cb4129531ff940c8b13d21e046be3f77e5fbe685d8"
     },
     {
-      "stock": "COHR",
-      "headline": "CUbIQ Technologies and Coherent Corp. demonstrate scalable, physical-layer security for AI infrastructure",
-      "url": "https://finnhub.io/api/news?id=635315cc6c9ee18814731abea4189cca39fb41433e4fc68989182bd8c92ae26a"
-    },
-    {
-      "stock": "MU",
-      "headline": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years",
-      "url": "https://finnhub.io/api/news?id=419f3c0225c94bd05942c0074d1f53101db89a1041819618c7c38cccb350f728"
-    },
-    {
-      "stock": "TSM",
-      "headline": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
-      "url": "https://finnhub.io/api/news?id=fae669ecb6e184066d966bca9ef2e7bfed6d0b0685bbf660792d31f03bac5450"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Cybersecurity Stocks Extend Gains on AI Safety Warnings: CrowdStrike and Okta Rise 4%, Palo Alto Ticks Up",
-      "url": "https://finnhub.io/api/news?id=2b9cdfc13c93e89a6e4aa6dae62e4689216fbc3e955c65ad09dd31360cb7f540"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Sector Update: Tech Stocks Gain Monday Afternoon",
-      "url": "https://finnhub.io/api/news?id=bf5d5f64eb4c0e641f9955aa3ce69001be6d7aa8bb44887f109db1fcb34f6e50"
-    },
-    {
-      "stock": "COHR",
+      "stock": "AAOI",
       "headline": "Corning Climbs 6% as AI Optical Interconnect Demo Highlights Its Fiber; Lumentum, Coherent and Applied Optoelectronics Rise 4%",
       "url": "https://finnhub.io/api/news?id=a545359c0b87175d4bf7a1ab317ce8bced0ef12db7e8f30abad8cbb81cc717da"
     },
     {
       "stock": "QBTS",
-      "headline": "D-Wave Appoints Bernard Gavgani to Board of Directors and Cybersecurity Committee",
-      "url": "https://finnhub.io/api/news?id=0bd475ba44741146a70a4c29c365f1f5bf5a56f430e4882dcdd1bbdced21d60e"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit founder’s unexpected message about AI doomsday panic",
-      "url": "https://finnhub.io/api/news?id=85f74291db0e54edc9810495d3f8ca701260dbbd00d0dfa9ee509cbe8c024700"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue?",
-      "url": "https://finnhub.io/api/news?id=8b3f4913e028c7843280fdaf038151963880095d895871c22bb748c1173a7647"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent Launches PhotonLink™ Integrated Optics Platform for AI Infrastructure",
-      "url": "https://finnhub.io/api/news?id=8060bf55a49786663c433e1053d3debe2e1784415a435c78c509eebc4ae7a1e7"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla Gains 3% as Fremont Bias Claims Reach Trial",
-      "url": "https://finnhub.io/api/news?id=362fc92b927c1734f1db770add08121b18631576eecb33a2a62ea2aab3b0e0a5"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Guggenheim Reiterates Buy on Autodesk, Maintains $283 Price Target",
-      "url": "https://finnhub.io/api/news?id=c91d7e5123bc837b5a507e4ae4ad02b2789969cb39ccd5d4f9fee00b262aa575"
+      "headline": "CoreWeave vs. D-Wave Quantum: Is the AI Giant or the Quantum Computer Upstart the Better Stock Investment?",
+      "url": "https://finnhub.io/api/news?id=764c2b21ef08e4312377685ecfc69a3e1193bee9e1f6f1a886509d6ebf756550"
     },
     {
       "stock": "GOOGL",
-      "headline": "Stock Market Today, Sept. 21: Meta Surges on Excitement Over Muse Personal AI Agent",
-      "url": "https://finnhub.io/api/news?id=33112552d514cebd13c537152919d4e8b3e551bec9ac42be74177076db0ec0f9"
+      "headline": "Cohesity Introduces Agent Resilience to Protect and Recover AI Agent Infrastructure",
+      "url": "https://finnhub.io/api/news?id=d9ccd4bef38abd8564ff5fffe1a62183b413bddeb6f60761bdd13bc27fb47939"
     },
     {
       "stock": "TEAM",
-      "headline": "Cantor Fitzgerald Maintains Overweight on Atlassian, Raises Price Target to $220",
-      "url": "https://finnhub.io/api/news?id=29184bc5327a9a1284e0c8726c423d0bf7f393bd466880cfc086efac68dd2227"
+      "headline": "Akamai, Atlassian, Commerce, Five9, and Rapid7 Stocks Trade Up and Down, What You Need To Know",
+      "url": "https://finnhub.io/api/news?id=77c72e98def4ed70cfab45198a0c707b34ed853278f79da3009730b76c85717d"
     }
   ]
 }
