@@ -35,6 +35,61 @@
       "stock": "TEAM",
       "headline": "Akamai, Atlassian, Commerce, Five9, and Rapid7 Stocks Trade Up and Down, What You Need To Know",
       "url": "https://finnhub.io/api/news?id=77c72e98def4ed70cfab45198a0c707b34ed853278f79da3009730b76c85717d"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Stocks rise on AI buzz, drop in oil prices",
+      "url": "https://finnhub.io/api/news?id=82244b4db707ded382442c9428af04e1e8da32029e96cd2075dc0b364596c00c"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
+      "url": "https://finnhub.io/api/news?id=243db43307a3884832bb7a9dcdd2c7dbdfabb3920122c6201283cb5cc65b8c33"
+    },
+    {
+      "stock": "COHR",
+      "headline": "3 US AI Infrastructure Stocks Worth Watching as Data Center Spending Builds",
+      "url": "https://finnhub.io/api/news?id=59847bcd867ddcae4d9def2434c9e3926ece93364299bb6e57e478dd9774a8e8"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
+      "url": "https://finnhub.io/api/news?id=243db43307a3884832bb7a9dcdd2c7dbdfabb3920122c6201283cb5cc65b8c33"
+    },
+    {
+      "stock": "HALO",
+      "headline": "1 Cash-Producing Stock to Target This Week and 2 We Question",
+      "url": "https://finnhub.io/api/news?id=587b0a15431859afb0b6c5f05aeb88e21962a03b213c296c0a92048ea21f488e"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ Just Raised 2026 Revenue Guidance. This Quantum Computing Pure-Play Looks Like a Brilliant Buy Now.",
+      "url": "https://finnhub.io/api/news?id=2d40981de427b71ac63ff1ec3c49ea1fa9228f1a414f493ac8155a52f3e7b423"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave Disappoints Again: A Quantum Company Without Commercial Momentum",
+      "url": "https://finnhub.io/api/news?id=f32534ac6cb9141c02ffa1585bc39052038a349952f16964dbaec3978f45d146"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Warren Buffett Just Stepped Down. These 2 AI Stocks Still Define Berkshire’s Portfolio",
+      "url": "https://finnhub.io/api/news?id=fd6578135cafe182305b183b1b6adb2c6dd986caf6a2626083cc1843ea2fff5c"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Can Strong Cloud Growth Sustain Atlassian's Revenue Momentum?",
+      "url": "https://finnhub.io/api/news?id=9dbf32f4ca8a7ac25f61fc71087b1a22fbc977800b107c1153dd2a4d2c45ab81"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
+      "url": "https://finnhub.io/api/news?id=243db43307a3884832bb7a9dcdd2c7dbdfabb3920122c6201283cb5cc65b8c33"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit (RDDT) Court Ruling Says Its User Agreement May Bind AI Data Use",
+      "url": "https://finnhub.io/api/news?id=703a4a8e025552545da7a87077252adf0345f381067eba2d56c520e3f033aaad"
     }
   ]
 }
