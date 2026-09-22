@@ -125,6 +125,46 @@
       "stock": "U",
       "headline": "Fortinet shares are trading higher after reporting better-than-expected Q4 financial results and Q1 and FY26 outlook. Also, Rosenblatt raised its price target on the stock from $100 to $105.",
       "url": "https://finnhub.io/api/news?id=17adf0d15ec4079a9bb0faf5213b615bec6367c802fd3b9c203d6f8ad2dd2679"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Anthropic vs. OpenAI: Competition heats up with release of new AI models",
+      "url": "https://finnhub.io/api/news?id=0a2cece8fdae5d20d6736791e3af641129137b6d85c190acc18164c72a9dd732"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today’s Market",
+      "url": "https://finnhub.io/api/news?id=ef21d8940808885bf299b0c1651140d3a90d9abde2728583ad8fe9a02583eb67"
+    },
+    {
+      "stock": "ARM",
+      "headline": "AMD Stock Just Sent a Huge AI Signal",
+      "url": "https://finnhub.io/api/news?id=0a8e4d9f85eb3886d87d720ed8c87f443770bada2ce1f8dd2ccd85b5c0af282b"
+    },
+    {
+      "stock": "HON",
+      "headline": "Tuesday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=d1a0fa717a3205c82feb1b910304a2237ef6e5907fe442d635e0bf4fae4efbd3"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ and SDT Announce the First Strategic Partnership to Bring Both Advanced Quantum Computing and Quantum Networking to the Asia-Pacific Region",
+      "url": "https://finnhub.io/api/news?id=58dcb940add95654dbac0c614abb798a282faf51a58f01857c9b4753a225a3d7"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Is Tesla's evaluation based on pure faith or on hoping for the best?",
+      "url": "https://finnhub.io/api/news?id=9ac201eada405bbc0503ecef42345aa1f53fb5bee2738068a535492ed06d95f2"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Tuesday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=d1a0fa717a3205c82feb1b910304a2237ef6e5907fe442d635e0bf4fae4efbd3"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "HSBC Resets Netflix Stock Target For 2026",
+      "url": "https://finnhub.io/api/news?id=5b8f7f16407cde47e7c6e95b6f0bf21a97066e97967ed916df3a169ad2ffdedf"
     }
   ]
 }
