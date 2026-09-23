@@ -40,6 +40,56 @@
       "stock": "NFLX",
       "headline": "Netflix Stock Drops on HSBC Downgrade, Citing YouTube Threat",
       "url": "https://finnhub.io/api/news?id=07a7b456a17324554aa614040d840d5d2a890608834586dbea3437f1c6008801"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Stock Rallies as AI Security Fears Create a Major Opportunity. How to Play CRWD Here.",
+      "url": "https://finnhub.io/api/news?id=8fdbea8f551147afdc5a8413dfd3970dcc2e3324c16eae859f476e5526457af0"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Market Chatter: Anthropic Eyes Up to 1 GW of Data Center Capacity From Apollo-Backed Stream",
+      "url": "https://finnhub.io/api/news?id=d7df606b910c0dee8bcfd92a027888548672b075dd410b7c3ee7af9d14f7840c"
+    },
+    {
+      "stock": "COHR",
+      "headline": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+      "url": "https://finnhub.io/api/news?id=a29b574fe334b63b5f339f7a019833d29c72411ebd7855aa979261a6410bfb6a"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "IonQ's New Research Shows Up to 14.6% Gains in Engineering Workloads",
+      "url": "https://finnhub.io/api/news?id=fda16cb99ddc472d9313ed3827bb08b26650c11397d58598f47a703c3f19bffb"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell (HON) Lands Marine Corps Security Upgrade And Major Tech Awards",
+      "url": "https://finnhub.io/api/news?id=c3013f068c54cd3ecc31f5ad9ed1c571bc9569171d4f5a50d2914dfd44b286f2"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Dow, S&P 500, Nasdaq Futures Climb Amid Iran Diplomacy Hopes, AI Rally: IONQ, VKTX, INFQ, BB Stocks In Focus",
+      "url": "https://finnhub.io/api/news?id=2485260d8aa1acf609380e146523aba96c8666154b13efaf00b45fe3bd50e6f7"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "AI Pick-And-Shovel Stocks To Watch As Xi And Trump Meet",
+      "url": "https://finnhub.io/api/news?id=d8c5dcb116d83c9b1044b01dbd37d0874ecf7a928c673609b8d4d161db5a70e9"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Exclusive: Hashgraph lands IBM marketplace listing for AI-agent identity tool",
+      "url": "https://finnhub.io/api/news?id=9132f07a9c55172123b33510c83991fd1d980dcc0144511397bee64ddce974d2"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "3 Software Stocks Rebounding as AI Fears Give Way to Growth",
+      "url": "https://finnhub.io/api/news?id=5eb1ee0f573f169951951b695ddba114931f622f4320ef528a9a71eb59d57958"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix stock has a strange stock price target problem",
+      "url": "https://finnhub.io/api/news?id=291b43bb18f5269e1b122ff3a1b2452e408b75d1f1b03a66b79bb2bfcc08a732"
     }
   ]
 }
