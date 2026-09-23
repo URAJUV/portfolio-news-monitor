@@ -90,6 +90,46 @@
       "stock": "NFLX",
       "headline": "Netflix stock has a strange stock price target problem",
       "url": "https://finnhub.io/api/news?id=291b43bb18f5269e1b122ff3a1b2452e408b75d1f1b03a66b79bb2bfcc08a732"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Why This Top Global Dividend Fund Likes Samsung and Citigroup",
+      "url": "https://finnhub.io/api/news?id=f9af86c53bec061c8c4e11dcb52c020da184d2d6ad45ffe62978b58dd79f2e09"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
+      "url": "https://finnhub.io/api/news?id=2401f59549f6dc5e3161f972089484183590ddc78650f70febdf139cb10d8587"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Update: Market Chatter: Anthropic, OpenEvidence Team Up to Expand Medical AI Globally",
+      "url": "https://finnhub.io/api/news?id=c94fb7eb12434c735710d8661f2d10fe8febdbf984a270d948f2e58efe75f4f6"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?",
+      "url": "https://finnhub.io/api/news?id=371be1c49e347251001f9dfeef3b2598d170c71612e1350f4087f935388466d5"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Shoals Technologies Group (SHLS) Stock Could Be A Bargain On Cash Flow",
+      "url": "https://finnhub.io/api/news?id=fd70be387f0897d1ff685e2f7051085fc739d9ab31c857b9fc2f4517f4607be0"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Cadence's New RTL Generation Agent Could Reshape AI-Driven Chip Design",
+      "url": "https://finnhub.io/api/news?id=e6bc6b01864276da25dc5c5f4c34105544a274205f7b95a02de33e506ba05018"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "AutoZone Q4 Earnings Beat Estimates on Tariff Refunds, Sales Miss",
+      "url": "https://finnhub.io/api/news?id=a5606e383dfa8c18a9cf65f6588d368df45b000d09e8daecfc080952191f840a"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave And Quantum Computing: Taking Profits On The Pair, Waiting For The Next Gap",
+      "url": "https://finnhub.io/api/news?id=5cdb4a90de380de207e717b5f3b540da9d0a3d62a1fd5a8ca47ef34a330d4995"
     }
   ]
 }
