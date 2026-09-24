@@ -1,175 +1,40 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "Intel Is Up 25% in 5 Days. The $145 Price Target Just Moved Too",
-      "url": "https://finnhub.io/api/news?id=457883f0f473ada0a708561ff0eb577f3c075986ad8a6c2dfaedb9f4bee30251"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Fortinet Stock Jumps on Security Platform Demand: What's Ahead?",
-      "url": "https://finnhub.io/api/news?id=882ef1acf2ce2deb00236626907628ed7f2bd239db085142d58290d76f3a99c0"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "If You Buy Monster Beverage With $10,000 Today, Could You Become a Millionaire in 25 Years?",
-      "url": "https://finnhub.io/api/news?id=6a8a655f93169fef7933ad0f27f3a12ac817cd0a74b8a51ad81a2a9a79c36e6e"
-    },
-    {
-      "stock": "COHR",
-      "headline": "AI Pick-And-Shovel Stocks To Watch As Xi And Trump Meet",
-      "url": "https://finnhub.io/api/news?id=d8c5dcb116d83c9b1044b01dbd37d0874ecf7a928c673609b8d4d161db5a70e9"
+      "stock": "MU",
+      "headline": "Earnings Outlook Remains Upbeat: A Closer Look",
+      "url": "https://finnhub.io/api/news?id=9bc1360e50ff50612519ba438c9854a3066bbbdfb6444a462c303f024aa71a3b"
     },
     {
       "stock": "ARM",
-      "headline": "Arm Gains 1.5% as Agentic AI Multiplies CPU Cores",
-      "url": "https://finnhub.io/api/news?id=4a181bfe7f43c940a3f9aa7b7b9bd1589cdfc1f2b9f01f54c4a71dc488c93b3b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet (GOOGL) Stock May Be A Bargain After Privacy Fine",
-      "url": "https://finnhub.io/api/news?id=780c3d1c8ef9f3bd73e4aa2ddd26fabafcf1a46960a2feb84a5a669bbe95da26"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "AI Alliances And Raised Targets Could Be A Game Changer For ServiceNow (NOW)",
-      "url": "https://finnhub.io/api/news?id=36dc01bac8350463dcb6e7eb625a1508dd51c5f4bafd93eb1bb18e9c065a66cd"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix Stock Drops on HSBC Downgrade, Citing YouTube Threat",
-      "url": "https://finnhub.io/api/news?id=07a7b456a17324554aa614040d840d5d2a890608834586dbea3437f1c6008801"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Stock Rallies as AI Security Fears Create a Major Opportunity. How to Play CRWD Here.",
-      "url": "https://finnhub.io/api/news?id=8fdbea8f551147afdc5a8413dfd3970dcc2e3324c16eae859f476e5526457af0"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Market Chatter: Anthropic Eyes Up to 1 GW of Data Center Capacity From Apollo-Backed Stream",
-      "url": "https://finnhub.io/api/news?id=d7df606b910c0dee8bcfd92a027888548672b075dd410b7c3ee7af9d14f7840c"
-    },
-    {
-      "stock": "COHR",
-      "headline": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
-      "url": "https://finnhub.io/api/news?id=a29b574fe334b63b5f339f7a019833d29c72411ebd7855aa979261a6410bfb6a"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "IonQ's New Research Shows Up to 14.6% Gains in Engineering Workloads",
-      "url": "https://finnhub.io/api/news?id=fda16cb99ddc472d9313ed3827bb08b26650c11397d58598f47a703c3f19bffb"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell (HON) Lands Marine Corps Security Upgrade And Major Tech Awards",
-      "url": "https://finnhub.io/api/news?id=c3013f068c54cd3ecc31f5ad9ed1c571bc9569171d4f5a50d2914dfd44b286f2"
+      "headline": "Arm vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026?",
+      "url": "https://finnhub.io/api/news?id=6716aa599d281c90ee171b57ba0516a8ed5d5cd5298fc1912bb39d58dd984e6f"
     },
     {
       "stock": "IONQ",
-      "headline": "Dow, S&P 500, Nasdaq Futures Climb Amid Iran Diplomacy Hopes, AI Rally: IONQ, VKTX, INFQ, BB Stocks In Focus",
-      "url": "https://finnhub.io/api/news?id=2485260d8aa1acf609380e146523aba96c8666154b13efaf00b45fe3bd50e6f7"
+      "headline": "Sandisk, Super Micro, IonQ, Six Flags, and More Stocks That Explain Today’s Market",
+      "url": "https://finnhub.io/api/news?id=581127825b02f6757ed307c06611c91bf051d42cbdb5303100593e7b283df0fa"
     },
     {
-      "stock": "AAOI",
-      "headline": "AI Pick-And-Shovel Stocks To Watch As Xi And Trump Meet",
-      "url": "https://finnhub.io/api/news?id=d8c5dcb116d83c9b1044b01dbd37d0874ecf7a928c673609b8d4d161db5a70e9"
+      "stock": "DPRO",
+      "headline": "Draganfly: Execution Disappoints, But The Upside Remains",
+      "url": "https://finnhub.io/api/news?id=dd23a8d732c94eeea8985a5084bf10c421a07efa3c5bd9d3b8bd3417f313acd1"
     },
     {
       "stock": "IBM",
-      "headline": "Exclusive: Hashgraph lands IBM marketplace listing for AI-agent identity tool",
-      "url": "https://finnhub.io/api/news?id=9132f07a9c55172123b33510c83991fd1d980dcc0144511397bee64ddce974d2"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "3 Software Stocks Rebounding as AI Fears Give Way to Growth",
-      "url": "https://finnhub.io/api/news?id=5eb1ee0f573f169951951b695ddba114931f622f4320ef528a9a71eb59d57958"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix stock has a strange stock price target problem",
-      "url": "https://finnhub.io/api/news?id=291b43bb18f5269e1b122ff3a1b2452e408b75d1f1b03a66b79bb2bfcc08a732"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Why This Top Global Dividend Fund Likes Samsung and Citigroup",
-      "url": "https://finnhub.io/api/news?id=f9af86c53bec061c8c4e11dcb52c020da184d2d6ad45ffe62978b58dd79f2e09"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
-      "url": "https://finnhub.io/api/news?id=2401f59549f6dc5e3161f972089484183590ddc78650f70febdf139cb10d8587"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Update: Market Chatter: Anthropic, OpenEvidence Team Up to Expand Medical AI Globally",
-      "url": "https://finnhub.io/api/news?id=c94fb7eb12434c735710d8661f2d10fe8febdbf984a270d948f2e58efe75f4f6"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?",
-      "url": "https://finnhub.io/api/news?id=371be1c49e347251001f9dfeef3b2598d170c71612e1350f4087f935388466d5"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "Shoals Technologies Group (SHLS) Stock Could Be A Bargain On Cash Flow",
-      "url": "https://finnhub.io/api/news?id=fd70be387f0897d1ff685e2f7051085fc739d9ab31c857b9fc2f4517f4607be0"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Cadence's New RTL Generation Agent Could Reshape AI-Driven Chip Design",
-      "url": "https://finnhub.io/api/news?id=e6bc6b01864276da25dc5c5f4c34105544a274205f7b95a02de33e506ba05018"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "AutoZone Q4 Earnings Beat Estimates on Tariff Refunds, Sales Miss",
-      "url": "https://finnhub.io/api/news?id=a5606e383dfa8c18a9cf65f6588d368df45b000d09e8daecfc080952191f840a"
+      "headline": "International Business Machines (IBM) Builds Its AI And Quantum Case As Valuation Questions Grow",
+      "url": "https://finnhub.io/api/news?id=bb993822e1862dd9b3846857c3219aabcf55e37e1967ec9189d881391a556d06"
     },
     {
       "stock": "QBTS",
-      "headline": "D-Wave And Quantum Computing: Taking Profits On The Pair, Waiting For The Next Gap",
-      "url": "https://finnhub.io/api/news?id=5cdb4a90de380de207e717b5f3b540da9d0a3d62a1fd5a8ca47ef34a330d4995"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Qualcomm Comes For Apple’s A20 Pro With New AI-First Snapdragon Chips",
-      "url": "https://finnhub.io/api/news?id=ea22888d3113d47bbc94883e8f6611403b64f3cd6d01a70dbff3531bce502a86"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=3aa2d05dbfb9cccf295039bfda103476f6d1d985eb2b75caef6ed55770b1f407"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design",
-      "url": "https://finnhub.io/api/news?id=b05add188bbb24947755dcc040c2c0770f87297ac5d7f61db04832c41a0e5121"
-    },
-    {
-      "stock": "ARM",
-      "headline": "SoftBank Is Raising $11 Billion for OpenAI. Its Arm Stake Backs a $25 Billion Loan Facility",
-      "url": "https://finnhub.io/api/news?id=fec2d7296db6de14c116510aac29b2161c2a5b74baf451b7b01dd805a13c802b"
-    },
-    {
-      "stock": "HON",
-      "headline": "3M's Consumer Business Hurt by Weak Retail Markets: Is a Turnaround Likely?",
-      "url": "https://finnhub.io/api/news?id=734b99055a35b25f9096d44f6cf5259ef16138793833993d7c1f0d255e0d0497"
-    },
-    {
-      "stock": "DE",
-      "headline": "Deere: Time To Take Some Profits (Downgrade To Sell)",
-      "url": "https://finnhub.io/api/news?id=07f1eec2e835bb7d17cde00681b433c2416926a07f5cc16286e7e4b6d9a188ac"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=bb4171ba2315271ffac02d3155801d13d6e8d838f8d2b0f43020c3b412215389"
+      "headline": "D-Wave Quantum Just Got $100 Million From the U.S. Government. It's Also Burning Through Roughly $37 Million a Quarter. With Its Stock Down 60% From the Peak, Is It a Bargain or a Trap?",
+      "url": "https://finnhub.io/api/news?id=8f8d24046115c162288884f578e9b3bb609cc131095430b4328a88f910feacf9"
     },
     {
       "stock": "GOOGL",
-      "headline": "'The Money Will Run Out': Inside The Case For An AI Bubble",
-      "url": "https://finnhub.io/api/news?id=ba9ab07927c748e17491bdc6eaf0a0c1f752b82bdca36b584e7f0ae7363635eb"
+      "headline": "Earnings Outlook Remains Upbeat: A Closer Look",
+      "url": "https://finnhub.io/api/news?id=9bc1360e50ff50612519ba438c9854a3066bbbdfb6444a462c303f024aa71a3b"
     }
   ]
 }
