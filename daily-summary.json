@@ -35,6 +35,41 @@
       "stock": "GOOGL",
       "headline": "Earnings Outlook Remains Upbeat: A Closer Look",
       "url": "https://finnhub.io/api/news?id=9bc1360e50ff50612519ba438c9854a3066bbbdfb6444a462c303f024aa71a3b"
+    },
+    {
+      "stock": "MU",
+      "headline": "MU, SNDK Extend Slide For A Second Day As Memory Rally Fizzles: Micron Results Next Week To Test AI Demand",
+      "url": "https://finnhub.io/api/news?id=6777deb05b2988abdd843209f8676e02e32ea78105927250fa167cfa83a41c7c"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Data Center Boom Pushes CRE Construction Costs Higher",
+      "url": "https://finnhub.io/api/news?id=abcd9e8711808c9dd118351e2a367407f96de171ce4b6ca42a5f68c7d786c2bc"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Falls as Agentic AI Multiplies Server-Core Demand",
+      "url": "https://finnhub.io/api/news?id=d5769081a1ea8ed8af21b2a1101f3970d0dbc8d16bc1186cb9a5e795c7618067"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
+      "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Brain-Inspired Computing Processor Market Outlook 2026-2035 - Featuring Profiles of Intel, IBM, and BrainChip Holdings",
+      "url": "https://finnhub.io/api/news?id=a013f2ca1c0edcf183fbb5df720daf0cc6d9ad86659cb87c46982799d032c6d6"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
+      "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb"
+    },
+    {
+      "stock": "U",
+      "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
+      "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb"
     }
   ]
 }
