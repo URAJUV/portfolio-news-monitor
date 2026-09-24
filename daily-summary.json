@@ -70,6 +70,61 @@
       "stock": "U",
       "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
       "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron, SuperMicro, HPE Face ITC Investigation Over Netlist Patent Infringement Claims",
+      "url": "https://finnhub.io/api/news?id=cd7308ffe16f19d5a09069d65c81dd7f1c765517f336540f0575b9b71ce13593"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Here's My Top Low-Risk, High-Potential-Reward Stock That's Thriving in the Artificial Intelligence (AI) Boom",
+      "url": "https://finnhub.io/api/news?id=4c36ee83833c5c173d5ff50ae21c04f9a16d93f7e2dd29d61a1f3884e3555aee"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AI Data Center Boom Faces This 'Fundamental Trade-off' With China",
+      "url": "https://finnhub.io/api/news?id=95f4780d101ea9ce33147a22bc5c76029f282ddba41a87ae266460541905db37"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Alchip Collaborates With Synopsys To Address Scale Up And Out Bandwidth Constraints; Collaboration Features High-Speed SerDes, Advanced Packaging And SI/PI Expertise",
+      "url": "https://finnhub.io/api/news?id=825c51cc2d2e7fc73f379381705f377d23fc97c3cf378c9dc4f25739e3adf4d3"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Forget Doomsday: These 4 Real-World Risks Could Derail the AI Stock Rally",
+      "url": "https://finnhub.io/api/news?id=93a9faff716c357328f407c036acd854c0fbced0273f2a10a69784e96484d0cc"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Why Sony Group Corporation (SONY) Remains a Key Gabelli Holding",
+      "url": "https://finnhub.io/api/news?id=5a68beca6d74ef463b11c5d46d1c63e697fe55bdc92e7ac3f66c6417fa42f53c"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Stock Is Down 28%, and the Robotaxi Clock Is Ticking. Its CEO Just Bought $10 Million of Stock Anyway",
+      "url": "https://finnhub.io/api/news?id=6ee49733c449dc90454a4abd08cdd3957972cfa9358d877699661423cb20cfa2"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "AI Data Center Boom Faces This 'Fundamental Trade-off' With China",
+      "url": "https://finnhub.io/api/news?id=95f4780d101ea9ce33147a22bc5c76029f282ddba41a87ae266460541905db37"
+    },
+    {
+      "stock": "U",
+      "headline": "Unity Software Stock Surges Nearly 5% Overnight On Meta’s New VR, AI Hardware Push",
+      "url": "https://finnhub.io/api/news?id=47821a6231301742deedc99230c4b2f634ccf1f362256747c685ed05016c7883"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Camus Energy Joins AI Energy Management Alliance to Accelerate Data Center Power Integration",
+      "url": "https://finnhub.io/api/news?id=b643de43eb42d27c7ada414f6d9216f1d48801108f9c5b14a481f08fa48f3a5c"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian: AI And Enterprise Growth Make Valuation More Interesting",
+      "url": "https://finnhub.io/api/news?id=0e6bfb8a10975dac9df74d424bc06adeee90f296bcf4000399d7cfe741741778"
     }
   ]
 }
