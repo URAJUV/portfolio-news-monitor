@@ -125,6 +125,31 @@
       "stock": "TEAM",
       "headline": "Atlassian: AI And Enterprise Growth Make Valuation More Interesting",
       "url": "https://finnhub.io/api/news?id=0e6bfb8a10975dac9df74d424bc06adeee90f296bcf4000399d7cfe741741778"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Trump-Xi Summit: Here’s the Current State of the AI Battle",
+      "url": "https://finnhub.io/api/news?id=84a046e6408bbfcf710a80bd569b2276122526a22dde68f97cbdba33c1d35807"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys Collaborates With TSMC Over Development Of AI, High-Performance Computing, Advanced Semiconductor Systems",
+      "url": "https://finnhub.io/api/news?id=e78847f03cd0a4eb59fa242ce461ac9276148f05610093f8e53c2427755b9751"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Drops 3.3% as More AI Cores Test Royalty Economics",
+      "url": "https://finnhub.io/api/news?id=9fdeff4c9aab391acae60ab9f176f6e57f1cd7661d2c57e4b1e95723f41f833e"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "What Does D Wave Quantum (QBTS) Gain From Its New Enterprise Partnership?",
+      "url": "https://finnhub.io/api/news?id=33f7b8876647a536af58d8f8c1df5074e7a7edbd37632f2b659db212f3868651"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google Prepares to Put AI Chips Into Space",
+      "url": "https://finnhub.io/api/news?id=ba5b50877334ca97e1699680e11546381487166f0967620976c32ca02c28c794"
     }
   ]
 }
