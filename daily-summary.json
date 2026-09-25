@@ -65,6 +65,51 @@
       "stock": "QBTS",
       "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
       "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron's 279% Rally Is Heading Into a Big Earnings Test",
+      "url": "https://finnhub.io/api/news?id=4199b3d30de93679719c4b7a839d0a6b5dd5961213ea71c833409e0e61ddc765"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor: AI CapEx Keeps Climbing, And TSMC Looks Undervalued",
+      "url": "https://finnhub.io/api/news?id=6e9a1a3e190893444c4c1d2e31900440dcd4076b447d01bd3e8a2b21b13fd072"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Up 13.9% Since Last Earnings Report: Can It Continue?",
+      "url": "https://finnhub.io/api/news?id=79be8960faeddc5d035b3aea595072e0fb94e0460b5a0f130eaf2a9e3b1c2b1d"
+    },
+    {
+      "stock": "COHR",
+      "headline": "What Is Coherent (COHR) Really Betting On With PhotonLink For AI Datacenters?",
+      "url": "https://finnhub.io/api/news?id=c78fc8baa8728bbeebad0e1ee3d2344330519772cc033139f2b6adfbf9e36719"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Shoals: Waiting For An Even Better Entry Point If Worries Keep Pushing Shares Down",
+      "url": "https://finnhub.io/api/news?id=981850e4e1cbb39a3d1bb86bd0b323b2824c4546084cb0e1c369c562aa584230"
+    },
+    {
+      "stock": "HON",
+      "headline": "Wells Fargo Initiates Coverage On Honeywell Intl with Equal-Weight Rating, Announces Price Target of $231",
+      "url": "https://finnhub.io/api/news?id=399c3a667a27c5cdc9cbdb14c2f2800c1424739b59f34a09f28c89ee75244ca6"
+    },
+    {
+      "stock": "UBER",
+      "headline": "How Twilio Makeover Turned Messaging Base Into AI Growth Engine",
+      "url": "https://finnhub.io/api/news?id=81e629b50768aa9be5730087eefcd4fe4e87006706a70a9c676e8e19818a416f"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Amazon Stock: Is AI Capex Outrunning the Payback?",
+      "url": "https://finnhub.io/api/news?id=412affd2ab1171c66b0098c8e3996d9315f347635974a43ee8e9fb10eb9ccbe7"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Amazon Stock: Is AI Capex Outrunning the Payback?",
+      "url": "https://finnhub.io/api/news?id=412affd2ab1171c66b0098c8e3996d9315f347635974a43ee8e9fb10eb9ccbe7"
     }
   ]
 }
