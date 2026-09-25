@@ -110,6 +110,81 @@
       "stock": "NFLX",
       "headline": "Amazon Stock: Is AI Capex Outrunning the Payback?",
       "url": "https://finnhub.io/api/news?id=412affd2ab1171c66b0098c8e3996d9315f347635974a43ee8e9fb10eb9ccbe7"
+    },
+    {
+      "stock": "MU",
+      "headline": "Stock Market Today: Dow Gains 400 Points On U.S-Iran Peace Hopes; Micron Rises (Live Coverage)",
+      "url": "https://finnhub.io/api/news?id=f4934b618c4d908090a0bfd9b3644b723c77728515e040b832f539434de369f8"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC Offers AI Upside No Matter Who Wins The Race",
+      "url": "https://finnhub.io/api/news?id=082f6c627d0f4b1b9ad678fc01cf875df4a81252e9b0b69f4cf59cdd61590dcb"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AI Trade Picks Up Again as Investors Pile Back Into Stocks",
+      "url": "https://finnhub.io/api/news?id=a17a279b7fcc3723a92a18d1f497f09be289786718a996fad0bf5c69e36d80d5"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Shoals Technologies Gr Q2 2026 Earnings Call: Complete Transcript",
+      "url": "https://finnhub.io/api/news?id=93156fe6cc9b3f440add3aa01d2ff0297b4a621eb20e4d97edfdc81a301f1e5c"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "HSBC Upgrades Synopsys, Sets Street-High $700 Target",
+      "url": "https://finnhub.io/api/news?id=59f3f0eccc7562f091fb5da64325060344b8b6803dc5e5819feed3e480994648"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Exclusive: Tesla Optimus Commercialization Next Year Is ‘Very Realistic,’ Faraday Chairman Says",
+      "url": "https://finnhub.io/api/news?id=c0b4933d07411eebb6816fe30f6ef0f9ca303b4fc0a209df713f00a28513df83"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Technologies Announces Quarterly Dividend",
+      "url": "https://finnhub.io/api/news?id=1ac602d3f762eabae84100a6e5411109ed36190e4c3eb37de33c423508044128"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+      "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Why this early Uber investor would short OpenAI",
+      "url": "https://finnhub.io/api/news?id=fe6ecd8c5f3e501bccd48b268caffa1837724c5c7d40822470ee9fa014de3be5"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics Rides on AI Boom: Can It Beat LITE and FN?",
+      "url": "https://finnhub.io/api/news?id=8cdd24ff681e1d50c5ff3aaeb6afd224fbc6eef0956be647efeb973d178c1da0"
+    },
+    {
+      "stock": "DE",
+      "headline": "Can Share Buybacks Continue to Prop Up Toro Stock?",
+      "url": "https://finnhub.io/api/news?id=2f9395f1a20d18d77fd4f1ba3de003e6298f2348aa92d8d54d69a7b5ac0eee20"
+    },
+    {
+      "stock": "U",
+      "headline": "Gaming stocks fall after Meta unveils AI game-building tools",
+      "url": "https://finnhub.io/api/news?id=7254c3a607a6e6e23d1a7334fcb4a2eebfbf0bb8e426fde04a2a27c10a38e781"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "The Case For and Against Fidelity’s Fundamental Large Cap Growth ETF",
+      "url": "https://finnhub.io/api/news?id=496a8092000d3bb36a66cf74a465f54c12c984b9889abef523093c4c9616344c"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Conductor Doubles Down on AEO Investment as Global Demand Surges, One Year After Conductor AI Launch",
+      "url": "https://finnhub.io/api/news?id=b6314d4b8f1918fa940766f4ae8dc44c11ebb59189e83907fc72b905167c92a0"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Qualcomm's CMO reveals the secret behind Snapdragon's rise",
+      "url": "https://finnhub.io/api/news?id=4d12a4ea2537700531cc0b68d3c15e952b3b26f46ac8d27ebcd9281a2d4a0ecc"
     }
   ]
 }
