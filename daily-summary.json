@@ -1,155 +1,30 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Earnings Outlook Remains Upbeat: A Closer Look",
-      "url": "https://finnhub.io/api/news?id=9bc1360e50ff50612519ba438c9854a3066bbbdfb6444a462c303f024aa71a3b"
-    },
-    {
       "stock": "ARM",
-      "headline": "Arm vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026?",
-      "url": "https://finnhub.io/api/news?id=6716aa599d281c90ee171b57ba0516a8ed5d5cd5298fc1912bb39d58dd984e6f"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Sandisk, Super Micro, IonQ, Six Flags, and More Stocks That Explain Today’s Market",
-      "url": "https://finnhub.io/api/news?id=581127825b02f6757ed307c06611c91bf051d42cbdb5303100593e7b283df0fa"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Draganfly: Execution Disappoints, But The Upside Remains",
-      "url": "https://finnhub.io/api/news?id=dd23a8d732c94eeea8985a5084bf10c421a07efa3c5bd9d3b8bd3417f313acd1"
-    },
-    {
-      "stock": "IBM",
-      "headline": "International Business Machines (IBM) Builds Its AI And Quantum Case As Valuation Questions Grow",
-      "url": "https://finnhub.io/api/news?id=bb993822e1862dd9b3846857c3219aabcf55e37e1967ec9189d881391a556d06"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "D-Wave Quantum Just Got $100 Million From the U.S. Government. It's Also Burning Through Roughly $37 Million a Quarter. With Its Stock Down 60% From the Peak, Is It a Bargain or a Trap?",
-      "url": "https://finnhub.io/api/news?id=8f8d24046115c162288884f578e9b3bb609cc131095430b4328a88f910feacf9"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Earnings Outlook Remains Upbeat: A Closer Look",
-      "url": "https://finnhub.io/api/news?id=9bc1360e50ff50612519ba438c9854a3066bbbdfb6444a462c303f024aa71a3b"
-    },
-    {
-      "stock": "MU",
-      "headline": "MU, SNDK Extend Slide For A Second Day As Memory Rally Fizzles: Micron Results Next Week To Test AI Demand",
-      "url": "https://finnhub.io/api/news?id=6777deb05b2988abdd843209f8676e02e32ea78105927250fa167cfa83a41c7c"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Data Center Boom Pushes CRE Construction Costs Higher",
-      "url": "https://finnhub.io/api/news?id=abcd9e8711808c9dd118351e2a367407f96de171ce4b6ca42a5f68c7d786c2bc"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Falls as Agentic AI Multiplies Server-Core Demand",
-      "url": "https://finnhub.io/api/news?id=d5769081a1ea8ed8af21b2a1101f3970d0dbc8d16bc1186cb9a5e795c7618067"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
-      "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Brain-Inspired Computing Processor Market Outlook 2026-2035 - Featuring Profiles of Intel, IBM, and BrainChip Holdings",
-      "url": "https://finnhub.io/api/news?id=a013f2ca1c0edcf183fbb5df720daf0cc6d9ad86659cb87c46982799d032c6d6"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
-      "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb"
-    },
-    {
-      "stock": "U",
-      "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
-      "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron, SuperMicro, HPE Face ITC Investigation Over Netlist Patent Infringement Claims",
-      "url": "https://finnhub.io/api/news?id=cd7308ffe16f19d5a09069d65c81dd7f1c765517f336540f0575b9b71ce13593"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Here's My Top Low-Risk, High-Potential-Reward Stock That's Thriving in the Artificial Intelligence (AI) Boom",
-      "url": "https://finnhub.io/api/news?id=4c36ee83833c5c173d5ff50ae21c04f9a16d93f7e2dd29d61a1f3884e3555aee"
-    },
-    {
-      "stock": "COHR",
-      "headline": "AI Data Center Boom Faces This 'Fundamental Trade-off' With China",
-      "url": "https://finnhub.io/api/news?id=95f4780d101ea9ce33147a22bc5c76029f282ddba41a87ae266460541905db37"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Alchip Collaborates With Synopsys To Address Scale Up And Out Bandwidth Constraints; Collaboration Features High-Speed SerDes, Advanced Packaging And SI/PI Expertise",
-      "url": "https://finnhub.io/api/news?id=825c51cc2d2e7fc73f379381705f377d23fc97c3cf378c9dc4f25739e3adf4d3"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Forget Doomsday: These 4 Real-World Risks Could Derail the AI Stock Rally",
-      "url": "https://finnhub.io/api/news?id=93a9faff716c357328f407c036acd854c0fbced0273f2a10a69784e96484d0cc"
+      "headline": "Arm Holdings (ARM) Stock Gains On AI CPU Demand Surge",
+      "url": "https://finnhub.io/api/news?id=c6adff90cd3c00aa847b35ad41efaac7e4c040fe040177a20b843f9eaa587899"
     },
     {
       "stock": "SONY",
-      "headline": "Why Sony Group Corporation (SONY) Remains a Key Gabelli Holding",
-      "url": "https://finnhub.io/api/news?id=5a68beca6d74ef463b11c5d46d1c63e697fe55bdc92e7ac3f66c6417fa42f53c"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Stock Is Down 28%, and the Robotaxi Clock Is Ticking. Its CEO Just Bought $10 Million of Stock Anyway",
-      "url": "https://finnhub.io/api/news?id=6ee49733c449dc90454a4abd08cdd3957972cfa9358d877699661423cb20cfa2"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "AI Data Center Boom Faces This 'Fundamental Trade-off' With China",
-      "url": "https://finnhub.io/api/news?id=95f4780d101ea9ce33147a22bc5c76029f282ddba41a87ae266460541905db37"
+      "headline": "Dolby Expands Meta Partnership With Atmos and Vision Across Devices",
+      "url": "https://finnhub.io/api/news?id=a90bfadb7f0c64ba588a7f7357d82754873fbb4697e512205b94b95c4b688a98"
     },
     {
       "stock": "U",
-      "headline": "Unity Software Stock Surges Nearly 5% Overnight On Meta’s New VR, AI Hardware Push",
-      "url": "https://finnhub.io/api/news?id=47821a6231301742deedc99230c4b2f634ccf1f362256747c685ed05016c7883"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Camus Energy Joins AI Energy Management Alliance to Accelerate Data Center Power Integration",
-      "url": "https://finnhub.io/api/news?id=b643de43eb42d27c7ada414f6d9216f1d48801108f9c5b14a481f08fa48f3a5c"
+      "headline": "Videogame Stocks Fall After Meta Announces AI Game Tool. Don’t Be Spooked Yet.",
+      "url": "https://finnhub.io/api/news?id=26f075147bac1b28ca41cc9e3673feeeb1d0f8440fcab985fa577d4a2119af78"
     },
     {
       "stock": "TEAM",
-      "headline": "Atlassian: AI And Enterprise Growth Make Valuation More Interesting",
-      "url": "https://finnhub.io/api/news?id=0e6bfb8a10975dac9df74d424bc06adeee90f296bcf4000399d7cfe741741778"
+      "headline": "ACM Queue Publishes CAFE(S): A Framework for Improving AI Coding Agent Effectiveness",
+      "url": "https://finnhub.io/api/news?id=56b5d30e5928eded1054c9f954e68cf6c8d97ccc19ce04a9f1521ed12281e533"
     },
     {
-      "stock": "TSM",
-      "headline": "Trump-Xi Summit: Here’s the Current State of the AI Battle",
-      "url": "https://finnhub.io/api/news?id=84a046e6408bbfcf710a80bd569b2276122526a22dde68f97cbdba33c1d35807"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys Collaborates With TSMC Over Development Of AI, High-Performance Computing, Advanced Semiconductor Systems",
-      "url": "https://finnhub.io/api/news?id=e78847f03cd0a4eb59fa242ce461ac9276148f05610093f8e53c2427755b9751"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Drops 3.3% as More AI Cores Test Royalty Economics",
-      "url": "https://finnhub.io/api/news?id=9fdeff4c9aab391acae60ab9f176f6e57f1cd7661d2c57e4b1e95723f41f833e"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "What Does D Wave Quantum (QBTS) Gain From Its New Enterprise Partnership?",
-      "url": "https://finnhub.io/api/news?id=33f7b8876647a536af58d8f8c1df5074e7a7edbd37632f2b659db212f3868651"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Google Prepares to Put AI Chips Into Space",
-      "url": "https://finnhub.io/api/news?id=ba5b50877334ca97e1699680e11546381487166f0967620976c32ca02c28c794"
+      "stock": "NFLX",
+      "headline": "Netflix's Revenue Growth Has Slowed for 2 Straight Quarters. Should You Buy the Stock Anyway?",
+      "url": "https://finnhub.io/api/news?id=a5860800bb22eaace9f8fa569f6239180c26628316b6dd833233e1aec9a2f63d"
     }
   ]
 }
