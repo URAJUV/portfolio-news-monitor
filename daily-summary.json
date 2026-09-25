@@ -25,6 +25,46 @@
       "stock": "NFLX",
       "headline": "Netflix's Revenue Growth Has Slowed for 2 Straight Quarters. Should You Buy the Stock Anyway?",
       "url": "https://finnhub.io/api/news?id=a5860800bb22eaace9f8fa569f6239180c26628316b6dd833233e1aec9a2f63d"
+    },
+    {
+      "stock": "MU",
+      "headline": "Should Investors Worry About Michael Burry's Big AI Stock Shorts",
+      "url": "https://finnhub.io/api/news?id=66992a2a57d429080f218de1356c59b614c501d7d0cc05f810009c5cedaa50fe"
+    },
+    {
+      "stock": "TSM",
+      "headline": "ASML vs. Applied Materials: Which AI Chip-Equipment Stock Is the Better Buy?",
+      "url": "https://finnhub.io/api/news?id=c08ff8575733bc3b1222d51293c785ab4608a01a8ca0aaecef107f8326cdb9f7"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Joined A Founding Alliance To Secure AI Agents",
+      "url": "https://finnhub.io/api/news?id=0b9999458a907e89be2013b5926ae6fe49542e3969b3eb8d674cb691800d5e89"
+    },
+    {
+      "stock": "COHR",
+      "headline": "LAZR: The Right Supply Chain, The Wrong Top Two",
+      "url": "https://finnhub.io/api/news?id=ca848c434bb050c42b9d919334815f3d04995bb138741a1fbfa6131870d03476"
+    },
+    {
+      "stock": "HON",
+      "headline": "Predictive Maintenance Market Forecasts Growth from $13.89B (2026) to $23.79B by 2031, Profiling ABB, Honeywell, Schneider Electric, IBM & GE Vernova",
+      "url": "https://finnhub.io/api/news?id=eec6ca7073c9ddf2afb21b98007f07ed264e2742a41412d1731dc2006095d89e"
+    },
+    {
+      "stock": "UBER",
+      "headline": "What Does Uber Technologies (UBER) Winning Spain's First Robotaxi Permit Mean?",
+      "url": "https://finnhub.io/api/news?id=757b49999e0c758d4c330452402d03c4bc6bdd46163216730286acc1511f91ee"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "LAZR: The Right Supply Chain, The Wrong Top Two",
+      "url": "https://finnhub.io/api/news?id=ca848c434bb050c42b9d919334815f3d04995bb138741a1fbfa6131870d03476"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+      "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc"
     }
   ]
 }
