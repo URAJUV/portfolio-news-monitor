@@ -25,6 +25,46 @@
       "stock": "GOOGL",
       "headline": "Alphabet (GOOGL) Faces Gemini Security Questions. Could AI Agents Raise its Risks?",
       "url": "https://finnhub.io/api/news?id=cb96e42dd86d3d32be42e17c99507491b4c67de1c95396c84009feceabe6df4c"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
+      "url": "https://finnhub.io/api/news?id=15d31b833b5cf467b45a8ecf7eec7e285599faeb92a073433371d98299f0ae9e"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon Has No Dividend. Here's Why Long-Term Investors Should Own It Anyway.",
+      "url": "https://finnhub.io/api/news?id=bd4ce2fcc220d3dbe76b33c6419492500c151bd403ed38d7ff2394939292dc62"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Why Is Synopsys (SNPS) Down 8.6% Since Last Earnings Report?",
+      "url": "https://finnhub.io/api/news?id=30b975b43cc49774bba1017aefb8dd7dc29da4aab3a331f05c5551e64ab9ef64"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Ross Gerber Asks Why There Are Starlink Ads On TV But Not Tesla EVs As Gas Prices Soar — 'Doesn't The CEO Know?'",
+      "url": "https://finnhub.io/api/news?id=8f6ce92f5b45dd1f727571b5127d4d4a5484add97f9321d8e57ffbbc9beb2388"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Stocks Surge as Muse Makes CPUs Matter Again",
+      "url": "https://finnhub.io/api/news?id=52720b2e7d4237aed73a0c541f0d4a872389ad7f91798fe8b8159e72b84fe38d"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ, Inc. (IONQ) Outpaces Stock Market Gains: What You Should Know",
+      "url": "https://finnhub.io/api/news?id=994ce4ec545e9a181944f9ac9c8c5545684a8783cb834da5a58e8cd60d7351f0"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Fidelity’s Fundamental Large Cap Growth ETF, Explained in Plain English",
+      "url": "https://finnhub.io/api/news?id=de93cbdf6cc25ea913ae7a3cb6833190ac93c72f29057c69b1c6a8592d1f962a"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit CEO Dumps Over 17,000 Shares for $2.8 Million After the Stock's 39% One-Year Decline",
+      "url": "https://finnhub.io/api/news?id=eb7cb33a0726b074f1c26a7c50cd7a87022ffb318669715d39a5b233d23e48b5"
     }
   ]
 }
