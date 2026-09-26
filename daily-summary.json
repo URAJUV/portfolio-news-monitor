@@ -85,6 +85,31 @@
       "stock": "SNPS",
       "headline": "This 3M Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Friday",
       "url": "https://finnhub.io/api/news?id=ad0db2f0cba0ca406add338bdd82f007e8b4746106bec86a39fae04943436d63"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Here’s How CrowdStrike (CRWD) is Betting on AI Agent Security to Drive Future Growth",
+      "url": "https://finnhub.io/api/news?id=9f102fb93e826d7dbf7deda1be9fe43706e23e5794e6aff5137139e19f84a7c2"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Could SpaceX Stock Help You Retire a Millionaire?",
+      "url": "https://finnhub.io/api/news?id=43588221325f75d49bfa2bf41d0465afc53a874f589203a0301d489810d23d8d"
+    },
+    {
+      "stock": "ARM",
+      "headline": "1 Agentic AI Chip Stock to Buy and 1 to Sell",
+      "url": "https://finnhub.io/api/news?id=3826c145cd476ce4cf1d6246ac4325e9bde549aebb5b0924b75b7b9fad324e79"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk (ADSK) Stock May Be 39% Undervalued Despite New Agentic AI Push",
+      "url": "https://finnhub.io/api/news?id=2788b09a2746cab42cbb622cef087f3c88ca639370d8e608d3526c89cc2acac2"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Google, OpenAI, and Anthropic just made a move on AI safety",
+      "url": "https://finnhub.io/api/news?id=b72ebcb6c8f2fdaeaf7b157084093e2347dc248e0b0d5b9dba1aeb7aba4b5e81"
     }
   ]
 }
