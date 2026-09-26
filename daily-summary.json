@@ -110,6 +110,26 @@
       "stock": "GOOGL",
       "headline": "Google, OpenAI, and Anthropic just made a move on AI safety",
       "url": "https://finnhub.io/api/news?id=b72ebcb6c8f2fdaeaf7b157084093e2347dc248e0b0d5b9dba1aeb7aba4b5e81"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron (MU) Trades at Just 6.5x Forward Earnings. RBC Says SCAs Could Change That",
+      "url": "https://finnhub.io/api/news?id=02562f2565c583fe1add339093d0c81def0d9c74f91521c2065096658a5ae5c0"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Island’s $6.4B Valuation Validates a Different Kind of Agent Security – And It Starts in the Browser",
+      "url": "https://finnhub.io/api/news?id=f7f82bdfb0697ac9b76cba63a59da805963aacf3e88fb2d43b3c939d93d8345a"
+    },
+    {
+      "stock": "HON",
+      "headline": "9 Of 11 Sectors Fall In Friday Trading As Cyclicals Lead",
+      "url": "https://finnhub.io/api/news?id=b3792a01c3fec00ee82003a3acfe8485dff4940ffce96f59c5ae719dc5ac1e6a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "‘Don’t Ship Products Until They’re in Control’: Nvidia’s Huang Weighs In on AI Safety Debate",
+      "url": "https://finnhub.io/api/news?id=7b6c2263bce74ace2986e42983ef8b40ffb28798b7698653e31765ba97f147d6"
     }
   ]
 }
