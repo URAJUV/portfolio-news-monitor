@@ -1,190 +1,30 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "items": [
     {
-      "stock": "ARM",
-      "headline": "Arm Holdings (ARM) Stock Gains On AI CPU Demand Surge",
-      "url": "https://finnhub.io/api/news?id=c6adff90cd3c00aa847b35ad41efaac7e4c040fe040177a20b843f9eaa587899"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Dolby Expands Meta Partnership With Atmos and Vision Across Devices",
-      "url": "https://finnhub.io/api/news?id=a90bfadb7f0c64ba588a7f7357d82754873fbb4697e512205b94b95c4b688a98"
-    },
-    {
-      "stock": "U",
-      "headline": "Videogame Stocks Fall After Meta Announces AI Game Tool. Don’t Be Spooked Yet.",
-      "url": "https://finnhub.io/api/news?id=26f075147bac1b28ca41cc9e3673feeeb1d0f8440fcab985fa577d4a2119af78"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "ACM Queue Publishes CAFE(S): A Framework for Improving AI Coding Agent Effectiveness",
-      "url": "https://finnhub.io/api/news?id=56b5d30e5928eded1054c9f954e68cf6c8d97ccc19ce04a9f1521ed12281e533"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix's Revenue Growth Has Slowed for 2 Straight Quarters. Should You Buy the Stock Anyway?",
-      "url": "https://finnhub.io/api/news?id=a5860800bb22eaace9f8fa569f6239180c26628316b6dd833233e1aec9a2f63d"
-    },
-    {
-      "stock": "MU",
-      "headline": "Should Investors Worry About Michael Burry's Big AI Stock Shorts",
-      "url": "https://finnhub.io/api/news?id=66992a2a57d429080f218de1356c59b614c501d7d0cc05f810009c5cedaa50fe"
-    },
-    {
-      "stock": "TSM",
-      "headline": "ASML vs. Applied Materials: Which AI Chip-Equipment Stock Is the Better Buy?",
-      "url": "https://finnhub.io/api/news?id=c08ff8575733bc3b1222d51293c785ab4608a01a8ca0aaecef107f8326cdb9f7"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) Joined A Founding Alliance To Secure AI Agents",
-      "url": "https://finnhub.io/api/news?id=0b9999458a907e89be2013b5926ae6fe49542e3969b3eb8d674cb691800d5e89"
-    },
-    {
-      "stock": "COHR",
-      "headline": "LAZR: The Right Supply Chain, The Wrong Top Two",
-      "url": "https://finnhub.io/api/news?id=ca848c434bb050c42b9d919334815f3d04995bb138741a1fbfa6131870d03476"
-    },
-    {
-      "stock": "HON",
-      "headline": "Predictive Maintenance Market Forecasts Growth from $13.89B (2026) to $23.79B by 2031, Profiling ABB, Honeywell, Schneider Electric, IBM & GE Vernova",
-      "url": "https://finnhub.io/api/news?id=eec6ca7073c9ddf2afb21b98007f07ed264e2742a41412d1731dc2006095d89e"
-    },
-    {
-      "stock": "UBER",
-      "headline": "What Does Uber Technologies (UBER) Winning Spain's First Robotaxi Permit Mean?",
-      "url": "https://finnhub.io/api/news?id=757b49999e0c758d4c330452402d03c4bc6bdd46163216730286acc1511f91ee"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "LAZR: The Right Supply Chain, The Wrong Top Two",
-      "url": "https://finnhub.io/api/news?id=ca848c434bb050c42b9d919334815f3d04995bb138741a1fbfa6131870d03476"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
-      "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron's 279% Rally Is Heading Into a Big Earnings Test",
-      "url": "https://finnhub.io/api/news?id=4199b3d30de93679719c4b7a839d0a6b5dd5961213ea71c833409e0e61ddc765"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor: AI CapEx Keeps Climbing, And TSMC Looks Undervalued",
-      "url": "https://finnhub.io/api/news?id=6e9a1a3e190893444c4c1d2e31900440dcd4076b447d01bd3e8a2b21b13fd072"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) Up 13.9% Since Last Earnings Report: Can It Continue?",
-      "url": "https://finnhub.io/api/news?id=79be8960faeddc5d035b3aea595072e0fb94e0460b5a0f130eaf2a9e3b1c2b1d"
-    },
-    {
-      "stock": "COHR",
-      "headline": "What Is Coherent (COHR) Really Betting On With PhotonLink For AI Datacenters?",
-      "url": "https://finnhub.io/api/news?id=c78fc8baa8728bbeebad0e1ee3d2344330519772cc033139f2b6adfbf9e36719"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "Shoals: Waiting For An Even Better Entry Point If Worries Keep Pushing Shares Down",
-      "url": "https://finnhub.io/api/news?id=981850e4e1cbb39a3d1bb86bd0b323b2824c4546084cb0e1c369c562aa584230"
-    },
-    {
-      "stock": "HON",
-      "headline": "Wells Fargo Initiates Coverage On Honeywell Intl with Equal-Weight Rating, Announces Price Target of $231",
-      "url": "https://finnhub.io/api/news?id=399c3a667a27c5cdc9cbdb14c2f2800c1424739b59f34a09f28c89ee75244ca6"
-    },
-    {
-      "stock": "UBER",
-      "headline": "How Twilio Makeover Turned Messaging Base Into AI Growth Engine",
-      "url": "https://finnhub.io/api/news?id=81e629b50768aa9be5730087eefcd4fe4e87006706a70a9c676e8e19818a416f"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Amazon Stock: Is AI Capex Outrunning the Payback?",
-      "url": "https://finnhub.io/api/news?id=412affd2ab1171c66b0098c8e3996d9315f347635974a43ee8e9fb10eb9ccbe7"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Amazon Stock: Is AI Capex Outrunning the Payback?",
-      "url": "https://finnhub.io/api/news?id=412affd2ab1171c66b0098c8e3996d9315f347635974a43ee8e9fb10eb9ccbe7"
-    },
-    {
-      "stock": "MU",
-      "headline": "Stock Market Today: Dow Gains 400 Points On U.S-Iran Peace Hopes; Micron Rises (Live Coverage)",
-      "url": "https://finnhub.io/api/news?id=f4934b618c4d908090a0bfd9b3644b723c77728515e040b832f539434de369f8"
-    },
-    {
-      "stock": "TSM",
-      "headline": "TSMC Offers AI Upside No Matter Who Wins The Race",
-      "url": "https://finnhub.io/api/news?id=082f6c627d0f4b1b9ad678fc01cf875df4a81252e9b0b69f4cf59cdd61590dcb"
-    },
-    {
-      "stock": "COHR",
-      "headline": "AI Trade Picks Up Again as Investors Pile Back Into Stocks",
-      "url": "https://finnhub.io/api/news?id=a17a279b7fcc3723a92a18d1f497f09be289786718a996fad0bf5c69e36d80d5"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "Shoals Technologies Gr Q2 2026 Earnings Call: Complete Transcript",
-      "url": "https://finnhub.io/api/news?id=93156fe6cc9b3f440add3aa01d2ff0297b4a621eb20e4d97edfdc81a301f1e5c"
+      "stock": "AMZN",
+      "headline": "Let’s Take a Closer Look at Amazon’s (AMZN) Debt-Fueled AI Buildout",
+      "url": "https://finnhub.io/api/news?id=b9dcea6c86759db10cdc5031906ce1b96eb29ec6dbbde4f5219dbd99e0f9890d"
     },
     {
       "stock": "SNPS",
-      "headline": "HSBC Upgrades Synopsys, Sets Street-High $700 Target",
-      "url": "https://finnhub.io/api/news?id=59f3f0eccc7562f091fb5da64325060344b8b6803dc5e5819feed3e480994648"
+      "headline": "Synopsys Stock Gets an Upgrade. Why This Analyst Sees 69% Upside.",
+      "url": "https://finnhub.io/api/news?id=7caff8cc0ac27b4ba68d9b8731f604f2eaa1d771a0d4e6c6827ae58bd2d2c422"
     },
     {
-      "stock": "TSLA",
-      "headline": "Exclusive: Tesla Optimus Commercialization Next Year Is ‘Very Realistic,’ Faraday Chairman Says",
-      "url": "https://finnhub.io/api/news?id=c0b4933d07411eebb6816fe30f6ef0f9ca303b4fc0a209df713f00a28513df83"
+      "stock": "ADSK",
+      "headline": "Autodesk (ADSK) Previewed A Cross Product Agentic AI Assistant",
+      "url": "https://finnhub.io/api/news?id=ba8456db8f1e3b4f65e71d92430595de96bcbcc5346e3785de827289d4e6e01a"
     },
     {
-      "stock": "HON",
-      "headline": "Honeywell Technologies Announces Quarterly Dividend",
-      "url": "https://finnhub.io/api/news?id=1ac602d3f762eabae84100a6e5411109ed36190e4c3eb37de33c423508044128"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
-      "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Why this early Uber investor would short OpenAI",
-      "url": "https://finnhub.io/api/news?id=fe6ecd8c5f3e501bccd48b268caffa1837724c5c7d40822470ee9fa014de3be5"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Applied Optoelectronics Rides on AI Boom: Can It Beat LITE and FN?",
-      "url": "https://finnhub.io/api/news?id=8cdd24ff681e1d50c5ff3aaeb6afd224fbc6eef0956be647efeb973d178c1da0"
-    },
-    {
-      "stock": "DE",
-      "headline": "Can Share Buybacks Continue to Prop Up Toro Stock?",
-      "url": "https://finnhub.io/api/news?id=2f9395f1a20d18d77fd4f1ba3de003e6298f2348aa92d8d54d69a7b5ac0eee20"
-    },
-    {
-      "stock": "U",
-      "headline": "Gaming stocks fall after Meta unveils AI game-building tools",
-      "url": "https://finnhub.io/api/news?id=7254c3a607a6e6e23d1a7334fcb4a2eebfbf0bb8e426fde04a2a27c10a38e781"
+      "stock": "IBM",
+      "headline": "International Business Machines (IBM) Faces Probe Over Z Mainframe Disclosure Risks",
+      "url": "https://finnhub.io/api/news?id=dc8288ba7e189c062d3ae1dde273e7f54d3fbb657dceba587b7f72a77f4845ba"
     },
     {
       "stock": "GOOGL",
-      "headline": "The Case For and Against Fidelity’s Fundamental Large Cap Growth ETF",
-      "url": "https://finnhub.io/api/news?id=496a8092000d3bb36a66cf74a465f54c12c984b9889abef523093c4c9616344c"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Conductor Doubles Down on AEO Investment as Global Demand Surges, One Year After Conductor AI Launch",
-      "url": "https://finnhub.io/api/news?id=b6314d4b8f1918fa940766f4ae8dc44c11ebb59189e83907fc72b905167c92a0"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Qualcomm's CMO reveals the secret behind Snapdragon's rise",
-      "url": "https://finnhub.io/api/news?id=4d12a4ea2537700531cc0b68d3c15e952b3b26f46ac8d27ebcd9281a2d4a0ecc"
+      "headline": "Alphabet (GOOGL) Faces Gemini Security Questions. Could AI Agents Raise its Risks?",
+      "url": "https://finnhub.io/api/news?id=cb96e42dd86d3d32be42e17c99507491b4c67de1c95396c84009feceabe6df4c"
     }
   ]
 }
