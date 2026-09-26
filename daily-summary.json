@@ -65,6 +65,26 @@
       "stock": "RDDT",
       "headline": "Reddit CEO Dumps Over 17,000 Shares for $2.8 Million After the Stock's 39% One-Year Decline",
       "url": "https://finnhub.io/api/news?id=eb7cb33a0726b074f1c26a7c50cd7a87022ffb318669715d39a5b233d23e48b5"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Bloom Energy, TSM Lead 5 Stocks Near Buy Points As AI Rebounds",
+      "url": "https://finnhub.io/api/news?id=1560d83ed6c44c45e99f6a683f237932b0d56fb264c41ffd777e5c2dab3d4eaa"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Best Buy’s 4.2% Yield Looks Attractive. Can the Dividend Survive a Bad Year?",
+      "url": "https://finnhub.io/api/news?id=f1e3b49f12800c4e4aad17f05c113db34e056f5724f67d7f7fac6414e2d37905"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Bipartisan Lawmakers Seek to Bar a Chinese AI Data Center Component From Sensitive US Government Systems: ‘We Shouldn’t Rely on China’",
+      "url": "https://finnhub.io/api/news?id=2ae9ed027999ebc8e5b9c545504947a986013b1c8e177adbb5596fd3a9631fb4"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "This 3M Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Friday",
+      "url": "https://finnhub.io/api/news?id=ad0db2f0cba0ca406add338bdd82f007e8b4746106bec86a39fae04943436d63"
     }
   ]
 }
