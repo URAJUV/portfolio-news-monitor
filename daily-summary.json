@@ -1,135 +1,30 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "items": [
     {
-      "stock": "AMZN",
-      "headline": "Let’s Take a Closer Look at Amazon’s (AMZN) Debt-Fueled AI Buildout",
-      "url": "https://finnhub.io/api/news?id=b9dcea6c86759db10cdc5031906ce1b96eb29ec6dbbde4f5219dbd99e0f9890d"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys Stock Gets an Upgrade. Why This Analyst Sees 69% Upside.",
-      "url": "https://finnhub.io/api/news?id=7caff8cc0ac27b4ba68d9b8731f604f2eaa1d771a0d4e6c6827ae58bd2d2c422"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Autodesk (ADSK) Previewed A Cross Product Agentic AI Assistant",
-      "url": "https://finnhub.io/api/news?id=ba8456db8f1e3b4f65e71d92430595de96bcbcc5346e3785de827289d4e6e01a"
-    },
-    {
-      "stock": "IBM",
-      "headline": "International Business Machines (IBM) Faces Probe Over Z Mainframe Disclosure Risks",
-      "url": "https://finnhub.io/api/news?id=dc8288ba7e189c062d3ae1dde273e7f54d3fbb657dceba587b7f72a77f4845ba"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet (GOOGL) Faces Gemini Security Questions. Could AI Agents Raise its Risks?",
-      "url": "https://finnhub.io/api/news?id=cb96e42dd86d3d32be42e17c99507491b4c67de1c95396c84009feceabe6df4c"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
-      "url": "https://finnhub.io/api/news?id=15d31b833b5cf467b45a8ecf7eec7e285599faeb92a073433371d98299f0ae9e"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon Has No Dividend. Here's Why Long-Term Investors Should Own It Anyway.",
-      "url": "https://finnhub.io/api/news?id=bd4ce2fcc220d3dbe76b33c6419492500c151bd403ed38d7ff2394939292dc62"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Why Is Synopsys (SNPS) Down 8.6% Since Last Earnings Report?",
-      "url": "https://finnhub.io/api/news?id=30b975b43cc49774bba1017aefb8dd7dc29da4aab3a331f05c5551e64ab9ef64"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Ross Gerber Asks Why There Are Starlink Ads On TV But Not Tesla EVs As Gas Prices Soar — 'Doesn't The CEO Know?'",
-      "url": "https://finnhub.io/api/news?id=8f6ce92f5b45dd1f727571b5127d4d4a5484add97f9321d8e57ffbbc9beb2388"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Stocks Surge as Muse Makes CPUs Matter Again",
-      "url": "https://finnhub.io/api/news?id=52720b2e7d4237aed73a0c541f0d4a872389ad7f91798fe8b8159e72b84fe38d"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ, Inc. (IONQ) Outpaces Stock Market Gains: What You Should Know",
-      "url": "https://finnhub.io/api/news?id=994ce4ec545e9a181944f9ac9c8c5545684a8783cb834da5a58e8cd60d7351f0"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Fidelity’s Fundamental Large Cap Growth ETF, Explained in Plain English",
-      "url": "https://finnhub.io/api/news?id=de93cbdf6cc25ea913ae7a3cb6833190ac93c72f29057c69b1c6a8592d1f962a"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit CEO Dumps Over 17,000 Shares for $2.8 Million After the Stock's 39% One-Year Decline",
-      "url": "https://finnhub.io/api/news?id=eb7cb33a0726b074f1c26a7c50cd7a87022ffb318669715d39a5b233d23e48b5"
+      "stock": "MU",
+      "headline": "Prediction: Micron Will Crush Earnings And...",
+      "url": "https://finnhub.io/api/news?id=73fca7e1e5a0f4e0c91d59a53c24572acb1840a47a3b9ed929e65fed647f1646"
     },
     {
       "stock": "TSM",
-      "headline": "Bloom Energy, TSM Lead 5 Stocks Near Buy Points As AI Rebounds",
-      "url": "https://finnhub.io/api/news?id=1560d83ed6c44c45e99f6a683f237932b0d56fb264c41ffd777e5c2dab3d4eaa"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Best Buy’s 4.2% Yield Looks Attractive. Can the Dividend Survive a Bad Year?",
-      "url": "https://finnhub.io/api/news?id=f1e3b49f12800c4e4aad17f05c113db34e056f5724f67d7f7fac6414e2d37905"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Bipartisan Lawmakers Seek to Bar a Chinese AI Data Center Component From Sensitive US Government Systems: ‘We Shouldn’t Rely on China’",
-      "url": "https://finnhub.io/api/news?id=2ae9ed027999ebc8e5b9c545504947a986013b1c8e177adbb5596fd3a9631fb4"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "This 3M Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Friday",
-      "url": "https://finnhub.io/api/news?id=ad0db2f0cba0ca406add338bdd82f007e8b4746106bec86a39fae04943436d63"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Here’s How CrowdStrike (CRWD) is Betting on AI Agent Security to Drive Future Growth",
-      "url": "https://finnhub.io/api/news?id=9f102fb93e826d7dbf7deda1be9fe43706e23e5794e6aff5137139e19f84a7c2"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Could SpaceX Stock Help You Retire a Millionaire?",
-      "url": "https://finnhub.io/api/news?id=43588221325f75d49bfa2bf41d0465afc53a874f589203a0301d489810d23d8d"
-    },
-    {
-      "stock": "ARM",
-      "headline": "1 Agentic AI Chip Stock to Buy and 1 to Sell",
-      "url": "https://finnhub.io/api/news?id=3826c145cd476ce4cf1d6246ac4325e9bde549aebb5b0924b75b7b9fad324e79"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Autodesk (ADSK) Stock May Be 39% Undervalued Despite New Agentic AI Push",
-      "url": "https://finnhub.io/api/news?id=2788b09a2746cab42cbb622cef087f3c88ca639370d8e608d3526c89cc2acac2"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Google, OpenAI, and Anthropic just made a move on AI safety",
-      "url": "https://finnhub.io/api/news?id=b72ebcb6c8f2fdaeaf7b157084093e2347dc248e0b0d5b9dba1aeb7aba4b5e81"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron (MU) Trades at Just 6.5x Forward Earnings. RBC Says SCAs Could Change That",
-      "url": "https://finnhub.io/api/news?id=02562f2565c583fe1add339093d0c81def0d9c74f91521c2065096658a5ae5c0"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Island’s $6.4B Valuation Validates a Different Kind of Agent Security – And It Starts in the Browser",
-      "url": "https://finnhub.io/api/news?id=f7f82bdfb0697ac9b76cba63a59da805963aacf3e88fb2d43b3c939d93d8345a"
+      "headline": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
+      "url": "https://finnhub.io/api/news?id=c1e24ad701f88887df2335ab71238955b90c10e14cfb3863033b231e1f240119"
     },
     {
       "stock": "HON",
-      "headline": "9 Of 11 Sectors Fall In Friday Trading As Cyclicals Lead",
-      "url": "https://finnhub.io/api/news?id=b3792a01c3fec00ee82003a3acfe8485dff4940ffce96f59c5ae719dc5ac1e6a"
+      "headline": "Honeywell (HON) Stock May Be Undervalued After Marine Corps Security Win",
+      "url": "https://finnhub.io/api/news?id=f285c988b8b7b25be802ae947fa799ece0247bb630a072cf1c3961adba6cc256"
     },
     {
-      "stock": "GOOGL",
-      "headline": "‘Don’t Ship Products Until They’re in Control’: Nvidia’s Huang Weighs In on AI Safety Debate",
-      "url": "https://finnhub.io/api/news?id=7b6c2263bce74ace2986e42983ef8b40ffb28798b7698653e31765ba97f147d6"
+      "stock": "UBER",
+      "headline": "McDonald's (MCD) Targets 150 Million Infrequent Guests With Tiered Loyalty Program",
+      "url": "https://finnhub.io/api/news?id=2404533bf5a4631f810ba0fe04edbd7e9263d4518a37647cd5b80bcbfadb3e57"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Has Reddit (RDDT) Fallen Below Fair Value On Its Earnings Story?",
+      "url": "https://finnhub.io/api/news?id=ac064944fe2b1e0ed6ccc2199a95fa7d14c6d886cbdb4c8719a1d17550878164"
     }
   ]
 }
