@@ -25,6 +25,41 @@
       "stock": "RDDT",
       "headline": "Has Reddit (RDDT) Fallen Below Fair Value On Its Earnings Story?",
       "url": "https://finnhub.io/api/news?id=ac064944fe2b1e0ed6ccc2199a95fa7d14c6d886cbdb4c8719a1d17550878164"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC: An AI Technology Leader Trading At Just 0.7x PEG",
+      "url": "https://finnhub.io/api/news?id=15e0bf7e8b8a4d1ae3681d61eb46e97a6eb85e2ea24f6844287c02750f928e67"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Microsoft’s AI Investment Could Pay Off for Years. Here’s My Price Target",
+      "url": "https://finnhub.io/api/news?id=bdbf48f623093393ca21dbd7f7d4c32194dec430bd2269d4698f8b2381165af8"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Kevin O’Leary Says ‘The Economy Is on Fire,’ Calls Trump the ‘First AI President’ as AI Boosts S&P 500 Earnings",
+      "url": "https://finnhub.io/api/news?id=429bd4927dfbc6e4c0567e71b9bb33c976117413ad8f011226e04c26161abea8"
+    },
+    {
+      "stock": "DE",
+      "headline": "Deere, ADM and Bunge: 3 Farm Stocks Giving Investors Dividends For America’s Harvest",
+      "url": "https://finnhub.io/api/news?id=1e51cc90d75284f3896e0675b9d3e87e2193811cf6116db6b7bd4d1388ebb095"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM: Buy The Reset, Not The Growth Story (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=cc06bab4f700836f47f4f17450c90cc287ea666e5875b6635907a484bd5f36dc"
+    },
+    {
+      "stock": "U",
+      "headline": "Meta Unveiled an AI Game Builder. Roblox’s Q3 Guidance Shows What the AI Race Costs",
+      "url": "https://finnhub.io/api/news?id=59b14cbef024812c0d5cb7084683bcd176306c3c91b16fbae8f361346bbfa187"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Microsoft’s AI Investment Could Pay Off for Years. Here’s My Price Target",
+      "url": "https://finnhub.io/api/news?id=bdbf48f623093393ca21dbd7f7d4c32194dec430bd2269d4698f8b2381165af8"
     }
   ]
 }
