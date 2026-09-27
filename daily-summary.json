@@ -60,6 +60,16 @@
       "stock": "GOOGL",
       "headline": "Microsoft’s AI Investment Could Pay Off for Years. Here’s My Price Target",
       "url": "https://finnhub.io/api/news?id=bdbf48f623093393ca21dbd7f7d4c32194dec430bd2269d4698f8b2381165af8"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM’s Dividend Survived the Old IBM. Can It Survive the New One?",
+      "url": "https://finnhub.io/api/news?id=cb9ecb40059ae6bfd054b010d8ef182923a4ef452674d32ec0b9b8750b9aca36"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Father, 40, 2 Kids Has $3M Invested, Gets Laid Off — ‘I Think I’m Done!’",
+      "url": "https://finnhub.io/api/news?id=67be2046b3d37f34a3a8c6f89d329247fafc26b2662842138e7eb969368f7a3f"
     }
   ]
 }
