@@ -50,6 +50,26 @@
       "stock": "GOOGL",
       "headline": "Amazon’s AI Capex Is Paying Off and I’m Buying",
       "url": "https://finnhub.io/api/news?id=808d854c8eab75bae56807253ffecaf816062dbcc5184e4bd2bd0355de1b24ae"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Semiconductor Front End Equipment Market Size, Share, and Forecast, 2026-2035 | AI Demand and 2nm Fab Investments Drive 7.2% CAGR Toward USD 182 Billion",
+      "url": "https://finnhub.io/api/news?id=e25de012b3c08c99d832a869284d52a994d5796f91a1c38918849d481b9ddb84"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Stock Sinks 7.6% as Agent Security Expands Its Compute Role",
+      "url": "https://finnhub.io/api/news?id=14cfe04bb33f7e6b6ab27a1cd4937f5a15982cf737eb015a833e32c1386770f2"
+    },
+    {
+      "stock": "DE",
+      "headline": "Can CAT Stock Surge Again On A $72B Data Center Backlog?",
+      "url": "https://finnhub.io/api/news?id=b68bef207f1571e96e7574906aac09528b316a4a589c0628d9d8664e184f832f"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Baird Maintains Outperform on Atlassian, Raises Price Target to $245",
+      "url": "https://finnhub.io/api/news?id=6e4300571e367f78a073557d7c82632e9fa99d3961dfe8249f289c0099eadd1f"
     }
   ]
 }
