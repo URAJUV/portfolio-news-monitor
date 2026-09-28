@@ -25,6 +25,31 @@
       "stock": "RDDT",
       "headline": "I'm Told the Economy Isn't in a Recession, but Everyone Around Me Is Struggling. Almost Nobody I Know Feels Financially Secure",
       "url": "https://finnhub.io/api/news?id=31a1a7088e8c4df9249a3baba19d281e0485714776c84e9d206bb53769c38c93"
+    },
+    {
+      "stock": "HON",
+      "headline": "Space On-Board Computing Platform Market Report 2026: Capitalize on the $1.86B-to-$3.11B Surge by 2030 as AI Edge Processing and LEO Constellations Disrupt Revenue—Benchmark BAE Systems, Thales, L3Harris, Lockheed Martin and Honeywell",
+      "url": "https://finnhub.io/api/news?id=4c08eef0d187d48c7bc96f6b5ff79bbf30f8ca72cb765e632fede2eca9574e80"
+    },
+    {
+      "stock": "UBER",
+      "headline": "AI Is Powering A Profit Boom — But Is It An 'Earnings Bubble'? Wall Street Analyst Weighs In",
+      "url": "https://finnhub.io/api/news?id=5a46b7b27478cbbea700dc4086079258016af38b5863249dddba7a1b33cba5e1"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Arcadis deepens Autodesk collaboration to accelerate AI and data-led delivery for clients",
+      "url": "https://finnhub.io/api/news?id=be2e94361d328ffe9b02c0571a6114483f3d0dd9b656eaed9860cd47f2339605"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Fusemachines Accelerates AI Twin Development Through Access to IBM Fusion Infrastructure Provided by IBM Platinum Partner modulAIre",
+      "url": "https://finnhub.io/api/news?id=97b53e00396cda9604ce801e1d7993595b8df035c90c06d1e930208044e555bc"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Amazon’s AI Capex Is Paying Off and I’m Buying",
+      "url": "https://finnhub.io/api/news?id=808d854c8eab75bae56807253ffecaf816062dbcc5184e4bd2bd0355de1b24ae"
     }
   ]
 }
