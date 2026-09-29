@@ -1,75 +1,50 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "TSMC: Set For All-Time Highs On Surging AI Chip Demand",
-      "url": "https://finnhub.io/api/news?id=c8d40df045e3461567cde59d0ad3c0327968f5ab22b4d7d7893a77f014071f32"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Is Synopsys (SNPS) a Breakout Play as Headwinds Subside and BNP Paribas Upgrades?",
-      "url": "https://finnhub.io/api/news?id=ce78dcbece681f2ffbd8d4bbebc4e0d62834c48811054be963a183d26f19c580"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Nvidia’s CEO Expects AI-Powered Cybersecurity to Boom. These 2 Companies Are Poised to Get a Big Boost From the Trend.",
-      "url": "https://finnhub.io/api/news?id=7120032d0daf26e8cc6c9e3586e1becb0e6d5d3b6b170b3424d127882eea6543"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "META, GOOGL, NVDA, BB, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
-      "url": "https://finnhub.io/api/news?id=09c8681c8928e8a101caa4e29ba689b903a68f336afd1fe52fd41cb21c3e32dc"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "I'm Told the Economy Isn't in a Recession, but Everyone Around Me Is Struggling. Almost Nobody I Know Feels Financially Secure",
-      "url": "https://finnhub.io/api/news?id=31a1a7088e8c4df9249a3baba19d281e0485714776c84e9d206bb53769c38c93"
-    },
-    {
-      "stock": "HON",
-      "headline": "Space On-Board Computing Platform Market Report 2026: Capitalize on the $1.86B-to-$3.11B Surge by 2030 as AI Edge Processing and LEO Constellations Disrupt Revenue—Benchmark BAE Systems, Thales, L3Harris, Lockheed Martin and Honeywell",
-      "url": "https://finnhub.io/api/news?id=4c08eef0d187d48c7bc96f6b5ff79bbf30f8ca72cb765e632fede2eca9574e80"
-    },
-    {
-      "stock": "UBER",
-      "headline": "AI Is Powering A Profit Boom — But Is It An 'Earnings Bubble'? Wall Street Analyst Weighs In",
-      "url": "https://finnhub.io/api/news?id=5a46b7b27478cbbea700dc4086079258016af38b5863249dddba7a1b33cba5e1"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Arcadis deepens Autodesk collaboration to accelerate AI and data-led delivery for clients",
-      "url": "https://finnhub.io/api/news?id=be2e94361d328ffe9b02c0571a6114483f3d0dd9b656eaed9860cd47f2339605"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Fusemachines Accelerates AI Twin Development Through Access to IBM Fusion Infrastructure Provided by IBM Platinum Partner modulAIre",
-      "url": "https://finnhub.io/api/news?id=97b53e00396cda9604ce801e1d7993595b8df035c90c06d1e930208044e555bc"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Amazon’s AI Capex Is Paying Off and I’m Buying",
-      "url": "https://finnhub.io/api/news?id=808d854c8eab75bae56807253ffecaf816062dbcc5184e4bd2bd0355de1b24ae"
+      "stock": "MU",
+      "headline": "What To Expect From Micron’s (MU) Q3 Earnings",
+      "url": "https://finnhub.io/api/news?id=c2d37b7969a6908bde2d413fed29d500736bcf54f07f02bf97c6d82717db1ae4"
     },
     {
       "stock": "TSM",
-      "headline": "Semiconductor Front End Equipment Market Size, Share, and Forecast, 2026-2035 | AI Demand and 2nm Fab Investments Drive 7.2% CAGR Toward USD 182 Billion",
-      "url": "https://finnhub.io/api/news?id=e25de012b3c08c99d832a869284d52a994d5796f91a1c38918849d481b9ddb84"
+      "headline": "High-Bandwidth Memory (HBM) and Advanced Packaging Materials Market for AI Semiconductors, 2027-2037 | Hybrid Bonding, Glass Substrates, and Advanced Cooling Unlock Growth",
+      "url": "https://finnhub.io/api/news?id=4e1ffa0499a9cb3e2d27dba270aabdb0a50f3f6c6fef71320ed9b44d42539dfb"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "PANW, CRWD, ZS Lead Nasdaq-100 Gains As Nvidia's AI Agent Safety Push, Security Scares Lift Cybersecurity Stocks",
+      "url": "https://finnhub.io/api/news?id=57dbde5cbf5b804634d82a2d9c1b53131cc463cfd5b70364a9bba4cf5986bca4"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "TSLA Stock Slides As Retail Turns Cautious Ahead Of Q3 Deliveries — But Musk’s Terafab Is Moving Fast",
+      "url": "https://finnhub.io/api/news?id=c8e2ab8c800cb9ca99f05de4a4ee2dd0be9aa919f0515aea74468ee5089658fe"
+    },
+    {
+      "stock": "AMPX",
+      "headline": "Amprius Secures $75 Million Grant for American High-Energy Density Battery Production",
+      "url": "https://finnhub.io/api/news?id=0a1aa661460c674465238f8fa94586b2b3ef6690e6698508bd0182de4c30fc45"
     },
     {
       "stock": "ARM",
-      "headline": "Arm Stock Sinks 7.6% as Agent Security Expands Its Compute Role",
-      "url": "https://finnhub.io/api/news?id=14cfe04bb33f7e6b6ab27a1cd4937f5a15982cf737eb015a833e32c1386770f2"
+      "headline": "Arm vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026?",
+      "url": "https://finnhub.io/api/news?id=8c41fd07c0ce8d0cfccf39b78e7cab5eed1c04fccaeed0859318311f4372dca0"
     },
     {
-      "stock": "DE",
-      "headline": "Can CAT Stock Surge Again On A $72B Data Center Backlog?",
-      "url": "https://finnhub.io/api/news?id=b68bef207f1571e96e7574906aac09528b316a4a589c0628d9d8664e184f832f"
+      "stock": "HON",
+      "headline": "Microencapsulated Paraffin Phase Change Materials - Global Strategic Business Report: Capitalize on the $389M Market by 2030 as Tariffs Reshape Supply Chains and BASF, Honeywell, Dow, Croda, and Microtek Battle for Energy-Efficiency Revenue",
+      "url": "https://finnhub.io/api/news?id=12532ed17ddbe30f718919fe1f8be9f8632d1b4947392c51714228a525e25533"
     },
     {
-      "stock": "TEAM",
-      "headline": "Baird Maintains Outperform on Atlassian, Raises Price Target to $245",
-      "url": "https://finnhub.io/api/news?id=6e4300571e367f78a073557d7c82632e9fa99d3961dfe8249f289c0099eadd1f"
+      "stock": "IONQ",
+      "headline": "B of A Securities Initiates Coverage of IonQ with Buy",
+      "url": "https://finnhub.io/api/news?id=f17ba79d408d0e6e95edc765bd423528819d7b2ef9543efcd784ae72cb685047"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Can Cloudflare (NET) Become the Gatekeeper of the AI Web?",
+      "url": "https://finnhub.io/api/news?id=44af249db12c507d9f4cffdb2c5ab3f4564f40893fb0a0de727a8772d2ca1675"
     }
   ]
 }
