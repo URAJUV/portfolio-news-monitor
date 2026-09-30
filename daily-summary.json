@@ -30,6 +30,56 @@
       "stock": "NFLX",
       "headline": "Netflix (NFLX) Faces Downgrades As YouTube Pressure Puts Fair Value In Focus",
       "url": "https://finnhub.io/api/news?id=881765e70b8707be38128f6049f388273f4b4bb78bcdf1914e1f6ed173273710"
+    },
+    {
+      "stock": "MU",
+      "headline": "Stock Market Today: Nasdaq Leads Rise; AI Giant Microsoft Tests A New Entry (Live Coverage)",
+      "url": "https://finnhub.io/api/news?id=bdf695d8ec59f60c9c792ad96f4f917a700d182be709eb34dd52b4ee23a6cc54"
+    },
+    {
+      "stock": "TSM",
+      "headline": "ASML, TSM Earnings Could Expose a New Risk for the AI Trade",
+      "url": "https://finnhub.io/api/news?id=9b486481e42fb611758c206dc6fae54aa514110ce3c206bce472ed6914a8e56f"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "BlackBerry Advances 5% on Continued QNX Momentum; Palo Alto Networks Gains 4%, CrowdStrike Edges Up 2%",
+      "url": "https://finnhub.io/api/news?id=ab3b4f001e09d50079ff1e269cc21476bdca3d878f6cbb1cdbba631f5ab6dfba"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Which Gives You More Of Hard-To-Replace Software, PTC Or Fair Isaac?",
+      "url": "https://finnhub.io/api/news?id=025ab568f0fc9bb4189f0223d8f7c8cc8cb56eaf4c59325b364ed35b62a67737"
+    },
+    {
+      "stock": "ARM",
+      "headline": "ARM vs. APP: Which AI-Exposed Tech Stock to Consider Right Now?",
+      "url": "https://finnhub.io/api/news?id=23da3fdd92b74f62077e333e97d8d83590669f5d67389d9fd7905f42f50fe94e"
+    },
+    {
+      "stock": "DE",
+      "headline": "CAT Steps Up Acquisitions to Expand Reach and Technology: What Next?",
+      "url": "https://finnhub.io/api/news?id=99d95dcc96967500abf88c1b36880780f3f8c1456b6c9caa17946ee2b3bdfd0f"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Which Gives You More Of Hard-To-Replace Software, PTC Or Fair Isaac?",
+      "url": "https://finnhub.io/api/news?id=025ab568f0fc9bb4189f0223d8f7c8cc8cb56eaf4c59325b364ed35b62a67737"
+    },
+    {
+      "stock": "U",
+      "headline": "Top 10 AI Stocks To Buy On The Seasonal Dip",
+      "url": "https://finnhub.io/api/news?id=a3e22694d92fd988d036f92e065fdbc41c2b6a8c7b19fab3e5258cff030b31fd"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "TEAM Stock Rallied Over 120% In 3 Months: Atlassian CEO Says If AI Can Replace You, 'You Have A Relatively Simple Business'",
+      "url": "https://finnhub.io/api/news?id=9595124a47551cae61f07dcbae85909ef8bde082f3d95f0ec7650677aa489de6"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Can Reddit’s AI Ad Push With Zefr Reframe Its Core Monetization Story (RDDT)?",
+      "url": "https://finnhub.io/api/news?id=aaa6355af67afef0cdf128ae3603b3960eaf065d9bae99cf9d1c57ddf3518bfb"
     }
   ]
 }
