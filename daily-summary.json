@@ -1,115 +1,20 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "items": [
     {
-      "stock": "MU",
-      "headline": "What To Expect From Micron’s (MU) Q3 Earnings",
-      "url": "https://finnhub.io/api/news?id=c2d37b7969a6908bde2d413fed29d500736bcf54f07f02bf97c6d82717db1ae4"
-    },
-    {
       "stock": "TSM",
-      "headline": "High-Bandwidth Memory (HBM) and Advanced Packaging Materials Market for AI Semiconductors, 2027-2037 | Hybrid Bonding, Glass Substrates, and Advanced Cooling Unlock Growth",
-      "url": "https://finnhub.io/api/news?id=4e1ffa0499a9cb3e2d27dba270aabdb0a50f3f6c6fef71320ed9b44d42539dfb"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "PANW, CRWD, ZS Lead Nasdaq-100 Gains As Nvidia's AI Agent Safety Push, Security Scares Lift Cybersecurity Stocks",
-      "url": "https://finnhub.io/api/news?id=57dbde5cbf5b804634d82a2d9c1b53131cc463cfd5b70364a9bba4cf5986bca4"
+      "headline": "TSMC: Market Is Mistaken In Pricing In A Big AI Slowdown",
+      "url": "https://finnhub.io/api/news?id=6d4ae1e93046e2ffda6db241725615ff741a13e55f59971e59ebdfdbdb77cf81"
     },
     {
       "stock": "TSLA",
-      "headline": "TSLA Stock Slides As Retail Turns Cautious Ahead Of Q3 Deliveries — But Musk’s Terafab Is Moving Fast",
-      "url": "https://finnhub.io/api/news?id=c8e2ab8c800cb9ca99f05de4a4ee2dd0be9aa919f0515aea74468ee5089658fe"
+      "headline": "Jensen Huang: AI data center push will create 1 million US jobs",
+      "url": "https://finnhub.io/api/news?id=9061e7bc0076edb9f92cad9e4e4b803ddb998ace2b6165229e674df74a4644b4"
     },
     {
-      "stock": "AMPX",
-      "headline": "Amprius Secures $75 Million Grant for American High-Energy Density Battery Production",
-      "url": "https://finnhub.io/api/news?id=0a1aa661460c674465238f8fa94586b2b3ef6690e6698508bd0182de4c30fc45"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026?",
-      "url": "https://finnhub.io/api/news?id=8c41fd07c0ce8d0cfccf39b78e7cab5eed1c04fccaeed0859318311f4372dca0"
-    },
-    {
-      "stock": "HON",
-      "headline": "Microencapsulated Paraffin Phase Change Materials - Global Strategic Business Report: Capitalize on the $389M Market by 2030 as Tariffs Reshape Supply Chains and BASF, Honeywell, Dow, Croda, and Microtek Battle for Energy-Efficiency Revenue",
-      "url": "https://finnhub.io/api/news?id=12532ed17ddbe30f718919fe1f8be9f8632d1b4947392c51714228a525e25533"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "B of A Securities Initiates Coverage of IonQ with Buy",
-      "url": "https://finnhub.io/api/news?id=f17ba79d408d0e6e95edc765bd423528819d7b2ef9543efcd784ae72cb685047"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Can Cloudflare (NET) Become the Gatekeeper of the AI Web?",
-      "url": "https://finnhub.io/api/news?id=44af249db12c507d9f4cffdb2c5ab3f4564f40893fb0a0de727a8772d2ca1675"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Billionaire Money Managers Have Chosen Their 2 Favorite AI Stocks (and It's Not Nvidia or Alphabet)",
-      "url": "https://finnhub.io/api/news?id=ddbe6ec8f5d5edb27302fbff5d8dd3ffbc3c5c91fca475eb0eac3882d05e3d63"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys Could Be One of the Biggest AI Picks Nobody Talks About",
-      "url": "https://finnhub.io/api/news?id=079c1176af42df244b44dce61b0f466e8aea83ccc7391fce541eab904559e089"
-    },
-    {
-      "stock": "AMPX",
-      "headline": "Amprius Technologies Shares Rise 11% After Securing Up to $75 Million Defense Grant",
-      "url": "https://finnhub.io/api/news?id=0f4876a3160bfae603059c778fa8dee1810b5dae9c2c8d92ec8d094b130456ae"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings (ARM) Could Be 34% Undervalued On Its AI Growth Narrative",
-      "url": "https://finnhub.io/api/news?id=d5bc779ed7dd54e63fa92c4f40b362414c2ee1f9726f1f8905bc015167562e5d"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber CEO Dara Khosrowshahi sends follow-up emails on Sunday if staff don't reply on Saturday",
-      "url": "https://finnhub.io/api/news?id=de29fe7c12b440f7ba34e43726d653cda2c7626db8b748ceea491a166c89fae4"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Billionaire Money Managers Have Chosen Their 2 Favorite AI Stocks (and It's Not Nvidia or Alphabet)",
-      "url": "https://finnhub.io/api/news?id=ddbe6ec8f5d5edb27302fbff5d8dd3ffbc3c5c91fca475eb0eac3882d05e3d63"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron Stock Gains 1.3% as AI Memory Faces Earnings Reality",
-      "url": "https://finnhub.io/api/news?id=14e47558086ab1d2a834c1f88ec1b9315aa44bad26e7614fd21de4a836cea930"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Brings the Falcon Platform to the OpenAI Marketplace",
-      "url": "https://finnhub.io/api/news?id=b35cae7f014327ecdecdba2b3d6b62a48eddf456c5cfe104b0b7a8db77315245"
-    },
-    {
-      "stock": "AMPX",
-      "headline": "HC Wainwright & Co. Reiterates Buy on Amprius Technologies, Maintains $18 Price Target",
-      "url": "https://finnhub.io/api/news?id=bd60de137552cd200fd6010e2817e487fa2512a890013ed8f85021228d86052c"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ (IONQ): BofA Sees Upside as Quantum Roadmap Gains Commercial Traction",
-      "url": "https://finnhub.io/api/news?id=453df1d06e48c758d1a423874078e415e8e17348d4e9fa2dd709d10cd67f31c5"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "EXCLUSIVE: Draganfly Secures $10 Million Strategic Capital to Scale Drone Manufacturing",
-      "url": "https://finnhub.io/api/news?id=2b3cc5a01d28793b4d41bc713c0e7df68624502820ef8327b5ec8dd6879397c2"
-    },
-    {
-      "stock": "U",
+      "stock": "TEAM",
       "headline": "Infobird Says On May 7 Xiangyang Wen Was Appointed As CEO",
       "url": "https://finnhub.io/api/news?id=c5d207509784b765cec72073ad583a923bd3dc21788c91082cff4fac80b1b8d0"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "GOOGL's Prospects Ride on AI Initiatives: Can It Beat RDDT and META?",
-      "url": "https://finnhub.io/api/news?id=ea1f0fd066012c6850d49bd0d3053b9083e83a2863fc42c7afc18b5f0db534aa"
     }
   ]
 }
