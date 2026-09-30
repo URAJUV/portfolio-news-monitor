@@ -15,6 +15,21 @@
       "stock": "TEAM",
       "headline": "Infobird Says On May 7 Xiangyang Wen Was Appointed As CEO",
       "url": "https://finnhub.io/api/news?id=c5d207509784b765cec72073ad583a923bd3dc21788c91082cff4fac80b1b8d0"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Prediction: Taiwan Semiconductor Manufacturing Will Hit a $3 Trillion Market Cap Before 2027 Is Over",
+      "url": "https://finnhub.io/api/news?id=fc100185c0fea6bb99bd5989ed8ce4a4a98e101cbd862d756b5283cc0fffd2b1"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "These 3 AI Stocks Are Poised to Be Big Winners from Amazon's Choice to Block Meta's Muse",
+      "url": "https://finnhub.io/api/news?id=7c04ede28227099abe60f969c2362828fad36bf797514a0fb8180ad6a5aedb01"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix (NFLX) Faces Downgrades As YouTube Pressure Puts Fair Value In Focus",
+      "url": "https://finnhub.io/api/news?id=881765e70b8707be38128f6049f388273f4b4bb78bcdf1914e1f6ed173273710"
     }
   ]
 }
