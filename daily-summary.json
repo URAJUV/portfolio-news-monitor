@@ -1,105 +1,30 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "TSMC: Market Is Mistaken In Pricing In A Big AI Slowdown",
-      "url": "https://finnhub.io/api/news?id=6d4ae1e93046e2ffda6db241725615ff741a13e55f59971e59ebdfdbdb77cf81"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Jensen Huang: AI data center push will create 1 million US jobs",
-      "url": "https://finnhub.io/api/news?id=9061e7bc0076edb9f92cad9e4e4b803ddb998ace2b6165229e674df74a4644b4"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Infobird Says On May 7 Xiangyang Wen Was Appointed As CEO",
-      "url": "https://finnhub.io/api/news?id=c5d207509784b765cec72073ad583a923bd3dc21788c91082cff4fac80b1b8d0"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Prediction: Taiwan Semiconductor Manufacturing Will Hit a $3 Trillion Market Cap Before 2027 Is Over",
-      "url": "https://finnhub.io/api/news?id=fc100185c0fea6bb99bd5989ed8ce4a4a98e101cbd862d756b5283cc0fffd2b1"
-    },
-    {
       "stock": "AMZN",
-      "headline": "These 3 AI Stocks Are Poised to Be Big Winners from Amazon's Choice to Block Meta's Muse",
-      "url": "https://finnhub.io/api/news?id=7c04ede28227099abe60f969c2362828fad36bf797514a0fb8180ad6a5aedb01"
+      "headline": "Trump Losing Midterms Could Be the 'Trigger' that Pops AI Bubble, Says Market Analyst — Here's What Crypto Punters Think",
+      "url": "https://finnhub.io/api/news?id=5c47b3c659a2b86e95362aece3c906f834abc994094d6f2a6e59192468e007ca"
     },
     {
-      "stock": "NFLX",
-      "headline": "Netflix (NFLX) Faces Downgrades As YouTube Pressure Puts Fair Value In Focus",
-      "url": "https://finnhub.io/api/news?id=881765e70b8707be38128f6049f388273f4b4bb78bcdf1914e1f6ed173273710"
+      "stock": "IONQ",
+      "headline": "Post-Quantum Security Market Forecast to Grow 46% a Year to 2030",
+      "url": "https://finnhub.io/api/news?id=f5c7427ceb61d8939691a4265cc08d80b961be6f54e2ca0f79f34a97bdeaad49"
     },
     {
-      "stock": "MU",
-      "headline": "Stock Market Today: Nasdaq Leads Rise; AI Giant Microsoft Tests A New Entry (Live Coverage)",
-      "url": "https://finnhub.io/api/news?id=bdf695d8ec59f60c9c792ad96f4f917a700d182be709eb34dd52b4ee23a6cc54"
+      "stock": "IBM",
+      "headline": "Washington Refuses To Regulate AI",
+      "url": "https://finnhub.io/api/news?id=bd6dcad00dcb357187fce1e7713a91d262f823f473d2ce2e7cd252cfb7d2d8b8"
     },
     {
-      "stock": "TSM",
-      "headline": "ASML, TSM Earnings Could Expose a New Risk for the AI Trade",
-      "url": "https://finnhub.io/api/news?id=9b486481e42fb611758c206dc6fae54aa514110ce3c206bce472ed6914a8e56f"
+      "stock": "QBTS",
+      "headline": "IonQ Jumps 4% on BoA Buy Rating; Rigetti and D-Wave Quantum Gain 2%",
+      "url": "https://finnhub.io/api/news?id=4fd83419199420ebba85c05c5e565fdc818764bab68efbf3d79c269db01717ff"
     },
     {
-      "stock": "CRWD",
-      "headline": "BlackBerry Advances 5% on Continued QNX Momentum; Palo Alto Networks Gains 4%, CrowdStrike Edges Up 2%",
-      "url": "https://finnhub.io/api/news?id=ab3b4f001e09d50079ff1e269cc21476bdca3d878f6cbb1cdbba631f5ab6dfba"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Which Gives You More Of Hard-To-Replace Software, PTC Or Fair Isaac?",
-      "url": "https://finnhub.io/api/news?id=025ab568f0fc9bb4189f0223d8f7c8cc8cb56eaf4c59325b364ed35b62a67737"
-    },
-    {
-      "stock": "ARM",
-      "headline": "ARM vs. APP: Which AI-Exposed Tech Stock to Consider Right Now?",
-      "url": "https://finnhub.io/api/news?id=23da3fdd92b74f62077e333e97d8d83590669f5d67389d9fd7905f42f50fe94e"
-    },
-    {
-      "stock": "DE",
-      "headline": "CAT Steps Up Acquisitions to Expand Reach and Technology: What Next?",
-      "url": "https://finnhub.io/api/news?id=99d95dcc96967500abf88c1b36880780f3f8c1456b6c9caa17946ee2b3bdfd0f"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Which Gives You More Of Hard-To-Replace Software, PTC Or Fair Isaac?",
-      "url": "https://finnhub.io/api/news?id=025ab568f0fc9bb4189f0223d8f7c8cc8cb56eaf4c59325b364ed35b62a67737"
-    },
-    {
-      "stock": "U",
-      "headline": "Top 10 AI Stocks To Buy On The Seasonal Dip",
-      "url": "https://finnhub.io/api/news?id=a3e22694d92fd988d036f92e065fdbc41c2b6a8c7b19fab3e5258cff030b31fd"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "TEAM Stock Rallied Over 120% In 3 Months: Atlassian CEO Says If AI Can Replace You, 'You Have A Relatively Simple Business'",
-      "url": "https://finnhub.io/api/news?id=9595124a47551cae61f07dcbae85909ef8bde082f3d95f0ec7650677aa489de6"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Can Reddit’s AI Ad Push With Zefr Reframe Its Core Monetization Story (RDDT)?",
-      "url": "https://finnhub.io/api/news?id=aaa6355af67afef0cdf128ae3603b3960eaf065d9bae99cf9d1c57ddf3518bfb"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron Technology (NASDAQ:MU) Beats Earnings Estimates and Guides Higher on AI Memory Demand",
-      "url": "https://finnhub.io/api/news?id=b2823046737bc4ead18cef352d7025fff6b1be2dd109a8b246f2876aa584d741"
-    },
-    {
-      "stock": "TSM",
-      "headline": "US Wants to Break Taiwan Dependence — But Here's Why Taipei Will Remain 'Central' Character in the AI Chips Story",
-      "url": "https://finnhub.io/api/news?id=08cf869f0be19217919ae0063d764b8eee222e260b9a6c5d7ad2d622e4ef4e72"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Why This Cybersecurity Stock Belongs in Every Millionaire-in-the-Making Portfolio",
-      "url": "https://finnhub.io/api/news?id=38b51144b6ab7cdaa370012d514c5675b8df95db287b46102214cad818563106"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Sector Update: Tech Stocks Higher Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=2b7c7c16a265951f57ddea7d32d248c6c8d82ed73dcd488c53ced9dd8048984c"
+      "stock": "GOOGL",
+      "headline": "Trump Losing Midterms Could Be the 'Trigger' that Pops AI Bubble, Says Market Analyst — Here's What Crypto Punters Think",
+      "url": "https://finnhub.io/api/news?id=5c47b3c659a2b86e95362aece3c906f834abc994094d6f2a6e59192468e007ca"
     }
   ]
 }
