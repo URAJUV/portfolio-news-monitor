@@ -85,6 +85,41 @@
       "stock": "RDDT",
       "headline": "Snap Jumps 6% as Fundamentals Outweigh Regulatory Pressure; Reddit Gains 4%, Meta Platforms Dips",
       "url": "https://finnhub.io/api/news?id=8661cda64b9ccb54888ce882d44ec9ea6a80b40d3838f1f419108dde66832fe7"
+    },
+    {
+      "stock": "TSM",
+      "headline": "'TSMC Mulls Multibillion-Dollar Texas Campus for More AI Chips' - Bloomberg",
+      "url": "https://finnhub.io/api/news?id=d996c407476320a84a09d18adf4d2ae4922f1f9d72327f629f841df5638b7f8c"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Will the Rising Adoption of AI Agents Boost CRWD's Identity Business?",
+      "url": "https://finnhub.io/api/news?id=27082b5ebc3dea92a43218ff67e861e5f09fce2aef80ba14e132bca126f26802"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Alphabet Slips After Gemini 4 Argon Launch as Tech Sector Rises; Microsoft Holds Steady, Amazon Dips",
+      "url": "https://finnhub.io/api/news?id=11c7537e6686b271eb579ad83c3fd9904ab61164c2f9627049fcb3bc53531c11"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Munro Partners Sees Arm Holdings (ARM) as a Key Beneficiary of Agentic AI",
+      "url": "https://finnhub.io/api/news?id=7196ef7c504b62465b79334303204b85ed47a9715dabd410b0754b508e32f06f"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ Jumps 4% on BoA Buy Rating; Rigetti and D-Wave Quantum Gain 2%",
+      "url": "https://finnhub.io/api/news?id=4fd83419199420ebba85c05c5e565fdc818764bab68efbf3d79c269db01717ff"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Is Adobe Stock A Real Bargain?",
+      "url": "https://finnhub.io/api/news?id=ec0e16d3f4ab8736c321f92c68e53e0aef41de8544a472460e92792ce1bff695"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "One Year Later, Only One Quantum Stock Call Paid Off. Here’s What Changed.",
+      "url": "https://finnhub.io/api/news?id=1384013eeaff8b7e05842590bff5db186714550b3770cb6caa2206885b3a8716"
     }
   ]
 }
