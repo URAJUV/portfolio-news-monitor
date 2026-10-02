@@ -70,6 +70,31 @@
       "stock": "RDDT",
       "headline": "Snap Is Down 32% in 2026: Overlooked Bargain or Toxic Stock?",
       "url": "https://finnhub.io/api/news?id=55df4bd43ccaed834e15c4f27156ee90d35c2a0ff58421be836effafaadfd93e"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Friday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=dae9e38216af9caeb3c9abed3121741bfec571aa37cb57af005378a6860ef556"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "What Does Fair Isaac Offer That Cadence Does Not?",
+      "url": "https://finnhub.io/api/news?id=d4304c607364dd178a7f6a8406ea1b42cf920db8507dbe346e40b0ca02a415e3"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Friday's session: top gainers and losers in the S&P500 index",
+      "url": "https://finnhub.io/api/news?id=dae9e38216af9caeb3c9abed3121741bfec571aa37cb57af005378a6860ef556"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "What Does Fair Isaac Offer That Cadence Does Not?",
+      "url": "https://finnhub.io/api/news?id=d4304c607364dd178a7f6a8406ea1b42cf920db8507dbe346e40b0ca02a415e3"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian (TEAM) Left The FTSE All World Index, Is It Still Below Fair Value?",
+      "url": "https://finnhub.io/api/news?id=58f4ce11e67ec2566b3d13a18b0b94193984e9788efb00460f6c8fac53f24b3b"
     }
   ]
 }
