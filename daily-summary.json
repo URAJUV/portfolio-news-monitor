@@ -155,6 +155,21 @@
       "stock": "GOOGL",
       "headline": "Alphabet (GOOGL) Prevails In Two US Antitrust Lawsuits",
       "url": "https://finnhub.io/api/news?id=a67b61ce3b52370842677277426eb40658fad73d45752068de23fd418bbe9301"
+    },
+    {
+      "stock": "MU",
+      "headline": "A chipmaker's boom is quietly raising the price of your electronics",
+      "url": "https://finnhub.io/api/news?id=dba81bdc33ae8d118e48a6d336e483fc2365484cdaef200afc94ead27e66feb4"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Robinhood’s new AI bots will trade stocks while you sleep",
+      "url": "https://finnhub.io/api/news?id=d8b832cf94d5c37e886b2ea0627548b71c712b7e9d3cc5855dac05281f3aefed"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Elon Musk Said SpaceX AI Revenue Would Pass Everything Else by September. Did It?",
+      "url": "https://finnhub.io/api/news?id=75ea3bb4aa52d61d5f7821b55d352480d81645c483f7adfed7dfd3225b18303c"
     }
   ]
 }
