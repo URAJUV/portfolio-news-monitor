@@ -65,6 +65,41 @@
       "stock": "TEAM",
       "headline": "Atlassian (TEAM) Stock Looks Fully Valued After New AI Tools",
       "url": "https://finnhub.io/api/news?id=4eeb5047817eab6f999eeb60c056aac5eb3d8e387a56df05e72598443c047281"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron's Last 5 Post-Earnings Dips Turned Into Gains. This Time, the Stock Rose Instead.",
+      "url": "https://finnhub.io/api/news?id=eef4d5def078b35894a2b8baffd91473d30452794967b020127647b8d7969cbb"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Broadcom vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026?",
+      "url": "https://finnhub.io/api/news?id=1cabc81d1a5b21809cde0f24043052a6e40eb0f2cce7f8724115a66f7dc77786"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "2 Cybersecurity Stocks With Serious Long-Term Wealth-Building Potential",
+      "url": "https://finnhub.io/api/news?id=42094701a0ae321eaefcd2844ea58187ae84ee96a51261f59e9f34832ad4cd84"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Accenture Silences the AI Skeptics, Nike Warns the Pain Isn't Over",
+      "url": "https://finnhub.io/api/news?id=edfb258113299bc729c0988e637af84ee3891556c48037d1750b4142ecf69bd9"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Gig Workers Are Feeling the Squeeze From Higher Gas Prices And Cash-Strapped Customers. One Says, 'I Can't Wait To Find Real Employment'",
+      "url": "https://finnhub.io/api/news?id=f17d6bef939f49418f55970641a55ec25c1c7ecb7c2fb41e418ed189b230fa6f"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Is Applied Optoelectronics (AAOI) Quietly Reframing Its Edge Around AI-Driven DOCSIS Network Intelligence?",
+      "url": "https://finnhub.io/api/news?id=a90ed497734cc67f9dcecf5c7fe0c480f2a6cbeb2a0a95fbd105dbaff20b139f"
+    },
+    {
+      "stock": "IBM",
+      "headline": "How This Quantum Stock Stands to Gain an Edge From AI and Supercomputing",
+      "url": "https://finnhub.io/api/news?id=dddbbb57a8e66d225765af58749801481c102d841fa2c85efe79371a8a4adc0f"
     }
   ]
 }
