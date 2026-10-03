@@ -100,6 +100,36 @@
       "stock": "IBM",
       "headline": "How This Quantum Stock Stands to Gain an Edge From AI and Supercomputing",
       "url": "https://finnhub.io/api/news?id=dddbbb57a8e66d225765af58749801481c102d841fa2c85efe79371a8a4adc0f"
+    },
+    {
+      "stock": "MU",
+      "headline": "Rise of the Machines: AI Agents Now Burn 5x More Tokens Than Humans — and the Gap Is Widening Fast",
+      "url": "https://finnhub.io/api/news?id=d203be2c57576dcb8271188cccd65bb4120decbfb6172e06ebacdd0e41b843dc"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor Stock Rises on Broadcom's $60 Billion Chip Deal",
+      "url": "https://finnhub.io/api/news?id=0302b93a7d7762aee18354bf557b76bc2fb7e206de714e218fe1662a51ac000a"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Weak Jobs Lift Tech Stocks to Record Highs, Micron Confirms the AI Rally: This Week on Wall Street",
+      "url": "https://finnhub.io/api/news?id=5741560907bb490beb3f09465a39d81c19f1e29566b5f5cc871410ad603257e1"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Elon Musk Hints at Tesla-SpaceX Merger: “Who Can Imagine What Action One Might Take”",
+      "url": "https://finnhub.io/api/news?id=d5beecf837c542a790a8cab82dd530010a359668c4f76c5adf640e9ac0829ca5"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "AI's 'labor enhancement' will be 'more powerful' than job displacements: Mohamed El-Erian",
+      "url": "https://finnhub.io/api/news?id=c285f5d2803494c097c2205c87efd5e8d9d25e16648046a1e3797d997a8759aa"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Ben Affleck Pushes Back on AI Job-Loss Fears: ‘I Don’t Worry About Skynet’",
+      "url": "https://finnhub.io/api/news?id=9e4cb276c420904b47a3f6f8f75d669a05f43d8bd5e452342f28fca7c9dba165"
     }
   ]
 }
