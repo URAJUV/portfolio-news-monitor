@@ -130,6 +130,31 @@
       "stock": "NFLX",
       "headline": "Ben Affleck Pushes Back on AI Job-Loss Fears: ‘I Don’t Worry About Skynet’",
       "url": "https://finnhub.io/api/news?id=9e4cb276c420904b47a3f6f8f75d669a05f43d8bd5e452342f28fca7c9dba165"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Nvidia and Micron Can't Make AI Chips Without This Growth Stock. Here's Why It Could Soar.",
+      "url": "https://finnhub.io/api/news?id=edb22ee9082181453e2be651fbd8a686128e66d52f88b880a40ba46bdb58bb54"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Issues with AI models only going to get worse, says CrowdStrike President Michael Sentonas",
+      "url": "https://finnhub.io/api/news?id=0c27f0ad9e154cf460de2683384a66b6ac5d93c58c5e8e8fa35ff57716a5387d"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://finnhub.io/api/news?id=b750d450728a5af20e921e8522aabab198da92df9bc7210a5607d461d343e5b1"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Elon Musk: America is ‘1,000% going to go bankrupt’ and ‘fail as a country’ — but he says 1 powerful force can save us",
+      "url": "https://finnhub.io/api/news?id=2b892ea2017ef309bd3f6990028921e6f7a7f855897b953a5e30d736bce6967c"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet (GOOGL) Prevails In Two US Antitrust Lawsuits",
+      "url": "https://finnhub.io/api/news?id=a67b61ce3b52370842677277426eb40658fad73d45752068de23fd418bbe9301"
     }
   ]
 }
