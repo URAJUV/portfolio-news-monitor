@@ -1,160 +1,70 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "items": [
     {
-      "stock": "CRWD",
-      "headline": "Top 3 Cybersecurity Stocks To Watch In October 2026",
-      "url": "https://finnhub.io/api/news?id=5f6b7d53ae452dd4890ec41095ccc13024b040e9113adb646bdbf239072b25fc"
+      "stock": "MU",
+      "headline": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High",
+      "url": "https://finnhub.io/api/news?id=0ba567d7c74cbe8d09e0937c547f97754996ee991767a8edefda28238e9a73ad"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A ‘New OS For Work’ This Week",
+      "url": "https://finnhub.io/api/news?id=46d3c6a7d717e97fd24c883d9bfe1437bda2f3237c110f4776dbe0b335daddb1"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "3 U.S. Solar And Storage Stocks With Tariff Resilient Supply Chains",
+      "url": "https://finnhub.io/api/news?id=371474aa14ef6a837204cccb9f8c5c5d3deb410666bcd3f4ecd9fc97f72f25ec"
     },
     {
       "stock": "SNPS",
-      "headline": "Stock Market Today: S&P Climbs To Start October, Micron Gains; Barbie Maker Soars On Deal News",
-      "url": "https://finnhub.io/api/news?id=dc513ee84a3d9b0fbe4b51adb17093431be740abf1f38ea281bfbd8b418e7237"
+      "headline": "2026 BayAreaCISO ORBIE Awards Recognize Bay Area’s Top Security Executives",
+      "url": "https://finnhub.io/api/news?id=bbe6798705edf8521daff1cc8b33e3d323236fa6c01e86d192a84f98dfdf976d"
     },
     {
       "stock": "HON",
-      "headline": "Honeywell International Inc. (HON) Outpaces Stock Market Gains: What You Should Know",
-      "url": "https://finnhub.io/api/news?id=7d46d539507ee4d85b150182177d34122a95a4c861cf522f8110f0026de5b376"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Unpacking Q2 Earnings: Halozyme Therapeutics (NASDAQ:HALO) In The Context Of Other Therapeutics Stocks",
-      "url": "https://finnhub.io/api/news?id=2ba48064af284ce94dea9e790cccd22f7fc342a1b3268e988d196b560fa6a789"
+      "headline": "‘Sometimes it’s more expensive than having humans’: Ecolab gets real about AI’s limits in the physical world",
+      "url": "https://finnhub.io/api/news?id=dcffb50c2e6cf863303e2bce64a59ad2b24014f2671e63d9b2d0162375bac1a2"
     },
     {
       "stock": "IONQ",
-      "headline": "One Year Later, Only One Quantum Stock Call Paid Off. Here’s What Changed.",
-      "url": "https://finnhub.io/api/news?id=1384013eeaff8b7e05842590bff5db186714550b3770cb6caa2206885b3a8716"
+      "headline": "How This Quantum Stock Stands to Gain an Edge From AI and Supercomputing",
+      "url": "https://finnhub.io/api/news?id=dddbbb57a8e66d225765af58749801481c102d841fa2c85efe79371a8a4adc0f"
     },
     {
-      "stock": "U",
-      "headline": "What Could Derail AppLovin Stock?",
-      "url": "https://finnhub.io/api/news?id=d788ef14cab400bf3ea80c677861ca11035b249e00c63f1ce479d68f854cf3f0"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix co-CEO says streaming giant \"isn't growing as fast as I want us to\"",
-      "url": "https://finnhub.io/api/news?id=274bdc28e1f2e6b2d1d16961db9b20c4420157332ff22cd383651a9bb08919dc"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Divorce Left Them With $250K Mortgage At 5.85% — They Paid It Off In 2.5 Years And Say, ‘I’m Glad I Did It This Way’",
-      "url": "https://finnhub.io/api/news?id=3e3a05af7765abe75094218bf232070b5d9552be9cdc31a68906c10a1169a19a"
-    },
-    {
-      "stock": "MU",
-      "headline": "Stocktwits AI Roundup: Micron’s Blowout Quarter, Nvidia’s $150B Buyback And The Race For AI Agents",
-      "url": "https://finnhub.io/api/news?id=0d4ef37ddec382e461ea60f1d1fc6e25e2551cce81705ab0fd567f5c73f55a3d"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor Manufacturing (TSM), Why Is Fresh Attention Building Now?",
-      "url": "https://finnhub.io/api/news?id=4d29bb2a00afb8813902b593bb76560f707d1e922f963c0cb67351a5aa6ebbb2"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ (IONQ) Stock Fair Value Edges Lower After Analysts Rework Growth And Risk",
-      "url": "https://finnhub.io/api/news?id=0651a59ad851d7f5cfc67dee43f5801356daa1c2885f3e5db2f0bba858e94013"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Secure File Transfer Market Forecasts Growth from $5.69B (2026) to $8.34B by 2031, Profiling IBM, Fortra, OPSWAT, Axway & Oracle",
-      "url": "https://finnhub.io/api/news?id=fadd907a55175996e5521aa7c95bb00197ebe3295fcc7a94589f41de38619daa"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "The New Math of AI: Are Those Trillion-Dollar Numbers for Real?",
-      "url": "https://finnhub.io/api/news?id=669cc09c62ab759fef462103f8907cc051db135e06a7d78904988798b9c1318c"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Snap Is Down 32% in 2026: Overlooked Bargain or Toxic Stock?",
-      "url": "https://finnhub.io/api/news?id=55df4bd43ccaed834e15c4f27156ee90d35c2a0ff58421be836effafaadfd93e"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Friday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=dae9e38216af9caeb3c9abed3121741bfec571aa37cb57af005378a6860ef556"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "What Does Fair Isaac Offer That Cadence Does Not?",
-      "url": "https://finnhub.io/api/news?id=d4304c607364dd178a7f6a8406ea1b42cf920db8507dbe346e40b0ca02a415e3"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Friday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=dae9e38216af9caeb3c9abed3121741bfec571aa37cb57af005378a6860ef556"
+      "stock": "UBER",
+      "headline": "Does Pony AI (PONY) Change Its Growth Story With Europe’s First Driverless Trial?",
+      "url": "https://finnhub.io/api/news?id=6140b53074a38eb6cdfe5201f4284f9d4b822e1ce972d79110b20e71afea5f0a"
     },
     {
       "stock": "ADSK",
-      "headline": "What Does Fair Isaac Offer That Cadence Does Not?",
-      "url": "https://finnhub.io/api/news?id=d4304c607364dd178a7f6a8406ea1b42cf920db8507dbe346e40b0ca02a415e3"
+      "headline": "Autodesk: Market Is Mispricing This Asset-Light AI Beneficiary",
+      "url": "https://finnhub.io/api/news?id=dbf50a39fd4e9fece82936edd92007009ffdadc3aec0983c9af8b4052b52da85"
     },
     {
-      "stock": "TEAM",
-      "headline": "Atlassian (TEAM) Left The FTSE All World Index, Is It Still Below Fair Value?",
-      "url": "https://finnhub.io/api/news?id=58f4ce11e67ec2566b3d13a18b0b94193984e9788efb00460f6c8fac53f24b3b"
-    },
-    {
-      "stock": "MU",
-      "headline": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Make a Big Move in October (Hint: It’s Not Micron)",
-      "url": "https://finnhub.io/api/news?id=0eb623e7502c51fbac3934f7a4eeb6adc849119ed2357d8841559548b7c7c725"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor (NYSE:TSM) Shows High Growth and Improving Fundamentals",
-      "url": "https://finnhub.io/api/news?id=32956140f744174585ac905b63ab9e3772197a3d0469e1b6126016d87d435119"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Investors Might Consider Going Long On This Cybersecurity Player",
-      "url": "https://finnhub.io/api/news?id=f94292c8671bdfa3cd6f96b4698580dbe5d7c3a1a25b7c0ce2e8e5af72deba49"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys Is the Nasdaq 100’s Top Stock Today. The Target Says It’s Not Done",
-      "url": "https://finnhub.io/api/news?id=00d458189dfee1ad8d236639740ffa19962e7eae4398dd9b656a6a22bf813e31"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=a4702004580cc6220a29cfba381121aa2469195a6e4ff0849666e3f6346bc4b7"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Sony Announces AI Upscaling Is Coming To PS5",
-      "url": "https://finnhub.io/api/news?id=1371ddbdaf4feb3115ee44b4ea4ed419076d039b9c82ec34b7aeb1ca4089430b"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
-      "url": "https://finnhub.io/api/news?id=fd48f330e8e5e8dfcec8856002b2f5999ab91a01d5b01c146a820fb518ba56ec"
+      "stock": "DPRO",
+      "headline": "Motorola Boosts Counter-Drone Security Footprint With D-Fend Buyout",
+      "url": "https://finnhub.io/api/news?id=443fad8eef47ddbfee799b32e4847aada63e05eea5e0bc7766e544e1c809a01d"
     },
     {
       "stock": "IBM",
-      "headline": "Arrow Electronics, IBD Stock Of The Day, Breaks Out Amid Triple-Digit Earnings Growth",
-      "url": "https://finnhub.io/api/news?id=e843079d83f557f0ac0266e5eb98c6f72b1456c6e8558cc8e4accc00fa863d76"
+      "headline": "More than 6 out of 10 CFOs expand into AI, tech strategy: IBM",
+      "url": "https://finnhub.io/api/news?id=6b553e1658d4bcfed54ab1b95dae5a887ea87f28090cd3ffa9ff526f3094180f"
     },
     {
-      "stock": "U",
-      "headline": "Unity Software Rallies 5% as Meta VR Support Extends Into a Second Session; Roblox Inches Higher, Take-Two Slides 3%",
-      "url": "https://finnhub.io/api/news?id=d1eaf333c300c061aae4aca462836918aa469bd7d222a1ddfb3460c2ff9e9b47"
+      "stock": "QBTS",
+      "headline": "How This Quantum Stock Stands to Gain an Edge From AI and Supercomputing",
+      "url": "https://finnhub.io/api/news?id=dddbbb57a8e66d225765af58749801481c102d841fa2c85efe79371a8a4adc0f"
     },
     {
       "stock": "GOOGL",
-      "headline": "Friday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=d3c7a24ec996d4e6f3ea43028242317d0d3e49cd31ec72a434e469e2479a6725"
+      "headline": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A ‘New OS For Work’ This Week",
+      "url": "https://finnhub.io/api/news?id=46d3c6a7d717e97fd24c883d9bfe1437bda2f3237c110f4776dbe0b335daddb1"
     },
     {
       "stock": "TEAM",
-      "headline": "Atlassian Climbs 6% as Beaten-Down Software Names Bounce; HubSpot and Monday.com Gain 4%",
-      "url": "https://finnhub.io/api/news?id=e4413c17d5efca83c5aed64735d1a63b4c140f4257c9d128220b0be969a50f22"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "I Sold NVIDIA, Google and Microsoft Over a $2 Trillion AI Gap. Was I Wrong?",
-      "url": "https://finnhub.io/api/news?id=da51e5484dedd477400c3e64887e03fb4b11a0e3918df93cf8a3625b45d4a595"
+      "headline": "Atlassian (TEAM) Stock Looks Fully Valued After New AI Tools",
+      "url": "https://finnhub.io/api/news?id=4eeb5047817eab6f999eeb60c056aac5eb3d8e387a56df05e72598443c047281"
     }
   ]
 }
