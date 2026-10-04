@@ -1,175 +1,25 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "items": [
     {
       "stock": "MU",
-      "headline": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High",
-      "url": "https://finnhub.io/api/news?id=0ba567d7c74cbe8d09e0937c547f97754996ee991767a8edefda28238e9a73ad"
+      "headline": "3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030",
+      "url": "https://finnhub.io/api/news?id=a96fff1028aa94c826e82819cfb09b017eb17ce93b993c5187deedff2b1833f3"
     },
     {
-      "stock": "AMZN",
-      "headline": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A ‘New OS For Work’ This Week",
-      "url": "https://finnhub.io/api/news?id=46d3c6a7d717e97fd24c883d9bfe1437bda2f3237c110f4776dbe0b335daddb1"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "3 U.S. Solar And Storage Stocks With Tariff Resilient Supply Chains",
-      "url": "https://finnhub.io/api/news?id=371474aa14ef6a837204cccb9f8c5c5d3deb410666bcd3f4ecd9fc97f72f25ec"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "2026 BayAreaCISO ORBIE Awards Recognize Bay Area’s Top Security Executives",
-      "url": "https://finnhub.io/api/news?id=bbe6798705edf8521daff1cc8b33e3d323236fa6c01e86d192a84f98dfdf976d"
-    },
-    {
-      "stock": "HON",
-      "headline": "‘Sometimes it’s more expensive than having humans’: Ecolab gets real about AI’s limits in the physical world",
-      "url": "https://finnhub.io/api/news?id=dcffb50c2e6cf863303e2bce64a59ad2b24014f2671e63d9b2d0162375bac1a2"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "How This Quantum Stock Stands to Gain an Edge From AI and Supercomputing",
-      "url": "https://finnhub.io/api/news?id=dddbbb57a8e66d225765af58749801481c102d841fa2c85efe79371a8a4adc0f"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Does Pony AI (PONY) Change Its Growth Story With Europe’s First Driverless Trial?",
-      "url": "https://finnhub.io/api/news?id=6140b53074a38eb6cdfe5201f4284f9d4b822e1ce972d79110b20e71afea5f0a"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Autodesk: Market Is Mispricing This Asset-Light AI Beneficiary",
-      "url": "https://finnhub.io/api/news?id=dbf50a39fd4e9fece82936edd92007009ffdadc3aec0983c9af8b4052b52da85"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Motorola Boosts Counter-Drone Security Footprint With D-Fend Buyout",
-      "url": "https://finnhub.io/api/news?id=443fad8eef47ddbfee799b32e4847aada63e05eea5e0bc7766e544e1c809a01d"
-    },
-    {
-      "stock": "IBM",
-      "headline": "More than 6 out of 10 CFOs expand into AI, tech strategy: IBM",
-      "url": "https://finnhub.io/api/news?id=6b553e1658d4bcfed54ab1b95dae5a887ea87f28090cd3ffa9ff526f3094180f"
+      "stock": "TSLA",
+      "headline": "Ford (F) Lost $7.4 Billion and Still Pays a 4.9% Dividend. How Long Can That Hold?",
+      "url": "https://finnhub.io/api/news?id=760c246a1a981bf897b518d0d7523486c65b877cec9a89b4a254201f74382fd3"
     },
     {
       "stock": "QBTS",
-      "headline": "How This Quantum Stock Stands to Gain an Edge From AI and Supercomputing",
-      "url": "https://finnhub.io/api/news?id=dddbbb57a8e66d225765af58749801481c102d841fa2c85efe79371a8a4adc0f"
+      "headline": "3 Millionaire-Maker Quantum Computing Stocks Wall Street Isn't Talking About",
+      "url": "https://finnhub.io/api/news?id=297035badcfc7ed745c914abbfbc4e20d732151dca163d400e304a35daf28126"
     },
     {
       "stock": "GOOGL",
-      "headline": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A ‘New OS For Work’ This Week",
-      "url": "https://finnhub.io/api/news?id=46d3c6a7d717e97fd24c883d9bfe1437bda2f3237c110f4776dbe0b335daddb1"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian (TEAM) Stock Looks Fully Valued After New AI Tools",
-      "url": "https://finnhub.io/api/news?id=4eeb5047817eab6f999eeb60c056aac5eb3d8e387a56df05e72598443c047281"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron's Last 5 Post-Earnings Dips Turned Into Gains. This Time, the Stock Rose Instead.",
-      "url": "https://finnhub.io/api/news?id=eef4d5def078b35894a2b8baffd91473d30452794967b020127647b8d7969cbb"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Broadcom vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026?",
-      "url": "https://finnhub.io/api/news?id=1cabc81d1a5b21809cde0f24043052a6e40eb0f2cce7f8724115a66f7dc77786"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "2 Cybersecurity Stocks With Serious Long-Term Wealth-Building Potential",
-      "url": "https://finnhub.io/api/news?id=42094701a0ae321eaefcd2844ea58187ae84ee96a51261f59e9f34832ad4cd84"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Accenture Silences the AI Skeptics, Nike Warns the Pain Isn't Over",
-      "url": "https://finnhub.io/api/news?id=edfb258113299bc729c0988e637af84ee3891556c48037d1750b4142ecf69bd9"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Gig Workers Are Feeling the Squeeze From Higher Gas Prices And Cash-Strapped Customers. One Says, 'I Can't Wait To Find Real Employment'",
-      "url": "https://finnhub.io/api/news?id=f17d6bef939f49418f55970641a55ec25c1c7ecb7c2fb41e418ed189b230fa6f"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Is Applied Optoelectronics (AAOI) Quietly Reframing Its Edge Around AI-Driven DOCSIS Network Intelligence?",
-      "url": "https://finnhub.io/api/news?id=a90ed497734cc67f9dcecf5c7fe0c480f2a6cbeb2a0a95fbd105dbaff20b139f"
-    },
-    {
-      "stock": "IBM",
-      "headline": "How This Quantum Stock Stands to Gain an Edge From AI and Supercomputing",
-      "url": "https://finnhub.io/api/news?id=dddbbb57a8e66d225765af58749801481c102d841fa2c85efe79371a8a4adc0f"
-    },
-    {
-      "stock": "MU",
-      "headline": "Rise of the Machines: AI Agents Now Burn 5x More Tokens Than Humans — and the Gap Is Widening Fast",
-      "url": "https://finnhub.io/api/news?id=d203be2c57576dcb8271188cccd65bb4120decbfb6172e06ebacdd0e41b843dc"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor Stock Rises on Broadcom's $60 Billion Chip Deal",
-      "url": "https://finnhub.io/api/news?id=0302b93a7d7762aee18354bf557b76bc2fb7e206de714e218fe1662a51ac000a"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Weak Jobs Lift Tech Stocks to Record Highs, Micron Confirms the AI Rally: This Week on Wall Street",
-      "url": "https://finnhub.io/api/news?id=5741560907bb490beb3f09465a39d81c19f1e29566b5f5cc871410ad603257e1"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Elon Musk Hints at Tesla-SpaceX Merger: “Who Can Imagine What Action One Might Take”",
-      "url": "https://finnhub.io/api/news?id=d5beecf837c542a790a8cab82dd530010a359668c4f76c5adf640e9ac0829ca5"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "AI's 'labor enhancement' will be 'more powerful' than job displacements: Mohamed El-Erian",
-      "url": "https://finnhub.io/api/news?id=c285f5d2803494c097c2205c87efd5e8d9d25e16648046a1e3797d997a8759aa"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Ben Affleck Pushes Back on AI Job-Loss Fears: ‘I Don’t Worry About Skynet’",
-      "url": "https://finnhub.io/api/news?id=9e4cb276c420904b47a3f6f8f75d669a05f43d8bd5e452342f28fca7c9dba165"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Nvidia and Micron Can't Make AI Chips Without This Growth Stock. Here's Why It Could Soar.",
-      "url": "https://finnhub.io/api/news?id=edb22ee9082181453e2be651fbd8a686128e66d52f88b880a40ba46bdb58bb54"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Issues with AI models only going to get worse, says CrowdStrike President Michael Sentonas",
-      "url": "https://finnhub.io/api/news?id=0c27f0ad9e154cf460de2683384a66b6ac5d93c58c5e8e8fa35ff57716a5387d"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://finnhub.io/api/news?id=b750d450728a5af20e921e8522aabab198da92df9bc7210a5607d461d343e5b1"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Elon Musk: America is ‘1,000% going to go bankrupt’ and ‘fail as a country’ — but he says 1 powerful force can save us",
-      "url": "https://finnhub.io/api/news?id=2b892ea2017ef309bd3f6990028921e6f7a7f855897b953a5e30d736bce6967c"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet (GOOGL) Prevails In Two US Antitrust Lawsuits",
-      "url": "https://finnhub.io/api/news?id=a67b61ce3b52370842677277426eb40658fad73d45752068de23fd418bbe9301"
-    },
-    {
-      "stock": "MU",
-      "headline": "A chipmaker's boom is quietly raising the price of your electronics",
-      "url": "https://finnhub.io/api/news?id=dba81bdc33ae8d118e48a6d336e483fc2365484cdaef200afc94ead27e66feb4"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Robinhood’s new AI bots will trade stocks while you sleep",
-      "url": "https://finnhub.io/api/news?id=d8b832cf94d5c37e886b2ea0627548b71c712b7e9d3cc5855dac05281f3aefed"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Elon Musk Said SpaceX AI Revenue Would Pass Everything Else by September. Did It?",
-      "url": "https://finnhub.io/api/news?id=75ea3bb4aa52d61d5f7821b55d352480d81645c483f7adfed7dfd3225b18303c"
+      "headline": "Google’s Free AI Video Push Is a Boost for Storage. Have WDC and STX Already Priced It In?",
+      "url": "https://finnhub.io/api/news?id=e5859683a129a04fb5ffa292a8874c4a6e9a70c92781201b70579cf80f59e9df"
     }
   ]
 }
