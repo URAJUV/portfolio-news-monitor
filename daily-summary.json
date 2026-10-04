@@ -100,6 +100,36 @@
       "stock": "TEAM",
       "headline": "VFLO And CGDV: The Perfect Pairing For AI Growth",
       "url": "https://finnhub.io/api/news?id=1f51c558984ec226824455a50b00a46c9e2ddcacb6b7235dfdfca49a3f6fdf0e"
+    },
+    {
+      "stock": "TSM",
+      "headline": "The AI Chip Revolution Wouldn’t Be Possible Without This Company",
+      "url": "https://finnhub.io/api/news?id=da0c7c4705af1afd3f03826692099127518e1997d663353676f8a07cc825abd5"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Pay Me While I Wait: 3 Turnaround Stocks That Keep Paying Investors Through the Rebuild",
+      "url": "https://finnhub.io/api/news?id=69e46293fa3cb0d1ab3cc9be8a9da6788e5458a715d05f7bb99c69cedb416105"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "“Without AI and Robots, We’re Totally Screwed,” Elon Musk Warns on National Debt Crisis",
+      "url": "https://finnhub.io/api/news?id=bf81b9de41b0814937899e29b78e515e4209b3007ea982bd5016d0336b5178fe"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings: Agentic AI Shift Provides A Catalyst For Growth (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=90b6ee9c7b4bf5bdd2f99e9505dc5f7c6d4754fe7577cda56a9415ab7354034b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "AI Is Burning Through More Money Than Any Technology Boom in History — Now Comes the Hard Part",
+      "url": "https://finnhub.io/api/news?id=b23db0738aeb4d842f9c5dd5f12c994c79f5c9048a3cd81959d5c7a009dd51f6"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix’s Own Co-CEO Just Warned of Slowing Growth",
+      "url": "https://finnhub.io/api/news?id=1b6149550bcaf47148e6748ac8c1ff416f0242b9b0ba836667f2a04701580a59"
     }
   ]
 }
