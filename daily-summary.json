@@ -70,6 +70,36 @@
       "stock": "GOOGL",
       "headline": "LinkDaddy Reports 1.52M AI Crawler Requests to AI Verified Registry",
       "url": "https://finnhub.io/api/news?id=f10bd690d927fe333449c920233038783e3b7dc085d6c9df4106dadc673a439c"
+    },
+    {
+      "stock": "TSM",
+      "headline": "ASML vs. Taiwan Semiconductor Manufacturing Company: What Revenue Trends Tell Investors About These Companies Tied to Artificial Intelligence",
+      "url": "https://finnhub.io/api/news?id=aacc6d37ee82de492e2d813fb9db320c0c5343f102affa917d473bc613df5f8e"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Is Cognizant’s AI-Led Delivery Shift Altering The Investment Case For Cognizant Technology Solutions (CTSH)?",
+      "url": "https://finnhub.io/api/news?id=8c0014fc1f12f4fbfd59084ba22679de609fd1c41340ee442d1a1aa6689646e4"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Riders Are Paying 53% More While Waiting 19% Longer, Study Finds",
+      "url": "https://finnhub.io/api/news?id=5bc6607eb570bb030511856be48af6c31e9a52f32269d80600cc407877ffc3a6"
+    },
+    {
+      "stock": "IBM",
+      "headline": "VFLO And CGDV: The Perfect Pairing For AI Growth",
+      "url": "https://finnhub.io/api/news?id=1f51c558984ec226824455a50b00a46c9e2ddcacb6b7235dfdfca49a3f6fdf0e"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "VFLO And CGDV: The Perfect Pairing For AI Growth",
+      "url": "https://finnhub.io/api/news?id=1f51c558984ec226824455a50b00a46c9e2ddcacb6b7235dfdfca49a3f6fdf0e"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "VFLO And CGDV: The Perfect Pairing For AI Growth",
+      "url": "https://finnhub.io/api/news?id=1f51c558984ec226824455a50b00a46c9e2ddcacb6b7235dfdfca49a3f6fdf0e"
     }
   ]
 }
