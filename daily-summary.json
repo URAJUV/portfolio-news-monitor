@@ -35,6 +35,41 @@
       "stock": "COHR",
       "headline": "Coherent (COHR) On PhotonLink Buzz And The Case For An Undervalued AI Optics Story",
       "url": "https://finnhub.io/api/news?id=effc00af15cce50b921c99c0d001cad30e014e4584e7375ddd8df3a2d58710a7"
+    },
+    {
+      "stock": "MU",
+      "headline": "Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%?",
+      "url": "https://finnhub.io/api/news?id=517a6de144e42197cb638e66b5612f5f4dfc71ffe148341795816c85035ce170"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC Q3 Earnings Preview: I'm Loading Up Before The Print, And You Should Too",
+      "url": "https://finnhub.io/api/news?id=f38f8bf0d20627a6a46773db0e44558889d7fb981d7e7236688b4b778f36f15f"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon Wants to Move $8 Billion in Nvidia Chips Off Its Books. Is AI’s Financing Model Starting to Change?",
+      "url": "https://finnhub.io/api/news?id=00a6a27373db4d8893dcdcfae1a5c751a7be4379a50f1e3287e4ed2e5b11bc1d"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla. SpaceX. Starlink. James Altucher Says the Experts Called All Three Dead, and They're Doing It Again",
+      "url": "https://finnhub.io/api/news?id=193f05f0670d56389db75f7397cd7cd2c5a81e6b59aa94e1662e1dbdb0c43630"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings Stock Closed Above Wall Street’s $289 Target. Here’s the Margin Math That Decides What Comes Next",
+      "url": "https://finnhub.io/api/news?id=c5477938f6122f9ca63f0f982d673baa6abb4f221ab9f3fcff8a321f8e2be8d1"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "3 Millionaire-Maker Quantum Computing Stocks Wall Street Isn't Talking About",
+      "url": "https://finnhub.io/api/news?id=297035badcfc7ed745c914abbfbc4e20d732151dca163d400e304a35daf28126"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "LinkDaddy Reports 1.52M AI Crawler Requests to AI Verified Registry",
+      "url": "https://finnhub.io/api/news?id=f10bd690d927fe333449c920233038783e3b7dc085d6c9df4106dadc673a439c"
     }
   ]
 }
