@@ -1,135 +1,30 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "items": [
     {
       "stock": "MU",
-      "headline": "3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030",
-      "url": "https://finnhub.io/api/news?id=a96fff1028aa94c826e82819cfb09b017eb17ce93b993c5187deedff2b1833f3"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Ford (F) Lost $7.4 Billion and Still Pays a 4.9% Dividend. How Long Can That Hold?",
-      "url": "https://finnhub.io/api/news?id=760c246a1a981bf897b518d0d7523486c65b877cec9a89b4a254201f74382fd3"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "3 Millionaire-Maker Quantum Computing Stocks Wall Street Isn't Talking About",
-      "url": "https://finnhub.io/api/news?id=297035badcfc7ed745c914abbfbc4e20d732151dca163d400e304a35daf28126"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Google’s Free AI Video Push Is a Boost for Storage. Have WDC and STX Already Priced It In?",
-      "url": "https://finnhub.io/api/news?id=e5859683a129a04fb5ffa292a8874c4a6e9a70c92781201b70579cf80f59e9df"
-    },
-    {
-      "stock": "TSM",
-      "headline": "3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030",
-      "url": "https://finnhub.io/api/news?id=a96fff1028aa94c826e82819cfb09b017eb17ce93b993c5187deedff2b1833f3"
+      "headline": "MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+      "url": "https://finnhub.io/api/news?id=941d7de09ad8782ad8a787b14da4d142eb94b32a9765eae533675260f14b4bf7"
     },
     {
       "stock": "AMZN",
-      "headline": "Constellation Energy (CEG) Could Be 26% Below Fair Value As Amazon Deal Lands",
-      "url": "https://finnhub.io/api/news?id=a62e8383202564c491e976da88bfead5b81147e1c2af5c78b9f9ff678746dbca"
+      "headline": "MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+      "url": "https://finnhub.io/api/news?id=941d7de09ad8782ad8a787b14da4d142eb94b32a9765eae533675260f14b4bf7"
     },
     {
-      "stock": "COHR",
-      "headline": "Coherent (COHR) On PhotonLink Buzz And The Case For An Undervalued AI Optics Story",
-      "url": "https://finnhub.io/api/news?id=effc00af15cce50b921c99c0d001cad30e014e4584e7375ddd8df3a2d58710a7"
-    },
-    {
-      "stock": "MU",
-      "headline": "Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%?",
-      "url": "https://finnhub.io/api/news?id=517a6de144e42197cb638e66b5612f5f4dfc71ffe148341795816c85035ce170"
-    },
-    {
-      "stock": "TSM",
-      "headline": "TSMC Q3 Earnings Preview: I'm Loading Up Before The Print, And You Should Too",
-      "url": "https://finnhub.io/api/news?id=f38f8bf0d20627a6a46773db0e44558889d7fb981d7e7236688b4b778f36f15f"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon Wants to Move $8 Billion in Nvidia Chips Off Its Books. Is AI’s Financing Model Starting to Change?",
-      "url": "https://finnhub.io/api/news?id=00a6a27373db4d8893dcdcfae1a5c751a7be4379a50f1e3287e4ed2e5b11bc1d"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla. SpaceX. Starlink. James Altucher Says the Experts Called All Three Dead, and They're Doing It Again",
-      "url": "https://finnhub.io/api/news?id=193f05f0670d56389db75f7397cd7cd2c5a81e6b59aa94e1662e1dbdb0c43630"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings Stock Closed Above Wall Street’s $289 Target. Here’s the Margin Math That Decides What Comes Next",
-      "url": "https://finnhub.io/api/news?id=c5477938f6122f9ca63f0f982d673baa6abb4f221ab9f3fcff8a321f8e2be8d1"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "3 Millionaire-Maker Quantum Computing Stocks Wall Street Isn't Talking About",
-      "url": "https://finnhub.io/api/news?id=297035badcfc7ed745c914abbfbc4e20d732151dca163d400e304a35daf28126"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "LinkDaddy Reports 1.52M AI Crawler Requests to AI Verified Registry",
-      "url": "https://finnhub.io/api/news?id=f10bd690d927fe333449c920233038783e3b7dc085d6c9df4106dadc673a439c"
-    },
-    {
-      "stock": "TSM",
-      "headline": "ASML vs. Taiwan Semiconductor Manufacturing Company: What Revenue Trends Tell Investors About These Companies Tied to Artificial Intelligence",
-      "url": "https://finnhub.io/api/news?id=aacc6d37ee82de492e2d813fb9db320c0c5343f102affa917d473bc613df5f8e"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Is Cognizant’s AI-Led Delivery Shift Altering The Investment Case For Cognizant Technology Solutions (CTSH)?",
-      "url": "https://finnhub.io/api/news?id=8c0014fc1f12f4fbfd59084ba22679de609fd1c41340ee442d1a1aa6689646e4"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Riders Are Paying 53% More While Waiting 19% Longer, Study Finds",
-      "url": "https://finnhub.io/api/news?id=5bc6607eb570bb030511856be48af6c31e9a52f32269d80600cc407877ffc3a6"
+      "stock": "HON",
+      "headline": "ExxonMobil, Visa Among 16 Dividend Growth Companies To Announce Annual Dividend Increases In October",
+      "url": "https://finnhub.io/api/news?id=bb63323a7ff767b443ec70481139d1628ba1c405dbff07dda9e5ee287fdde519"
     },
     {
       "stock": "IBM",
-      "headline": "VFLO And CGDV: The Perfect Pairing For AI Growth",
-      "url": "https://finnhub.io/api/news?id=1f51c558984ec226824455a50b00a46c9e2ddcacb6b7235dfdfca49a3f6fdf0e"
+      "headline": "Egan-Jones Maps Where AI Disruption Hits First: Services, Venture Capital, Housing",
+      "url": "https://finnhub.io/api/news?id=408cb32c959e7dd01ad7f2e90d75d6ebb65a45cc46560be5de08eb008067d6bb"
     },
     {
       "stock": "GOOGL",
-      "headline": "VFLO And CGDV: The Perfect Pairing For AI Growth",
-      "url": "https://finnhub.io/api/news?id=1f51c558984ec226824455a50b00a46c9e2ddcacb6b7235dfdfca49a3f6fdf0e"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "VFLO And CGDV: The Perfect Pairing For AI Growth",
-      "url": "https://finnhub.io/api/news?id=1f51c558984ec226824455a50b00a46c9e2ddcacb6b7235dfdfca49a3f6fdf0e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "The AI Chip Revolution Wouldn’t Be Possible Without This Company",
-      "url": "https://finnhub.io/api/news?id=da0c7c4705af1afd3f03826692099127518e1997d663353676f8a07cc825abd5"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Pay Me While I Wait: 3 Turnaround Stocks That Keep Paying Investors Through the Rebuild",
-      "url": "https://finnhub.io/api/news?id=69e46293fa3cb0d1ab3cc9be8a9da6788e5458a715d05f7bb99c69cedb416105"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "“Without AI and Robots, We’re Totally Screwed,” Elon Musk Warns on National Debt Crisis",
-      "url": "https://finnhub.io/api/news?id=bf81b9de41b0814937899e29b78e515e4209b3007ea982bd5016d0336b5178fe"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings: Agentic AI Shift Provides A Catalyst For Growth (Rating Upgrade)",
-      "url": "https://finnhub.io/api/news?id=90b6ee9c7b4bf5bdd2f99e9505dc5f7c6d4754fe7577cda56a9415ab7354034b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "AI Is Burning Through More Money Than Any Technology Boom in History — Now Comes the Hard Part",
-      "url": "https://finnhub.io/api/news?id=b23db0738aeb4d842f9c5dd5f12c994c79f5c9048a3cd81959d5c7a009dd51f6"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix’s Own Co-CEO Just Warned of Slowing Growth",
-      "url": "https://finnhub.io/api/news?id=1b6149550bcaf47148e6748ac8c1ff416f0242b9b0ba836667f2a04701580a59"
+      "headline": "3 Great AI Stocks To Watch In October 2026",
+      "url": "https://finnhub.io/api/news?id=1ec764b4f837114e7af1e0a6726a7e182c7dd23cd856d22f2a6cfd70c5d334eb"
     }
   ]
 }
