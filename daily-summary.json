@@ -45,6 +45,46 @@
       "stock": "RDDT",
       "headline": "1 Surging  Stock to Target This Week and 2 We Ignore",
       "url": "https://finnhub.io/api/news?id=4f06d4671cefa3dd24739e84dde3d95ae11e98973f33af37f6a6a3c5ed943099"
+    },
+    {
+      "stock": "MU",
+      "headline": "Morgan Stanley revisits Micron stock price target amid stellar growth",
+      "url": "https://finnhub.io/api/news?id=fa7d2730d67539e7b30f2d3903c1dac63e09ea7322149c5ac88ad25891a4d413"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Intel’s Terafab Opportunity Gets Crowded: Musk Confirms Talks With Taiwan Semiconductor",
+      "url": "https://finnhub.io/api/news?id=12820259cbbd0ad7cb78509c77220e1273546b442108d2adde800791fd6ee6f0"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Why Cybersecurity Is the Most Overlooked AI Beneficiary",
+      "url": "https://finnhub.io/api/news?id=78d80d1cadf1cd3f421469ae470a07c6856da5b41e73e395a58787510ea7a80e"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Prediction: This Under-the-Radar AI Stock Will Soar Over the Next Decade",
+      "url": "https://finnhub.io/api/news?id=14ba0305bad5959d1e8bcbec97f6440fcb048d7b16a941f850dd43a2b9e4545d"
+    },
+    {
+      "stock": "HON",
+      "headline": "Monday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=0e88a10f0ad90454a5ff9c1b9d8c6be70f11a0beeaf98797fe4fc38372abaa20"
+    },
+    {
+      "stock": "UBER",
+      "headline": "For Sensible Investors, The Worst Performing Mag 7 Should Be a No-Brainer",
+      "url": "https://finnhub.io/api/news?id=bb28a266f4297b491c2f9acdedc41da8362f158aa5442837d80b83d6967f9cf4"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Monday's session: top gainers and losers in the dow jones index",
+      "url": "https://finnhub.io/api/news?id=0e88a10f0ad90454a5ff9c1b9d8c6be70f11a0beeaf98797fe4fc38372abaa20"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "The Simple Reason Meta and Google Will Win AI: Only “2% of US Households” Pay for It.",
+      "url": "https://finnhub.io/api/news?id=898527f37f586052a6c22e453923ba0d2fc57d7669983be07029fbdc106f6390"
     }
   ]
 }
