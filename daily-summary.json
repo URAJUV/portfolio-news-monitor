@@ -1,90 +1,40 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "items": [
     {
       "stock": "MU",
-      "headline": "MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
-      "url": "https://finnhub.io/api/news?id=941d7de09ad8782ad8a787b14da4d142eb94b32a9765eae533675260f14b4bf7"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
-      "url": "https://finnhub.io/api/news?id=941d7de09ad8782ad8a787b14da4d142eb94b32a9765eae533675260f14b4bf7"
-    },
-    {
-      "stock": "HON",
-      "headline": "ExxonMobil, Visa Among 16 Dividend Growth Companies To Announce Annual Dividend Increases In October",
-      "url": "https://finnhub.io/api/news?id=bb63323a7ff767b443ec70481139d1628ba1c405dbff07dda9e5ee287fdde519"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Egan-Jones Maps Where AI Disruption Hits First: Services, Venture Capital, Housing",
-      "url": "https://finnhub.io/api/news?id=408cb32c959e7dd01ad7f2e90d75d6ebb65a45cc46560be5de08eb008067d6bb"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "3 Great AI Stocks To Watch In October 2026",
-      "url": "https://finnhub.io/api/news?id=1ec764b4f837114e7af1e0a6726a7e182c7dd23cd856d22f2a6cfd70c5d334eb"
-    },
-    {
-      "stock": "MU",
-      "headline": "Broadcom and Applied Materials Earnings Put Broadening Chip Rally to the Test",
-      "url": "https://finnhub.io/api/news?id=8c28650ae40efa8d839ce467b5e542a559aab043c0026fb2e1c405c1183e4c94"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "1 Surging  Stock to Target This Week and 2 We Ignore",
-      "url": "https://finnhub.io/api/news?id=4f06d4671cefa3dd24739e84dde3d95ae11e98973f33af37f6a6a3c5ed943099"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Monday's pre-market session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=045c9ce024f64ce350526781127cc36175f4f8fab1f266783558048b8a4730ae"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "1 Surging  Stock to Target This Week and 2 We Ignore",
-      "url": "https://finnhub.io/api/news?id=4f06d4671cefa3dd24739e84dde3d95ae11e98973f33af37f6a6a3c5ed943099"
-    },
-    {
-      "stock": "MU",
-      "headline": "Morgan Stanley revisits Micron stock price target amid stellar growth",
-      "url": "https://finnhub.io/api/news?id=fa7d2730d67539e7b30f2d3903c1dac63e09ea7322149c5ac88ad25891a4d413"
+      "headline": "Is the AI Memory Supercycle Sustainable for Micron Technology (MU) Beyond 2026?",
+      "url": "https://finnhub.io/api/news?id=ebb2f020782baee6c3cc82f953d8c4c488c5e4819dec97263316c583b6658184"
     },
     {
       "stock": "TSM",
-      "headline": "Intel’s Terafab Opportunity Gets Crowded: Musk Confirms Talks With Taiwan Semiconductor",
-      "url": "https://finnhub.io/api/news?id=12820259cbbd0ad7cb78509c77220e1273546b442108d2adde800791fd6ee6f0"
+      "headline": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://finnhub.io/api/news?id=c457f426c0c1dd3ca206841b88bbc4fcdb3237318871a4da216a6e0f18e13700"
     },
     {
-      "stock": "CRWD",
-      "headline": "Why Cybersecurity Is the Most Overlooked AI Beneficiary",
-      "url": "https://finnhub.io/api/news?id=78d80d1cadf1cd3f421469ae470a07c6856da5b41e73e395a58787510ea7a80e"
+      "stock": "AMZN",
+      "headline": "NYSE’s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange — And the SEC Already Gave It Permission",
+      "url": "https://finnhub.io/api/news?id=747b93a1b9acffd07c7522220fe485f0df8eb6b27635895298dcfe6662071794"
     },
     {
-      "stock": "SNPS",
-      "headline": "Prediction: This Under-the-Radar AI Stock Will Soar Over the Next Decade",
-      "url": "https://finnhub.io/api/news?id=14ba0305bad5959d1e8bcbec97f6440fcb048d7b16a941f850dd43a2b9e4545d"
+      "stock": "TSLA",
+      "headline": "NYSE’s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange — And the SEC Already Gave It Permission",
+      "url": "https://finnhub.io/api/news?id=747b93a1b9acffd07c7522220fe485f0df8eb6b27635895298dcfe6662071794"
     },
     {
-      "stock": "HON",
-      "headline": "Monday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=0e88a10f0ad90454a5ff9c1b9d8c6be70f11a0beeaf98797fe4fc38372abaa20"
-    },
-    {
-      "stock": "UBER",
-      "headline": "For Sensible Investors, The Worst Performing Mag 7 Should Be a No-Brainer",
-      "url": "https://finnhub.io/api/news?id=bb28a266f4297b491c2f9acdedc41da8362f158aa5442837d80b83d6967f9cf4"
+      "stock": "ADSK",
+      "headline": "Adobe (ADBE) vs. Autodesk (ADSK): Which AI-Hit Software Stock Has the Better Comeback?",
+      "url": "https://finnhub.io/api/news?id=5eb9b8e0820cc5483b4c729865d046aa6e5f1c4439ba1aee02cdeb7fee2a376f"
     },
     {
       "stock": "IBM",
-      "headline": "Monday's session: top gainers and losers in the dow jones index",
-      "url": "https://finnhub.io/api/news?id=0e88a10f0ad90454a5ff9c1b9d8c6be70f11a0beeaf98797fe4fc38372abaa20"
+      "headline": "ZS Stock Alert: What to Know as Zscaler Unveils Partnership With IBM",
+      "url": "https://finnhub.io/api/news?id=17245d54f28f6e76c9fcff58333fa9d639215426d32a44f9c13babe8e515ac53"
     },
     {
-      "stock": "GOOGL",
-      "headline": "The Simple Reason Meta and Google Will Win AI: Only “2% of US Households” Pay for It.",
-      "url": "https://finnhub.io/api/news?id=898527f37f586052a6c22e453923ba0d2fc57d7669983be07029fbdc106f6390"
+      "stock": "QBTS",
+      "headline": "D-Wave Partners with University of Arkansas to Establish Quantum Supply Chain Initiative at the Sam M. Walton College of Business",
+      "url": "https://finnhub.io/api/news?id=d9b6560ab6973f21d30e467979511ad428908f6c9a0b3b3b0e8f15ecead3a241"
     }
   ]
 }
