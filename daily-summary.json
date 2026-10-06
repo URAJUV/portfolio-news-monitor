@@ -60,6 +60,41 @@
       "stock": "U",
       "headline": "Has Buying AppLovin Stock's Dips Paid Off?",
       "url": "https://finnhub.io/api/news?id=87c0b68290bd7845e92dbc2e73ebc27a31e672fe5c3777373b41775ffac13c06"
+    },
+    {
+      "stock": "MU",
+      "headline": "SK Hynix Falls 4% on Earnings Caution Before a Rebalancing Goldman Says Favors It; SanDisk Slips 2%, Micron Holds Firm",
+      "url": "https://finnhub.io/api/news?id=547005e71eff3008bc34ae5604e43da34dbc21f23cd0c5d0ae70215641ff6138"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Barclays Maintains Overweight on Taiwan Semiconductor, Raises Price Target to $665",
+      "url": "https://finnhub.io/api/news?id=4dba9ae9d0ba92dc958283b4f047e9ea986e1407c5e8e05fae767bda9b0c3fcf"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Faces Qualcomm Court Fight as AI Ambitions Put Customers in the Crosshairs",
+      "url": "https://finnhub.io/api/news?id=da6745a4ebabd9dae9185a6d53d1cfab0bb6fba270de8180239296b44609312f"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Sony Pictures Entertainment Selects PubMatic As Its Preferred Programmatic Advertising Partner For \"Live TV On PS5\"",
+      "url": "https://finnhub.io/api/news?id=a667ee53a88b1a7447875ae3c78923d7470a8f76c92a1dd24c74aa1fd3784411"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Sector Update: Consumer Stocks Advance in Afternoon Trading",
+      "url": "https://finnhub.io/api/news?id=5f0ce1df74c9aac39856d790448892a1d3c8b58bb1a3a289255beba4d39c33ec"
+    },
+    {
+      "stock": "U",
+      "headline": "Unity Software Reports Q2 2026 Results: Full Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=40ff1fc131530a8c73094453367556ec7c2721e64f55aeca1c83f0c38922eb20"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "37-Year-Old Has $2.2M But Is Burning Out At Work — ‘I’m Afraid To Leave Right Now’",
+      "url": "https://finnhub.io/api/news?id=66259924f3845862bf087b92bb746d4827fe3ec203248eb547c2c6d55cf6fd81"
     }
   ]
 }
