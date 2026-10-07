@@ -1,100 +1,55 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Is the AI Memory Supercycle Sustainable for Micron Technology (MU) Beyond 2026?",
-      "url": "https://finnhub.io/api/news?id=ebb2f020782baee6c3cc82f953d8c4c488c5e4819dec97263316c583b6658184"
-    },
-    {
       "stock": "TSM",
-      "headline": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
-      "url": "https://finnhub.io/api/news?id=c457f426c0c1dd3ca206841b88bbc4fcdb3237318871a4da216a6e0f18e13700"
+      "headline": "AMD’s AI Boom Gets Bigger: Lisa Su Sees ‘Very, Very High’ Demand for Next Several Years",
+      "url": "https://finnhub.io/api/news?id=b62905f86ab8a34e6a64d36c57dd8695192992d910aa8bfdd073457c25bb6450"
     },
     {
-      "stock": "AMZN",
-      "headline": "NYSE’s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange — And the SEC Already Gave It Permission",
-      "url": "https://finnhub.io/api/news?id=747b93a1b9acffd07c7522220fe485f0df8eb6b27635895298dcfe6662071794"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "NYSE’s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange — And the SEC Already Gave It Permission",
-      "url": "https://finnhub.io/api/news?id=747b93a1b9acffd07c7522220fe485f0df8eb6b27635895298dcfe6662071794"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Adobe (ADBE) vs. Autodesk (ADSK): Which AI-Hit Software Stock Has the Better Comeback?",
-      "url": "https://finnhub.io/api/news?id=5eb9b8e0820cc5483b4c729865d046aa6e5f1c4439ba1aee02cdeb7fee2a376f"
-    },
-    {
-      "stock": "IBM",
-      "headline": "ZS Stock Alert: What to Know as Zscaler Unveils Partnership With IBM",
-      "url": "https://finnhub.io/api/news?id=17245d54f28f6e76c9fcff58333fa9d639215426d32a44f9c13babe8e515ac53"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "D-Wave Partners with University of Arkansas to Establish Quantum Supply Chain Initiative at the Sam M. Walton College of Business",
-      "url": "https://finnhub.io/api/news?id=d9b6560ab6973f21d30e467979511ad428908f6c9a0b3b3b0e8f15ecead3a241"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Cybersecurity stocks hit new highs as AI agents spark 'biggest risk today': Chart of the Day",
-      "url": "https://finnhub.io/api/news?id=b279aebfb2e4320ca91b3938dd41a3730c1d9450345cea12ae43f21e42731fa3"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Energy Transition Today - Green Rain Energy Expands EV Charging at Key US Locations",
-      "url": "https://finnhub.io/api/news?id=2e0892b70d4c486ad860fd2c1a31f6ab9ed8a83e3459cb574982a1bd72c58ae5"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell International's Quarterly Earnings Preview: What You Need to Know",
-      "url": "https://finnhub.io/api/news?id=2b4a19246a7885dc2d49acf3089b78ed1da1d0fe3d7d6b945d3c34cf56b3fa36"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Cybersecurity stocks hit new highs as AI agents spark 'biggest risk today': Chart of the Day",
-      "url": "https://finnhub.io/api/news?id=b279aebfb2e4320ca91b3938dd41a3730c1d9450345cea12ae43f21e42731fa3"
-    },
-    {
-      "stock": "U",
-      "headline": "Has Buying AppLovin Stock's Dips Paid Off?",
-      "url": "https://finnhub.io/api/news?id=87c0b68290bd7845e92dbc2e73ebc27a31e672fe5c3777373b41775ffac13c06"
-    },
-    {
-      "stock": "MU",
-      "headline": "SK Hynix Falls 4% on Earnings Caution Before a Rebalancing Goldman Says Favors It; SanDisk Slips 2%, Micron Holds Firm",
-      "url": "https://finnhub.io/api/news?id=547005e71eff3008bc34ae5604e43da34dbc21f23cd0c5d0ae70215641ff6138"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Barclays Maintains Overweight on Taiwan Semiconductor, Raises Price Target to $665",
-      "url": "https://finnhub.io/api/news?id=4dba9ae9d0ba92dc958283b4f047e9ea986e1407c5e8e05fae767bda9b0c3fcf"
+      "stock": "SNPS",
+      "headline": "3 Overlooked Growth Stocks Powering Every AI Chip Nvidia and AMD Build",
+      "url": "https://finnhub.io/api/news?id=a92035033a69cef9fcdc1ab00704e5c4225413d100a0ca1e45f1eee626ba166d"
     },
     {
       "stock": "ARM",
-      "headline": "Arm Faces Qualcomm Court Fight as AI Ambitions Put Customers in the Crosshairs",
-      "url": "https://finnhub.io/api/news?id=da6745a4ebabd9dae9185a6d53d1cfab0bb6fba270de8180239296b44609312f"
+      "headline": "AI Trade Broadens, Again: Capital Stack Recycling (Video)",
+      "url": "https://finnhub.io/api/news?id=857cbd7a91c5a2216df9039f8d1a5c4093bf5d7d56d5978b23f25905922d3982"
     },
     {
-      "stock": "SONY",
-      "headline": "Sony Pictures Entertainment Selects PubMatic As Its Preferred Programmatic Advertising Partner For \"Live TV On PS5\"",
-      "url": "https://finnhub.io/api/news?id=a667ee53a88b1a7447875ae3c78923d7470a8f76c92a1dd24c74aa1fd3784411"
+      "stock": "HON",
+      "headline": "ISN® and Honeywell Celebrate Seven-Year Partnership Advancing Contractor Compliance and Safety Across Mexico",
+      "url": "https://finnhub.io/api/news?id=8cb0525f2fb1ac84b4084e27823ad8db92aa82b16cd33a310077b5beec0b0dbe"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme Announces Expansion of Global Collaboration and License Agreement with argenx to Support the Development of Subcutaneous Formulations for Two Additional Exclusive Targets Using its ENHANZE® Technology",
+      "url": "https://finnhub.io/api/news?id=c6b47d4fb2f70a2088a0ba3ca45d13ce2ebb02b893e3fc82b579c177f8e0f5c4"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Bank of America Put a $60 Price Target on IonQ. The Quantum Bet Is Picking Up Speed.",
+      "url": "https://finnhub.io/api/news?id=4509d0b7374e7ce43372623ae4b7384e3076272d8e875e04a428d639f72bb5e3"
     },
     {
       "stock": "UBER",
-      "headline": "Sector Update: Consumer Stocks Advance in Afternoon Trading",
-      "url": "https://finnhub.io/api/news?id=5f0ce1df74c9aac39856d790448892a1d3c8b58bb1a3a289255beba4d39c33ec"
+      "headline": "Sector Update: Consumer Stocks Higher Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=af0026f590c2c6b88d5e99d7e39902f2a18de1c6a5f7d03103c11dbc9cad0d16"
     },
     {
-      "stock": "U",
-      "headline": "Unity Software Reports Q2 2026 Results: Full Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=40ff1fc131530a8c73094453367556ec7c2721e64f55aeca1c83f0c38922eb20"
+      "stock": "IBM",
+      "headline": "Jim Cramer Sticks to His Wait-a-Quarter Rule on IBM",
+      "url": "https://finnhub.io/api/news?id=846a47ee106600e8e35f8b29967ca87925146c879c878a61d8a87d95fa5af454"
     },
     {
-      "stock": "RDDT",
-      "headline": "37-Year-Old Has $2.2M But Is Burning Out At Work — ‘I’m Afraid To Leave Right Now’",
-      "url": "https://finnhub.io/api/news?id=66259924f3845862bf087b92bb746d4827fe3ec203248eb547c2c6d55cf6fd81"
+      "stock": "GOOGL",
+      "headline": "Rezolve AI Targets $500M ARR as Agentic Commerce Platform Scales",
+      "url": "https://finnhub.io/api/news?id=bca95e7fc021f2648d6df688f0128668fb96e6ecbd2ad5526f3ede636e396379"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Is Netflix’s (NFLX) Free Cash Flow Keeping Pace With Its Reported Earnings?",
+      "url": "https://finnhub.io/api/news?id=31d11d581902ca58f6c075f88e4f4be79451af939077efb0032771a70032d006"
     }
   ]
 }
