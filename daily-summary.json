@@ -1,130 +1,25 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "items": [
     {
       "stock": "TSM",
-      "headline": "AMD’s AI Boom Gets Bigger: Lisa Su Sees ‘Very, Very High’ Demand for Next Several Years",
-      "url": "https://finnhub.io/api/news?id=b62905f86ab8a34e6a64d36c57dd8695192992d910aa8bfdd073457c25bb6450"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "3 Overlooked Growth Stocks Powering Every AI Chip Nvidia and AMD Build",
-      "url": "https://finnhub.io/api/news?id=a92035033a69cef9fcdc1ab00704e5c4225413d100a0ca1e45f1eee626ba166d"
+      "headline": "Dow Jones Futures: Stocks Pare Losses As Yields Back Off; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
+      "url": "https://finnhub.io/api/news?id=6980cc535c30123e751f7d600799ef0c4e6331fcd62f12d88ae5168a3b2648b1"
     },
     {
       "stock": "ARM",
-      "headline": "AI Trade Broadens, Again: Capital Stack Recycling (Video)",
-      "url": "https://finnhub.io/api/news?id=857cbd7a91c5a2216df9039f8d1a5c4093bf5d7d56d5978b23f25905922d3982"
+      "headline": "Qualcomm’s Huawei Deal Adds Strategic Depth to Its AI Expansion",
+      "url": "https://finnhub.io/api/news?id=ab96e2717aa0a7c13dc46d5a68225778a3fdc125df87ebdbc5c3334c20d87bc4"
     },
     {
-      "stock": "HON",
-      "headline": "ISN® and Honeywell Celebrate Seven-Year Partnership Advancing Contractor Compliance and Safety Across Mexico",
-      "url": "https://finnhub.io/api/news?id=8cb0525f2fb1ac84b4084e27823ad8db92aa82b16cd33a310077b5beec0b0dbe"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Halozyme Announces Expansion of Global Collaboration and License Agreement with argenx to Support the Development of Subcutaneous Formulations for Two Additional Exclusive Targets Using its ENHANZE® Technology",
-      "url": "https://finnhub.io/api/news?id=c6b47d4fb2f70a2088a0ba3ca45d13ce2ebb02b893e3fc82b579c177f8e0f5c4"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Bank of America Put a $60 Price Target on IonQ. The Quantum Bet Is Picking Up Speed.",
-      "url": "https://finnhub.io/api/news?id=4509d0b7374e7ce43372623ae4b7384e3076272d8e875e04a428d639f72bb5e3"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Sector Update: Consumer Stocks Higher Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=af0026f590c2c6b88d5e99d7e39902f2a18de1c6a5f7d03103c11dbc9cad0d16"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Jim Cramer Sticks to His Wait-a-Quarter Rule on IBM",
-      "url": "https://finnhub.io/api/news?id=846a47ee106600e8e35f8b29967ca87925146c879c878a61d8a87d95fa5af454"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Rezolve AI Targets $500M ARR as Agentic Commerce Platform Scales",
-      "url": "https://finnhub.io/api/news?id=bca95e7fc021f2648d6df688f0128668fb96e6ecbd2ad5526f3ede636e396379"
+      "stock": "DE",
+      "headline": "Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today’s Market",
+      "url": "https://finnhub.io/api/news?id=8476d3dd089d7b34e7c32f5c130c88033e4cb48365d9ca996293089746452b48"
     },
     {
       "stock": "NFLX",
-      "headline": "Is Netflix’s (NFLX) Free Cash Flow Keeping Pace With Its Reported Earnings?",
-      "url": "https://finnhub.io/api/news?id=31d11d581902ca58f6c075f88e4f4be79451af939077efb0032771a70032d006"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron workers at Taiwan plant vote in favour of strike",
-      "url": "https://finnhub.io/api/news?id=d1f5647583952cf40a23fc5a2e9ce1ccea8464075fddfd71e3f527ba7b2f3230"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "eDreams ODIGEO and Amazon Alexa Collaborate to Bring AI Travel Search to Alexa+",
-      "url": "https://finnhub.io/api/news?id=3967b9380759f5d534b5b924a222d05480e56faa2dee48159a58572aa849dcf3"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys is Hot Again But a Pattern Has Emerged",
-      "url": "https://finnhub.io/api/news?id=5b09d39805f2ec9a9d2ceb0b1749ba31075bb226ae652d63d675fb5a3b808c29"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Sony Pictures Entertainment Names PubMatic Its Preferred Programmatic Advertising Partner",
-      "url": "https://finnhub.io/api/news?id=a7a25c4cdf79557bcd57e6361310d64cdc89ce39da451ead3ded2da419131e7c"
-    },
-    {
-      "stock": "UBER",
-      "headline": "UBER Stock In Focus: Uber's $2.3B Bet On ezCater Fails To Lift Retail Mood",
-      "url": "https://finnhub.io/api/news?id=f29441a8899df3e4fd7b888e47ea84759a196c7943b5bedf6c56e44bf052d7b2"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian Launches Forward Deployed Engineering Program to Scale Enterprise AI Transformation",
-      "url": "https://finnhub.io/api/news?id=d1f67aa052cc9e66a6826fadeb910e505db0e644c76ac94d1c56b1e5566f8963"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Enterprise AI Adoption and CoCo Agent Expansion Drive Snowflake’s (SNOW) Growth",
-      "url": "https://finnhub.io/api/news?id=bff9213eccd5b06eed3e7a2804bec768ab03e5ba51564317aad6257b4c1c322b"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Wednesday's session: top gainers and losers in the S&P500 index",
-      "url": "https://finnhub.io/api/news?id=683287b687d95e857a785c1de492dffd35b70d6ff8db3972eb817f9a09d627d2"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys (SNPS) After Its OpenAI Deal Looks Undervalued Again",
-      "url": "https://finnhub.io/api/news?id=26c451ff523125ecade0b7bf09cd765ab880628851b6f13459a5abafa4a98228"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Sector Update: Healthcare Stocks Rise in Afternoon Trading",
-      "url": "https://finnhub.io/api/news?id=0488066b399180d0528892e018d49d01525df360795c8bbcfccdd7cdf3f2d269"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Technologies (UBER) Settles Third Bellwether Sexual Assault Lawsuit",
-      "url": "https://finnhub.io/api/news?id=9158bcd87a175c5c6a1efca5b62e753fbd06bba7049b03ee135debc35032d987"
-    },
-    {
-      "stock": "U",
-      "headline": "Wall Street Lunch: Skydance Bet On Technology, AI To Reshape Entertainment Business",
-      "url": "https://finnhub.io/api/news?id=783cfbb03740b8f29ae42e87f6a49ee23382bca372bb58aee0520d1e9d54cc23"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Sector Update: Healthcare Stocks Rise in Afternoon Trading",
-      "url": "https://finnhub.io/api/news?id=0488066b399180d0528892e018d49d01525df360795c8bbcfccdd7cdf3f2d269"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian Introduces AMP: The Agentic Multiplayer Protocol to Power Human-AI Collaboration",
-      "url": "https://finnhub.io/api/news?id=db266333da3bd145142c31b0b884467df3fbf8f7b74322a4efd31411e3ae9aca"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Skydance Sinks 8% a Day After Completing Warner Bros. Discovery Acquisition; Netflix Holds Flat, Walt Disney Slips",
-      "url": "https://finnhub.io/api/news?id=0144f82a2f8920f4da0025e7df514dbaa1078b977404ef04d8e324b0df3f02a4"
+      "headline": "Paramount paid Netflix $2.8 billion to walk away from its $82.7-billion Warner Bros. deal — and Netflix stock jumped 14%",
+      "url": "https://finnhub.io/api/news?id=97b031ab8f74f47f0d3207487a913456aa01db4b6d00993e9286b12bc6b00502"
     }
   ]
 }
