@@ -20,6 +20,51 @@
       "stock": "NFLX",
       "headline": "Paramount paid Netflix $2.8 billion to walk away from its $82.7-billion Warner Bros. deal — and Netflix stock jumped 14%",
       "url": "https://finnhub.io/api/news?id=97b031ab8f74f47f0d3207487a913456aa01db4b6d00993e9286b12bc6b00502"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Dow Jones Futures: Yields Move Higher; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
+      "url": "https://finnhub.io/api/news?id=8269469ca71b3c9d3defbf538b21157e94a163e323b27ef79c6c12941e3c94b2"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Best Buy Gives Investors a Reason to Take a Second Look",
+      "url": "https://finnhub.io/api/news?id=e414c2c0bde84e5224c8fdc9cc4b78a93992fcac825d47e787715c37aeb6eadb"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AAOI Stock Gains 17% in a Month: Should You Buy, Sell or Hold?",
+      "url": "https://finnhub.io/api/news?id=2e5f89b0c446c366025b1e870ca6a8262c9e06692cf87b3e7f62cb9b1fd0b11c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "TSLA Stock Heads For Weekly Win: Dan Ives Sees Over 30% Upside From AI, UBS Calls Setup ‘Tactically Favorable’",
+      "url": "https://finnhub.io/api/news?id=08870ec809331f02e14de7087e4b9a110933f968747bc06ad4fd1d67d94306fd"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme Therapeutics (HALO) Expands Argenx Deal, Is It Still 27% Below Fair Value?",
+      "url": "https://finnhub.io/api/news?id=040bc921f0873aed756d0699390f406b17239c55d2749f24093c4bc74c32e4a6"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM’s Valuation is Getting Interesting as AI and Consulting Rebound",
+      "url": "https://finnhub.io/api/news?id=7ea020d3315db788dd6e9833f30881680fc26b792dd69c69f96024d62d0311ea"
+    },
+    {
+      "stock": "U",
+      "headline": "Unity CEO Wants Google AI Gaming Platform To Reach Consoles, Says Goal Isn't ‘AI Slop’",
+      "url": "https://finnhub.io/api/news?id=f2a44328b40eb8d45498a12d3f7ea8dc772873f2052579f72c2d58480b94604e"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Arden University and Google Cloud Form Strategic Partnership to Ensure Development of Job-Ready, AI-Native Graduates",
+      "url": "https://finnhub.io/api/news?id=777aebb8c114962feb7da4c82fe503e8faa9ecd4c46944ccef2e3a36e2925af5"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian And OpenAI Expand Partnership To Turn Enterprise Knowledge Into Action",
+      "url": "https://finnhub.io/api/news?id=678f46a2e8296d5f0b7257a29d041d494bcd1e0b6c3fe968ac8c57af940278cd"
     }
   ]
 }
