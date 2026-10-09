@@ -1,110 +1,55 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "Dow Jones Futures: Stocks Pare Losses As Yields Back Off; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
-      "url": "https://finnhub.io/api/news?id=6980cc535c30123e751f7d600799ef0c4e6331fcd62f12d88ae5168a3b2648b1"
+      "stock": "TSLA",
+      "headline": "Jim Cramer On SpaceX (SPCX): Buy Tesla (TSLA) If You Like It As An Earnings Explosion Might Be Coming",
+      "url": "https://finnhub.io/api/news?id=b101099a6909bdc269cf16e51cd274b9c2e5e859a6e1ff9a776e70228f3caefa"
     },
     {
       "stock": "ARM",
-      "headline": "Qualcomm’s Huawei Deal Adds Strategic Depth to Its AI Expansion",
-      "url": "https://finnhub.io/api/news?id=ab96e2717aa0a7c13dc46d5a68225778a3fdc125df87ebdbc5c3334c20d87bc4"
+      "headline": "Worries About OpenAI’s Revenue Rattle the AI Trade",
+      "url": "https://finnhub.io/api/news?id=3c90a8bab1030d74b68fddb7555bf42e58aad2043571e29e3dc08f99d0407ad8"
     },
     {
-      "stock": "DE",
-      "headline": "Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today’s Market",
-      "url": "https://finnhub.io/api/news?id=8476d3dd089d7b34e7c32f5c130c88033e4cb48365d9ca996293089746452b48"
+      "stock": "HALO",
+      "headline": "HC Wainwright & Co. Maintains Buy on Halozyme Therapeutics, Raises Price Target to $130",
+      "url": "https://finnhub.io/api/news?id=9e6c1a6e3014c3b1b9c1d8e6dc24d990ffea9e27ccc74236b09b5b61c5af27e7"
     },
     {
-      "stock": "NFLX",
-      "headline": "Paramount paid Netflix $2.8 billion to walk away from its $82.7-billion Warner Bros. deal — and Netflix stock jumped 14%",
-      "url": "https://finnhub.io/api/news?id=97b031ab8f74f47f0d3207487a913456aa01db4b6d00993e9286b12bc6b00502"
+      "stock": "IONQ",
+      "headline": "BigBear.ai vs. IonQ: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://finnhub.io/api/news?id=e19135946ae7982680f4190bf10369a8783b24541294a20b7632121c737bd6f2"
     },
     {
-      "stock": "TSM",
-      "headline": "Dow Jones Futures: Yields Move Higher; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
-      "url": "https://finnhub.io/api/news?id=8269469ca71b3c9d3defbf538b21157e94a163e323b27ef79c6c12941e3c94b2"
+      "stock": "UBER",
+      "headline": "Uber Technologies (UBER): Strong Operational Growth Offset by Soft Guidance",
+      "url": "https://finnhub.io/api/news?id=93af10e0dc2b5598d2e08d11af59f08a3db62bc36be9553d8954549ea6ec94c1"
     },
     {
-      "stock": "AMZN",
-      "headline": "Best Buy Gives Investors a Reason to Take a Second Look",
-      "url": "https://finnhub.io/api/news?id=e414c2c0bde84e5224c8fdc9cc4b78a93992fcac825d47e787715c37aeb6eadb"
-    },
-    {
-      "stock": "COHR",
+      "stock": "AAOI",
       "headline": "AAOI Stock Gains 17% in a Month: Should You Buy, Sell or Hold?",
       "url": "https://finnhub.io/api/news?id=2e5f89b0c446c366025b1e870ca6a8262c9e06692cf87b3e7f62cb9b1fd0b11c"
     },
     {
-      "stock": "TSLA",
-      "headline": "TSLA Stock Heads For Weekly Win: Dan Ives Sees Over 30% Upside From AI, UBS Calls Setup ‘Tactically Favorable’",
-      "url": "https://finnhub.io/api/news?id=08870ec809331f02e14de7087e4b9a110933f968747bc06ad4fd1d67d94306fd"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Halozyme Therapeutics (HALO) Expands Argenx Deal, Is It Still 27% Below Fair Value?",
-      "url": "https://finnhub.io/api/news?id=040bc921f0873aed756d0699390f406b17239c55d2749f24093c4bc74c32e4a6"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM’s Valuation is Getting Interesting as AI and Consulting Rebound",
-      "url": "https://finnhub.io/api/news?id=7ea020d3315db788dd6e9833f30881680fc26b792dd69c69f96024d62d0311ea"
+      "stock": "ADSK",
+      "headline": "Can Autodesk’s New AEC Leader Reframe ADSK’s AI Story From Experimentation to Core Strategy?",
+      "url": "https://finnhub.io/api/news?id=112eaa13047fa8ca0116d33c3a2ad6c8bc56f41b8d22953a36199cdf16d8d7a0"
     },
     {
       "stock": "U",
-      "headline": "Unity CEO Wants Google AI Gaming Platform To Reach Consoles, Says Goal Isn't ‘AI Slop’",
-      "url": "https://finnhub.io/api/news?id=f2a44328b40eb8d45498a12d3f7ea8dc772873f2052579f72c2d58480b94604e"
+      "headline": "Raymond James Upgrades Unity Software to Outperform, Announces $54 Price Target",
+      "url": "https://finnhub.io/api/news?id=9a5da507912d6064057e6b05d54281f28d87a3bd47e7f76e07739d4e9e3e1725"
     },
     {
-      "stock": "GOOGL",
-      "headline": "Arden University and Google Cloud Form Strategic Partnership to Ensure Development of Job-Ready, AI-Native Graduates",
-      "url": "https://finnhub.io/api/news?id=777aebb8c114962feb7da4c82fe503e8faa9ecd4c46944ccef2e3a36e2925af5"
+      "stock": "NFLX",
+      "headline": "Full Video Highlights: 2nd LA CorpGov Forum Featuring Activism, IPOs, Entertainment",
+      "url": "https://finnhub.io/api/news?id=b6431f97ace56c4f4cbe601388022826e88d2fc08d11d926edd63d5728036947"
     },
     {
-      "stock": "TEAM",
-      "headline": "Atlassian And OpenAI Expand Partnership To Turn Enterprise Knowledge Into Action",
-      "url": "https://finnhub.io/api/news?id=678f46a2e8296d5f0b7257a29d041d494bcd1e0b6c3fe968ac8c57af940278cd"
-    },
-    {
-      "stock": "MU",
-      "headline": "The AI Trade Is Alive and Well as Bond Yields Keep Rising",
-      "url": "https://finnhub.io/api/news?id=b33cd4c45f87f79dfa6fbcba907be06a03b2243abe80c16cd7006fa3ffb701e0"
-    },
-    {
-      "stock": "TSM",
-      "headline": "TSMC Is Likely To Beat Q3 Earnings And Rise (Preview)",
-      "url": "https://finnhub.io/api/news?id=5e42f55f82bffc44a4fc07300ae064a250666561ebabd24f3904bff1bf963b58"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Stocks Sink After OpenAI Report Sours AI Trade",
-      "url": "https://finnhub.io/api/news?id=da8154472d3bc6c344e7ce1d613acdb4acbcbf4c89cc4ed527ddb5d345b5066f"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys (SNPS): The Next Big AI Stock Breakout?",
-      "url": "https://finnhub.io/api/news?id=897524e2bc809473f01ec2bcf72ae3482e85727b930b00eb33c7dcdaa3d44919"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "BYD Trades at 20 Times Earnings. Tesla Trades at 344. Here's Which One I'd Buy Today.",
-      "url": "https://finnhub.io/api/news?id=358d1b4eb03accf5fe037a2e7330db9d81d16d5670fca3e885d8ead75506d75b"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Wall Street May Be Underestimating Arm’s AI Opportunity",
-      "url": "https://finnhub.io/api/news?id=47b3152f2e94555ccd9ae12d920f85fafc0b912b969fc90a8980e022f5bcfff5"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Silicon Motion Boosts AI Infrastructure Capabilities: Reason to Buy?",
-      "url": "https://finnhub.io/api/news?id=597ed72835ca9ee2b70debd6db750fb5726910f69cbca1333a4bd0cb03980d63"
-    },
-    {
-      "stock": "U",
-      "headline": "This Palantir Analyst Turns Bullish; Here Are Top 5 Upgrades For Thursday",
-      "url": "https://finnhub.io/api/news?id=a2497949fc3319485a6165994aaad06de0a9e86a01cb08dc7e87186f23e49701"
+      "stock": "RDDT",
+      "headline": "Is Reddit (RDDT) Still Below Fair Value After Its New Ad Tools Launch?",
+      "url": "https://finnhub.io/api/news?id=d7133528049dd39767ab74cdb7a1e6961e2dbcee3dc764b7a04fd6481daecc59"
     }
   ]
 }
