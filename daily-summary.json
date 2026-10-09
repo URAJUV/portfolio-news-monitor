@@ -85,6 +85,41 @@
       "stock": "GOOGL",
       "headline": "Lawmakers Push Back on Google’s $10 Million Spirit Airlines Data Deal",
       "url": "https://finnhub.io/api/news?id=2849bf8d454646a5369d6414fd2a944c74818de6bd75096be18dfba14fd06f2c"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Stock Prices, Earnings And Cash Flows: The AI Effect Plays Through",
+      "url": "https://finnhub.io/api/news?id=3d72b8e5889c3871d9a5571419918545847be57ebf30ac455b554becdcd3ec97"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Lumentum Can’t Keep Up With AI Demand—and Its Stock Is Surging",
+      "url": "https://finnhub.io/api/news?id=96cb87a7a767b6dc280b0df9eb88d55417bf837c499a5d5a8a67959b20a98818"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Barclays Maintains Overweight on Shoals Technologies Group, Raises Price Target to $11",
+      "url": "https://finnhub.io/api/news?id=66d71e106e608b608fb069ccc980964672fcea6b19cfba508840948194052a9b"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Sector Update: Tech Stocks Advance Premarket Friday",
+      "url": "https://finnhub.io/api/news?id=082899740469e0a7e89740659df74939374ccfbb577234aca06ea1205cde95c1"
+    },
+    {
+      "stock": "ARM",
+      "headline": "OpenAI Is Too Big To Save? The AI Selloff Was A Warning",
+      "url": "https://finnhub.io/api/news?id=57e3b2cfb03e3219837adbd1702b048b4e2024d5447ebce0d5aaf11354c28b72"
+    },
+    {
+      "stock": "DE",
+      "headline": "JP Morgan Maintains Neutral on Deere, Raises Price Target to $625",
+      "url": "https://finnhub.io/api/news?id=81e3846659ed721c68eb3d3585c6d5ad7cf7bbcb26638c596669871685e930b2"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "2 AI and Quantum Stocks Set for Strong Q3 Earnings Growth",
+      "url": "https://finnhub.io/api/news?id=5d093a9d1e4b3d0dd67ad609bf59d3d2ce35939b3b884de6c5139ee6bb7a7c17"
     }
   ]
 }
