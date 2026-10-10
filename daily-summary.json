@@ -55,6 +55,31 @@
       "stock": "NFLX",
       "headline": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus",
       "url": "https://finnhub.io/api/news?id=5c4e446abd334f8092f8ee0a0068885b5977f2f5175ab4b843013a4fece9ea30"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings",
+      "url": "https://finnhub.io/api/news?id=1d72605c0992870fb58e326702fcc43d866e4c10a8462e08d3bcecd7536e0013"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Holdings Stock Fell 6% in a Day as an OpenAI Revenue Report Hit Chip Stocks. Here’s Where OpenAI Touches Arm’s Business",
+      "url": "https://finnhub.io/api/news?id=2f18d9f8df816da4b94bc6d9b4c2bb21a9df8ad1fa4e69bca529594bd8c462aa"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Is Uber Stock A Real Bargain?",
+      "url": "https://finnhub.io/api/news?id=d907dcd77fa1033b3f7a1ac7603f6ae5024bd03b2811e3e68e1d21dd6ccd524c"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Lumentum Can’t Keep Up With AI Demand—and Its Stock Is Surging",
+      "url": "https://finnhub.io/api/news?id=96cb87a7a767b6dc280b0df9eb88d55417bf837c499a5d5a8a67959b20a98818"
+    },
+    {
+      "stock": "U",
+      "headline": "BTIG Maintains Buy on Unity Software, Raises Price Target to $53",
+      "url": "https://finnhub.io/api/news?id=837f427033e7d3b73e509a7de54950833b5d7ba53ec42f701609187a4b001c9a"
     }
   ]
 }
