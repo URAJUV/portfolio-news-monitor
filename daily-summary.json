@@ -80,6 +80,61 @@
       "stock": "U",
       "headline": "BTIG Maintains Buy on Unity Software, Raises Price Target to $53",
       "url": "https://finnhub.io/api/news?id=837f427033e7d3b73e509a7de54950833b5d7ba53ec42f701609187a4b001c9a"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor Manufacturing (TSM) Posted Record Q3 2026 Revenue",
+      "url": "https://finnhub.io/api/news?id=d1efd34311188a766fb9d012b138bbd5e690bc09f5c08cbaf163356237297861"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Consumer AI agents could upend online shopping - but who really wins?",
+      "url": "https://finnhub.io/api/news?id=05108653561dbb7e61e7f252c5f616d34ee8973bdeb6604db127b8d61c84894e"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Nvidia-Backed Lumentum Says It Can’t Keep Up With AI Demand. The Stock Is Surging",
+      "url": "https://finnhub.io/api/news?id=4f04dfe03ee7511c0221a47609edfc61d93f0b714bc240ca1e90e0cb7db640c6"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "HSBC’s Synopsys Upgrade Bets on a Business Model Shift. Can It Justify $700?",
+      "url": "https://finnhub.io/api/news?id=bb6c4723e5417a2e4b9e6ff125749f5d38230c76de8469a26adfa3a1c3656edc"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Qualcomm Waits on a Jury: Arm Has a $443 Million Customer on the Line",
+      "url": "https://finnhub.io/api/news?id=38c80154955a05e44c5e43345df0b2b3c52c3d27a5c646b3a57b1b02cf8c781c"
+    },
+    {
+      "stock": "HON",
+      "headline": "JP Morgan Maintains Overweight on Honeywell Intl, Lowers Price Target to $240",
+      "url": "https://finnhub.io/api/news?id=39f2ea985cf4903147d14d94cefd16a1ef2a1d0c3a2cfd48ae65f3a406881822"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Rivian Ain’t Afraid of No Ghosts: Could Ghostbusters Collaboration Spotlight New R2?",
+      "url": "https://finnhub.io/api/news?id=ab6ebfed18e73affc7815f0913b54e3bd9a2d5620b5361fbc4317ce7ce7a8f72"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Who is actually going to win AI's next profitability test?",
+      "url": "https://finnhub.io/api/news?id=2fe2de1d87453bc8ad987347360940568c0c8bab24ad346fa324af8234cbaea7"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "3 AI Optics Stocks Worth Watching As Data Center Bandwidth Tightens",
+      "url": "https://finnhub.io/api/news?id=278793414807a66f0d4e9378687b99fd140da74e7fef1a47c5eec69cdcc10166"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Is Autodesk (ADSK) Below Fair Value As Its New AEC Chief Pushes AI And Cloud?",
+      "url": "https://finnhub.io/api/news?id=401a2a603ed9bda35c8c7700e9c2546500be2aa9bc674df5fdb0798c13c8ed8c"
+    },
+    {
+      "stock": "IBM",
+      "headline": "5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch",
+      "url": "https://finnhub.io/api/news?id=92484ceff0d79f9d1da630bcada6f6902ecab14124a74ebdda161fd0ec9fd992"
     }
   ]
 }
