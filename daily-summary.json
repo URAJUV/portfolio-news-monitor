@@ -35,6 +35,21 @@
       "stock": "GOOGL",
       "headline": "Alphabet (GOOGL) Has A $5 Billion Waymo Loan And A $50 Billion AI Bet",
       "url": "https://finnhub.io/api/news?id=15d4e383c6f8cfe12e94b3325cd165a34cb68ad14194efdb76c2fb917500a520"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Is Synopsys Back from the Dead? EDA Leader Inks Deals With Amazon and OpenAI",
+      "url": "https://finnhub.io/api/news?id=d99d51a9d818f1c6d29622d598de8ab21827243ce17202fee0c147ece4dcedf9"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Investors Are Looking Beyond the Magnificent Seven. This AI Stock Deserves a Look",
+      "url": "https://finnhub.io/api/news?id=b21db974cc0635009988e60b7a46918e921b992b231ec7e9ef973bfd74a93471"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Slid 5% Without An Earnings Report - Oct. 21 May Change The Case",
+      "url": "https://finnhub.io/api/news?id=451ed15f58ecc6ea49ad4b960310a5ba90c6d27dd981c1512ac8355627f8cf41"
     }
   ]
 }
