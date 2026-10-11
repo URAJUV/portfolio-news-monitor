@@ -1,170 +1,40 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "items": [
     {
       "stock": "MU",
-      "headline": "Estimates Keep Rising as Q3 Earnings Season Takes Center Stage",
-      "url": "https://finnhub.io/api/news?id=73b59c6d79519f821571c067bc86a653580406c019b010d3e65a46f0a8aaa077"
+      "headline": "Micron’s Taiwan Union Authorized a Strike Over a Bonus Dispute. What This Means for MU Stock.",
+      "url": "https://finnhub.io/api/news?id=470bddd85e5e2325aec4c127e334109dee45d7cc47de5455cf30bfa8931d6ccb"
     },
     {
       "stock": "TSM",
-      "headline": "OpenAI's $20 Billion Revenue Gap Sends Chip Stocks Tumbling",
-      "url": "https://finnhub.io/api/news?id=557033d381aadccfe976abc5e7e0ac7ac2483c91237e84c6093fb91093fef475"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Atomic Machines CEO on Developing 'Micro-Machines'",
-      "url": "https://finnhub.io/api/news?id=facfce472defeb9bb17d47732b4d45b137447b0c0132cef48eb1ad9171a6ef8c"
+      "headline": "3 AI Infrastructure Stocks to Watch Before TSMC Earnings",
+      "url": "https://finnhub.io/api/news?id=6fcb8a412635074ef76d309152bacad28bda2c216a258be43b5a1fd52cd265dd"
     },
     {
       "stock": "COHR",
-      "headline": "3 AI Optics Stocks Worth Watching As Data Center Bandwidth Tightens",
-      "url": "https://finnhub.io/api/news?id=278793414807a66f0d4e9378687b99fd140da74e7fef1a47c5eec69cdcc10166"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys: A Low-Risk, High-Reward Play On The AI Chip Design Market",
-      "url": "https://finnhub.io/api/news?id=8a57c0fccc4a37965c0c20ada299a89e915ea61d9ade181261bb4b47d3b84c51"
-    },
-    {
-      "stock": "HALO",
-      "headline": "JP Morgan Maintains Neutral on Halozyme Therapeutics, Raises Price Target to $78",
-      "url": "https://finnhub.io/api/news?id=994ce1b3607b7ee61e7c52bb08c99fd0d9ccbfc466c208b69a38e8b559315498"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Sony Brings Fair Human-Centric Image Benchmark to Mozilla Data Collective",
-      "url": "https://finnhub.io/api/news?id=b221afa536ecf231ec8b5064565718d192dd133683e3dfa598f0e61927504a1b"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Atomic Machines CEO on Developing 'Micro-Machines'",
-      "url": "https://finnhub.io/api/news?id=facfce472defeb9bb17d47732b4d45b137447b0c0132cef48eb1ad9171a6ef8c"
+      "headline": "$50B? $70B? How OpenAI’s Accounting Confusion Wrecked the AI Trade",
+      "url": "https://finnhub.io/api/news?id=deef7a8d99af3a6e1a9b46321662211875270468b4277150af364c378ac39fa9"
     },
     {
       "stock": "AAOI",
-      "headline": "Optics Stocks Tumble as Profit Taking Cuts Into Big Yearly Gains: Applied Optoelectronics Drops 9%, Coherent Falls 5%, Lumentum Slides 4%",
-      "url": "https://finnhub.io/api/news?id=0a81f60a333186d931436fb8336b2de03112113f04613f187ce0878cc40767df"
-    },
-    {
-      "stock": "DE",
-      "headline": "Deere (DE) Stock Sinks As Market Gains: Here's Why",
-      "url": "https://finnhub.io/api/news?id=8fe00375d4de7d8ce0f8ce99d72452209594aea960d5a14e52be63bd501a0601"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus",
-      "url": "https://finnhub.io/api/news?id=5c4e446abd334f8092f8ee0a0068885b5977f2f5175ab4b843013a4fece9ea30"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings",
-      "url": "https://finnhub.io/api/news?id=1d72605c0992870fb58e326702fcc43d866e4c10a8462e08d3bcecd7536e0013"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Holdings Stock Fell 6% in a Day as an OpenAI Revenue Report Hit Chip Stocks. Here’s Where OpenAI Touches Arm’s Business",
-      "url": "https://finnhub.io/api/news?id=2f18d9f8df816da4b94bc6d9b4c2bb21a9df8ad1fa4e69bca529594bd8c462aa"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Is Uber Stock A Real Bargain?",
-      "url": "https://finnhub.io/api/news?id=d907dcd77fa1033b3f7a1ac7603f6ae5024bd03b2811e3e68e1d21dd6ccd524c"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Lumentum Can’t Keep Up With AI Demand—and Its Stock Is Surging",
-      "url": "https://finnhub.io/api/news?id=96cb87a7a767b6dc280b0df9eb88d55417bf837c499a5d5a8a67959b20a98818"
-    },
-    {
-      "stock": "U",
-      "headline": "BTIG Maintains Buy on Unity Software, Raises Price Target to $53",
-      "url": "https://finnhub.io/api/news?id=837f427033e7d3b73e509a7de54950833b5d7ba53ec42f701609187a4b001c9a"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor Manufacturing (TSM) Posted Record Q3 2026 Revenue",
-      "url": "https://finnhub.io/api/news?id=d1efd34311188a766fb9d012b138bbd5e690bc09f5c08cbaf163356237297861"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Consumer AI agents could upend online shopping - but who really wins?",
-      "url": "https://finnhub.io/api/news?id=05108653561dbb7e61e7f252c5f616d34ee8973bdeb6604db127b8d61c84894e"
-    },
-    {
-      "stock": "COHR",
       "headline": "Nvidia-Backed Lumentum Says It Can’t Keep Up With AI Demand. The Stock Is Surging",
       "url": "https://finnhub.io/api/news?id=4f04dfe03ee7511c0221a47609edfc61d93f0b714bc240ca1e90e0cb7db640c6"
     },
     {
-      "stock": "SNPS",
-      "headline": "HSBC’s Synopsys Upgrade Bets on a Business Model Shift. Can It Justify $700?",
-      "url": "https://finnhub.io/api/news?id=bb6c4723e5417a2e4b9e6ff125749f5d38230c76de8469a26adfa3a1c3656edc"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Qualcomm Waits on a Jury: Arm Has a $443 Million Customer on the Line",
-      "url": "https://finnhub.io/api/news?id=38c80154955a05e44c5e43345df0b2b3c52c3d27a5c646b3a57b1b02cf8c781c"
-    },
-    {
-      "stock": "HON",
-      "headline": "JP Morgan Maintains Overweight on Honeywell Intl, Lowers Price Target to $240",
-      "url": "https://finnhub.io/api/news?id=39f2ea985cf4903147d14d94cefd16a1ef2a1d0c3a2cfd48ae65f3a406881822"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Rivian Ain’t Afraid of No Ghosts: Could Ghostbusters Collaboration Spotlight New R2?",
-      "url": "https://finnhub.io/api/news?id=ab6ebfed18e73affc7815f0913b54e3bd9a2d5620b5361fbc4317ce7ce7a8f72"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Who is actually going to win AI's next profitability test?",
-      "url": "https://finnhub.io/api/news?id=2fe2de1d87453bc8ad987347360940568c0c8bab24ad346fa324af8234cbaea7"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "3 AI Optics Stocks Worth Watching As Data Center Bandwidth Tightens",
-      "url": "https://finnhub.io/api/news?id=278793414807a66f0d4e9378687b99fd140da74e7fef1a47c5eec69cdcc10166"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Is Autodesk (ADSK) Below Fair Value As Its New AEC Chief Pushes AI And Cloud?",
-      "url": "https://finnhub.io/api/news?id=401a2a603ed9bda35c8c7700e9c2546500be2aa9bc674df5fdb0798c13c8ed8c"
-    },
-    {
       "stock": "IBM",
-      "headline": "5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch",
-      "url": "https://finnhub.io/api/news?id=92484ceff0d79f9d1da630bcada6f6902ecab14124a74ebdda161fd0ec9fd992"
+      "headline": "International Business Machines (IBM) Unveils Real Time App Security Collaboration",
+      "url": "https://finnhub.io/api/news?id=d9c9364653491b2ff99e2b810fcf1a37ad3ee428933cc6462811803ea7808311"
     },
     {
-      "stock": "MU",
-      "headline": "AI Revenue Questions Pull Semiconductor Stocks Off October Highs",
-      "url": "https://finnhub.io/api/news?id=6150fb96297e262cba0e2316a2789ed59e3f0684cba4a0302e86cc77125ea5c6"
+      "stock": "U",
+      "headline": "Unity Shares Surged After a New AI Gaming Deal With Google. How Investors Should View U Stock Now.",
+      "url": "https://finnhub.io/api/news?id=1e1fa0ac4e4fc6b880b56bef2eb24054c5b6f817d19e037d904dbc799910221f"
     },
     {
-      "stock": "TSM",
-      "headline": "Banking Bellwethers Kick Off Earnings, Fed Chair's Speech In Focus",
-      "url": "https://finnhub.io/api/news?id=11a786498782afaccf0262d5570d06ee18a18ddd114c981cf9f7594cc7351290"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Investors Are Looking Beyond the Magnificent Seven. This AI Stock Deserves a Look",
-      "url": "https://finnhub.io/api/news?id=b21db974cc0635009988e60b7a46918e921b992b231ec7e9ef973bfd74a93471"
-    },
-    {
-      "stock": "ARM",
-      "headline": "AI Revenue Questions Pull Semiconductor Stocks Off October Highs",
-      "url": "https://finnhub.io/api/news?id=6150fb96297e262cba0e2316a2789ed59e3f0684cba4a0302e86cc77125ea5c6"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Applied Optoelectronics (AAOI) Stock May Be Below Fair Value After Equity Offering",
-      "url": "https://finnhub.io/api/news?id=eb580011ca907ad29c3ce5fc374820f201522c2579f8ca2ecd93096b4e65d021"
-    },
-    {
-      "stock": "DE",
-      "headline": "CNH Industrial shares are trading lower after the company reported Q4 financial results and issued FY26 adjusted EPS guidance below estimates.",
-      "url": "https://finnhub.io/api/news?id=094177e28f303632dfe6c0fd825200eced3706073ec216d58b97d3f8708471b9"
+      "stock": "GOOGL",
+      "headline": "Alphabet (GOOGL) Has A $5 Billion Waymo Loan And A $50 Billion AI Bet",
+      "url": "https://finnhub.io/api/news?id=15d4e383c6f8cfe12e94b3325cd165a34cb68ad14194efdb76c2fb917500a520"
     }
   ]
 }
