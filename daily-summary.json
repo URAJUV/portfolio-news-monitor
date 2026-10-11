@@ -50,6 +50,31 @@
       "stock": "IBM",
       "headline": "IBM Slid 5% Without An Earnings Report - Oct. 21 May Change The Case",
       "url": "https://finnhub.io/api/news?id=451ed15f58ecc6ea49ad4b960310a5ba90c6d27dd981c1512ac8355627f8cf41"
+    },
+    {
+      "stock": "MU",
+      "headline": "Wall Street Brunch: Start Your Earnings Engines",
+      "url": "https://finnhub.io/api/news?id=0e1f88e32d684ef29a5ec2cd4b8e528f14b92837c8da37909f2d611a40cee4d4"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Wall Street Brunch: Start Your Earnings Engines",
+      "url": "https://finnhub.io/api/news?id=0e1f88e32d684ef29a5ec2cd4b8e528f14b92837c8da37909f2d611a40cee4d4"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+      "url": "https://finnhub.io/api/news?id=2597804cae0fd34fe837db72dc90e2806e399a02ffd74fb2eecc52e13f2878a2"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Constellation’s $4.3 Billion Nuclear Upgrade Could Be Its Smartest Move Yet",
+      "url": "https://finnhub.io/api/news?id=10b2dd401b97b95157516959a9ad37c1907face8fe6c8d82d3a93bf56407ee59"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "What Is Netflix (NFLX) Signaling With Its New Content Acquisition Chief?",
+      "url": "https://finnhub.io/api/news?id=96792aae40a9202995fbc998c8b6691f45eb248161f6edbd542801ddd4c51ceb"
     }
   ]
 }
