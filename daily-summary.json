@@ -10,6 +10,26 @@
       "stock": "UBER",
       "headline": "Uber Expects Up to 35% Earnings Growth in Q3. Here’s What Its November 4 Report Needs to Show",
       "url": "https://finnhub.io/api/news?id=d80c7c1c2a88d170f4438a58d7bde0bc51edd6a19ae8dcaaa84777e3515581bd"
+    },
+    {
+      "stock": "MU",
+      "headline": "These 2 AI Stocks Have Stumbled. Now They May Soar Nearly 75%, According to Wall Street.",
+      "url": "https://finnhub.io/api/news?id=c5df00d0a3af163db595558ee7485f6dcb051f1e82b125d622fa7645fb0d1dfa"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC’s Q3 Earnings Preview: 65% Profit Growth, But Net Margin Seen Slipping to 50%",
+      "url": "https://finnhub.io/api/news?id=03b2ca951a22fbd2f9b89c24bf6b0ea5e2acbc25c7bc915346d184dc0bd77d22"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "3 Growth Stocks With Earnings Growth Over 31%",
+      "url": "https://finnhub.io/api/news?id=e4c6c93660878a3f02f8df8dd5069df7b6850e27adc13caf5bd511f41ca2be3e"
+    },
+    {
+      "stock": "IBM",
+      "headline": "The Global Quantum Technologies Market 2026-2036 Report Now Available, Profiling IBM, Google Quantum AI, IonQ, Microsoft & 350 Other Key Players",
+      "url": "https://finnhub.io/api/news?id=207293375ea7a9e1b65ce2851353a7304c5341b9847e5fd4b3ab4e5c7c6f0006"
     }
   ]
 }
