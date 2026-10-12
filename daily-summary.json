@@ -1,80 +1,15 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Micron’s Taiwan Union Authorized a Strike Over a Bonus Dispute. What This Means for MU Stock.",
-      "url": "https://finnhub.io/api/news?id=470bddd85e5e2325aec4c127e334109dee45d7cc47de5455cf30bfa8931d6ccb"
+      "stock": "AMZN",
+      "headline": "Amazon in talks to acquire AI startup Decart for $7 bln- WSJ",
+      "url": "https://finnhub.io/api/news?id=268402ca4ba5360b71536086597da3438fd85a1c5b48d0b3d40093224f69ae0f"
     },
     {
-      "stock": "TSM",
-      "headline": "3 AI Infrastructure Stocks to Watch Before TSMC Earnings",
-      "url": "https://finnhub.io/api/news?id=6fcb8a412635074ef76d309152bacad28bda2c216a258be43b5a1fd52cd265dd"
-    },
-    {
-      "stock": "COHR",
-      "headline": "$50B? $70B? How OpenAI’s Accounting Confusion Wrecked the AI Trade",
-      "url": "https://finnhub.io/api/news?id=deef7a8d99af3a6e1a9b46321662211875270468b4277150af364c378ac39fa9"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Nvidia-Backed Lumentum Says It Can’t Keep Up With AI Demand. The Stock Is Surging",
-      "url": "https://finnhub.io/api/news?id=4f04dfe03ee7511c0221a47609edfc61d93f0b714bc240ca1e90e0cb7db640c6"
-    },
-    {
-      "stock": "IBM",
-      "headline": "International Business Machines (IBM) Unveils Real Time App Security Collaboration",
-      "url": "https://finnhub.io/api/news?id=d9c9364653491b2ff99e2b810fcf1a37ad3ee428933cc6462811803ea7808311"
-    },
-    {
-      "stock": "U",
-      "headline": "Unity Shares Surged After a New AI Gaming Deal With Google. How Investors Should View U Stock Now.",
-      "url": "https://finnhub.io/api/news?id=1e1fa0ac4e4fc6b880b56bef2eb24054c5b6f817d19e037d904dbc799910221f"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet (GOOGL) Has A $5 Billion Waymo Loan And A $50 Billion AI Bet",
-      "url": "https://finnhub.io/api/news?id=15d4e383c6f8cfe12e94b3325cd165a34cb68ad14194efdb76c2fb917500a520"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Is Synopsys Back from the Dead? EDA Leader Inks Deals With Amazon and OpenAI",
-      "url": "https://finnhub.io/api/news?id=d99d51a9d818f1c6d29622d598de8ab21827243ce17202fee0c147ece4dcedf9"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Investors Are Looking Beyond the Magnificent Seven. This AI Stock Deserves a Look",
-      "url": "https://finnhub.io/api/news?id=b21db974cc0635009988e60b7a46918e921b992b231ec7e9ef973bfd74a93471"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM Slid 5% Without An Earnings Report - Oct. 21 May Change The Case",
-      "url": "https://finnhub.io/api/news?id=451ed15f58ecc6ea49ad4b960310a5ba90c6d27dd981c1512ac8355627f8cf41"
-    },
-    {
-      "stock": "MU",
-      "headline": "Wall Street Brunch: Start Your Earnings Engines",
-      "url": "https://finnhub.io/api/news?id=0e1f88e32d684ef29a5ec2cd4b8e528f14b92837c8da37909f2d611a40cee4d4"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Wall Street Brunch: Start Your Earnings Engines",
-      "url": "https://finnhub.io/api/news?id=0e1f88e32d684ef29a5ec2cd4b8e528f14b92837c8da37909f2d611a40cee4d4"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-      "url": "https://finnhub.io/api/news?id=2597804cae0fd34fe837db72dc90e2806e399a02ffd74fb2eecc52e13f2878a2"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Constellation’s $4.3 Billion Nuclear Upgrade Could Be Its Smartest Move Yet",
-      "url": "https://finnhub.io/api/news?id=10b2dd401b97b95157516959a9ad37c1907face8fe6c8d82d3a93bf56407ee59"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "What Is Netflix (NFLX) Signaling With Its New Content Acquisition Chief?",
-      "url": "https://finnhub.io/api/news?id=96792aae40a9202995fbc998c8b6691f45eb248161f6edbd542801ddd4c51ceb"
+      "stock": "UBER",
+      "headline": "Uber Expects Up to 35% Earnings Growth in Q3. Here’s What Its November 4 Report Needs to Show",
+      "url": "https://finnhub.io/api/news?id=d80c7c1c2a88d170f4438a58d7bde0bc51edd6a19ae8dcaaa84777e3515581bd"
     }
   ]
 }
