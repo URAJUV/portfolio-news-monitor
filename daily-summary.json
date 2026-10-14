@@ -105,6 +105,71 @@
       "stock": "TEAM",
       "headline": "Atlassian (TEAM): Can AI Deliver Enough to Justify Its Valuation?",
       "url": "https://finnhub.io/api/news?id=58d0dbe2797a2176631a875e0997c93e843ca4409a9a474c8861ddfdbee4e5ca"
+    },
+    {
+      "stock": "MU",
+      "headline": "SOXX Heads For 7th Straight Losing Session As Inflation, AI Spending Fears Deepen — Chip Stocks Face $1 Trillion Wipeout",
+      "url": "https://finnhub.io/api/news?id=1402301955c8c5fe793cd9673d129f71e1fb6f4960aa15fa1b748fb75ddaa480"
+    },
+    {
+      "stock": "TSM",
+      "headline": "ASML: Huge Earnings Beat",
+      "url": "https://finnhub.io/api/news?id=10630818f8bb19d2681524e6a14f3278f91a40a24bacfcebbaeb746941d77f58"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Applied Optoelectronics Dives 9% as AI Funding Fears Hit Optical Stocks; Coherent Slides 7%, Lumentum Drops 7%",
+      "url": "https://finnhub.io/api/news?id=405e0bf2467d0f5c8354ba12268c0e6364e75009e3569490781e86560ef649fd"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Prediction: Rambus Could Benefit Every Time AI Gets Faster",
+      "url": "https://finnhub.io/api/news?id=4562761cfa94d2950a949332d86544134b2f57b35881a3a872f4b092acec88d1"
+    },
+    {
+      "stock": "AMPX",
+      "headline": "Canaccord Genuity Initiates Coverage On Amprius Technologies with Buy Rating, Announces Price Target of $14",
+      "url": "https://finnhub.io/api/news?id=930c3c288d14ca6ed5a768d9620da3d9d7660b7a3968180ba4d478e7a2427b47"
+    },
+    {
+      "stock": "HON",
+      "headline": "Exclusive: Honeywell Technologies launches a ‘brain behind the building’ with Nvidia and Dell. Its CTO says humans will run it for now",
+      "url": "https://finnhub.io/api/news?id=50fdf50b8dfd58af85d9772fa1b1577c60424ce7e0734b7fb5eb702ab00a08d9"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber (UBER) Stock Looks Undervalued With Earnings Priced Below Peers",
+      "url": "https://finnhub.io/api/news?id=a8c8fc230e5aa9463d5531aa0c84f17c09d677ec8df20042d5934e548ad208ef"
+    },
+    {
+      "stock": "DE",
+      "headline": "Alcoa Gears Up to Post Q3 Earnings: What Lies Ahead for the Stock?",
+      "url": "https://finnhub.io/api/news?id=04f12c62034f80cead497bf348f225eb50a8d5c86e38d677fec345feed8d28eb"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk (ADSK) vs. PTC and TRMB: Can Cloud and AI Investments Drive Faster Earnings Growth?",
+      "url": "https://finnhub.io/api/news?id=1c336ddf452c3cd20590c639ed3795641ac4a44f305df3f79475f6ff4fb4d3fd"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Draganfly Makes Strategic Investment in Ukraine Defence Technology Company Solution",
+      "url": "https://finnhub.io/api/news?id=6d7c62e6c965f19e749a4a31f3e40d35e9bbe5bde9a0f49e04db46fbb9cecd43"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "IonQ Acquires Cybersecurity Firm Elisity In Major $1.3 Billion Stock Transaction",
+      "url": "https://finnhub.io/api/news?id=c1982d3972ca7c96124420344ace81cfe9cbf915e594a2c3ebcb59c839229a04"
+    },
+    {
+      "stock": "U",
+      "headline": "Wedbush Maintains Outperform on Unity Software, Raises Price Target to $55",
+      "url": "https://finnhub.io/api/news?id=2d2d64aa99b375e986640d1b47ae8c64fe4914ceda6cd1aa16a39a9c46982535"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Barclays Maintains Overweight on Atlassian, Raises Price Target to $222",
+      "url": "https://finnhub.io/api/news?id=4682a3473abb9b27fda763e4d8ebcd2fb9d0cddc943de909bbbae78cf807764f"
     }
   ]
 }
