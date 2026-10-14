@@ -80,6 +80,31 @@
       "stock": "NFLX",
       "headline": "NFLX Stock Dips Overnight: Netflix Faces Analyst Downgrade As Margin Concerns Persist Ahead Of Earnings",
       "url": "https://finnhub.io/api/news?id=e2ee6ce32d802bb35c7f43d7dc6bb450641c1cb17c02755a8408b3f2c65e20e8"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "ColorTokens Xshield™ Now Available for Purchase on the CrowdStrike Marketplace",
+      "url": "https://finnhub.io/api/news?id=81220698eb08f02cf363cb3d2d171cd94721c685e116718c6a00eefde2d14912"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Technologies Launches Forge Cognition with NVIDIA and Dell Technologies, Advancing Physical AI Across Buildings and Industrial Operations",
+      "url": "https://finnhub.io/api/news?id=bdadd63e9d920974189cff213acd31b72d98f1aafea6875ff0ea8faf92733ab7"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Tesla Stock Dips. Uber Raises a Trillion-Dollar Question.",
+      "url": "https://finnhub.io/api/news?id=4d56dafdb987b2cd84a3fca5493e5058c6ca7b0fb2bf47ec502ac1871bc97a50"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Update: Draganfly Invests in Ukraine Defense Technology Company, Forms US Defense-Focused Subsidiary",
+      "url": "https://finnhub.io/api/news?id=088bb451e53bd91567d76a810415139693a89aa7b4cf932abf89518cb301e967"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian (TEAM): Can AI Deliver Enough to Justify Its Valuation?",
+      "url": "https://finnhub.io/api/news?id=58d0dbe2797a2176631a875e0997c93e843ca4409a9a474c8861ddfdbee4e5ca"
     }
   ]
 }
