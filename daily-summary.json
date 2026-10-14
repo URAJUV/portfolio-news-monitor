@@ -170,6 +170,46 @@
       "stock": "TEAM",
       "headline": "Barclays Maintains Overweight on Atlassian, Raises Price Target to $222",
       "url": "https://finnhub.io/api/news?id=4682a3473abb9b27fda763e4d8ebcd2fb9d0cddc943de909bbbae78cf807764f"
+    },
+    {
+      "stock": "TSM",
+      "headline": "ASML: Supply Constraints Through 2028 Still Support My Buy Rating",
+      "url": "https://finnhub.io/api/news?id=815f849457b8e75dc7851bb753f49ada7f7dc145dc00caa5694fb1d18e305bd7"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Corp. Announces Timing of FY2027 First Quarter Earnings Release",
+      "url": "https://finnhub.io/api/news?id=100a25bbcf8cf2da2ddd038fad489f234a1c2fe8bc86ef2ef3764218b9f1a0a8"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys (SNPS) Adopts AI Chipmaking Libraries For Semiconductor Workflows",
+      "url": "https://finnhub.io/api/news?id=2d4861a6f11e263f28f5031d24a974117232f501ff459b83df2924701076cc81"
+    },
+    {
+      "stock": "HON",
+      "headline": "Is Honeywell International (HON) Cheap Following Its New AI Alliance Launch?",
+      "url": "https://finnhub.io/api/news?id=7ad27fa271833efa4def4a47b7b9aa3122a48f90e005c4f6cf0eb9adab097654"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Dow Jones Futures: Dell, AMD, CoreWeave Lead Market Sell-Off On AI Fears; Taiwan Semiconductor Due",
+      "url": "https://finnhub.io/api/news?id=e1a55a659c9fcf8681b74636abc17536f30cfc993dedc919509f215b84e95fb8"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ To Issue $1.15B In Shares Priced Between $33.07-$49.61, Plus Up To $150M In Earnout Shares And $100M In Employee RSUs For Elisity Acquisition",
+      "url": "https://finnhub.io/api/news?id=8412135ef8eeb0686a6485430dc68a0dda8454e1b1c26ed418380bd97bf268fb"
+    },
+    {
+      "stock": "U",
+      "headline": "Morgan Stanley Maintains Overweight on Unity Software, Raises Price Target to $55",
+      "url": "https://finnhub.io/api/news?id=9c5b2fb295e594ddf14da3efdfabcce7e5cfdc8e84670b8a6733d21c62b52cf9"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+      "url": "https://finnhub.io/api/news?id=1cee901db1323bf3a65e4d3604fde4df548a395ae4e56b0fd6b20a4fdb389328"
     }
   ]
 }
