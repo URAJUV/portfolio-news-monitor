@@ -40,6 +40,46 @@
       "stock": "GOOGL",
       "headline": "Disney strikes $20-million deal for Character.ai's assets as AI startup files for bankruptcy",
       "url": "https://finnhub.io/api/news?id=4ff145b84bdbef140f3c31d2ba00e7500856ae85ff48d23437d5348b2f54e877"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Prediction: $5,000 Invested in Taiwan Semiconductor Could Be Worth This Much by 2030",
+      "url": "https://finnhub.io/api/news?id=22dc6f848e912b1b135824379a99c8259bf107f3900fe2756098012fce8bc3af"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys (SNPS) Just Laid Out a $11B AI Roadmap. Is the Stock a Buy Right Now?",
+      "url": "https://finnhub.io/api/news?id=9778c8c96c631ee734f4e31a23d35e5f4b1f09048fa327727e9b50c523e195fc"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "D-Wave Quantum Deepens Partnership With IonQ’s SkyWater Technology",
+      "url": "https://finnhub.io/api/news?id=1bdb400bf11070241636994a6b22e6685e0c34281f27473335fe60bbc7b56150"
+    },
+    {
+      "stock": "DE",
+      "headline": "What Could Derail Caterpillar Stock?",
+      "url": "https://finnhub.io/api/news?id=45107dac2ec7796c7ea37c5e75f4033b0b6dad41ed49398ca5c1a387b301f2a9"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Agentic AI and Network Security Take Center Stage at Software Mind's Telco Days 2026 With Telefónica, Amdocs and IBM",
+      "url": "https://finnhub.io/api/news?id=81ea3c89da565b665de20a3f8ab3bba34a3903be3103998abb031052ca8dcf55"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave Quantum Deepens Partnership With IonQ’s SkyWater Technology",
+      "url": "https://finnhub.io/api/news?id=1bdb400bf11070241636994a6b22e6685e0c34281f27473335fe60bbc7b56150"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Rotation Away From AI Lately",
+      "url": "https://finnhub.io/api/news?id=163e2d3002b77bf45cc2b11b0d0cea2616186f17f76a7f3662022b311546fe52"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "NFLX Stock Dips Overnight: Netflix Faces Analyst Downgrade As Margin Concerns Persist Ahead Of Earnings",
+      "url": "https://finnhub.io/api/news?id=e2ee6ce32d802bb35c7f43d7dc6bb450641c1cb17c02755a8408b3f2c65e20e8"
     }
   ]
 }
