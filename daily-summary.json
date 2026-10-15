@@ -1,215 +1,40 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "items": [
     {
+      "stock": "MU",
+      "headline": "Broad-Based Growth Meets Bank Caution: The Evolving Q3 Earnings Picture",
+      "url": "https://finnhub.io/api/news?id=495728a9e4afc7f755b9edb69c486143fab4f04fd20c3b3baabeca77ab692313"
+    },
+    {
       "stock": "TSM",
-      "headline": "TSMC: 'Strong Buy' As AI Demand Keeps Surprising",
-      "url": "https://finnhub.io/api/news?id=e656ecc5fc8032229bf3a8aed700514262da5c7e92d488ebe8e7298130328e57"
+      "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led Sell-Off",
+      "url": "https://finnhub.io/api/news?id=c916de8f26e003f3576188a0c28503750d3cfca0fe7a9deb77caeb67b8ef9bdf"
     },
     {
       "stock": "CRWD",
-      "headline": "Nvidia (NVDA) or Apple (AAPL): Which Is the Better Bet on Dan Ives’ $4 Trillion AI Wave?",
-      "url": "https://finnhub.io/api/news?id=4a6bd0afabe5e3f0ea804524875a810104331c97e57dcd79830a3a3018ec48fd"
+      "headline": "CrowdStrike (CRWD) Stock Looks Above Fair Value After Its 431% Run",
+      "url": "https://finnhub.io/api/news?id=f7e26b5e70523f3858b77d9019edad2fca225e5183e9d50f6ecc0bea1ad768f8"
     },
     {
-      "stock": "SNPS",
-      "headline": "SUSS Expands Innovation Ecosystem Through Strategic Partnership With Ignite Next",
-      "url": "https://finnhub.io/api/news?id=ac6aca6e0228484b8c87de8d203e7f19ea26a8c936c332c65b67325432d6590d"
+      "stock": "TSLA",
+      "headline": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
+      "url": "https://finnhub.io/api/news?id=6134625771cd440de41c3a01b65305609b0af3261b2fdd6ed1326fe73d8c3330"
     },
     {
       "stock": "ARM",
-      "headline": "ARM-QCOM Lawsuit: Delaware Jury Delivers Verdict In High-Stakes Qualcomm-ARM Licensing Battle",
-      "url": "https://finnhub.io/api/news?id=b765a60ac669b13f5b766ada78eda0df8a5d3502679dae7bd2d2063b6550d33d"
+      "headline": "IBM Stock Before Q3 Earnings Release: To Buy or Not to Buy?",
+      "url": "https://finnhub.io/api/news?id=9553b16bbaba1b18a6056582f1672c87c23581d54b8e3ef7fe0fb43b38f53cbb"
     },
     {
       "stock": "HALO",
-      "headline": "Will Halozyme Therapeutics (HALO) Beat Estimates Again in Its Next Earnings Report?",
-      "url": "https://finnhub.io/api/news?id=c407b81fae5666c0908f21242e84a78942d14cfa68a6a3782e76f82aeb90ce95"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Cybersecurity Stocks In Focus After IonQ’s Elisity Deal Move",
-      "url": "https://finnhub.io/api/news?id=4ffca7b14dd6d2cd4e3d9c8e1c6576afce2d0fa9e64967d12db7a3c6cc2a518e"
-    },
-    {
-      "stock": "U",
-      "headline": "AppLovin: Time And Patience Running Out (Downgrade)",
-      "url": "https://finnhub.io/api/news?id=5ac761c59a1520757a11534dc457ae3efb0f41492dc95309a4aa0fabdbb95404"
+      "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led Sell-Off",
+      "url": "https://finnhub.io/api/news?id=c916de8f26e003f3576188a0c28503750d3cfca0fe7a9deb77caeb67b8ef9bdf"
     },
     {
       "stock": "GOOGL",
-      "headline": "Disney strikes $20-million deal for Character.ai's assets as AI startup files for bankruptcy",
-      "url": "https://finnhub.io/api/news?id=4ff145b84bdbef140f3c31d2ba00e7500856ae85ff48d23437d5348b2f54e877"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Prediction: $5,000 Invested in Taiwan Semiconductor Could Be Worth This Much by 2030",
-      "url": "https://finnhub.io/api/news?id=22dc6f848e912b1b135824379a99c8259bf107f3900fe2756098012fce8bc3af"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys (SNPS) Just Laid Out a $11B AI Roadmap. Is the Stock a Buy Right Now?",
-      "url": "https://finnhub.io/api/news?id=9778c8c96c631ee734f4e31a23d35e5f4b1f09048fa327727e9b50c523e195fc"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "D-Wave Quantum Deepens Partnership With IonQ’s SkyWater Technology",
-      "url": "https://finnhub.io/api/news?id=1bdb400bf11070241636994a6b22e6685e0c34281f27473335fe60bbc7b56150"
-    },
-    {
-      "stock": "DE",
-      "headline": "What Could Derail Caterpillar Stock?",
-      "url": "https://finnhub.io/api/news?id=45107dac2ec7796c7ea37c5e75f4033b0b6dad41ed49398ca5c1a387b301f2a9"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Agentic AI and Network Security Take Center Stage at Software Mind's Telco Days 2026 With Telefónica, Amdocs and IBM",
-      "url": "https://finnhub.io/api/news?id=81ea3c89da565b665de20a3f8ab3bba34a3903be3103998abb031052ca8dcf55"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "D-Wave Quantum Deepens Partnership With IonQ’s SkyWater Technology",
-      "url": "https://finnhub.io/api/news?id=1bdb400bf11070241636994a6b22e6685e0c34281f27473335fe60bbc7b56150"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Rotation Away From AI Lately",
-      "url": "https://finnhub.io/api/news?id=163e2d3002b77bf45cc2b11b0d0cea2616186f17f76a7f3662022b311546fe52"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "NFLX Stock Dips Overnight: Netflix Faces Analyst Downgrade As Margin Concerns Persist Ahead Of Earnings",
-      "url": "https://finnhub.io/api/news?id=e2ee6ce32d802bb35c7f43d7dc6bb450641c1cb17c02755a8408b3f2c65e20e8"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "ColorTokens Xshield™ Now Available for Purchase on the CrowdStrike Marketplace",
-      "url": "https://finnhub.io/api/news?id=81220698eb08f02cf363cb3d2d171cd94721c685e116718c6a00eefde2d14912"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell Technologies Launches Forge Cognition with NVIDIA and Dell Technologies, Advancing Physical AI Across Buildings and Industrial Operations",
-      "url": "https://finnhub.io/api/news?id=bdadd63e9d920974189cff213acd31b72d98f1aafea6875ff0ea8faf92733ab7"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Tesla Stock Dips. Uber Raises a Trillion-Dollar Question.",
-      "url": "https://finnhub.io/api/news?id=4d56dafdb987b2cd84a3fca5493e5058c6ca7b0fb2bf47ec502ac1871bc97a50"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Update: Draganfly Invests in Ukraine Defense Technology Company, Forms US Defense-Focused Subsidiary",
-      "url": "https://finnhub.io/api/news?id=088bb451e53bd91567d76a810415139693a89aa7b4cf932abf89518cb301e967"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian (TEAM): Can AI Deliver Enough to Justify Its Valuation?",
-      "url": "https://finnhub.io/api/news?id=58d0dbe2797a2176631a875e0997c93e843ca4409a9a474c8861ddfdbee4e5ca"
-    },
-    {
-      "stock": "MU",
-      "headline": "SOXX Heads For 7th Straight Losing Session As Inflation, AI Spending Fears Deepen — Chip Stocks Face $1 Trillion Wipeout",
-      "url": "https://finnhub.io/api/news?id=1402301955c8c5fe793cd9673d129f71e1fb6f4960aa15fa1b748fb75ddaa480"
-    },
-    {
-      "stock": "TSM",
-      "headline": "ASML: Huge Earnings Beat",
-      "url": "https://finnhub.io/api/news?id=10630818f8bb19d2681524e6a14f3278f91a40a24bacfcebbaeb746941d77f58"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Applied Optoelectronics Dives 9% as AI Funding Fears Hit Optical Stocks; Coherent Slides 7%, Lumentum Drops 7%",
-      "url": "https://finnhub.io/api/news?id=405e0bf2467d0f5c8354ba12268c0e6364e75009e3569490781e86560ef649fd"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Prediction: Rambus Could Benefit Every Time AI Gets Faster",
-      "url": "https://finnhub.io/api/news?id=4562761cfa94d2950a949332d86544134b2f57b35881a3a872f4b092acec88d1"
-    },
-    {
-      "stock": "AMPX",
-      "headline": "Canaccord Genuity Initiates Coverage On Amprius Technologies with Buy Rating, Announces Price Target of $14",
-      "url": "https://finnhub.io/api/news?id=930c3c288d14ca6ed5a768d9620da3d9d7660b7a3968180ba4d478e7a2427b47"
-    },
-    {
-      "stock": "HON",
-      "headline": "Exclusive: Honeywell Technologies launches a ‘brain behind the building’ with Nvidia and Dell. Its CTO says humans will run it for now",
-      "url": "https://finnhub.io/api/news?id=50fdf50b8dfd58af85d9772fa1b1577c60424ce7e0734b7fb5eb702ab00a08d9"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber (UBER) Stock Looks Undervalued With Earnings Priced Below Peers",
-      "url": "https://finnhub.io/api/news?id=a8c8fc230e5aa9463d5531aa0c84f17c09d677ec8df20042d5934e548ad208ef"
-    },
-    {
-      "stock": "DE",
-      "headline": "Alcoa Gears Up to Post Q3 Earnings: What Lies Ahead for the Stock?",
-      "url": "https://finnhub.io/api/news?id=04f12c62034f80cead497bf348f225eb50a8d5c86e38d677fec345feed8d28eb"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Autodesk (ADSK) vs. PTC and TRMB: Can Cloud and AI Investments Drive Faster Earnings Growth?",
-      "url": "https://finnhub.io/api/news?id=1c336ddf452c3cd20590c639ed3795641ac4a44f305df3f79475f6ff4fb4d3fd"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Draganfly Makes Strategic Investment in Ukraine Defence Technology Company Solution",
-      "url": "https://finnhub.io/api/news?id=6d7c62e6c965f19e749a4a31f3e40d35e9bbe5bde9a0f49e04db46fbb9cecd43"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "IonQ Acquires Cybersecurity Firm Elisity In Major $1.3 Billion Stock Transaction",
-      "url": "https://finnhub.io/api/news?id=c1982d3972ca7c96124420344ace81cfe9cbf915e594a2c3ebcb59c839229a04"
-    },
-    {
-      "stock": "U",
-      "headline": "Wedbush Maintains Outperform on Unity Software, Raises Price Target to $55",
-      "url": "https://finnhub.io/api/news?id=2d2d64aa99b375e986640d1b47ae8c64fe4914ceda6cd1aa16a39a9c46982535"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Barclays Maintains Overweight on Atlassian, Raises Price Target to $222",
-      "url": "https://finnhub.io/api/news?id=4682a3473abb9b27fda763e4d8ebcd2fb9d0cddc943de909bbbae78cf807764f"
-    },
-    {
-      "stock": "TSM",
-      "headline": "ASML: Supply Constraints Through 2028 Still Support My Buy Rating",
-      "url": "https://finnhub.io/api/news?id=815f849457b8e75dc7851bb753f49ada7f7dc145dc00caa5694fb1d18e305bd7"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent Corp. Announces Timing of FY2027 First Quarter Earnings Release",
-      "url": "https://finnhub.io/api/news?id=100a25bbcf8cf2da2ddd038fad489f234a1c2fe8bc86ef2ef3764218b9f1a0a8"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys (SNPS) Adopts AI Chipmaking Libraries For Semiconductor Workflows",
-      "url": "https://finnhub.io/api/news?id=2d4861a6f11e263f28f5031d24a974117232f501ff459b83df2924701076cc81"
-    },
-    {
-      "stock": "HON",
-      "headline": "Is Honeywell International (HON) Cheap Following Its New AI Alliance Launch?",
-      "url": "https://finnhub.io/api/news?id=7ad27fa271833efa4def4a47b7b9aa3122a48f90e005c4f6cf0eb9adab097654"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Dow Jones Futures: Dell, AMD, CoreWeave Lead Market Sell-Off On AI Fears; Taiwan Semiconductor Due",
-      "url": "https://finnhub.io/api/news?id=e1a55a659c9fcf8681b74636abc17536f30cfc993dedc919509f215b84e95fb8"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ To Issue $1.15B In Shares Priced Between $33.07-$49.61, Plus Up To $150M In Earnout Shares And $100M In Employee RSUs For Elisity Acquisition",
-      "url": "https://finnhub.io/api/news?id=8412135ef8eeb0686a6485430dc68a0dda8454e1b1c26ed418380bd97bf268fb"
-    },
-    {
-      "stock": "U",
-      "headline": "Morgan Stanley Maintains Overweight on Unity Software, Raises Price Target to $55",
-      "url": "https://finnhub.io/api/news?id=9c5b2fb295e594ddf14da3efdfabcce7e5cfdc8e84670b8a6733d21c62b52cf9"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-      "url": "https://finnhub.io/api/news?id=1cee901db1323bf3a65e4d3604fde4df548a395ae4e56b0fd6b20a4fdb389328"
+      "headline": "BofA sees ChatGPT taking aim at Google’s next ad dollar",
+      "url": "https://finnhub.io/api/news?id=1e5c7fddec10335484593a74578060b662c8260e0bc522f91d4bafb8dba82d93"
     }
   ]
 }
