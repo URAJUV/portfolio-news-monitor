@@ -65,6 +65,56 @@
       "stock": "TEAM",
       "headline": "Amplitude to Host Third Quarter 2026 Earnings Webcast on November 4, 2026",
       "url": "https://finnhub.io/api/news?id=09c3b923f05668a000b216c7ba60bb52fa97a6e8b02df8d53d12ea16e14ce0f1"
+    },
+    {
+      "stock": "MU",
+      "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Crashed Today",
+      "url": "https://finnhub.io/api/news?id=a827df960e84552ac56e6a39a89099313b71fa57f2c74f24df74525105c96305"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Dow Jones Futures Rise, But AI Sell-Off Continues On Anthropic News; Taiwan Semiconductor Earnings Strong",
+      "url": "https://finnhub.io/api/news?id=7bd625a98ecd006df283abd676950d910f0b8ff67434299ef1236ee5fdcd9f1a"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Cybersecurity Stocks Retreat From Record Highs — Citi Raises CRWD, PANW, ZS Targets On Improving Spending Momentum",
+      "url": "https://finnhub.io/api/news?id=5ac5539f58d773fe04b11968b66f7e0911950c95ad4a9a1cb3b2ae48af6341e7"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Can Synopsys' AI-Focused Design IP Strategy Drive Growth?",
+      "url": "https://finnhub.io/api/news?id=101334882e78cbac01cddf5729f86ece01c323dbb30597f30bfe3c94d208c92c"
+    },
+    {
+      "stock": "HON",
+      "headline": "Earnings Preview: Honeywell International Inc. (HON) Q3 Earnings Expected to Decline",
+      "url": "https://finnhub.io/api/news?id=008896ce0a88f624cec3a128cb375cd9a27c5a3b265baf98934e9430cc7c5d28"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Dow Jones Futures Rise, But AI Sell-Off Continues On Anthropic News; Taiwan Semiconductor Earnings Strong",
+      "url": "https://finnhub.io/api/news?id=7bd625a98ecd006df283abd676950d910f0b8ff67434299ef1236ee5fdcd9f1a"
+    },
+    {
+      "stock": "DE",
+      "headline": "FMC Stock Plummets 35% on Horrendous Guidance",
+      "url": "https://finnhub.io/api/news?id=ba0f0ecdfa171f7fe1b455bf7fc02bfda2ef442b322b25439e2ba95b40371c09"
+    },
+    {
+      "stock": "U",
+      "headline": "Unity price target lifted as Vector attracts bigger advertising budgets",
+      "url": "https://finnhub.io/api/news?id=036d34dc3d1c3f32abb08e44fb012c281d9a571ddb036e7778d231ee6e137a2e"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "XPENG Expands Collaboration with Google to Bring Google Play into Its AI-Powered Cockpits",
+      "url": "https://finnhub.io/api/news?id=db735faaaad3271f47a4463925e0128074d4e4fcbdc8a4a41f3e51f416779228"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Valiantys Releases New Data Report Revealing Gap Between AI Ambition and Enterprise Readiness",
+      "url": "https://finnhub.io/api/news?id=e021910159d4c0f9676af2badd916e0816e88edfc3cf8ab016b377a00ba039df"
     }
   ]
 }
