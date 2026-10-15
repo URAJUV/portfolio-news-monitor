@@ -35,6 +35,36 @@
       "stock": "GOOGL",
       "headline": "BofA sees ChatGPT taking aim at Google’s next ad dollar",
       "url": "https://finnhub.io/api/news?id=1e5c7fddec10335484593a74578060b662c8260e0bc522f91d4bafb8dba82d93"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor Manufacturing Q3 Earnings Call Highlights",
+      "url": "https://finnhub.io/api/news?id=45cd6fc330cfc2a0c6d04e65de15d8773cf0411d3dc01fbc08e1c4907023d21a"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "3 Cybersecurity Stocks With Market Caps Over $9 Billion",
+      "url": "https://finnhub.io/api/news?id=0a5349d9c80ea35de278a3636ccd70f586dff3683e3b7b626fcbb4399ba1fb0e"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Update: Market Chatter: Anthropic Revenue Hits $16.8 Billion in Q3, AI-Modeler Cash Flow Positive",
+      "url": "https://finnhub.io/api/news?id=7d6c07ada52d4fd9fd0c64192a5f57f7913438cc7c9179b762d5ebecdc8716a2"
+    },
+    {
+      "stock": "HON",
+      "headline": "Should Honeywell’s AI Push and Kenya Megarefinery Win Require Action From Honeywell International (HON) Investors?",
+      "url": "https://finnhub.io/api/news?id=263b98f0856a5508b723ca4a322595fcaa5f6c2e319814ed81828a83e843ed20"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics Dives 9% as AI Funding Fears Hit Optical Stocks; Coherent Slides 7%, Lumentum Drops 7%",
+      "url": "https://finnhub.io/api/news?id=405e0bf2467d0f5c8354ba12268c0e6364e75009e3569490781e86560ef649fd"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Amplitude to Host Third Quarter 2026 Earnings Webcast on November 4, 2026",
+      "url": "https://finnhub.io/api/news?id=09c3b923f05668a000b216c7ba60bb52fa97a6e8b02df8d53d12ea16e14ce0f1"
     }
   ]
 }
