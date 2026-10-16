@@ -1,150 +1,35 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Broad-Based Growth Meets Bank Caution: The Evolving Q3 Earnings Picture",
-      "url": "https://finnhub.io/api/news?id=495728a9e4afc7f755b9edb69c486143fab4f04fd20c3b3baabeca77ab692313"
-    },
-    {
       "stock": "TSM",
-      "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led Sell-Off",
-      "url": "https://finnhub.io/api/news?id=c916de8f26e003f3576188a0c28503750d3cfca0fe7a9deb77caeb67b8ef9bdf"
+      "headline": "3 Taiwan AI Semiconductor Stocks Worth Watching After TSMC Earnings",
+      "url": "https://finnhub.io/api/news?id=4dbc6d57ae0842e47158433764a7c9f638acdf11d7821bb1eaa554de706643dc"
     },
     {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) Stock Looks Above Fair Value After Its 431% Run",
-      "url": "https://finnhub.io/api/news?id=f7e26b5e70523f3858b77d9019edad2fca225e5183e9d50f6ecc0bea1ad768f8"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
-      "url": "https://finnhub.io/api/news?id=6134625771cd440de41c3a01b65305609b0af3261b2fdd6ed1326fe73d8c3330"
-    },
-    {
-      "stock": "ARM",
-      "headline": "IBM Stock Before Q3 Earnings Release: To Buy or Not to Buy?",
-      "url": "https://finnhub.io/api/news?id=9553b16bbaba1b18a6056582f1672c87c23581d54b8e3ef7fe0fb43b38f53cbb"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Dive In AI-Led Sell-Off",
-      "url": "https://finnhub.io/api/news?id=c916de8f26e003f3576188a0c28503750d3cfca0fe7a9deb77caeb67b8ef9bdf"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "BofA sees ChatGPT taking aim at Google’s next ad dollar",
-      "url": "https://finnhub.io/api/news?id=1e5c7fddec10335484593a74578060b662c8260e0bc522f91d4bafb8dba82d93"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor Manufacturing Q3 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=45cd6fc330cfc2a0c6d04e65de15d8773cf0411d3dc01fbc08e1c4907023d21a"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "3 Cybersecurity Stocks With Market Caps Over $9 Billion",
-      "url": "https://finnhub.io/api/news?id=0a5349d9c80ea35de278a3636ccd70f586dff3683e3b7b626fcbb4399ba1fb0e"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Update: Market Chatter: Anthropic Revenue Hits $16.8 Billion in Q3, AI-Modeler Cash Flow Positive",
-      "url": "https://finnhub.io/api/news?id=7d6c07ada52d4fd9fd0c64192a5f57f7913438cc7c9179b762d5ebecdc8716a2"
-    },
-    {
-      "stock": "HON",
-      "headline": "Should Honeywell’s AI Push and Kenya Megarefinery Win Require Action From Honeywell International (HON) Investors?",
-      "url": "https://finnhub.io/api/news?id=263b98f0856a5508b723ca4a322595fcaa5f6c2e319814ed81828a83e843ed20"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Applied Optoelectronics Dives 9% as AI Funding Fears Hit Optical Stocks; Coherent Slides 7%, Lumentum Drops 7%",
-      "url": "https://finnhub.io/api/news?id=405e0bf2467d0f5c8354ba12268c0e6364e75009e3569490781e86560ef649fd"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Amplitude to Host Third Quarter 2026 Earnings Webcast on November 4, 2026",
-      "url": "https://finnhub.io/api/news?id=09c3b923f05668a000b216c7ba60bb52fa97a6e8b02df8d53d12ea16e14ce0f1"
-    },
-    {
-      "stock": "MU",
-      "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Crashed Today",
-      "url": "https://finnhub.io/api/news?id=a827df960e84552ac56e6a39a89099313b71fa57f2c74f24df74525105c96305"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Dow Jones Futures Rise, But AI Sell-Off Continues On Anthropic News; Taiwan Semiconductor Earnings Strong",
-      "url": "https://finnhub.io/api/news?id=7bd625a98ecd006df283abd676950d910f0b8ff67434299ef1236ee5fdcd9f1a"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Cybersecurity Stocks Retreat From Record Highs — Citi Raises CRWD, PANW, ZS Targets On Improving Spending Momentum",
-      "url": "https://finnhub.io/api/news?id=5ac5539f58d773fe04b11968b66f7e0911950c95ad4a9a1cb3b2ae48af6341e7"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Can Synopsys' AI-Focused Design IP Strategy Drive Growth?",
-      "url": "https://finnhub.io/api/news?id=101334882e78cbac01cddf5729f86ece01c323dbb30597f30bfe3c94d208c92c"
-    },
-    {
-      "stock": "HON",
-      "headline": "Earnings Preview: Honeywell International Inc. (HON) Q3 Earnings Expected to Decline",
-      "url": "https://finnhub.io/api/news?id=008896ce0a88f624cec3a128cb375cd9a27c5a3b265baf98934e9430cc7c5d28"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Dow Jones Futures Rise, But AI Sell-Off Continues On Anthropic News; Taiwan Semiconductor Earnings Strong",
-      "url": "https://finnhub.io/api/news?id=7bd625a98ecd006df283abd676950d910f0b8ff67434299ef1236ee5fdcd9f1a"
-    },
-    {
-      "stock": "DE",
-      "headline": "FMC Stock Plummets 35% on Horrendous Guidance",
-      "url": "https://finnhub.io/api/news?id=ba0f0ecdfa171f7fe1b455bf7fc02bfda2ef442b322b25439e2ba95b40371c09"
-    },
-    {
-      "stock": "U",
-      "headline": "Unity price target lifted as Vector attracts bigger advertising budgets",
-      "url": "https://finnhub.io/api/news?id=036d34dc3d1c3f32abb08e44fb012c281d9a571ddb036e7778d231ee6e137a2e"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "XPENG Expands Collaboration with Google to Bring Google Play into Its AI-Powered Cockpits",
-      "url": "https://finnhub.io/api/news?id=db735faaaad3271f47a4463925e0128074d4e4fcbdc8a4a41f3e51f416779228"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Valiantys Releases New Data Report Revealing Gap Between AI Ambition and Enterprise Readiness",
-      "url": "https://finnhub.io/api/news?id=e021910159d4c0f9676af2badd916e0816e88edfc3cf8ab016b377a00ba039df"
+      "stock": "COHR",
+      "headline": "Is Coherent (COHR) Using Its AI Capacity Buildout And TSX CDR Listing To Redefine Its Edge?",
+      "url": "https://finnhub.io/api/news?id=a6066166fdd98af78a09bdc2d422c8da0c603e1a8ce9955c41630cd8bfc06828"
     },
     {
       "stock": "UBER",
-      "headline": "Uber Technologies (UBER) Settles Sexual Assault Lawsuit Before Trial Tests Safety Reputation",
-      "url": "https://finnhub.io/api/news?id=a17345bddf720d46a64d09d191687d5ac3c3d3b967ce9dd67079d347ad177cbb"
+      "headline": "Ramp reaches $60B valuation as it pushes deeper into AI",
+      "url": "https://finnhub.io/api/news?id=f7d1f88f45b5ceedeb5361e3f6dc700346c97a7e8f73d83d1ca8f540f210f806"
     },
     {
-      "stock": "AAOI",
-      "headline": "B. Riley Securities Maintains Neutral on Applied Optoelectronics, Lowers Price Target to $92",
-      "url": "https://finnhub.io/api/news?id=ead5d0e642098eb72c098e316cb67e38f3b801d0eeaa87067a875cdd76d318b8"
-    },
-    {
-      "stock": "DE",
-      "headline": "Dover Set to Report Q3 Earnings: Here's What to Expect From the Stock",
-      "url": "https://finnhub.io/api/news?id=e371c5ff2124d86ebca3f76505632ec459a725b11c5f061a6e632a3b0638bef7"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM Has Paid Dividends Since 1916. Here’s Why Retirees Should Pay Attention Now",
-      "url": "https://finnhub.io/api/news?id=8302f47da73fa6f9202ca317dbe2ae7ae851074ec687a6ae73c472c7932178c7"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=3536f526109ba12a4ccf7b83337ec76650a6d4b2550ea5e6078899fe3e8c37fd"
+      "stock": "QBTS",
+      "headline": "Could Investing $5,000 in D-Wave Quantum Stock Today Make You a Millionaire?",
+      "url": "https://finnhub.io/api/news?id=ca313c1ec404eba97beb35d06dc12de8cfe7d627fd215b2d8b1d0e7c4c5e68ed"
     },
     {
       "stock": "TEAM",
-      "headline": "Wells Fargo Maintains Overweight on Atlassian, Raises Price Target to $230",
-      "url": "https://finnhub.io/api/news?id=57d1601de483271bea6b654408631edcb9f54b6642152aabf96ce0bce4ed40ee"
+      "headline": "CoreWeave, International Paper, Dell, FMC, Bloom Energy, Rocket Lab, and More Stocks That Explain Today’s Market",
+      "url": "https://finnhub.io/api/news?id=9a4469d4ebbd49905fa089eaa777fa273303692dee565fb036ca7651edcb4e7f"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "NFLX Stock Gains After-Hours After Disney’s Peter Rice Takes Reins As Chief Of Content",
+      "url": "https://finnhub.io/api/news?id=ddf97a836b49dee6f01a28aae592dfdfebc12f7ad6be16d5a18a96e0e2240cdc"
     }
   ]
 }
