@@ -95,6 +95,36 @@
       "stock": "NFLX",
       "headline": "Netflix stock falls as executive shake-up aims to revive viewership growth",
       "url": "https://finnhub.io/api/news?id=9d94ee83a38c9e1e438e0d7bcc7d3341179e49de1c5d401ec4c3ff4f936a6cb3"
+    },
+    {
+      "stock": "TSM",
+      "headline": "3 AI Semiconductor Stocks Riding The Chip Supply Squeeze",
+      "url": "https://finnhub.io/api/news?id=f8a50b7790a1c857412b3cfff7bf7413fa15220ed06a024fa3f9bb502e29014f"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys Signals Confidence With $1B Accelerated Buyback, Analysts Raise Targets",
+      "url": "https://finnhub.io/api/news?id=91af18ee2476b9850aa5c419c66d900f2edb4b382fcf10ab8419961e3f491c91"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
+      "url": "https://finnhub.io/api/news?id=042b71cb1b9afd96d54ae9e11c90b62b50d4d66c88dd0217f010354cdc7fafc1"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Has Buying HPE Stock's Dips Paid Off?",
+      "url": "https://finnhub.io/api/news?id=3e3a10e586c0687d3906a527ed70f45bd6d4f987ff3278740928e53efd5487ab"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Mizuho Maintains Outperform on Atlassian, Raises Price Target to $235",
+      "url": "https://finnhub.io/api/news?id=bce20b6cd598398f1fd80c438cd1d070b7e638ac750110abab4d7eb2f87b8b72"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix, Tesla Headline Busy Earnings Calendar; Spending Plans Key To Meta's Report",
+      "url": "https://finnhub.io/api/news?id=2be5562f384d7ba43520a2aae43b1760ae444d2b601bd191268fc3e6c405c2e7"
     }
   ]
 }
