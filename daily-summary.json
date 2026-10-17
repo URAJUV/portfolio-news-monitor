@@ -1,160 +1,35 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "3 Taiwan AI Semiconductor Stocks Worth Watching After TSMC Earnings",
-      "url": "https://finnhub.io/api/news?id=4dbc6d57ae0842e47158433764a7c9f638acdf11d7821bb1eaa554de706643dc"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Is Coherent (COHR) Using Its AI Capacity Buildout And TSX CDR Listing To Redefine Its Edge?",
-      "url": "https://finnhub.io/api/news?id=a6066166fdd98af78a09bdc2d422c8da0c603e1a8ce9955c41630cd8bfc06828"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Ramp reaches $60B valuation as it pushes deeper into AI",
-      "url": "https://finnhub.io/api/news?id=f7d1f88f45b5ceedeb5361e3f6dc700346c97a7e8f73d83d1ca8f540f210f806"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Could Investing $5,000 in D-Wave Quantum Stock Today Make You a Millionaire?",
-      "url": "https://finnhub.io/api/news?id=ca313c1ec404eba97beb35d06dc12de8cfe7d627fd215b2d8b1d0e7c4c5e68ed"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "CoreWeave, International Paper, Dell, FMC, Bloom Energy, Rocket Lab, and More Stocks That Explain Today’s Market",
-      "url": "https://finnhub.io/api/news?id=9a4469d4ebbd49905fa089eaa777fa273303692dee565fb036ca7651edcb4e7f"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "NFLX Stock Gains After-Hours After Disney’s Peter Rice Takes Reins As Chief Of Content",
-      "url": "https://finnhub.io/api/news?id=ddf97a836b49dee6f01a28aae592dfdfebc12f7ad6be16d5a18a96e0e2240cdc"
-    },
-    {
       "stock": "MU",
-      "headline": "Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)",
-      "url": "https://finnhub.io/api/news?id=8554de61a24f426580edd57e05b29e2dba9e44966b5c51bdb4804739efcbce07"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "What Amazon.com (AMZN)'s AI Shopping Bot Block Means For Shareholders",
-      "url": "https://finnhub.io/api/news?id=10bab8120524eef79ec7a1efd18b715c8ae77fc8fb01e22785c5c991e05f331a"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Chip Stocks Tumble On AI Investment Worries",
-      "url": "https://finnhub.io/api/news?id=559b98a87f1ffe8dd6489d1d8bb5a915025d657ffd96f2898b73cdb0e839bb60"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "US Stock Futures Edge Higher as Fed Chair Warsh Avoids Rate Guidance and Tesla Unveils New Roadster: Dow Jones, S&P, Nasdaq, Wall Street",
-      "url": "https://finnhub.io/api/news?id=82c37d76645e892ebccf390a3d8277ca97c83bf4869d3af25edd2cd5d85a48dd"
-    },
-    {
-      "stock": "HON",
-      "headline": "Mizuho Maintains Outperform on Honeywell Intl, Lowers Price Target to $255",
-      "url": "https://finnhub.io/api/news?id=6ce655fa55a92e8c5d3fd3b0fdfc2a990249c2ddff2cb41e331661f8a902b43a"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Buy 5 Top-Ranked Non-Tech Nasdaq Stocks to Maximize Q4 Gains",
-      "url": "https://finnhub.io/api/news?id=3d62b94c5842083a9d19d800d5a026a0821cf4cda5fbeeaf0ab93b4b459721d8"
-    },
-    {
-      "stock": "IBM",
-      "headline": "What IBM's Siemens Chip Partnership Means For Shareholders",
-      "url": "https://finnhub.io/api/news?id=36a603875d41d679c78b3ccfb771497c058109d86fcf93fef7f3c86fb9549787"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Keybanc Maintains Overweight on CrowdStrike Holdings, Raises Price Target to $265",
-      "url": "https://finnhub.io/api/news?id=708766bacd5d54889d8a38042d7c6fca13603f316fd10795ccec9432288f49ae"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "2 Tech Stocks to Buy Now and Hold for a Decade (Hint: 1 Isn't in the AI Trade)",
-      "url": "https://finnhub.io/api/news?id=0e68e83d98f1f8fd80fd1e3b052decd172e6e660a942e22d4358c9723b2c98fb"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "Mizuho Maintains Neutral on Shoals Technologies Group, Lowers Price Target to $10",
-      "url": "https://finnhub.io/api/news?id=b9c9a2a51d73b74adc34a20fe2bfedeabe846e1ee87fa4716e5d4f92e2a04a03"
-    },
-    {
-      "stock": "DE",
-      "headline": "Can CAT's North Carolina Investments Support Sustainable Growth?",
-      "url": "https://finnhub.io/api/news?id=f6dd7528049f5d8b912b9fdbc8ad541b593bcdc62f80da5e0496cb121cd954b8"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Stay Ahead of the Game With IBM (IBM) Q3 Earnings: Wall Street's Insights on Key Metrics",
-      "url": "https://finnhub.io/api/news?id=7ae99a972578dc4e1e28783da871dd7b1ef892ed54e933f15120be5eaef9a183"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix stock falls as executive shake-up aims to revive viewership growth",
-      "url": "https://finnhub.io/api/news?id=9d94ee83a38c9e1e438e0d7bcc7d3341179e49de1c5d401ec4c3ff4f936a6cb3"
+      "headline": "Micron stock faces unexpected trouble despite sold-out AI factory",
+      "url": "https://finnhub.io/api/news?id=e96efca9a38226b020007161af73cdfab564349c03f5c62fc5ad80d0393c98b8"
     },
     {
       "stock": "TSM",
-      "headline": "3 AI Semiconductor Stocks Riding The Chip Supply Squeeze",
-      "url": "https://finnhub.io/api/news?id=f8a50b7790a1c857412b3cfff7bf7413fa15220ed06a024fa3f9bb502e29014f"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys Signals Confidence With $1B Accelerated Buyback, Analysts Raise Targets",
-      "url": "https://finnhub.io/api/news?id=91af18ee2476b9850aa5c419c66d900f2edb4b382fcf10ab8419961e3f491c91"
+      "headline": "Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?",
+      "url": "https://finnhub.io/api/news?id=05c0647d23b323f4b13b3204299f611d6eb57e324c0e9a18dd0b9382e33ed6c9"
     },
     {
       "stock": "ARM",
-      "headline": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
-      "url": "https://finnhub.io/api/news?id=042b71cb1b9afd96d54ae9e11c90b62b50d4d66c88dd0217f010354cdc7fafc1"
+      "headline": "The Next AI Stock Wall Street Is Starting to Pay Attention To",
+      "url": "https://finnhub.io/api/news?id=711bce0ba02ea1c180cd24443ef2c6336a2becc4b65ba2e12d58b434036ffb05"
+    },
+    {
+      "stock": "OMEX",
+      "headline": "Odyssey Marine Exploration Announces Corporate Update on Proposed Merger with American Ocean Minerals Corporation",
+      "url": "https://finnhub.io/api/news?id=72939610b090410e4ec7a2a2d61069ab73b451ee8e558737c85e981d2c89da96"
     },
     {
       "stock": "IBM",
-      "headline": "Has Buying HPE Stock's Dips Paid Off?",
-      "url": "https://finnhub.io/api/news?id=3e3a10e586c0687d3906a527ed70f45bd6d4f987ff3278740928e53efd5487ab"
+      "headline": "Can Healthy Increase in Software Revenues Benefit IBM's Q3 Earnings?",
+      "url": "https://finnhub.io/api/news?id=f3ae281ca9d285817312403f3890dca80decbf928bb644a43e9a5bf747d684c7"
     },
     {
       "stock": "TEAM",
-      "headline": "Mizuho Maintains Outperform on Atlassian, Raises Price Target to $235",
-      "url": "https://finnhub.io/api/news?id=bce20b6cd598398f1fd80c438cd1d070b7e638ac750110abab4d7eb2f87b8b72"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix, Tesla Headline Busy Earnings Calendar; Spending Plans Key To Meta's Report",
-      "url": "https://finnhub.io/api/news?id=2be5562f384d7ba43520a2aae43b1760ae444d2b601bd191268fc3e6c405c2e7"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch",
-      "url": "https://finnhub.io/api/news?id=b13202a389388ae1216bf04ca37664a07b89116ccc616fde19558b6e2215db8f"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Stock Market Today, Oct. 16: Tesla Slips 2% as Roadster Reveal Fades Before Earnings",
-      "url": "https://finnhub.io/api/news?id=fa2ebb663600f9b57f7c3d3c06092e073153cedf123f41c9889e90b28e645512"
-    },
-    {
-      "stock": "HON",
-      "headline": "Dell Technologies (DELL) Lands Core AI Infrastructure Role In New Industrial Platform",
-      "url": "https://finnhub.io/api/news?id=89c5e0fd42aee585e520ba031ecf445dab130e7946791bbb7f5a2dbf84d9d829"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Airbnb's Brian Chesky barely writes one email a week — while Uber's CEO expects weekend replies",
-      "url": "https://finnhub.io/api/news?id=38f5c9872a364a79faec4fe07c7d27e3d5ba40ed2e4a9e73ce8594ad9b5cc876"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Can Slightly Higher Consulting Revenues Aid IBM's Q3 Earnings?",
-      "url": "https://finnhub.io/api/news?id=970aec4b30a1edffee3a8b77afec17fb4a954e1f7c2ff3411f713088d905e9a5"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Tesla, SpaceX, CoreWeave, Lam Research, Netflix, Strategy, and More Stocks That Explain Today’s Market",
-      "url": "https://finnhub.io/api/news?id=9535931db153ab9e8b897789d427320a83395b88da07124f45f2f8902ba66be5"
+      "headline": "Atlassian (TEAM) Launches New AI Programs, Is The Stock Fully Priced?",
+      "url": "https://finnhub.io/api/news?id=ff632e2feab4717a44d2e93fb9f30b9d49f1db4f6415af9d2adfe5604922c72c"
     }
   ]
 }
