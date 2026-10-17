@@ -1,4 +1,25 @@
 {
   "date": "2026-10-17",
-  "items": []
+  "items": [
+    {
+      "stock": "TSM",
+      "headline": "TSMC: The AI Cycle Just Sent Another Signal",
+      "url": "https://finnhub.io/api/news?id=9576b12b56403ab18288ecb2863ddb09ea62f28c27909f6a0dbe31eb47aad2f3"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) & Palo Alto (PANW) Can Be Part Of An AI “Kill Switch” Believes Jim Cramer",
+      "url": "https://finnhub.io/api/news?id=a6b4db07988e71f1362db4a7c28623f804979635bcfaea0074ecaf7253e1b59c"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here’s What It Means for Intel’s Margins",
+      "url": "https://finnhub.io/api/news?id=ca2bf16f5b630348dcff0278e595af4431925ee990afbac5440c39d89b96268b"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Competing for Eyeballs: Can Pinterest Stage a Comeback or Will Reddit Run Away With the AI Win?",
+      "url": "https://finnhub.io/api/news?id=d06716efa06b9c5da3cb595f0269031c2fb69d5c503d6050507a21d726c86b28"
+    }
+  ]
 }
