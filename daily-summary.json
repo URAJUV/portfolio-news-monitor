@@ -85,6 +85,16 @@
       "stock": "IBM",
       "headline": "Earnings Volatility Watch: Bloom Energy and Other 11 Stocks Are Priced For Double-Digit Swings",
       "url": "https://finnhub.io/api/news?id=5c78bcce8cd0cc2226cc7783c6eead9b62cb211292a3c27b37fb45d52b6b91ab"
+    },
+    {
+      "stock": "MU",
+      "headline": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
+      "url": "https://finnhub.io/api/news?id=09a001426b38ff579c11cd3e47ca3001d5fd108fce7b0d39ba662fe90537c3f2"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Dow Jones Futures: More AI Pain After Nasdaq Sell-Off? Meta, SpaceX, Tesla Earnings Key",
+      "url": "https://finnhub.io/api/news?id=4850df8f4a080ebe53120b2937b9c2cb3baeadb35e92705c5c6d9b119de30643"
     }
   ]
 }
