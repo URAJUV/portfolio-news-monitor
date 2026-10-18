@@ -60,6 +60,31 @@
       "stock": "TEAM",
       "headline": "Did AI Workflow Push Just Shift Atlassian's (TEAM) Investment Narrative?",
       "url": "https://finnhub.io/api/news?id=3074d41026936cab0c55156df75eb44bb8c915128d218e8c81154172c19ee48a"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg",
+      "url": "https://finnhub.io/api/news?id=5ea72f9690cd3a4cbe087402ea58bbd0cf6dfd0a664799bd9c09e11c08d4be28"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Top US Grocery Chains' Websites Remain Offline After a Major Cybersecurity Incident",
+      "url": "https://finnhub.io/api/news?id=22ca59360e51f1b8ae798eb61ef65d122ff80a46e2ac9a91511913914d306b9f"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "2 Retail Stocks to Buy Before the Holiday Shopping Season",
+      "url": "https://finnhub.io/api/news?id=1e2270f61245e1a5dee919fd217d62d610790904193d657283a334cb8bfcd1c8"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "US Appeals Court Overturns Class Action Lawsuit Over Tesla Self-Driving Claims",
+      "url": "https://finnhub.io/api/news?id=c1ba5c18726c68dff6b17dfcfa67e62c474e17b682835d5f8f1abbff0a7e872b"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Earnings Volatility Watch: Bloom Energy and Other 11 Stocks Are Priced For Double-Digit Swings",
+      "url": "https://finnhub.io/api/news?id=5c78bcce8cd0cc2226cc7783c6eead9b62cb211292a3c27b37fb45d52b6b91ab"
     }
   ]
 }
