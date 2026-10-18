@@ -1,45 +1,20 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "TSMC: The AI Cycle Just Sent Another Signal",
-      "url": "https://finnhub.io/api/news?id=9576b12b56403ab18288ecb2863ddb09ea62f28c27909f6a0dbe31eb47aad2f3"
+      "stock": "MU",
+      "headline": "Micron Looks Cheap on Earnings. How Much Can Profits Fall Before That Changes?",
+      "url": "https://finnhub.io/api/news?id=cd34c97a706c554e36d89704853d8178566481e9c212dbed52e8bb26a818188d"
     },
     {
-      "stock": "CRWD",
-      "headline": "CrowdStrike (CRWD) & Palo Alto (PANW) Can Be Part Of An AI “Kill Switch” Believes Jim Cramer",
-      "url": "https://finnhub.io/api/news?id=a6b4db07988e71f1362db4a7c28623f804979635bcfaea0074ecaf7253e1b59c"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here’s What It Means for Intel’s Margins",
-      "url": "https://finnhub.io/api/news?id=ca2bf16f5b630348dcff0278e595af4431925ee990afbac5440c39d89b96268b"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Competing for Eyeballs: Can Pinterest Stage a Comeback or Will Reddit Run Away With the AI Win?",
-      "url": "https://finnhub.io/api/news?id=d06716efa06b9c5da3cb595f0269031c2fb69d5c503d6050507a21d726c86b28"
-    },
-    {
-      "stock": "TSM",
-      "headline": "The AI Supercycle, Asia, And Why This Time Is Different",
-      "url": "https://finnhub.io/api/news?id=38742d1d5916af83c5350ce68f0ddd46c425ebcdfad5d8e9debba1de9eaf54f6"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Palo Alto Networks Fell Nearly 8% a Day After Citi Raised Its Target to $440. Here’s Where the Stock Could Go by 2031",
-      "url": "https://finnhub.io/api/news?id=4bb2efb70874ea121c8216f8fe3134702ee96fe637d32307f347f04bc68dc8f0"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Discount grocery chain closing all stores as bargain grocers struggle",
-      "url": "https://finnhub.io/api/news?id=c92b0ec586b198d340fba90990d47fcae50d8995f1f9da9129b96e5b8b147a62"
-    },
-    {
-      "stock": "NFLX",
+      "stock": "IBM",
       "headline": "Meta, Tesla Headline Earnings In Busy Week For Markets",
       "url": "https://finnhub.io/api/news?id=3dcbe5a8689c76a628f51ae4c5084970467aab6b7f0f374e353ded8fe09592d4"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian (TEAM) Stock May Look Fully Priced Following Its AMP AI Launch",
+      "url": "https://finnhub.io/api/news?id=246938c4522ddfebea88a777ef9f1bd9cde55b6fac369a6bcdfa967f728556b6"
     }
   ]
 }
