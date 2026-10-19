@@ -35,6 +35,46 @@
       "stock": "NFLX",
       "headline": "Top 4 Earnings Reports This Week: What Tesla, Meta, SpaceX, Netflix Must Show",
       "url": "https://finnhub.io/api/news?id=088a6f07274d5ef19dcc93ad1ad7eb4642a3200a6147fa16c50c76411525e650"
+    },
+    {
+      "stock": "MU",
+      "headline": "AI Stocks Bounce Back but It’s Nothing to Celebrate",
+      "url": "https://finnhub.io/api/news?id=1e4b1f07be51ae765777d7982c3089d435bb7ea5cfe8dffb816138865be6859a"
+    },
+    {
+      "stock": "TSM",
+      "headline": "ASML: No AI Slowdown In Sight As Orders And Margins Surge",
+      "url": "https://finnhub.io/api/news?id=5c9a058b791abb54d991b66f87cc15847ce9844f9eef1b8610820c30c0c3473f"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Alphabet Looks Better By The Day for This One AI Strategy",
+      "url": "https://finnhub.io/api/news?id=5e290b485999d98c5ceb089cb41e95516a3cdcd702f6fdf01af4b3b8dd75ce35"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Global Photonic Integrated Circuits Market Report 2026 | Capitalize on 19.3% CAGR Through 2030 as STMicroelectronics, GlobalFoundries, Coherent and Ayar Labs Accelerate AI Data Centers",
+      "url": "https://finnhub.io/api/news?id=db7c636962c841d2b328221d0c5a16d3013cdd731483b25e687241acb5b5f842"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "EDA Tools - Global Strategic Business Report:AI and Shrinking Chips Push Chip-Design Software Toward a $26.9 Billion Market",
+      "url": "https://finnhub.io/api/news?id=80a8198634fdef1f093e14432c80765012e3ecd4f67b61eef712dec1782cdf7c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as the AI trade rebounds",
+      "url": "https://finnhub.io/api/news?id=a544e4a22e98a5dfff52695d5303a2c93bd1e3968837414b0536a0604db4fee5"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Secures Dismissal of £340 Million London Taxi Lawsuits",
+      "url": "https://finnhub.io/api/news?id=a148461287d3ed5e763ee26c8eb13623b2bb40c47f194dcff28b1f6ff7dc05b0"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Cramer points to rare Reddit buy opportunity amid Google AI threat",
+      "url": "https://finnhub.io/api/news?id=56d8e598e38b92dda34f2221b45a9a9d361384e91308cb11daf5a3b36ca53d9a"
     }
   ]
 }
