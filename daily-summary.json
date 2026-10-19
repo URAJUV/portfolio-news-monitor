@@ -75,6 +75,31 @@
       "stock": "RDDT",
       "headline": "Cramer points to rare Reddit buy opportunity amid Google AI threat",
       "url": "https://finnhub.io/api/news?id=56d8e598e38b92dda34f2221b45a9a9d361384e91308cb11daf5a3b36ca53d9a"
+    },
+    {
+      "stock": "TSM",
+      "headline": "The AI Selloff Is About Financing",
+      "url": "https://finnhub.io/api/news?id=44dbbc3553ef09bb6da817255ba750a17c000246de39665159d69ffa4b5fd394"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Intel leads chip stocks higher as investors jump back into AI trade",
+      "url": "https://finnhub.io/api/news?id=2820dde5cd99817f9b1e95d390cdea94731c177e10050c3fee1068a3326c294a"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Technologies to Post Q3 Earnings: What's in the Offing?",
+      "url": "https://finnhub.io/api/news?id=d5776e0dec003aa4825c586015200ba4d84c77e6736e60d668a5b96e14bfd5b3"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Keybanc Maintains Overweight on Atlassian, Raises Price Target to $235",
+      "url": "https://finnhub.io/api/news?id=8046a46a5f1f567a9412ce56e13a410a11b54c4a74a2733b49f339eaeb218f46"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix's Co-CEO Ted Sarandos Just Gave Investors Bad News Before Earnings",
+      "url": "https://finnhub.io/api/news?id=b7b65037e4f49f8ca49bb59618a910e7bededc9db25b8da23d81dd20d5267044"
     }
   ]
 }
