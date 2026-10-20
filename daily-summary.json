@@ -1,105 +1,45 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "items": [
     {
-      "stock": "MU",
-      "headline": "If I Could Only Own 1 Artificial Intelligence (AI) Memory Stock for the Next 5 Years, It Wouldn't Be Micron.",
-      "url": "https://finnhub.io/api/news?id=4a12bae0feea9b77908046be33fc7c8f6f4411f3f39faab56b0abcf51b67669a"
-    },
-    {
       "stock": "TSM",
-      "headline": "Taiwan Semiconductor Just Proved Why It's a Top AI Investment",
-      "url": "https://finnhub.io/api/news?id=aa8f89ccfcc82cdd5533240900c42271d1d202512420920155fb3590ecca9420"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
-      "url": "https://finnhub.io/api/news?id=7ccf03be8481c9a0b30bc0679d5ff5912cb567bac2d203c032f6082fd7495c79"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "How much Amazon stock does CEO Andy Jassy actually own?",
-      "url": "https://finnhub.io/api/news?id=3d6ba59891643845fa7ec14cc904b4de3ad3adfc7ced63aefc992c6713d4c52e"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Meta, Tesla Q3 earnings will be fighting rising AI skepticism",
-      "url": "https://finnhub.io/api/news?id=fc1c7783b3805d0c84a9fc0df7acd5d0d866570cb349f636026adfe06d7d51a8"
-    },
-    {
-      "stock": "HON",
-      "headline": "What a New Nvidia-Backed AI Platform Means for Honeywell Stock",
-      "url": "https://finnhub.io/api/news?id=5ac22a9eb0829bd8df3a9e3ecbfbf82058f4e386211559a1961f91ecb6ad786e"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Top 4 Earnings Reports This Week: What Tesla, Meta, SpaceX, Netflix Must Show",
-      "url": "https://finnhub.io/api/news?id=088a6f07274d5ef19dcc93ad1ad7eb4642a3200a6147fa16c50c76411525e650"
-    },
-    {
-      "stock": "MU",
-      "headline": "AI Stocks Bounce Back but It’s Nothing to Celebrate",
-      "url": "https://finnhub.io/api/news?id=1e4b1f07be51ae765777d7982c3089d435bb7ea5cfe8dffb816138865be6859a"
-    },
-    {
-      "stock": "TSM",
-      "headline": "ASML: No AI Slowdown In Sight As Orders And Margins Surge",
-      "url": "https://finnhub.io/api/news?id=5c9a058b791abb54d991b66f87cc15847ce9844f9eef1b8610820c30c0c3473f"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Alphabet Looks Better By The Day for This One AI Strategy",
-      "url": "https://finnhub.io/api/news?id=5e290b485999d98c5ceb089cb41e95516a3cdcd702f6fdf01af4b3b8dd75ce35"
+      "headline": "The AI Conundrum: Massive AI Panic While TSMC's Profits Soar 69%",
+      "url": "https://finnhub.io/api/news?id=4b67c7e0fd3b887b635b2fb5292bfa5c6a596f2c7265a2ff9ee34c196bf9db79"
     },
     {
       "stock": "COHR",
-      "headline": "Global Photonic Integrated Circuits Market Report 2026 | Capitalize on 19.3% CAGR Through 2030 as STMicroelectronics, GlobalFoundries, Coherent and Ayar Labs Accelerate AI Data Centers",
-      "url": "https://finnhub.io/api/news?id=db7c636962c841d2b328221d0c5a16d3013cdd731483b25e687241acb5b5f842"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "EDA Tools - Global Strategic Business Report:AI and Shrinking Chips Push Chip-Design Software Toward a $26.9 Billion Market",
-      "url": "https://finnhub.io/api/news?id=80a8198634fdef1f093e14432c80765012e3ecd4f67b61eef712dec1782cdf7c"
+      "headline": "The AI Trade Is Working Again",
+      "url": "https://finnhub.io/api/news?id=16acd05f61b2b0e02e9f1208d35f869137e32f346833912111e3fa64da57c162"
     },
     {
       "stock": "TSLA",
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as the AI trade rebounds",
-      "url": "https://finnhub.io/api/news?id=a544e4a22e98a5dfff52695d5303a2c93bd1e3968837414b0536a0604db4fee5"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber Secures Dismissal of £340 Million London Taxi Lawsuits",
-      "url": "https://finnhub.io/api/news?id=a148461287d3ed5e763ee26c8eb13623b2bb40c47f194dcff28b1f6ff7dc05b0"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Cramer points to rare Reddit buy opportunity amid Google AI threat",
-      "url": "https://finnhub.io/api/news?id=56d8e598e38b92dda34f2221b45a9a9d361384e91308cb11daf5a3b36ca53d9a"
-    },
-    {
-      "stock": "TSM",
-      "headline": "The AI Selloff Is About Financing",
-      "url": "https://finnhub.io/api/news?id=44dbbc3553ef09bb6da817255ba750a17c000246de39665159d69ffa4b5fd394"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Intel leads chip stocks higher as investors jump back into AI trade",
-      "url": "https://finnhub.io/api/news?id=2820dde5cd99817f9b1e95d390cdea94731c177e10050c3fee1068a3326c294a"
+      "headline": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
+      "url": "https://finnhub.io/api/news?id=0e89d884f4dae74cae42a9e4c1ebd99c70ba069b9909f908a2dbd34d54a36a5a"
     },
     {
       "stock": "HON",
+      "headline": "Exploring Analyst Estimates for Honeywell International (HON) Q3 Earnings, Beyond Revenue and EPS",
+      "url": "https://finnhub.io/api/news?id=7f5ba0cb3ca5d3b9485aa0092039831a48e81b9119018e1038b0e13b89aefb95"
+    },
+    {
+      "stock": "DE",
       "headline": "Honeywell Technologies to Post Q3 Earnings: What's in the Offing?",
       "url": "https://finnhub.io/api/news?id=d5776e0dec003aa4825c586015200ba4d84c77e6736e60d668a5b96e14bfd5b3"
     },
     {
-      "stock": "TEAM",
-      "headline": "Keybanc Maintains Overweight on Atlassian, Raises Price Target to $235",
-      "url": "https://finnhub.io/api/news?id=8046a46a5f1f567a9412ce56e13a410a11b54c4a74a2733b49f339eaeb218f46"
+      "stock": "IBM",
+      "headline": "Update: Tech-Heavy Nasdaq Leads Wall Street's Relief Rally Ahead of Key Earnings",
+      "url": "https://finnhub.io/api/news?id=a139c8e472ae6059b9be8564cf6efbe69069460e8698377098c7300a062d83a7"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Update: Tech-Heavy Nasdaq Leads Wall Street's Relief Rally Ahead of Key Earnings",
+      "url": "https://finnhub.io/api/news?id=a139c8e472ae6059b9be8564cf6efbe69069460e8698377098c7300a062d83a7"
     },
     {
       "stock": "NFLX",
-      "headline": "Netflix's Co-CEO Ted Sarandos Just Gave Investors Bad News Before Earnings",
-      "url": "https://finnhub.io/api/news?id=b7b65037e4f49f8ca49bb59618a910e7bededc9db25b8da23d81dd20d5267044"
+      "headline": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
+      "url": "https://finnhub.io/api/news?id=0e89d884f4dae74cae42a9e4c1ebd99c70ba069b9909f908a2dbd34d54a36a5a"
     }
   ]
 }
