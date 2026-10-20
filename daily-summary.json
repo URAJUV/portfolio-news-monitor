@@ -90,6 +90,56 @@
       "stock": "NFLX",
       "headline": "Should You Buy Netflix Stock Before Its Earnings Report After Hours Today?",
       "url": "https://finnhub.io/api/news?id=1177a2f08fc687f49a1a8eba968bc0c6b4aba59b4e5f4446ad5535ee35290c51"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Chip stocks decline as AI-trade rebound fizzles",
+      "url": "https://finnhub.io/api/news?id=81964fb967958e3d02befa2f73ab5cdb7184e81fdfd87cdcebee08d7d62f114b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon Stock Rises on Morgan Stanley Top Pick: What the $350 Target Needs",
+      "url": "https://finnhub.io/api/news?id=760c6eb9175adc6c96225d582675e3b33ddd711e4f2116a85354b90723f2b93e"
+    },
+    {
+      "stock": "COHR",
+      "headline": "S&P 500 Premarket Movers: Gainers and Losers on Oct. 20, 2026",
+      "url": "https://finnhub.io/api/news?id=3e5d5788b1790c53ab96b400fd73e22cd501df710bcc6cce367f0b1d9d5a3c4d"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "JP Morgan Maintains Overweight on Shoals Technologies Group, Lowers Price Target to $12",
+      "url": "https://finnhub.io/api/news?id=3b59c2c0ed3c0ba6c9f4dfcfdcdd048c48a5f7808d7bfa9fa79e6ceb3e9a033f"
+    },
+    {
+      "stock": "UBER",
+      "headline": "1 Volatile Stock to Target This Week and 2 That Underwhelm",
+      "url": "https://finnhub.io/api/news?id=45749290f15bb52af2d83c9ead55a01c32c1ec3576fd8d86a0db9280655a7307"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "GE Aerospace (GE) Q3 Earnings and Revenues Top Estimates",
+      "url": "https://finnhub.io/api/news?id=5c71d33db181678f0a0c64c2a0beb6a2d7976b276e9d5a15d86567dc742b19f8"
+    },
+    {
+      "stock": "IBM",
+      "headline": "llm-d 1.0 Advances Open, Cost-Efficient AI Inference for Production Scale",
+      "url": "https://finnhub.io/api/news?id=299d7f6a2630a33c9e97ede89fecd6d6beb61b1b3c341bed4de45fe488d71cc8"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Freshworks' Torii Acquisition: Can AI Spend Governance Drive Growth?",
+      "url": "https://finnhub.io/api/news?id=953bbc143452eab652a521dd06a4239900b771105a296ef91e3fa62c828a86fa"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Stock Market Today: Dow Wavers As Oil Prices Surge; Netflix, SpaceX Mixed Ahead Of Earnings (Live Coverage)",
+      "url": "https://finnhub.io/api/news?id=330472cc71f8433d714365f94ca2fbe69ef31315a465c9f13558b35669b289c2"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Worker, 27, Considers Quitting $110K Job With $2.5M Payout Coming, Says ‘I’m Deathly Afraid Of Squandering This Gift’",
+      "url": "https://finnhub.io/api/news?id=f4e4fdb66207308c31640f718d66912f748233e18ea790f7ce7cd4b9669b6e97"
     }
   ]
 }
