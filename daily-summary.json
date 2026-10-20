@@ -40,6 +40,56 @@
       "stock": "NFLX",
       "headline": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
       "url": "https://finnhub.io/api/news?id=0e89d884f4dae74cae42a9e4c1ebd99c70ba069b9909f908a2dbd34d54a36a5a"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "QIZ is Now Available for Purchase on the CrowdStrike Marketplace",
+      "url": "https://finnhub.io/api/news?id=c450707b7af1266aa442b93430e0401fbf87fe97757ad935faa6c523a4723f26"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "UPS Yields 6.7% After Firing Amazon. Here's Whether the Dividend Survives 2027.",
+      "url": "https://finnhub.io/api/news?id=0453ffebd41b6a2f6d6abd72e05768ae09872105fbb2a986a04d8e93575d0506"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Is Coherent (COHR) Fairly Valued?",
+      "url": "https://finnhub.io/api/news?id=4e9d672fc8b6a0d9abe7e02ed7dc6e2caa49767e7f0ce2ae290b42fa53fa7da2"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla (TSLA) Reports Earnings Tomorrow: What To Expect",
+      "url": "https://finnhub.io/api/news?id=4b67f402bc4006706cdfcc54c8a8594cfd8d51b6d277437816a48b7825018607"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ, Inc. (IONQ) Stock Dips While Market Gains: Key Facts",
+      "url": "https://finnhub.io/api/news?id=1573690d984664695b05ea8c68bb13972b4779b9ac5cb5ac2d5749907421f598"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "AI Stocks Rebound. Chip Sector’s Historic Losing Streak Is Set to Snap.",
+      "url": "https://finnhub.io/api/news?id=2737e37e18c3b0dbcf7b4a528f747ef6a327fd3715881d6c186b6ed08150015f"
+    },
+    {
+      "stock": "DE",
+      "headline": "Postmarket Movers: Oct. 19 After-Hours Gainers and Losers",
+      "url": "https://finnhub.io/api/news?id=c98c6c3fe0e8de504e4b54cbe161d7560e7d91c4fdc2688272f07454c734c490"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM (IBM) Q3 Earnings Report Preview: What To Look For",
+      "url": "https://finnhub.io/api/news?id=1b33d40ecaf96394ad375c4d306f7b9a334bc2852d820571ac04f01d84d280da"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "SpaceX Faces Earnings Test Today: RBC Flags Over 50% Upside As Tesla Merger Buzz Builds, S&P Flags AI Financing Risks",
+      "url": "https://finnhub.io/api/news?id=6199a9d9e065830fed2e1227b194334e2b8b9cf7bc9ddc0800555d88618cfb09"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Should You Buy Netflix Stock Before Its Earnings Report After Hours Today?",
+      "url": "https://finnhub.io/api/news?id=1177a2f08fc687f49a1a8eba968bc0c6b4aba59b4e5f4446ad5535ee35290c51"
     }
   ]
 }
