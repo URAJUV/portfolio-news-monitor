@@ -200,6 +200,36 @@
       "stock": "NFLX",
       "headline": "Have we hit AI IPO fatigue? More Netflix woes, and airlines try to stay afloat",
       "url": "https://finnhub.io/api/news?id=a97e65bba80bdb5dc99dfde31d880eeaf65aadb9b0e25761ee7f607c3a4479fe"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC Stock: AI Demand Drives Strong Q3 Results",
+      "url": "https://finnhub.io/api/news?id=4483360b9abf9da96e3301937a2eec98fef3e6ecfa284a29569078edc20d75db"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "SpaceX-Tesla merger? Musk speaks on 'tap-dancing through a minefield'",
+      "url": "https://finnhub.io/api/news?id=66509a6bac90fcb81bf82a4290be052d477a0ba1fe1edcbadc4676ddfa476745"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Chip stocks recover as AI jitters fade",
+      "url": "https://finnhub.io/api/news?id=587276475fd17a4d0b24a977b85b0c771b3ef1553e79dc02e2dbab4299bffef1"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Technologies (UBER) Stock Sinks As Market Gains: Here's Why",
+      "url": "https://finnhub.io/api/news?id=857cbee23e87267e60664015a1ad6f95ba746b78f326f4fbbf1a14d6c56929fb"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Optics Stocks Rally Ahead of Earnings: Applied Optoelectronics Jumps 5%, Lumentum Adds 4%, Coherent Rises 2%",
+      "url": "https://finnhub.io/api/news?id=104718aad5d3ecaa1f389ff4a5613d807e44aea3df722e3ca62d7aeec8bb83e7"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Dow Jones Futures Rise As SpaceX Crushes Views, Eyes Tesla Merger; Meta Looms",
+      "url": "https://finnhub.io/api/news?id=514e5ced8a575e9d239671a711d97708460e8f3944db5d2aee88c6e36b85e8c6"
     }
   ]
 }
