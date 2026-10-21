@@ -135,6 +135,36 @@
       "stock": "NFLX",
       "headline": "Stock Market Today: Nasdaq Vaults On SpaceX Report; Software Names Gain (Live Coverage)",
       "url": "https://finnhub.io/api/news?id=18ceb7f9c9bfc0dd34ff0c6c627912be00a08d9b78ab20be862d24f053e77f55"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon logistics automation offers long-term margin gains, Jefferies says",
+      "url": "https://finnhub.io/api/news?id=cbefd013412e5c74ca19d4e09e4ccd2b7cca791d58366392af7481e08516344e"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
+      "url": "https://finnhub.io/api/news?id=fd44d6921eedee7b6216f639f16a9a3c11cc1d796a7eff9f48afb82d483aa713"
+    },
+    {
+      "stock": "HALO",
+      "headline": "5 Strong Buy Growth Stocks With High Margins to Grab Before Earnings",
+      "url": "https://finnhub.io/api/news?id=20e7034c34acac7dc4f09bb5e60ded3c6ef038487ad6564a6f9c131d1a69fbc8"
+    },
+    {
+      "stock": "DE",
+      "headline": "SpaceX (SPCX) Stock Surges After Q3 Earnings: Time to Buy?",
+      "url": "https://finnhub.io/api/news?id=3dba65f13cbc6d213c825e5a5c48ef2364dec51f300b5ff1f21e6e301e753138"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=38efbbf6aed650a45949e2eb7f86724a1f636ddda7c45457a277e57f41a8c285"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Citigroup Maintains Buy on Atlassian, Raises Price Target to $245",
+      "url": "https://finnhub.io/api/news?id=a6a6c0dce438378c58d637f2e1d709fa4e48aba89b08502e64299374ddf3caac"
     }
   ]
 }
