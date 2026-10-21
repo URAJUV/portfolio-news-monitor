@@ -30,6 +30,51 @@
       "stock": "NFLX",
       "headline": "NFLX Stock Tumbles Overnight: Co-CEO Wants Netflix To Be Last Service Customers 'Ever Cancel', Says Live Events 'Drive New Membership'",
       "url": "https://finnhub.io/api/news?id=06cae5133794e18e56baf75a407381a37a876a9feb69c8dccaed4345f69aa988"
+    },
+    {
+      "stock": "MU",
+      "headline": "Ken Fisher and Jim Cramer Like This Bank Stock. Is It a Buy After Earnings?",
+      "url": "https://finnhub.io/api/news?id=d8ceaec37f3d977b1ed29ca91dc6d74a1ed94cead7761d58d8750822d6f8e2f2"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC: Q3 Earnings Reveal The Coiled Spring For 2027 Profits",
+      "url": "https://finnhub.io/api/news?id=fcd7c7723712805929c8dafaed25b7649fa2137c44c139521e6aceea308f4f27"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
+      "url": "https://finnhub.io/api/news?id=0e48e2dac20dbfbbc3e64457ed97d4186684e75f30a76031052bd6887d464073"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Ken Fisher and Jim Cramer Like This Bank Stock. Is It a Buy After Earnings?",
+      "url": "https://finnhub.io/api/news?id=d8ceaec37f3d977b1ed29ca91dc6d74a1ed94cead7761d58d8750822d6f8e2f2"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Market Chatter: Oracle Chairman Larry Ellison Borrowed Billions to Finance Son's Warner Bros. Discovery Acquisition",
+      "url": "https://finnhub.io/api/news?id=bbf19a645e9ba8fb062961344e0ee67a4644cea582f97e3a16fedaee45b8d737"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Grab's Planned Foodpanda Taiwan Deal Blocked by Regulator Over Competition Concerns",
+      "url": "https://finnhub.io/api/news?id=7e8ee74799bc6f41d0424929076a6e9d3e499fcbcf13101acff60223396207d9"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Document AI Market Size, Share, Trends, and Global Forecast to 2031 | Document AI Market Forecasts Growth from $17.51 Billion (2026) to $35.34 Billion by 2031, Profiling Google, Microsoft, IBM, ABBYY & 40 Other Key Players",
+      "url": "https://finnhub.io/api/news?id=3ea90d3988ddc58d24f1de513d2e0bdf7c14aef2c03298284db6a61d3b1e045a"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Warren Buffett's Successor, Greg Abel, Just Went Shopping in the Tech Sector Again!",
+      "url": "https://finnhub.io/api/news?id=f95ee927dee819e4cd8bc527d8a3653a37ddc34d3c851b4f4f075a78429baa66"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Nasdaq Futures Rise Premarket As SpaceX AI Boom Lifts Chip Stocks: SMCI, TSLA, META, IBM, CRWV, NFLX, BE In Focus",
+      "url": "https://finnhub.io/api/news?id=b99c7f34f9d3c4158e7c9733dbdb408e295c34dd0861144baff83f87122e0473"
     }
   ]
 }
