@@ -75,6 +75,66 @@
       "stock": "NFLX",
       "headline": "Nasdaq Futures Rise Premarket As SpaceX AI Boom Lifts Chip Stocks: SMCI, TSLA, META, IBM, CRWV, NFLX, BE In Focus",
       "url": "https://finnhub.io/api/news?id=b99c7f34f9d3c4158e7c9733dbdb408e295c34dd0861144baff83f87122e0473"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron (MU) Is Trading at 5x Earnings Despite 87% Margins. What Is Wall Street Missing?",
+      "url": "https://finnhub.io/api/news?id=d285eadca47c6c8c12d7a78231f776ca988e4e34221b5d9a7f820e8979101864"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Arista Networks Vs. Cisco Systems: Modern AI Data Center Networking vs. Legacy Enterprise Switch Leader",
+      "url": "https://finnhub.io/api/news?id=601124bb4e1bc9c5049eed96b5a2eccdbf28b38d20fa6b77ae5d32015b9bd436"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Gains 3.6% on Expanded NVIDIA AI Agent Security Deal: “Setting the Standard”",
+      "url": "https://finnhub.io/api/news?id=958583b1e72ae7acdb4c9769ca127d7115b2689e0c3b50f8553600c447c8f2e0"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Alphabet Slips 2% Despite NASDAQ Rally as Pichai Says Google Cloud Is Giving Up Revenue for AI Capacity; Amazon Dips, Microsoft Holds Steady",
+      "url": "https://finnhub.io/api/news?id=5023793fb4092c84946cf9fcdad5139d31ad359f180b7a1d2d6dce3b83f9c3b6"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings",
+      "url": "https://finnhub.io/api/news?id=7ec20134b7b0279facf740220681c46e08c4fcbea48568c3079ab0d00328d34f"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Morgan Stanley Maintains Overweight on Synopsys, Raises Price Target to $574",
+      "url": "https://finnhub.io/api/news?id=cc78d765f63c0b1ce234a598d5d44441fea8b1e42abff6b969935333d8c54090"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Top Midday Stories: SpaceX, Tesla Explore Potential Merger; Abbott to Separate Nutrition Business Into Independent Publicly Traded Firm",
+      "url": "https://finnhub.io/api/news?id=1c732fdbb0be8c0dc880e0c6a89cbd1d4975af32dc7e49ef0da79f7aec04546d"
+    },
+    {
+      "stock": "HALO",
+      "headline": "ELV Beats Q3 Earnings Estimates on Carelon Strength, Raises 2026 Outlook",
+      "url": "https://finnhub.io/api/news?id=a3ff301e9e8f7d6918e969f7199051ec88cfc4ebb4c1ad83712db1978071b49e"
+    },
+    {
+      "stock": "U",
+      "headline": "The AppLovin Playbook Is Working Again - But For Unity",
+      "url": "https://finnhub.io/api/news?id=f11bf6d5218454e8371b264340ef53ccf040423c1ec5beee8aa6840ddacce01f"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Alphabet Slips 2% Despite NASDAQ Rally as Pichai Says Google Cloud Is Giving Up Revenue for AI Capacity; Amazon Dips, Microsoft Holds Steady",
+      "url": "https://finnhub.io/api/news?id=5023793fb4092c84946cf9fcdad5139d31ad359f180b7a1d2d6dce3b83f9c3b6"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Truist Securities Maintains Buy on Atlassian, Raises Price Target to $250",
+      "url": "https://finnhub.io/api/news?id=fb330ba4842858df18165ef6b848193cf85f8680af3f013f45bd8847be1142ef"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Stock Market Today: Nasdaq Vaults On SpaceX Report; Software Names Gain (Live Coverage)",
+      "url": "https://finnhub.io/api/news?id=18ceb7f9c9bfc0dd34ff0c6c627912be00a08d9b78ab20be862d24f053e77f55"
     }
   ]
 }
