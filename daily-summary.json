@@ -130,6 +130,26 @@
       "stock": "NFLX",
       "headline": "Netflix Has Another Tough Month, Dropping 10%: This Wall Street Pro Says 90% Gains Lie Ahead",
       "url": "https://finnhub.io/api/news?id=f8cb92aa88d1c7e2247b7691b6fefeb24b1862a0427249f19e412fa58c579f05"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Moody’s upgrades TSMC rating to Aa2 on booming AI demand and market dominance",
+      "url": "https://finnhub.io/api/news?id=6d4415f3e40155eb64fc4f566904ab0123506534699ec0b44d88bff7953a584d"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell (HON) Q3 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=6f5ae4be2cfa1004aab86866b540d94a0f37126a7fcdd721f1da89d47bfe3515"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "MSC Industrial Direct Co., Inc. Q4 2026 Earnings Call Summary",
+      "url": "https://finnhub.io/api/news?id=e88f3843efe15799347fed93dcec50b92a63b35f7eaebead34cc9414e0e73178"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "The Truth About Netflix’s Massive Stock Buybacks",
+      "url": "https://finnhub.io/api/news?id=5e16eb9dd72b240a6cc21c6ac132e80aae3917698587e7c2894147e99acb61b4"
     }
   ]
 }
