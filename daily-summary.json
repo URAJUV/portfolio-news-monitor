@@ -1,170 +1,40 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "items": [
     {
       "stock": "TSM",
-      "headline": "The Moment Jensen Huang Realized Nvidia 'Won't Have to Die' Came After a Call From This CEO: 'For the Whole Time, 30 Years…'",
-      "url": "https://finnhub.io/api/news?id=0ba4c35b91927d78683d6718f91e4c4472c0b5cecf669c7c6ca538438244ba45"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "SPCX Stock Jumps Overnight: Musk Teases $1 Trillion Revenue By 2028 — Analyst Sees 95% Tesla Merger Odds In 2 Years",
-      "url": "https://finnhub.io/api/news?id=2a4ca33065927c828d902e47a564ebca11010bd6082f47a54ded46055072b956"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Chip stocks decline as AI-trade rebound fizzles",
-      "url": "https://finnhub.io/api/news?id=81964fb967958e3d02befa2f73ab5cdb7184e81fdfd87cdcebee08d7d62f114b"
-    },
-    {
-      "stock": "HON",
-      "headline": "A 30.9% Yield Looks Incredible. The Dividend Math Tells Another Story",
-      "url": "https://finnhub.io/api/news?id=92a67fd1aa56ce12cbbd3405dfd4dad4cd51e93a12c27a1c8111ffaea536d432"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "BTIG Maintains Buy on Atlassian, Raises Price Target to $260",
-      "url": "https://finnhub.io/api/news?id=bbd738611448f00c0e1218eb04d58657a285e0682a34fe84904992af4fe94845"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "NFLX Stock Tumbles Overnight: Co-CEO Wants Netflix To Be Last Service Customers 'Ever Cancel', Says Live Events 'Drive New Membership'",
-      "url": "https://finnhub.io/api/news?id=06cae5133794e18e56baf75a407381a37a876a9feb69c8dccaed4345f69aa988"
-    },
-    {
-      "stock": "MU",
-      "headline": "Ken Fisher and Jim Cramer Like This Bank Stock. Is It a Buy After Earnings?",
-      "url": "https://finnhub.io/api/news?id=d8ceaec37f3d977b1ed29ca91dc6d74a1ed94cead7761d58d8750822d6f8e2f2"
-    },
-    {
-      "stock": "TSM",
-      "headline": "TSMC: Q3 Earnings Reveal The Coiled Spring For 2027 Profits",
-      "url": "https://finnhub.io/api/news?id=fcd7c7723712805929c8dafaed25b7649fa2137c44c139521e6aceea308f4f27"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
-      "url": "https://finnhub.io/api/news?id=0e48e2dac20dbfbbc3e64457ed97d4186684e75f30a76031052bd6887d464073"
+      "headline": "3 AI Infrastructure Stocks Retail Investors May Be Watching After Tesla SpaceX Merger Talk",
+      "url": "https://finnhub.io/api/news?id=e4b114b33e5b4712cf02436dab5034ed459ad1ceb5cd68e8c3242e42173a04a4"
     },
     {
       "stock": "AMZN",
-      "headline": "Ken Fisher and Jim Cramer Like This Bank Stock. Is It a Buy After Earnings?",
-      "url": "https://finnhub.io/api/news?id=d8ceaec37f3d977b1ed29ca91dc6d74a1ed94cead7761d58d8750822d6f8e2f2"
+      "headline": "What Would It Take For Rumble Stock To Reach Its High Again?",
+      "url": "https://finnhub.io/api/news?id=f4055d25e70217518b50b311c4bea14d37c4cc2d05bc0af93838309ce1bddbb2"
     },
     {
       "stock": "TSLA",
-      "headline": "Market Chatter: Oracle Chairman Larry Ellison Borrowed Billions to Finance Son's Warner Bros. Discovery Acquisition",
-      "url": "https://finnhub.io/api/news?id=bbf19a645e9ba8fb062961344e0ee67a4644cea582f97e3a16fedaee45b8d737"
+      "headline": "TSLA, SPCX Slip Overnight: Musk Reportedly Pushes Merger Before Trump’s Exit — ARK Sees Tesla Holders ‘5x Better Off’ By 2036",
+      "url": "https://finnhub.io/api/news?id=4b696da95f6bf98c02c5a416ea7c7ee55bdfea8e49f22b1b85de74a049572c79"
     },
     {
-      "stock": "UBER",
-      "headline": "Grab's Planned Foodpanda Taiwan Deal Blocked by Regulator Over Competition Concerns",
-      "url": "https://finnhub.io/api/news?id=7e8ee74799bc6f41d0424929076a6e9d3e499fcbcf13101acff60223396207d9"
+      "stock": "ADSK",
+      "headline": "Jensen Huang on RTK Spark: One petaflop of AI power 'you can hold in your hands'",
+      "url": "https://finnhub.io/api/news?id=92cb72a082af814aeee0b9423a4e00ba778628182aed9000d591038776f45a17"
     },
     {
       "stock": "IBM",
-      "headline": "Document AI Market Size, Share, Trends, and Global Forecast to 2031 | Document AI Market Forecasts Growth from $17.51 Billion (2026) to $35.34 Billion by 2031, Profiling Google, Microsoft, IBM, ABBYY & 40 Other Key Players",
-      "url": "https://finnhub.io/api/news?id=3ea90d3988ddc58d24f1de513d2e0bdf7c14aef2c03298284db6a61d3b1e045a"
+      "headline": "IBM (IBM) Q3 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=95319e408a3a3cf13d77389a59833944dee4a8f10454d99e423f761683941aa9"
     },
     {
       "stock": "GOOGL",
-      "headline": "Warren Buffett's Successor, Greg Abel, Just Went Shopping in the Tech Sector Again!",
-      "url": "https://finnhub.io/api/news?id=f95ee927dee819e4cd8bc527d8a3653a37ddc34d3c851b4f4f075a78429baa66"
+      "headline": "What Would It Take For Rumble Stock To Reach Its High Again?",
+      "url": "https://finnhub.io/api/news?id=f4055d25e70217518b50b311c4bea14d37c4cc2d05bc0af93838309ce1bddbb2"
     },
     {
-      "stock": "NFLX",
-      "headline": "Nasdaq Futures Rise Premarket As SpaceX AI Boom Lifts Chip Stocks: SMCI, TSLA, META, IBM, CRWV, NFLX, BE In Focus",
-      "url": "https://finnhub.io/api/news?id=b99c7f34f9d3c4158e7c9733dbdb408e295c34dd0861144baff83f87122e0473"
-    },
-    {
-      "stock": "MU",
-      "headline": "Micron (MU) Is Trading at 5x Earnings Despite 87% Margins. What Is Wall Street Missing?",
-      "url": "https://finnhub.io/api/news?id=d285eadca47c6c8c12d7a78231f776ca988e4e34221b5d9a7f820e8979101864"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Arista Networks Vs. Cisco Systems: Modern AI Data Center Networking vs. Legacy Enterprise Switch Leader",
-      "url": "https://finnhub.io/api/news?id=601124bb4e1bc9c5049eed96b5a2eccdbf28b38d20fa6b77ae5d32015b9bd436"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Gains 3.6% on Expanded NVIDIA AI Agent Security Deal: “Setting the Standard”",
-      "url": "https://finnhub.io/api/news?id=958583b1e72ae7acdb4c9769ca127d7115b2689e0c3b50f8553600c447c8f2e0"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Alphabet Slips 2% Despite NASDAQ Rally as Pichai Says Google Cloud Is Giving Up Revenue for AI Capacity; Amazon Dips, Microsoft Holds Steady",
-      "url": "https://finnhub.io/api/news?id=5023793fb4092c84946cf9fcdad5139d31ad359f180b7a1d2d6dce3b83f9c3b6"
-    },
-    {
-      "stock": "COHR",
-      "headline": "AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings",
-      "url": "https://finnhub.io/api/news?id=7ec20134b7b0279facf740220681c46e08c4fcbea48568c3079ab0d00328d34f"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Morgan Stanley Maintains Overweight on Synopsys, Raises Price Target to $574",
-      "url": "https://finnhub.io/api/news?id=cc78d765f63c0b1ce234a598d5d44441fea8b1e42abff6b969935333d8c54090"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Top Midday Stories: SpaceX, Tesla Explore Potential Merger; Abbott to Separate Nutrition Business Into Independent Publicly Traded Firm",
-      "url": "https://finnhub.io/api/news?id=1c732fdbb0be8c0dc880e0c6a89cbd1d4975af32dc7e49ef0da79f7aec04546d"
-    },
-    {
-      "stock": "HALO",
-      "headline": "ELV Beats Q3 Earnings Estimates on Carelon Strength, Raises 2026 Outlook",
-      "url": "https://finnhub.io/api/news?id=a3ff301e9e8f7d6918e969f7199051ec88cfc4ebb4c1ad83712db1978071b49e"
-    },
-    {
-      "stock": "U",
-      "headline": "The AppLovin Playbook Is Working Again - But For Unity",
-      "url": "https://finnhub.io/api/news?id=f11bf6d5218454e8371b264340ef53ccf040423c1ec5beee8aa6840ddacce01f"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet Slips 2% Despite NASDAQ Rally as Pichai Says Google Cloud Is Giving Up Revenue for AI Capacity; Amazon Dips, Microsoft Holds Steady",
-      "url": "https://finnhub.io/api/news?id=5023793fb4092c84946cf9fcdad5139d31ad359f180b7a1d2d6dce3b83f9c3b6"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Truist Securities Maintains Buy on Atlassian, Raises Price Target to $250",
-      "url": "https://finnhub.io/api/news?id=fb330ba4842858df18165ef6b848193cf85f8680af3f013f45bd8847be1142ef"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Stock Market Today: Nasdaq Vaults On SpaceX Report; Software Names Gain (Live Coverage)",
-      "url": "https://finnhub.io/api/news?id=18ceb7f9c9bfc0dd34ff0c6c627912be00a08d9b78ab20be862d24f053e77f55"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon logistics automation offers long-term margin gains, Jefferies says",
-      "url": "https://finnhub.io/api/news?id=cbefd013412e5c74ca19d4e09e4ccd2b7cca791d58366392af7481e08516344e"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
-      "url": "https://finnhub.io/api/news?id=fd44d6921eedee7b6216f639f16a9a3c11cc1d796a7eff9f48afb82d483aa713"
-    },
-    {
-      "stock": "HALO",
-      "headline": "5 Strong Buy Growth Stocks With High Margins to Grab Before Earnings",
-      "url": "https://finnhub.io/api/news?id=20e7034c34acac7dc4f09bb5e60ded3c6ef038487ad6564a6f9c131d1a69fbc8"
-    },
-    {
-      "stock": "DE",
-      "headline": "SpaceX (SPCX) Stock Surges After Q3 Earnings: Time to Buy?",
-      "url": "https://finnhub.io/api/news?id=3dba65f13cbc6d213c825e5a5c48ef2364dec51f300b5ff1f21e6e301e753138"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=38efbbf6aed650a45949e2eb7f86724a1f636ddda7c45457a277e57f41a8c285"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Citigroup Maintains Buy on Atlassian, Raises Price Target to $245",
-      "url": "https://finnhub.io/api/news?id=a6a6c0dce438378c58d637f2e1d709fa4e48aba89b08502e64299374ddf3caac"
+      "stock": "RDDT",
+      "headline": "Reddit Inc. (RDDT) Stock Dips While Market Gains: Key Facts",
+      "url": "https://finnhub.io/api/news?id=1213381ea7c6c4fbb1be71aecf6d9ffdc602ed3198c6ebfdb29332c538be4545"
     }
   ]
 }
