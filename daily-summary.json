@@ -35,6 +35,56 @@
       "stock": "RDDT",
       "headline": "Reddit Inc. (RDDT) Stock Dips While Market Gains: Key Facts",
       "url": "https://finnhub.io/api/news?id=1213381ea7c6c4fbb1be71aecf6d9ffdc602ed3198c6ebfdb29332c538be4545"
+    },
+    {
+      "stock": "MU",
+      "headline": "3 AI Hardware Stocks With Earnings Growth Over 18%",
+      "url": "https://finnhub.io/api/news?id=50473c93a58c14414cdc705abc944d519840e28e04e5233488a70e29bc55ad64"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Stock Has The Bull Case Changed After AI Security Partnership Expansion",
+      "url": "https://finnhub.io/api/news?id=eeb12d22741417dbde3de9fe5e524942a29fea7cdf9ae10ae373a0c8000a5b80"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "IBM Earnings Offer a Glimmer of Recovery",
+      "url": "https://finnhub.io/api/news?id=d17fc0ebaff0d194f6cf1c69e6a23249aa39154d6c573bfe929bd2ae849da576"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking",
+      "url": "https://finnhub.io/api/news?id=e52beab188c8b3ab61212bfbe6f889107ff6edc0d775fe53a564f958b95fa9af"
+    },
+    {
+      "stock": "HON",
+      "headline": "Starboard Value CEO Jeff Smith Lays Out Case for New Bets",
+      "url": "https://finnhub.io/api/news?id=4368063f295c5ce41d506580db9d5282b0c74b70efcd6379280b573eee0f634a"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Unusually Heavy Options Trading in UBER Ahead of Earnings - Are Investors Bullish on UBER?",
+      "url": "https://finnhub.io/api/news?id=583e73ecaa17132ad223e6ac31876fdc6525f1e9894cfb478a5def79c7a0fe13"
+    },
+    {
+      "stock": "DE",
+      "headline": "CAT Keeps Dividend Unchanged: Is Another Hike on the Horizon?",
+      "url": "https://finnhub.io/api/news?id=b9b09f8a35d3dac034bf3c56f4a1306e5d3320ae21d1bc23311af9ce7ddf3092"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Can Autodesk (ADSK) Stay Below Fair Value As Cash Flow Grows?",
+      "url": "https://finnhub.io/api/news?id=bb50b86ebc8e04f133c5212e883ed2607558569c8c5005a3cef447697497ea03"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking",
+      "url": "https://finnhub.io/api/news?id=e52beab188c8b3ab61212bfbe6f889107ff6edc0d775fe53a564f958b95fa9af"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "IBM Earnings Offer a Glimmer of Recovery",
+      "url": "https://finnhub.io/api/news?id=d17fc0ebaff0d194f6cf1c69e6a23249aa39154d6c573bfe929bd2ae849da576"
     }
   ]
 }
