@@ -85,6 +85,51 @@
       "stock": "GOOGL",
       "headline": "IBM Earnings Offer a Glimmer of Recovery",
       "url": "https://finnhub.io/api/news?id=d17fc0ebaff0d194f6cf1c69e6a23249aa39154d6c573bfe929bd2ae849da576"
+    },
+    {
+      "stock": "COHR",
+      "headline": "S&P 500 Premarket Movers on Oct. 22: Allegion and Lockheed Martin Gain, Snap-on and Lam Research Fall",
+      "url": "https://finnhub.io/api/news?id=0e6587981db268f781dd617f08e9b6416cccf336af78afa043bf6ad90d8ac194"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'",
+      "url": "https://finnhub.io/api/news?id=a2613bbfa50561469d906f95ac6f9d2e4ebaa8495163db96a683988090918d9d"
+    },
+    {
+      "stock": "HON",
+      "headline": "HON Q3 Earnings Beat on Automation Strength, Outlook Raised",
+      "url": "https://finnhub.io/api/news?id=9cafa3f58c01b3cc30fa50a4c0b71c3d9e261c84cd3ae23064a94af36bd75634"
+    },
+    {
+      "stock": "HALO",
+      "headline": "BeOne Stock Breaks Out With Visions Of 177% Earnings Growth. This Telltale Clue Bodes Well.",
+      "url": "https://finnhub.io/api/news?id=52bf40dd112ce11a3f651e0dec8bbf33eb6199a2a85f0c87f603ab3ae780df26"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "BofA Securities names top quantum computing stocks to watch",
+      "url": "https://finnhub.io/api/news?id=8a09162bd002d3bed3e20cbf78d5d88c81e58b6da13b937973b6fb7270809a27"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Lockheed Martin (LMT) Beats Q3 Earnings and Revenue Estimates",
+      "url": "https://finnhub.io/api/news?id=b05d6dd0d25305ce2e8a28b8a3e75992c8f928415448c42f67296bf40ec1a379"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Why IBM Stock is Down Despite A Bounceback Earnings Report",
+      "url": "https://finnhub.io/api/news?id=95f9a088c6c492334a05df2c6aa9f5af95e422ad9fd2d6478268756a7f09ca5f"
+    },
+    {
+      "stock": "U",
+      "headline": "Cadence Expands Collaboration With NVIDIA To Accelerate Its Design For AI And AI For Design Strategy",
+      "url": "https://finnhub.io/api/news?id=3bbbdf8fc72517eadb7d9bb34cb7901a7eca77e00ecdf809003e70417f4cc71a"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Has Another Tough Month, Dropping 10%: This Wall Street Pro Says 90% Gains Lie Ahead",
+      "url": "https://finnhub.io/api/news?id=f8cb92aa88d1c7e2247b7691b6fefeb24b1862a0427249f19e412fa58c579f05"
     }
   ]
 }
