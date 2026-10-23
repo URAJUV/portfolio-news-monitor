@@ -75,6 +75,61 @@
       "stock": "NFLX",
       "headline": "Netflix Viewing Time Drops an Estimated 26%. A Bored Retiree Trades the Couch for a $40,000 Job That Could Boost His Social Security",
       "url": "https://finnhub.io/api/news?id=88cb0ba307ab969b84b7ea86e6aae5910c72f170a0605bb9086bab5b28fe3180"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor (NYSE:TSM) Delivers High Growth as Earnings Revisions and Margins Strengthen",
+      "url": "https://finnhub.io/api/news?id=0df2a02cc0c3522810cdfa9264e2429ff2dc45087af38438989ff6492ab10c11"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Stock Rose 5% as It Expanded Its NVIDIA AI Security Deal. Here’s Where the Stock Could Go by 2031",
+      "url": "https://finnhub.io/api/news?id=4434ae698ef326f9bcda8f3ac36e16bac8ab76222b63cd51026f9af0681e74d2"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "AI stock bears probably just missed this point on Tesla in their run for the exits",
+      "url": "https://finnhub.io/api/news?id=581439e0b96ce18fe4837cafb51f2bd19a57d17e00b04ebcb72d95496fc01373"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Optics Stocks Tumble as Tech Selloff Deepens Ahead of Earnings: Coherent Tumbles 12%, Applied Optoelectronics Drops 10%, Lumentum Falls 9%",
+      "url": "https://finnhub.io/api/news?id=a27bbb91413423e8aebb42d3eb1f75d0733f821f6645cb3948e88f46eafbe471"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "AI stock bears probably just missed this point on Tesla in their run for the exits",
+      "url": "https://finnhub.io/api/news?id=581439e0b96ce18fe4837cafb51f2bd19a57d17e00b04ebcb72d95496fc01373"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Aerospace (HONA) Stock Looks Below Fair Value on Cash Flow",
+      "url": "https://finnhub.io/api/news?id=ed92e4da08f5ebbb69f6789b7dec20c2db8cae12c3f133ccc7515bd42b577c97"
+    },
+    {
+      "stock": "DE",
+      "headline": "Zacks Investment Ideas feature highlights: SpaceX, Tesla, United Airlines, Carnival, Maersk and Deere",
+      "url": "https://finnhub.io/api/news?id=a2bad00be0a5fe95c5c48f077f44d930d2191e0c8781d8bb41de0abbfaf593d4"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "AI stock bears probably just missed this point on Tesla in their run for the exits",
+      "url": "https://finnhub.io/api/news?id=581439e0b96ce18fe4837cafb51f2bd19a57d17e00b04ebcb72d95496fc01373"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Replit Expands Government Business Worldwide, Taps Former Amazon Executive to Lead Corporate Affairs",
+      "url": "https://finnhub.io/api/news?id=8babee0a0a8c4cf2735f5a925f60475d201792be45f6d8fd8867da21afa87fab"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On SpaceX, Tesla, But Netflix And Chipotle Face Fresh Downgrades Amid Growth Concerns",
+      "url": "https://finnhub.io/api/news?id=18e666fc20e742f51e3c4ed05064556aacaf90cadfb3a0dc68f59161565bcd79"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Is Reddit (RDDT) Below Fair Value As Earnings Near And Ad Growth Faces Questions?",
+      "url": "https://finnhub.io/api/news?id=26c28952e7a2d993a213abbfeeeea490df43aa98d5d5bca4dc00639f21724767"
     }
   ]
 }
