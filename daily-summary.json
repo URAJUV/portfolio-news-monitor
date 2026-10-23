@@ -130,6 +130,66 @@
       "stock": "RDDT",
       "headline": "Is Reddit (RDDT) Below Fair Value As Earnings Near And Ad Growth Faces Questions?",
       "url": "https://finnhub.io/api/news?id=26c28952e7a2d993a213abbfeeeea490df43aa98d5d5bca4dc00639f21724767"
+    },
+    {
+      "stock": "TSM",
+      "headline": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
+      "url": "https://finnhub.io/api/news?id=fbca34c34dde68eada86d9fca42fbd0932fd97b7b5a19e23c6f2ef800dafddee"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "AI-powered cyber threats light a fire under cybersecurity stocks",
+      "url": "https://finnhub.io/api/news?id=b8659ba6a15319c53174132379c7bfdfe82ec064902bd1d8361ba5b6e5cce001"
+    },
+    {
+      "stock": "COHR",
+      "headline": "S&P 500 Top Movers: Gainers and Losers in Today's Session",
+      "url": "https://finnhub.io/api/news?id=51f992e7d1a0d25e891ecf23d9ee9e29de2639e286d463e8e3dcaab8e7305397"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "SpaceX CEO Elon Musk is 'one of one': Will the market give Anthropic's Dario Amodei the same leeway?",
+      "url": "https://finnhub.io/api/news?id=3c7019a73f9f9b34007fa8e19d45f252d2ab266f8a26195d8bc305b0e933dd41"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell aims fire prevention products at battery installations, data centers",
+      "url": "https://finnhub.io/api/news?id=4ca720c8247ebba1bc16d8738746f1df9a80e155fb12930411ec18e14a7fa6d6"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Incyte Gears Up to Report Q3 Earnings: Will Results Disappoint?",
+      "url": "https://finnhub.io/api/news?id=b9b049873c2f2cfb6a924d0a973a7fc71a29ff3583cd16b61c6a97bdb71bc0d7"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Why OpenAI could be in trouble if Anthropic's IPO doesn't go well",
+      "url": "https://finnhub.io/api/news?id=44417f3a81170226cc73d5ffc4b4a9c3681349b39578b536ef5feddfd0a18d49"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Shares of stocks in the broader tech sector are trading lower amid a sell off due to US economy concerns.",
+      "url": "https://finnhub.io/api/news?id=4f67b02613b8f305b55ce26c188448f31c626d6d82d7b944c3f77a815d0b3c8e"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Western Digital's Q1 Earnings & Revenues Beat, Dividend Hiked by 17%",
+      "url": "https://finnhub.io/api/news?id=4658b9e5015eaefa9d5928e5205c9f8f6f9f7b9fa9321c18d7be3e2289f49538"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Is D Wave Quantum (QBTS) A Bargain After Its Lawsuit And Expansion Updates?",
+      "url": "https://finnhub.io/api/news?id=3a54d5faf8e11b2cf9ae3eaf3ddcda008040c8406e8c1792e67b4d76fa7830c3"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Oppenheimer Maintains Outperform on Atlassian, Raises Price Target to $275",
+      "url": "https://finnhub.io/api/news?id=a7fbf5954be9993410b376e19fad74cc6fec6a26949885b89edcec5e8a4cd688"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "SpaceX initiation, Apple downgrade among today's top calls on Wall Street",
+      "url": "https://finnhub.io/api/news?id=e93d39adac500f864dcddfcbf0ab8b2e460896114110468e7c9022761f1367b4"
     }
   ]
 }
