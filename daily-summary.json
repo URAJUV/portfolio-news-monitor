@@ -1,155 +1,80 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "3 AI Infrastructure Stocks Retail Investors May Be Watching After Tesla SpaceX Merger Talk",
-      "url": "https://finnhub.io/api/news?id=e4b114b33e5b4712cf02436dab5034ed459ad1ceb5cd68e8c3242e42173a04a4"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "What Would It Take For Rumble Stock To Reach Its High Again?",
-      "url": "https://finnhub.io/api/news?id=f4055d25e70217518b50b311c4bea14d37c4cc2d05bc0af93838309ce1bddbb2"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "TSLA, SPCX Slip Overnight: Musk Reportedly Pushes Merger Before Trump’s Exit — ARK Sees Tesla Holders ‘5x Better Off’ By 2036",
-      "url": "https://finnhub.io/api/news?id=4b696da95f6bf98c02c5a416ea7c7ee55bdfea8e49f22b1b85de74a049572c79"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Jensen Huang on RTK Spark: One petaflop of AI power 'you can hold in your hands'",
-      "url": "https://finnhub.io/api/news?id=92cb72a082af814aeee0b9423a4e00ba778628182aed9000d591038776f45a17"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM (IBM) Q3 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=95319e408a3a3cf13d77389a59833944dee4a8f10454d99e423f761683941aa9"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "What Would It Take For Rumble Stock To Reach Its High Again?",
-      "url": "https://finnhub.io/api/news?id=f4055d25e70217518b50b311c4bea14d37c4cc2d05bc0af93838309ce1bddbb2"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit Inc. (RDDT) Stock Dips While Market Gains: Key Facts",
-      "url": "https://finnhub.io/api/news?id=1213381ea7c6c4fbb1be71aecf6d9ffdc602ed3198c6ebfdb29332c538be4545"
-    },
-    {
       "stock": "MU",
-      "headline": "3 AI Hardware Stocks With Earnings Growth Over 18%",
-      "url": "https://finnhub.io/api/news?id=50473c93a58c14414cdc705abc944d519840e28e04e5233488a70e29bc55ad64"
+      "headline": "SOXX, SOXL, SMH Plunge As Chip Stocks Sell Off Amid Supply Chain Concerns",
+      "url": "https://finnhub.io/api/news?id=42cd2e0865680a071f0974c5de38fde3f95a8f82ddcb209a584b40d6461ba0ef"
     },
     {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Stock Has The Bull Case Changed After AI Security Partnership Expansion",
-      "url": "https://finnhub.io/api/news?id=eeb12d22741417dbde3de9fe5e524942a29fea7cdf9ae10ae373a0c8000a5b80"
+      "stock": "TSM",
+      "headline": "5 Undervalued AI Stocks According to the Media",
+      "url": "https://finnhub.io/api/news?id=38cd23c570890fa83c5e54c8f4d2139934ceaa57ba329533fa52d532bb056625"
     },
     {
       "stock": "AMZN",
-      "headline": "IBM Earnings Offer a Glimmer of Recovery",
-      "url": "https://finnhub.io/api/news?id=d17fc0ebaff0d194f6cf1c69e6a23249aa39154d6c573bfe929bd2ae849da576"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking",
-      "url": "https://finnhub.io/api/news?id=e52beab188c8b3ab61212bfbe6f889107ff6edc0d775fe53a564f958b95fa9af"
-    },
-    {
-      "stock": "HON",
-      "headline": "Starboard Value CEO Jeff Smith Lays Out Case for New Bets",
-      "url": "https://finnhub.io/api/news?id=4368063f295c5ce41d506580db9d5282b0c74b70efcd6379280b573eee0f634a"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Unusually Heavy Options Trading in UBER Ahead of Earnings - Are Investors Bullish on UBER?",
-      "url": "https://finnhub.io/api/news?id=583e73ecaa17132ad223e6ac31876fdc6525f1e9894cfb478a5def79c7a0fe13"
-    },
-    {
-      "stock": "DE",
-      "headline": "CAT Keeps Dividend Unchanged: Is Another Hike on the Horizon?",
-      "url": "https://finnhub.io/api/news?id=b9b09f8a35d3dac034bf3c56f4a1306e5d3320ae21d1bc23311af9ce7ddf3092"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Can Autodesk (ADSK) Stay Below Fair Value As Cash Flow Grows?",
-      "url": "https://finnhub.io/api/news?id=bb50b86ebc8e04f133c5212e883ed2607558569c8c5005a3cef447697497ea03"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking",
-      "url": "https://finnhub.io/api/news?id=e52beab188c8b3ab61212bfbe6f889107ff6edc0d775fe53a564f958b95fa9af"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "IBM Earnings Offer a Glimmer of Recovery",
-      "url": "https://finnhub.io/api/news?id=d17fc0ebaff0d194f6cf1c69e6a23249aa39154d6c573bfe929bd2ae849da576"
+      "headline": "3 Undervalued Stocks With At Least 33% Fair Value Upside",
+      "url": "https://finnhub.io/api/news?id=32f6bf95a7167446e02a3cd63c856eff8de8032c16d5623ab656e088000f6bd8"
     },
     {
       "stock": "COHR",
-      "headline": "S&P 500 Premarket Movers on Oct. 22: Allegion and Lockheed Martin Gain, Snap-on and Lam Research Fall",
-      "url": "https://finnhub.io/api/news?id=0e6587981db268f781dd617f08e9b6416cccf336af78afa043bf6ad90d8ac194"
+      "headline": "S&P 500 Top Movers: Gainers and Losers for Oct. 22, 2026",
+      "url": "https://finnhub.io/api/news?id=391c657cf8b8bd35500edd8dd058ed723150150e5d1af02abfbbe21633204915"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "What Morgan Stanley Sees In Synopsys Stock And Its AI Software Shift",
+      "url": "https://finnhub.io/api/news?id=905d09abfbc872ffdbcf24c319c64da7facb8a0a5671781c04908c7b3d2af4e0"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Why a Merger With Tesla Could Be a Disaster for SpaceX",
+      "url": "https://finnhub.io/api/news?id=48d9534fd64679531b2267313c94c3146b3983583724be821263d045ca6eb2e4"
+    },
+    {
+      "stock": "AMPX",
+      "headline": "AUSA: Amprius Technologies CEO Tom Stepien",
+      "url": "https://finnhub.io/api/news?id=88be8415bb3939471481ffb85299bb5001a49d5e45417ddf8f08cb1e9432faf0"
     },
     {
       "stock": "ARM",
-      "headline": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'",
-      "url": "https://finnhub.io/api/news?id=a2613bbfa50561469d906f95ac6f9d2e4ebaa8495163db96a683988090918d9d"
-    },
-    {
-      "stock": "HON",
-      "headline": "HON Q3 Earnings Beat on Automation Strength, Outlook Raised",
-      "url": "https://finnhub.io/api/news?id=9cafa3f58c01b3cc30fa50a4c0b71c3d9e261c84cd3ae23064a94af36bd75634"
-    },
-    {
-      "stock": "HALO",
-      "headline": "BeOne Stock Breaks Out With Visions Of 177% Earnings Growth. This Telltale Clue Bodes Well.",
-      "url": "https://finnhub.io/api/news?id=52bf40dd112ce11a3f651e0dec8bbf33eb6199a2a85f0c87f603ab3ae780df26"
+      "headline": "3 Automation Stocks With Up To 38% Earnings Growth",
+      "url": "https://finnhub.io/api/news?id=afc248c38ca5d098dbde794c6ab77b2d070ee7733b0246157d2ed30249016005"
     },
     {
       "stock": "IONQ",
-      "headline": "BofA Securities names top quantum computing stocks to watch",
-      "url": "https://finnhub.io/api/news?id=8a09162bd002d3bed3e20cbf78d5d88c81e58b6da13b937973b6fb7270809a27"
+      "headline": "Is IonQ a Millionaire-Maker Stock?",
+      "url": "https://finnhub.io/api/news?id=2c0e6c165418222408765232ff83ea202c5fb5a048bc578dc54b9183818b9c3a"
     },
     {
-      "stock": "DPRO",
-      "headline": "Lockheed Martin (LMT) Beats Q3 Earnings and Revenue Estimates",
-      "url": "https://finnhub.io/api/news?id=b05d6dd0d25305ce2e8a28b8a3e75992c8f928415448c42f67296bf40ec1a379"
+      "stock": "AAOI",
+      "headline": "Optics Stocks Tumble as Tech Selloff Deepens Ahead of Earnings: Coherent Tumbles 12%, Applied Optoelectronics Drops 10%, Lumentum Falls 9%",
+      "url": "https://finnhub.io/api/news?id=a27bbb91413423e8aebb42d3eb1f75d0733f821f6645cb3948e88f46eafbe471"
     },
     {
-      "stock": "IBM",
-      "headline": "Why IBM Stock is Down Despite A Bounceback Earnings Report",
-      "url": "https://finnhub.io/api/news?id=95f9a088c6c492334a05df2c6aa9f5af95e422ad9fd2d6478268756a7f09ca5f"
+      "stock": "DE",
+      "headline": "Why the Market Dipped But Deere (DE) Gained Today",
+      "url": "https://finnhub.io/api/news?id=0339ff9a164fad9cff4edab19fd22a6c33a377e9af2206f1bd3ad62aa54270f5"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "IonQ Stock Trades 19% Below the $40 Its $2 Billion Investor Paid. Here’s What Its Chip Foundry Adds",
+      "url": "https://finnhub.io/api/news?id=3ac73abb541553c08f162df70a85798f1a795e32063c0bb68f89a1c09f9a467c"
     },
     {
       "stock": "U",
-      "headline": "Cadence Expands Collaboration With NVIDIA To Accelerate Its Design For AI And AI For Design Strategy",
-      "url": "https://finnhub.io/api/news?id=3bbbdf8fc72517eadb7d9bb34cb7901a7eca77e00ecdf809003e70417f4cc71a"
+      "headline": "AppFolio (APPF) Q3 Earnings and Revenues Beat Estimates",
+      "url": "https://finnhub.io/api/news?id=d7f31adc2ee3f35bcf60895c81e24332556a6cba7c03ef699e43aa76dbdf5d2f"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "3 Undervalued Stocks With At Least 33% Fair Value Upside",
+      "url": "https://finnhub.io/api/news?id=32f6bf95a7167446e02a3cd63c856eff8de8032c16d5623ab656e088000f6bd8"
     },
     {
       "stock": "NFLX",
-      "headline": "Netflix Has Another Tough Month, Dropping 10%: This Wall Street Pro Says 90% Gains Lie Ahead",
-      "url": "https://finnhub.io/api/news?id=f8cb92aa88d1c7e2247b7691b6fefeb24b1862a0427249f19e412fa58c579f05"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Moody’s upgrades TSMC rating to Aa2 on booming AI demand and market dominance",
-      "url": "https://finnhub.io/api/news?id=6d4415f3e40155eb64fc4f566904ab0123506534699ec0b44d88bff7953a584d"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell (HON) Q3 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=6f5ae4be2cfa1004aab86866b540d94a0f37126a7fcdd721f1da89d47bfe3515"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "MSC Industrial Direct Co., Inc. Q4 2026 Earnings Call Summary",
-      "url": "https://finnhub.io/api/news?id=e88f3843efe15799347fed93dcec50b92a63b35f7eaebead34cc9414e0e73178"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "The Truth About Netflix’s Massive Stock Buybacks",
-      "url": "https://finnhub.io/api/news?id=5e16eb9dd72b240a6cc21c6ac132e80aae3917698587e7c2894147e99acb61b4"
+      "headline": "Netflix Viewing Time Drops an Estimated 26%. A Bored Retiree Trades the Couch for a $40,000 Job That Could Boost His Social Security",
+      "url": "https://finnhub.io/api/news?id=88cb0ba307ab969b84b7ea86e6aae5910c72f170a0605bb9086bab5b28fe3180"
     }
   ]
 }
