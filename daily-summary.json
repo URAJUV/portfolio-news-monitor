@@ -190,6 +190,36 @@
       "stock": "NFLX",
       "headline": "SpaceX initiation, Apple downgrade among today's top calls on Wall Street",
       "url": "https://finnhub.io/api/news?id=e93d39adac500f864dcddfcbf0ab8b2e460896114110468e7c9022761f1367b4"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Our Pick Of The Best Cybersecurity Stocks In October 2026",
+      "url": "https://finnhub.io/api/news?id=1390ec3bed35074f53e329f3a5fe0ae289fde43ae50fe7c4b1224b80b5b0f189"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Post-it Notes maker 3M eyes AI gold rush in major Amazon deal",
+      "url": "https://finnhub.io/api/news?id=bda1f3e7e7e0d3eedc776f170bf5c181bc393017908c4d1feab41a24a755ce28"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Credo Soars 7% as Super Micro’s $4 Billion Forecast Hike Signals “Increased Demand for AI Platforms”",
+      "url": "https://finnhub.io/api/news?id=80e7a7ef98fca73cdeb5a784251432f117bad3d4b6e588af87fea328f6a7c0d5"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "url": "https://finnhub.io/api/news?id=9600e2ea525f4cbe35fe30a6aa6792444f8dc42ace508957ff5a67ab2ef66e7d"
+    },
+    {
+      "stock": "HALO",
+      "headline": "BeOne Stock Tests Buy Zone With Visions Of 177% Earnings Growth. Watch This Clue.",
+      "url": "https://finnhub.io/api/news?id=913e918a7a9407b4f82576b8cfb3a11e7e3c6e8d986b293249e7a16328114fc6"
+    },
+    {
+      "stock": "DE",
+      "headline": "Is Deere (DE) Fairly Valued As Earnings Near And P E Questions Linger?",
+      "url": "https://finnhub.io/api/news?id=27cd735537184a0fdbee70037f063534aeeba6d95142dd76008a3b1d904defa6"
     }
   ]
 }
