@@ -40,6 +40,26 @@
       "stock": "NFLX",
       "headline": "US Equity Indexes Close Mixed This Week as Investors Rotate into Treasury Bonds, Defensives as AI Trade Falters",
       "url": "https://finnhub.io/api/news?id=496d59581376ab21256b01beb492328077940ecd0ccb6cf420a4cd79705f7b8b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Billionaire Ken Griffin Says We May Be in a Bubble. Here’s What History Says Happens Next.",
+      "url": "https://finnhub.io/api/news?id=d94cb68b89d4269b47f38a20a48c19634c53b951418fd5968385492a971d6c3c"
+    },
+    {
+      "stock": "HALO",
+      "headline": "MRNA Tanks as Positive Phase III Cancer Therapy Data Fails to Impress",
+      "url": "https://finnhub.io/api/news?id=078d4492b68de2d6e69cef66f0facd333e0d494ca796921d79b640fe4efc1e40"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Dow and Small Caps Climb Weekly While Nasdaq Slips on Megacap Earnings Charges",
+      "url": "https://finnhub.io/api/news?id=747ff11c3a8bc70b6a601b53f71abf4bc52ecec4796e1f6d654de57b1c3d3b08"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Billionaire Ken Griffin Says We May Be in a Bubble. Here’s What History Says Happens Next.",
+      "url": "https://finnhub.io/api/news?id=d94cb68b89d4269b47f38a20a48c19634c53b951418fd5968385492a971d6c3c"
     }
   ]
 }
