@@ -60,6 +60,46 @@
       "stock": "GOOGL",
       "headline": "Billionaire Ken Griffin Says We May Be in a Bubble. Here’s What History Says Happens Next.",
       "url": "https://finnhub.io/api/news?id=d94cb68b89d4269b47f38a20a48c19634c53b951418fd5968385492a971d6c3c"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron vs. Sandisk: Which Is the Better AI Memory Stock to Own for the Next 3 Years",
+      "url": "https://finnhub.io/api/news?id=d627462707f65e24da45a912bf4ce3bdce437c9ebc1878c538bcff167e9a5c75"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Tesla: 2027 Could Be A Massive Growth Inflection Point (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=4b2603f1deeff3057cbfbcdb6888020b9226bf057d74ff3a972ba666f2daea91"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike’s CEO Says a Wave of Cyber Attacks Are Coming",
+      "url": "https://finnhub.io/api/news?id=a7fafb529ab0675918f049335131c407816d8e1baa3233600c5ab1bc70bb65c7"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon Just Walked Away From a $427 Million Data Center Plan After Neighbors Fought Back",
+      "url": "https://finnhub.io/api/news?id=de51b213f235fa3a997f8ba4fb6aee0a14bf3b261d0f10e4a9ccafcd8ba7d072"
+    },
+    {
+      "stock": "HON",
+      "headline": "Citigroup Maintains Buy on Honeywell Intl, Raises Price Target to $271",
+      "url": "https://finnhub.io/api/news?id=f4bc9c22730c43fc9f3709b47d00ee0bfa295543ed9de950a06c7ad99cf4545a"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Sony (TSE:6758) Stock Looks Fairly Valued Following Next Console Price Rumors",
+      "url": "https://finnhub.io/api/news?id=fc86cbe43823d25dc8405596fc5663837eb0ce8ba00f85db4a98972188893bef"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Forget Chasing 7% Yields: These 5 Dividend Stocks Offer Something Different",
+      "url": "https://finnhub.io/api/news?id=abc8806fb03ae6aac8e2e6124c786823f98383f8d2b8bdb9442e05884f80c76d"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Caterpillar Is Quietly Becoming an AI Stock. Here's the Segment Growing 72% That Proves It.",
+      "url": "https://finnhub.io/api/news?id=ccc83af57208ad0dc940a86d242c7264017be63b2075b329ee2258cfeebf13d8"
     }
   ]
 }
