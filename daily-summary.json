@@ -1,225 +1,45 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "items": [
     {
       "stock": "MU",
-      "headline": "SOXX, SOXL, SMH Plunge As Chip Stocks Sell Off Amid Supply Chain Concerns",
-      "url": "https://finnhub.io/api/news?id=42cd2e0865680a071f0974c5de38fde3f95a8f82ddcb209a584b40d6461ba0ef"
+      "headline": "Investors Figuring Out Agentic AI: Robinhood's Guild",
+      "url": "https://finnhub.io/api/news?id=eceb5de8832a62ef6ab0b98a7ddfb248c090db973da2622ca57dd228fbdee863"
     },
     {
       "stock": "TSM",
-      "headline": "5 Undervalued AI Stocks According to the Media",
-      "url": "https://finnhub.io/api/news?id=38cd23c570890fa83c5e54c8f4d2139934ceaa57ba329533fa52d532bb056625"
+      "headline": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here's What the Market Is Worried About.",
+      "url": "https://finnhub.io/api/news?id=bbc49cb5517d4801b8399f740d13de056ad70ebea77ddefb967c8866f3281ab6"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Today's S&P 500 Top Movers: Crown Castle Leads Gainers, Bloom Energy Leads Losers",
+      "url": "https://finnhub.io/api/news?id=62fb6c4f4b9177f203d1ec1af8f087343a02195568908b04d69c27d077dc0317"
     },
     {
       "stock": "AMZN",
-      "headline": "3 Undervalued Stocks With At Least 33% Fair Value Upside",
-      "url": "https://finnhub.io/api/news?id=32f6bf95a7167446e02a3cd63c856eff8de8032c16d5623ab656e088000f6bd8"
-    },
-    {
-      "stock": "COHR",
-      "headline": "S&P 500 Top Movers: Gainers and Losers for Oct. 22, 2026",
-      "url": "https://finnhub.io/api/news?id=391c657cf8b8bd35500edd8dd058ed723150150e5d1af02abfbbe21633204915"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "What Morgan Stanley Sees In Synopsys Stock And Its AI Software Shift",
-      "url": "https://finnhub.io/api/news?id=905d09abfbc872ffdbcf24c319c64da7facb8a0a5671781c04908c7b3d2af4e0"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Why a Merger With Tesla Could Be a Disaster for SpaceX",
-      "url": "https://finnhub.io/api/news?id=48d9534fd64679531b2267313c94c3146b3983583724be821263d045ca6eb2e4"
-    },
-    {
-      "stock": "AMPX",
-      "headline": "AUSA: Amprius Technologies CEO Tom Stepien",
-      "url": "https://finnhub.io/api/news?id=88be8415bb3939471481ffb85299bb5001a49d5e45417ddf8f08cb1e9432faf0"
-    },
-    {
-      "stock": "ARM",
-      "headline": "3 Automation Stocks With Up To 38% Earnings Growth",
-      "url": "https://finnhub.io/api/news?id=afc248c38ca5d098dbde794c6ab77b2d070ee7733b0246157d2ed30249016005"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Is IonQ a Millionaire-Maker Stock?",
-      "url": "https://finnhub.io/api/news?id=2c0e6c165418222408765232ff83ea202c5fb5a048bc578dc54b9183818b9c3a"
+      "headline": "Amazon Stock And Other Mega Cap Tech Names For The AI Infrastructure Reset",
+      "url": "https://finnhub.io/api/news?id=5d9cfa3db05e84304826567e2a3eb67c61a31aa6f37b389438a18388db476246"
     },
     {
       "stock": "AAOI",
-      "headline": "Optics Stocks Tumble as Tech Selloff Deepens Ahead of Earnings: Coherent Tumbles 12%, Applied Optoelectronics Drops 10%, Lumentum Falls 9%",
-      "url": "https://finnhub.io/api/news?id=a27bbb91413423e8aebb42d3eb1f75d0733f821f6645cb3948e88f46eafbe471"
+      "headline": "AAOI vs. CBRS: Which AI Infrastructure Stock Has an Edge Now?",
+      "url": "https://finnhub.io/api/news?id=6b3221ebfbe2ae77a789fcccb5554d1e2ea57ca43f606039bb370dcf9fe864cc"
     },
     {
       "stock": "DE",
-      "headline": "Why the Market Dipped But Deere (DE) Gained Today",
-      "url": "https://finnhub.io/api/news?id=0339ff9a164fad9cff4edab19fd22a6c33a377e9af2206f1bd3ad62aa54270f5"
+      "headline": "PNR Set to Report Q3 Earnings: What's in the Offing for the Stock?",
+      "url": "https://finnhub.io/api/news?id=102a15a944cb7f31d23945d243c239a5122a8d7640219f527df350a881b59c2a"
     },
     {
       "stock": "QBTS",
-      "headline": "IonQ Stock Trades 19% Below the $40 Its $2 Billion Investor Paid. Here’s What Its Chip Foundry Adds",
-      "url": "https://finnhub.io/api/news?id=3ac73abb541553c08f162df70a85798f1a795e32063c0bb68f89a1c09f9a467c"
-    },
-    {
-      "stock": "U",
-      "headline": "AppFolio (APPF) Q3 Earnings and Revenues Beat Estimates",
-      "url": "https://finnhub.io/api/news?id=d7f31adc2ee3f35bcf60895c81e24332556a6cba7c03ef699e43aa76dbdf5d2f"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "3 Undervalued Stocks With At Least 33% Fair Value Upside",
-      "url": "https://finnhub.io/api/news?id=32f6bf95a7167446e02a3cd63c856eff8de8032c16d5623ab656e088000f6bd8"
+      "headline": "IonQ Sinks 3%, Rigetti Down 5%, D-Wave Down 4% as Quantum Stocks Slide Again in Tech Selloff",
+      "url": "https://finnhub.io/api/news?id=f1d2a60e19e81a580db8f8a52aeb67095b6dc09ae7a7e7a48d0ca57000f7ec8f"
     },
     {
       "stock": "NFLX",
-      "headline": "Netflix Viewing Time Drops an Estimated 26%. A Bored Retiree Trades the Couch for a $40,000 Job That Could Boost His Social Security",
-      "url": "https://finnhub.io/api/news?id=88cb0ba307ab969b84b7ea86e6aae5910c72f170a0605bb9086bab5b28fe3180"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor (NYSE:TSM) Delivers High Growth as Earnings Revisions and Margins Strengthen",
-      "url": "https://finnhub.io/api/news?id=0df2a02cc0c3522810cdfa9264e2429ff2dc45087af38438989ff6492ab10c11"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Stock Rose 5% as It Expanded Its NVIDIA AI Security Deal. Here’s Where the Stock Could Go by 2031",
-      "url": "https://finnhub.io/api/news?id=4434ae698ef326f9bcda8f3ac36e16bac8ab76222b63cd51026f9af0681e74d2"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "AI stock bears probably just missed this point on Tesla in their run for the exits",
-      "url": "https://finnhub.io/api/news?id=581439e0b96ce18fe4837cafb51f2bd19a57d17e00b04ebcb72d95496fc01373"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Optics Stocks Tumble as Tech Selloff Deepens Ahead of Earnings: Coherent Tumbles 12%, Applied Optoelectronics Drops 10%, Lumentum Falls 9%",
-      "url": "https://finnhub.io/api/news?id=a27bbb91413423e8aebb42d3eb1f75d0733f821f6645cb3948e88f46eafbe471"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "AI stock bears probably just missed this point on Tesla in their run for the exits",
-      "url": "https://finnhub.io/api/news?id=581439e0b96ce18fe4837cafb51f2bd19a57d17e00b04ebcb72d95496fc01373"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell Aerospace (HONA) Stock Looks Below Fair Value on Cash Flow",
-      "url": "https://finnhub.io/api/news?id=ed92e4da08f5ebbb69f6789b7dec20c2db8cae12c3f133ccc7515bd42b577c97"
-    },
-    {
-      "stock": "DE",
-      "headline": "Zacks Investment Ideas feature highlights: SpaceX, Tesla, United Airlines, Carnival, Maersk and Deere",
-      "url": "https://finnhub.io/api/news?id=a2bad00be0a5fe95c5c48f077f44d930d2191e0c8781d8bb41de0abbfaf593d4"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "AI stock bears probably just missed this point on Tesla in their run for the exits",
-      "url": "https://finnhub.io/api/news?id=581439e0b96ce18fe4837cafb51f2bd19a57d17e00b04ebcb72d95496fc01373"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Replit Expands Government Business Worldwide, Taps Former Amazon Executive to Lead Corporate Affairs",
-      "url": "https://finnhub.io/api/news?id=8babee0a0a8c4cf2735f5a925f60475d201792be45f6d8fd8867da21afa87fab"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On SpaceX, Tesla, But Netflix And Chipotle Face Fresh Downgrades Amid Growth Concerns",
-      "url": "https://finnhub.io/api/news?id=18e666fc20e742f51e3c4ed05064556aacaf90cadfb3a0dc68f59161565bcd79"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Is Reddit (RDDT) Below Fair Value As Earnings Near And Ad Growth Faces Questions?",
-      "url": "https://finnhub.io/api/news?id=26c28952e7a2d993a213abbfeeeea490df43aa98d5d5bca4dc00639f21724767"
-    },
-    {
-      "stock": "TSM",
-      "headline": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
-      "url": "https://finnhub.io/api/news?id=fbca34c34dde68eada86d9fca42fbd0932fd97b7b5a19e23c6f2ef800dafddee"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "AI-powered cyber threats light a fire under cybersecurity stocks",
-      "url": "https://finnhub.io/api/news?id=b8659ba6a15319c53174132379c7bfdfe82ec064902bd1d8361ba5b6e5cce001"
-    },
-    {
-      "stock": "COHR",
-      "headline": "S&P 500 Top Movers: Gainers and Losers in Today's Session",
-      "url": "https://finnhub.io/api/news?id=51f992e7d1a0d25e891ecf23d9ee9e29de2639e286d463e8e3dcaab8e7305397"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "SpaceX CEO Elon Musk is 'one of one': Will the market give Anthropic's Dario Amodei the same leeway?",
-      "url": "https://finnhub.io/api/news?id=3c7019a73f9f9b34007fa8e19d45f252d2ab266f8a26195d8bc305b0e933dd41"
-    },
-    {
-      "stock": "HON",
-      "headline": "Honeywell aims fire prevention products at battery installations, data centers",
-      "url": "https://finnhub.io/api/news?id=4ca720c8247ebba1bc16d8738746f1df9a80e155fb12930411ec18e14a7fa6d6"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Incyte Gears Up to Report Q3 Earnings: Will Results Disappoint?",
-      "url": "https://finnhub.io/api/news?id=b9b049873c2f2cfb6a924d0a973a7fc71a29ff3583cd16b61c6a97bdb71bc0d7"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Why OpenAI could be in trouble if Anthropic's IPO doesn't go well",
-      "url": "https://finnhub.io/api/news?id=44417f3a81170226cc73d5ffc4b4a9c3681349b39578b536ef5feddfd0a18d49"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Shares of stocks in the broader tech sector are trading lower amid a sell off due to US economy concerns.",
-      "url": "https://finnhub.io/api/news?id=4f67b02613b8f305b55ce26c188448f31c626d6d82d7b944c3f77a815d0b3c8e"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Western Digital's Q1 Earnings & Revenues Beat, Dividend Hiked by 17%",
-      "url": "https://finnhub.io/api/news?id=4658b9e5015eaefa9d5928e5205c9f8f6f9f7b9fa9321c18d7be3e2289f49538"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Is D Wave Quantum (QBTS) A Bargain After Its Lawsuit And Expansion Updates?",
-      "url": "https://finnhub.io/api/news?id=3a54d5faf8e11b2cf9ae3eaf3ddcda008040c8406e8c1792e67b4d76fa7830c3"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Oppenheimer Maintains Outperform on Atlassian, Raises Price Target to $275",
-      "url": "https://finnhub.io/api/news?id=a7fbf5954be9993410b376e19fad74cc6fec6a26949885b89edcec5e8a4cd688"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "SpaceX initiation, Apple downgrade among today's top calls on Wall Street",
-      "url": "https://finnhub.io/api/news?id=e93d39adac500f864dcddfcbf0ab8b2e460896114110468e7c9022761f1367b4"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Our Pick Of The Best Cybersecurity Stocks In October 2026",
-      "url": "https://finnhub.io/api/news?id=1390ec3bed35074f53e329f3a5fe0ae289fde43ae50fe7c4b1224b80b5b0f189"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Post-it Notes maker 3M eyes AI gold rush in major Amazon deal",
-      "url": "https://finnhub.io/api/news?id=bda1f3e7e7e0d3eedc776f170bf5c181bc393017908c4d1feab41a24a755ce28"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Credo Soars 7% as Super Micro’s $4 Billion Forecast Hike Signals “Increased Demand for AI Platforms”",
-      "url": "https://finnhub.io/api/news?id=80e7a7ef98fca73cdeb5a784251432f117bad3d4b6e588af87fea328f6a7c0d5"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
-      "url": "https://finnhub.io/api/news?id=9600e2ea525f4cbe35fe30a6aa6792444f8dc42ace508957ff5a67ab2ef66e7d"
-    },
-    {
-      "stock": "HALO",
-      "headline": "BeOne Stock Tests Buy Zone With Visions Of 177% Earnings Growth. Watch This Clue.",
-      "url": "https://finnhub.io/api/news?id=913e918a7a9407b4f82576b8cfb3a11e7e3c6e8d986b293249e7a16328114fc6"
-    },
-    {
-      "stock": "DE",
-      "headline": "Is Deere (DE) Fairly Valued As Earnings Near And P E Questions Linger?",
-      "url": "https://finnhub.io/api/news?id=27cd735537184a0fdbee70037f063534aeeba6d95142dd76008a3b1d904defa6"
+      "headline": "US Equity Indexes Close Mixed This Week as Investors Rotate into Treasury Bonds, Defensives as AI Trade Falters",
+      "url": "https://finnhub.io/api/news?id=496d59581376ab21256b01beb492328077940ecd0ccb6cf420a4cd79705f7b8b"
     }
   ]
 }
