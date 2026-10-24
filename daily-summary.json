@@ -100,6 +100,41 @@
       "stock": "GOOGL",
       "headline": "Caterpillar Is Quietly Becoming an AI Stock. Here's the Segment Growing 72% That Proves It.",
       "url": "https://finnhub.io/api/news?id=ccc83af57208ad0dc940a86d242c7264017be63b2075b329ee2258cfeebf13d8"
+    },
+    {
+      "stock": "MU",
+      "headline": "PC Sales Just Crashed 21% as AI Eats the World’s Memory Chips",
+      "url": "https://finnhub.io/api/news?id=29bac8e530a1fa7c4c3f8b35db1915974117896b8d58191d8cbda204c6f179a9"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC Debunks Irrational AI Fears As Pricing Power Expands (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=7359cf030acf2d56a10ad8fb1c7ffd6cb15cfbc7df40c115439603d3f72c4766"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "The AI Trade Is Shifting From Chip Stocks to Cybersecurity",
+      "url": "https://finnhub.io/api/news?id=d4aa1fdb87fa617cd5442d66bc81831f65efa6dc2f9d8e5975f85eca1fa19551"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "3 EV Supply Chain Stocks Facing The China Threat In US Manufacturing",
+      "url": "https://finnhub.io/api/news?id=cb73bd0e2b09d09d6411f89dd02c82e3e9e2ea56041a6f0e4c68a3c0fe81544e"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Technologies CEO Says Business Is Growing Faster Than Expected",
+      "url": "https://finnhub.io/api/news?id=3b077b5a83c8ca693f1ea4b2c8a921bceba8c1bfde9dec3c489e5da758c6ec74"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Bill Ackman makes a striking claim on streaming giant he dumped at a $400 million loss",
+      "url": "https://finnhub.io/api/news?id=746f4949890f27350d8e80f2f118b88dc45d9bd23ecd7c2cb65f0582bbaed382"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Sibling Bought Out Family Home, Then Its Value Tripled. Now Brother And Sister Want The Profit Because ‘It’s Only Fair’",
+      "url": "https://finnhub.io/api/news?id=15749169ff9ec542baf4b6504fd5ac6739637a79951797ff8334fc27fc0010f4"
     }
   ]
 }
