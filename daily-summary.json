@@ -35,6 +35,16 @@
       "stock": "UBER",
       "headline": "Should Aggregators block AI Agents?",
       "url": "https://finnhub.io/api/news?id=d0542948f61c8b7142a9426927fa3d7d9a80e0bb789e4c185e840de1528991bf"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Why Are Investors Buying Credit Default Swaps to Hedge AI-Related Debt?",
+      "url": "https://finnhub.io/api/news?id=0f07b3bb71cb7ad4df26075bdd3b189372543cf57ddc750b3f5adb1471da88d5"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Consumer Tech (Oct 19-23): OpenAI Reportedly Seeks $30 Billion, Tesla Cuts 2026 Capex Forecast, Anthropic Commits To Over $600 Billion & More",
+      "url": "https://finnhub.io/api/news?id=9e6fb903922cc4427e8638a0975b883fc72fec6f2061a472c4df7b16810f9b34"
     }
   ]
 }
