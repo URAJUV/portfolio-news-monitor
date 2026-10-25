@@ -70,6 +70,16 @@
       "stock": "RDDT",
       "headline": "Can ‘Reddit Max’ Save RDDT From Slower Growth Guidance on Oct. 29?",
       "url": "https://finnhub.io/api/news?id=b24a76ac7ba6a5fd0c2d2413873eab751c841260c8927d5348bc3cb49999bc12"
+    },
+    {
+      "stock": "MU",
+      "headline": "SK hynix Stock: Micron's AI Boom Sets Up A Cash Flow Test",
+      "url": "https://finnhub.io/api/news?id=03019e29ff2a416f780ee9c05633f7a1752278239001972e97f9006c06a88230"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon's $75 AI wearable hides a bigger $144-a-year bet",
+      "url": "https://finnhub.io/api/news?id=7216e89168daf36d1a40db69d31d3a33c400d9911c9e2ba70d71838859781100"
     }
   ]
 }
