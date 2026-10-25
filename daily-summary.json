@@ -45,6 +45,31 @@
       "stock": "IBM",
       "headline": "Consumer Tech (Oct 19-23): OpenAI Reportedly Seeks $30 Billion, Tesla Cuts 2026 Capex Forecast, Anthropic Commits To Over $600 Billion & More",
       "url": "https://finnhub.io/api/news?id=9e6fb903922cc4427e8638a0975b883fc72fec6f2061a472c4df7b16810f9b34"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "3 AI Infrastructure Stocks Riding The Tesla And SpaceX Compute Buildout",
+      "url": "https://finnhub.io/api/news?id=180595253696fc3402c9b65225d9330339c5ecb2b4f8e0730ef17fafa191bb00"
+    },
+    {
+      "stock": "UBER",
+      "headline": "It’s a restaurant. It’s a food hall. It’s a delivery chain. It’s … Wonder?",
+      "url": "https://finnhub.io/api/news?id=cec273279ae63b37492b6c828a1d7705c0070538b038d10427f1b26a0c65fec8"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM CEO Says Open AI Models Are 90% as Good as Frontier Models: ‘Why Pay 10x More?’",
+      "url": "https://finnhub.io/api/news?id=cd5919199a9a717e0d23717c2b38b0d96d0aaa2774927aba0ce28fd713ba080b"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix: The Ad Miss Is Offset By Record Buybacks",
+      "url": "https://finnhub.io/api/news?id=e10cdb6479d74a5637055f545d4e70217ff26c9be61126a98a107f8b5b33f7b1"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Can ‘Reddit Max’ Save RDDT From Slower Growth Guidance on Oct. 29?",
+      "url": "https://finnhub.io/api/news?id=b24a76ac7ba6a5fd0c2d2413873eab751c841260c8927d5348bc3cb49999bc12"
     }
   ]
 }
