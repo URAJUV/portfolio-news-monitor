@@ -1,85 +1,35 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "items": [
     {
-      "stock": "AMZN",
-      "headline": "Amazon.com (AMZN) Cancels $427 Million Loudoun County Data Center Project",
-      "url": "https://finnhub.io/api/news?id=f4fb7bedc9d357ab56d45a6eaa5665beefbc82ed8fa07aa3eda69844d7fa6229"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Did AI Funding Delays Just Shift Coherent's (COHR) Investment Narrative?",
-      "url": "https://finnhub.io/api/news?id=82732403fc037d86be6b3c5de666422d862d069925fbc62e663d70c4997bbf1f"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "What Could IonQ (IONQ) Gain From Its First University Based Quantum Centre?",
-      "url": "https://finnhub.io/api/news?id=8a98b0d04cc97e8dcd18f911fd633c132f94127a04c297ef25b519809c36e93c"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Is the AI Bubble About to Burst? Plus, Apple Bets on Doorbells.",
-      "url": "https://finnhub.io/api/news?id=07647077dba6d2ee6be52046ca470b17d16108b443389f355ca686e32171a59b"
-    },
-    {
       "stock": "MU",
-      "headline": "Nvidia vs. Micron: The AI Revolution Is Big Enough for Both. Here's the Better Buy.",
-      "url": "https://finnhub.io/api/news?id=c7f8b3736eb34125a994ef4bc47883e05c8d15c38cc1ae03ff4c2d868da3ba72"
+      "headline": "AI Stocks Surge, Then Plunge: Which of 4 Sectors Is Worth Buying?",
+      "url": "https://finnhub.io/api/news?id=7ee52ffb320522eeef6b56c596571c27e57508db9a7e162274a968247a74fbd0"
     },
     {
-      "stock": "HON",
-      "headline": "Rentomojo Launches Refrigerators From ₹459, Washing Machines From ₹414, Smart TVs From ₹689 and ACs From ₹1,802 a Month in Delhi for 2026, Setting Out What Each Appliance Costs to Rent Against Buying",
-      "url": "https://finnhub.io/api/news?id=1cab378f1daa3df2290151141afd81c5c376e18fc073ec97c9f0b3ec497f198d"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Should Aggregators block AI Agents?",
-      "url": "https://finnhub.io/api/news?id=d0542948f61c8b7142a9426927fa3d7d9a80e0bb789e4c185e840de1528991bf"
+      "stock": "TSM",
+      "headline": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
+      "url": "https://finnhub.io/api/news?id=bd47ebc11459ee739b5b5e3989cb1390d6760cf307068cee0ff7f6b4f8e4add0"
     },
     {
       "stock": "AMZN",
-      "headline": "Why Are Investors Buying Credit Default Swaps to Hedge AI-Related Debt?",
-      "url": "https://finnhub.io/api/news?id=0f07b3bb71cb7ad4df26075bdd3b189372543cf57ddc750b3f5adb1471da88d5"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Consumer Tech (Oct 19-23): OpenAI Reportedly Seeks $30 Billion, Tesla Cuts 2026 Capex Forecast, Anthropic Commits To Over $600 Billion & More",
-      "url": "https://finnhub.io/api/news?id=9e6fb903922cc4427e8638a0975b883fc72fec6f2061a472c4df7b16810f9b34"
+      "headline": "3 Big Tech Earnings Reports to Watch as AI Bills Keep Growing",
+      "url": "https://finnhub.io/api/news?id=a8ce3263b39afbcadb0f1aef650e8578053c1a7fd7770dc2281fd8b9803984bf"
     },
     {
       "stock": "TSLA",
-      "headline": "3 AI Infrastructure Stocks Riding The Tesla And SpaceX Compute Buildout",
-      "url": "https://finnhub.io/api/news?id=180595253696fc3402c9b65225d9330339c5ecb2b4f8e0730ef17fafa191bb00"
+      "headline": "Did Elon Musk Just Admit to Slowing Starlink in Ukraine?",
+      "url": "https://finnhub.io/api/news?id=6ebda5c197dda25dd6bafc007a49e945a7c3f9f3747670fa5f26a275f8de01f3"
     },
     {
       "stock": "UBER",
-      "headline": "It’s a restaurant. It’s a food hall. It’s a delivery chain. It’s … Wonder?",
-      "url": "https://finnhub.io/api/news?id=cec273279ae63b37492b6c828a1d7705c0070538b038d10427f1b26a0c65fec8"
+      "headline": "DiDi Shareholders Overwhelmingly Back Hong Kong Relisting; Want Independent Director, Open Earnings Calls, and First Shareholder Meeting in Four Years, Survey Finds",
+      "url": "https://finnhub.io/api/news?id=9960d16324beb92cb28a37683e7765e0cafa83d2f26af77c19cba4397d171747"
     },
     {
-      "stock": "IBM",
-      "headline": "IBM CEO Says Open AI Models Are 90% as Good as Frontier Models: ‘Why Pay 10x More?’",
-      "url": "https://finnhub.io/api/news?id=cd5919199a9a717e0d23717c2b38b0d96d0aaa2774927aba0ce28fd713ba080b"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix: The Ad Miss Is Offset By Record Buybacks",
-      "url": "https://finnhub.io/api/news?id=e10cdb6479d74a5637055f545d4e70217ff26c9be61126a98a107f8b5b33f7b1"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Can ‘Reddit Max’ Save RDDT From Slower Growth Guidance on Oct. 29?",
-      "url": "https://finnhub.io/api/news?id=b24a76ac7ba6a5fd0c2d2413873eab751c841260c8927d5348bc3cb49999bc12"
-    },
-    {
-      "stock": "MU",
-      "headline": "SK hynix Stock: Micron's AI Boom Sets Up A Cash Flow Test",
-      "url": "https://finnhub.io/api/news?id=03019e29ff2a416f780ee9c05633f7a1752278239001972e97f9006c06a88230"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Amazon's $75 AI wearable hides a bigger $144-a-year bet",
-      "url": "https://finnhub.io/api/news?id=7216e89168daf36d1a40db69d31d3a33c400d9911c9e2ba70d71838859781100"
+      "stock": "GOOGL",
+      "headline": "U.S. stock futures edge higher after bruising tech losses; Fed, earnings on tap",
+      "url": "https://finnhub.io/api/news?id=3294fc0523ca99c45502e5cd761bb9452a60ad3a19f84ec53d4799e52c861001"
     }
   ]
 }
