@@ -30,6 +30,21 @@
       "stock": "GOOGL",
       "headline": "U.S. stock futures edge higher after bruising tech losses; Fed, earnings on tap",
       "url": "https://finnhub.io/api/news?id=3294fc0523ca99c45502e5cd761bb9452a60ad3a19f84ec53d4799e52c861001"
+    },
+    {
+      "stock": "MU",
+      "headline": "AI Chips Today - Advancements In Embodied AI Boost Robot Reliability And Adaptability",
+      "url": "https://finnhub.io/api/news?id=e53472e67fa65dec18fc378006716bf4dde9024bf0129f040b43c77bec073790"
+    },
+    {
+      "stock": "TSM",
+      "headline": "AI Stocks Surge, Then Plunge: Which of 4 Sectors Is Worth Buying?",
+      "url": "https://finnhub.io/api/news?id=7ee52ffb320522eeef6b56c596571c27e57508db9a7e162274a968247a74fbd0"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Is Money for AI Data Centers Drying Up? Here’s Who Could Come Out on Top.",
+      "url": "https://finnhub.io/api/news?id=58874029da089c7b3088e41ca2003315120967a72106ba90f2ea6f8de5a52b2b"
     }
   ]
 }
