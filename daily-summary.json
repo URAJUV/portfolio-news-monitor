@@ -60,6 +60,56 @@
       "stock": "RDDT",
       "headline": "Earnings to watch: Reddit (RDDT) reports Q3 results tomorrow",
       "url": "https://finnhub.io/api/news?id=b5ece8e1f94e0e3e3596fea77a9e8a322b3f5d7d36f338e6ef94995728a6431f"
+    },
+    {
+      "stock": "MU",
+      "headline": "GE Vernova posts strong earnings — but power is the new AI bottleneck",
+      "url": "https://finnhub.io/api/news?id=c0ac7ef4eef8394b145ae8e681eceee2aa405a425da40603ecd7d014b3c24498"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "BB vs. CRWD: Which Cybersecurity Stock Is the Smarter Buy Now?",
+      "url": "https://finnhub.io/api/news?id=4974f7f3d0d51b817e6d7e42647b068bc7874753dd311841810ea171960f1a54"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Optical Stocks Climb as Analysts Flag AI Bottleneck: Lumentum Rises 4%, Applied Optoelectronics and Corning Gain 3%, Coherent Sits Out the Rally",
+      "url": "https://finnhub.io/api/news?id=5aaaf3e4f5a5529cfa5fc067fcacee5e1febcfd033680c1d480d1a9e5cd4c990"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Under the Radar: 3 Small-Cap Stocks Powering the AI Energy Boom",
+      "url": "https://finnhub.io/api/news?id=f7e7b60046c6b12659edd872a0612f44c5c9db33c5681d883ecf5b132bb969c5"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Fortive Q3 Earnings Beat Estimates on Strong Core Growth, View Raised",
+      "url": "https://finnhub.io/api/news?id=369680c66c7c2b2c8b455e6e2673a054b5923a7e76c21259e9864d4c1cb69dfa"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Seagate (STX) Beats Q1 Earnings and Revenue Estimates",
+      "url": "https://finnhub.io/api/news?id=33fadb3b66110e81e8a5ad7d3f4d66cdb33a3f3e6372b73f71485f8ef6f6f011"
+    },
+    {
+      "stock": "UBER",
+      "headline": "UBER Stock Hits Fresh 52-Week Low Ahead Of Earnings As Robotaxi Fears Linger",
+      "url": "https://finnhub.io/api/news?id=cd69028b0332008aca2162cec2cb2cbc7b109bd55acb40275a5444fa5c81ab41"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Robinhood misses on Q3 earnings, plus IBM, Intel, and Oracle object to tokenized plans",
+      "url": "https://finnhub.io/api/news?id=005b829aeb66ed3ca7edb3746a2de014356836bddde92e7994da13dd818e1bd7"
+    },
+    {
+      "stock": "U",
+      "headline": "Unity Software Partners With PvX To Give Eligible Growth-Stage Studios In The Unity Ecosystem Direct Access To Non-Dilutive User Acquisition Financing",
+      "url": "https://finnhub.io/api/news?id=865b5e78c956e7c7ab439bc892e5db63da66ae3d0cf5762d5ec70ed8d3850f01"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix: Price Increases Are No Longer Providing Unchecked Upside (Downgrade)",
+      "url": "https://finnhub.io/api/news?id=0e10c5fea56517e5ad38fc6f056a67a9ab75c68377642db55c032c0a47b3588e"
     }
   ]
 }
