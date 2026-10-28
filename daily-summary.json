@@ -1,45 +1,35 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Prediction: This Artificial Intelligence (AI) Memory Stock Will Go Parabolic on Oct. 30",
-      "url": "https://finnhub.io/api/news?id=ed3f6f697552216aae110e40447a211134ef41b8a66acbcfb1f92a506e9a350e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "TSMC: The Toll Road Of The AI Economy Is On Sale",
-      "url": "https://finnhub.io/api/news?id=9a2a00cd3b47557784954790fb6ba794b98978f4f88f64844a6974ff4d1f05ca"
-    },
-    {
       "stock": "AMZN",
-      "headline": "Prediction: This Artificial Intelligence (AI) Memory Stock Will Go Parabolic on Oct. 30",
-      "url": "https://finnhub.io/api/news?id=ed3f6f697552216aae110e40447a211134ef41b8a66acbcfb1f92a506e9a350e"
+      "headline": "Samsung's AI boom comes with a $100 billion warning",
+      "url": "https://finnhub.io/api/news?id=ffd5f9b31657d1882de64ae581c72a464a8c7b83d12e485c2d9e2fd371cdf1e7"
     },
     {
       "stock": "COHR",
-      "headline": "Is Coherent (COHR) Undervalued As AI Optics Demand Draws Fresh Analyst Interest?",
-      "url": "https://finnhub.io/api/news?id=af029d423f99b58063a6b436878e0f4d4e32fd3a60eb41566a2198c29a128f15"
+      "headline": "Review & Preview: The AI Rollercoaster",
+      "url": "https://finnhub.io/api/news?id=d9eb7483ea6504acbb508e97f16dfea1486fcfae95ddfa3e30a198ab3c99bad5"
     },
     {
-      "stock": "AAOI",
-      "headline": "Lumentum Jumps 8% as StoneX Starts Coverage With $1,200 Target; Applied Optoelectronics and Coherent Climb 6%",
-      "url": "https://finnhub.io/api/news?id=45fb58dea479f9c792d78456330fa491970b4f55e90ef6aa0b35aa63aa28ba81"
+      "stock": "SNPS",
+      "headline": "Cadence Q3 Earnings Beat Estimates on AI Demand, Outlook Raised",
+      "url": "https://finnhub.io/api/news?id=8e84c53adfdd06e7ea2bc70be1786267a28b8700a69bbfa97d33211854f5bcc7"
+    },
+    {
+      "stock": "DE",
+      "headline": "Bailouts Are Back: I'd Follow $20 Billion Into These 3 Stocks",
+      "url": "https://finnhub.io/api/news?id=2eb5be0ab6d94a7f1a0bf72c67d491525a638ffb142db90fc5fa23a1b7806ba8"
     },
     {
       "stock": "IBM",
-      "headline": "Cisco Is Up 47%, IBM Is Down 13%. Which Dividend Stock Is Better for Retirement?",
-      "url": "https://finnhub.io/api/news?id=882ac1d9141f68ddf28baf7dfb517279b513a8e5f623861f19e38c345f4d4814"
+      "headline": "Artificial Intelligence (AI)-Driven Drug Safety and Pharmacovigilance Platforms Market Report 2026 | Capitalize on 20.2% CAGR with Microsoft, IBM, Oracle, IQVIA, and Veeva",
+      "url": "https://finnhub.io/api/news?id=b9023d7dd323a630872d6053f6918349d2d55f4c65ff1aa4f740b5ff1867d174"
     },
     {
-      "stock": "GOOGL",
-      "headline": "Prediction: This Artificial Intelligence (AI) Memory Stock Will Go Parabolic on Oct. 30",
-      "url": "https://finnhub.io/api/news?id=ed3f6f697552216aae110e40447a211134ef41b8a66acbcfb1f92a506e9a350e"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Should You Buy, Sell, or Hold Reddit Stock Before Q3 Earnings Release?",
-      "url": "https://finnhub.io/api/news?id=90a44249dd426f700c41322c2cd507f14df692c23bc9e9af0fe1c0ac3822100f"
+      "stock": "U",
+      "headline": "Unity and PvX Launch Partnership to Expand Access to User Acquisition Financing for Game Developers",
+      "url": "https://finnhub.io/api/news?id=0e454055a2d478da909203b00e52efb45b3602a99c3a23821d12ca358c913ecc"
     }
   ]
 }
