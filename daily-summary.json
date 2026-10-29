@@ -40,6 +40,51 @@
       "stock": "RDDT",
       "headline": "Wife Bailed Out Husband’s Business ‘So Many Times, I Lost Count.’ He Buys A New Car, Then Admits He Has Another $10K In Credit Card Debt",
       "url": "https://finnhub.io/api/news?id=f4f7ec4c89646dd873387bf3d13b4a0ac4f3dfae2df5c9462a5a2b8a20e9feda"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Jensen Huang Foresees Booming AI Demand, but Elon Musk's Warning Highlights a Different Risk",
+      "url": "https://finnhub.io/api/news?id=55b976ca49ae0ce085da03c21e5605804c1730a373f173fb35ac575b0d4ea939"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm: The Price Tag Remains Far Too Steep (Earnings Preview)",
+      "url": "https://finnhub.io/api/news?id=fc552e59b94d33c94f449355858c00fd650d7466627489efbfd87d424d1d975e"
+    },
+    {
+      "stock": "HON",
+      "headline": "What Honeywell Aerospace (HONA) Said on Its Q3 Earnings Call",
+      "url": "https://finnhub.io/api/news?id=975d683b16c3675b27688492d6ab5d801661cde77c6a1de639351a3c5d2dee97"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "What to Expect From Rigetti Computing's Q3 2026 Earnings Results",
+      "url": "https://finnhub.io/api/news?id=b0f7c5c88b87db3eb960fdc09d7bb4eec7f2d55e01d406f74c2e21d8481a6c0b"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Impinj (PI) Q3 Earnings and Revenues Beat Estimates",
+      "url": "https://finnhub.io/api/news?id=c0dce200a3e2ba110b7a4c170eedfeb5d0a615d0185cb545172e5455e892c6c7"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Global Battery Warranty Analytics Market Report 2026: Size, Trends and Forecast to 2030 | Capitalize on AI-Led 15.3% CAGR With Siemens, IBM, SAP, TWAICE and ACCURE",
+      "url": "https://finnhub.io/api/news?id=de90c4511d101a22b34b05f862faab510c1cf38ad6de1d7897f7fbafbcf5c506"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Bitcoin weakens to $80k as hawkish Fed, mixed tech earnings weigh",
+      "url": "https://finnhub.io/api/news?id=94c95542a83f5cebe0cab3c26da41b79f71510a918a517a91d0247dceba83e5d"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Why Klaviyo (KVYO) Could Be the Standout AI Beneficiary in Software?",
+      "url": "https://finnhub.io/api/news?id=08c8be589e4f796f9087f5ed018b473a8d47bfa36fdcd61d0ce79054c7dd4a7c"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Etsy CEO has an unexpected message for shoppers",
+      "url": "https://finnhub.io/api/news?id=7a23e80ff626247be1f30a7a4198374dd108df89528cb10ff3baac5805ea25f6"
     }
   ]
 }
