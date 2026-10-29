@@ -1,115 +1,45 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "items": [
     {
-      "stock": "AMZN",
-      "headline": "Samsung's AI boom comes with a $100 billion warning",
-      "url": "https://finnhub.io/api/news?id=ffd5f9b31657d1882de64ae581c72a464a8c7b83d12e485c2d9e2fd371cdf1e7"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Review & Preview: The AI Rollercoaster",
-      "url": "https://finnhub.io/api/news?id=d9eb7483ea6504acbb508e97f16dfea1486fcfae95ddfa3e30a198ab3c99bad5"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Cadence Q3 Earnings Beat Estimates on AI Demand, Outlook Raised",
-      "url": "https://finnhub.io/api/news?id=8e84c53adfdd06e7ea2bc70be1786267a28b8700a69bbfa97d33211854f5bcc7"
-    },
-    {
-      "stock": "DE",
-      "headline": "Bailouts Are Back: I'd Follow $20 Billion Into These 3 Stocks",
-      "url": "https://finnhub.io/api/news?id=2eb5be0ab6d94a7f1a0bf72c67d491525a638ffb142db90fc5fa23a1b7806ba8"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Artificial Intelligence (AI)-Driven Drug Safety and Pharmacovigilance Platforms Market Report 2026 | Capitalize on 20.2% CAGR with Microsoft, IBM, Oracle, IQVIA, and Veeva",
-      "url": "https://finnhub.io/api/news?id=b9023d7dd323a630872d6053f6918349d2d55f4c65ff1aa4f740b5ff1867d174"
-    },
-    {
-      "stock": "U",
-      "headline": "Unity and PvX Launch Partnership to Expand Access to User Acquisition Financing for Game Developers",
-      "url": "https://finnhub.io/api/news?id=0e454055a2d478da909203b00e52efb45b3602a99c3a23821d12ca358c913ecc"
+      "stock": "MU",
+      "headline": "Intel to report Q3 earnings as chip stocks continue to rebound",
+      "url": "https://finnhub.io/api/news?id=344e11951a5e48991be1d30f94a41b7e1a40bd943e0113b198dfe400ec8c608f"
     },
     {
       "stock": "TSM",
-      "headline": "Applied Materials: Top Quality And Undervalued AI Leader",
-      "url": "https://finnhub.io/api/news?id=0734994590dc54495b48efa9e0deee1da0bc04c15349b6150bdbbb7cae5c3090"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Can PANW Turn Frontier AI Defense Into a Key Growth Driver?",
-      "url": "https://finnhub.io/api/news?id=f15bdcdfd7cb2a62e36755e57f1e7921cc88a1870ef55e9b6ae2e1d71dc0f681"
+      "headline": "Cathie Wood Extends Archer, Joby Buying Spree; Ark Sells More AMD, Taiwan Semiconductor Shares",
+      "url": "https://finnhub.io/api/news?id=70c293ac823e1f132e20d4e2046298410baa45e5c4c82ac015358ddc0490ab32"
     },
     {
       "stock": "AMZN",
-      "headline": "Amazon orders coders to rein in AI use as costs mount",
-      "url": "https://finnhub.io/api/news?id=c2c69edd367f86d0aab73af5bab1b845f54b7800f4b39fab60b438e671d188f7"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Delivery Hero upgrades full-year guidance on strong Q3 growth",
-      "url": "https://finnhub.io/api/news?id=204875957ac0112d3a5ec9786197f6eac00ba23c13dd5b66cc8f7b0684b49da6"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond",
-      "url": "https://finnhub.io/api/news?id=9d42b9c2dbd1cf8957b97cbf6005f35711cfbe7ad5608d1bf40520e40e3145d3"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Earnings to watch: Reddit (RDDT) reports Q3 results tomorrow",
-      "url": "https://finnhub.io/api/news?id=b5ece8e1f94e0e3e3596fea77a9e8a322b3f5d7d36f338e6ef94995728a6431f"
-    },
-    {
-      "stock": "MU",
-      "headline": "GE Vernova posts strong earnings — but power is the new AI bottleneck",
-      "url": "https://finnhub.io/api/news?id=c0ac7ef4eef8394b145ae8e681eceee2aa405a425da40603ecd7d014b3c24498"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "BB vs. CRWD: Which Cybersecurity Stock Is the Smarter Buy Now?",
-      "url": "https://finnhub.io/api/news?id=4974f7f3d0d51b817e6d7e42647b068bc7874753dd311841810ea171960f1a54"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Optical Stocks Climb as Analysts Flag AI Bottleneck: Lumentum Rises 4%, Applied Optoelectronics and Corning Gain 3%, Coherent Sits Out the Rally",
-      "url": "https://finnhub.io/api/news?id=5aaaf3e4f5a5529cfa5fc067fcacee5e1febcfd033680c1d480d1a9e5cd4c990"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "Under the Radar: 3 Small-Cap Stocks Powering the AI Energy Boom",
-      "url": "https://finnhub.io/api/news?id=f7e7b60046c6b12659edd872a0612f44c5c9db33c5681d883ecf5b132bb969c5"
+      "headline": "How Microsoft, Coca-Cola And Amazon Are Adapting Their Offices For AI Age",
+      "url": "https://finnhub.io/api/news?id=9991a00881e982458e7d5c9acff0ec3ecedc947047424d056337dff2d9478227"
     },
     {
       "stock": "SNPS",
-      "headline": "Fortive Q3 Earnings Beat Estimates on Strong Core Growth, View Raised",
-      "url": "https://finnhub.io/api/news?id=369680c66c7c2b2c8b455e6e2673a054b5923a7e76c21259e9864d4c1cb69dfa"
+      "headline": "FLEX Q2 Earnings Beat Estimates on CPI Strength, Outlook Raised",
+      "url": "https://finnhub.io/api/news?id=c5fbd71114491bc32ec0213b3147e7c098bb8d96a533ffaa5c2fb06ceb295f32"
     },
     {
-      "stock": "IONQ",
-      "headline": "Seagate (STX) Beats Q1 Earnings and Revenue Estimates",
-      "url": "https://finnhub.io/api/news?id=33fadb3b66110e81e8a5ad7d3f4d66cdb33a3f3e6372b73f71485f8ef6f6f011"
-    },
-    {
-      "stock": "UBER",
-      "headline": "UBER Stock Hits Fresh 52-Week Low Ahead Of Earnings As Robotaxi Fears Linger",
-      "url": "https://finnhub.io/api/news?id=cd69028b0332008aca2162cec2cb2cbc7b109bd55acb40275a5444fa5c81ab41"
+      "stock": "ARM",
+      "headline": "Arm Holdings: Data Centers Will Continue To Offset Weak Mobile, But Upside Only In My Bull Case",
+      "url": "https://finnhub.io/api/news?id=7585eccba9b344ec4f4f63bc7a68f665892546895db1913a0ce4081bb55d0768"
     },
     {
       "stock": "IBM",
-      "headline": "Robinhood misses on Q3 earnings, plus IBM, Intel, and Oracle object to tokenized plans",
-      "url": "https://finnhub.io/api/news?id=005b829aeb66ed3ca7edb3746a2de014356836bddde92e7994da13dd818e1bd7"
+      "headline": "Stock Market Today, Oct. 28: Oracle Surges on Fiscal 2030 Revenue Guidance of $225 Billion",
+      "url": "https://finnhub.io/api/news?id=5df2489513cdda568d6a80d15407b1c2aa63974678882a4d2beea3929d6d4cda"
     },
     {
-      "stock": "U",
-      "headline": "Unity Software Partners With PvX To Give Eligible Growth-Stage Studios In The Unity Ecosystem Direct Access To Non-Dilutive User Acquisition Financing",
-      "url": "https://finnhub.io/api/news?id=865b5e78c956e7c7ab439bc892e5db63da66ae3d0cf5762d5ec70ed8d3850f01"
+      "stock": "TEAM",
+      "headline": "Wells Fargo Maintains Overweight on Atlassian, Raises Price Target to $270",
+      "url": "https://finnhub.io/api/news?id=bbfc8a877451a0f50467fdd694462c57a2260fa33be32126a25f2ba1a95b9139"
     },
     {
-      "stock": "NFLX",
-      "headline": "Netflix: Price Increases Are No Longer Providing Unchecked Upside (Downgrade)",
-      "url": "https://finnhub.io/api/news?id=0e10c5fea56517e5ad38fc6f056a67a9ab75c68377642db55c032c0a47b3588e"
+      "stock": "RDDT",
+      "headline": "Wife Bailed Out Husband’s Business ‘So Many Times, I Lost Count.’ He Buys A New Car, Then Admits He Has Another $10K In Credit Card Debt",
+      "url": "https://finnhub.io/api/news?id=f4f7ec4c89646dd873387bf3d13b4a0ac4f3dfae2df5c9462a5a2b8a20e9feda"
     }
   ]
 }
