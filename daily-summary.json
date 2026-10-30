@@ -95,6 +95,51 @@
       "stock": "GOOGL",
       "headline": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Amazon, Intel earnings rattle investors",
       "url": "https://finnhub.io/api/news?id=2640adcb5062ffb14a37734733bb1444666dec26e8441326bd0490a3b1d4c4ae"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Top Midday Stories: Intel Shares Plummet After Q3 Revenue Miss, Weak Guidance; Amazon Q3 EPS, Revenue Miss Expectations, Shares Fall",
+      "url": "https://finnhub.io/api/news?id=70e42e8a877797a20afaff39f607a964e6fef089d85f3b668e36b02cf945491a"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
+      "url": "https://finnhub.io/api/news?id=6c7ffa73b65110965c367031c2786a861fa3b8672294fa7fa3f078fc993d68e8"
+    },
+    {
+      "stock": "HALO",
+      "headline": "HALO Gears Up to Report Q3 Earnings: Is a Beat in the Cards?",
+      "url": "https://finnhub.io/api/news?id=97a97e101d6b3cc945c9503e66461779301e4deb708ef426936b5af4ee71df8f"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Will IonQ, Inc. (IONQ) Report Negative Earnings Next Week? What You Should Know",
+      "url": "https://finnhub.io/api/news?id=5abbed26ec33725989d40e4604e5318cdc71f04e5d7704c00337a25b4a3b69e0"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Twilio Q3 Earnings Beat Estimates on Strong Revenue Growth",
+      "url": "https://finnhub.io/api/news?id=d68f2da974fd545ab071fd9e0faf310feddea512c7f4759ac8041340ae556e21"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Howmet (HWM) Surpasses Q3 Earnings and Revenue Estimates",
+      "url": "https://finnhub.io/api/news?id=253f08638a4a73202a77fe37e33d698d82c690db65e850b282475e445f2ac998"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Mobile Virtualization - Global Strategic Business Report 2026 | Secure Your Share of a US$21 Billion Market by 2032 | Microsoft, VMware, Cisco, Google, and IBM Dominate",
+      "url": "https://finnhub.io/api/news?id=1e92830efb4e4433d0d4880597543d04d0c872f55ebd55205b80c30fcff746f1"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Machine Translation Market Research Report 2026-2036 Featuring Google, Microsoft, iFLYTEK, NetEase Youdao, Phrase, Lilt and More | LLMs, Live Speech, and AI Localization Drive 15.2% CAGR to USD 8.93 Billion",
+      "url": "https://finnhub.io/api/news?id=c511ce0f5983e98475c0656883aeec204348605fe491495fb39545cfe8f0b9df"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian Introduces Context Quality Score™ to Sharpen AI Performance",
+      "url": "https://finnhub.io/api/news?id=be79cd746b8de09b55c8915e0c5f409d654280a4b7080fb60d34a3ef20ff6261"
     }
   ]
 }
