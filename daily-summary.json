@@ -1,150 +1,50 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "items": [
     {
       "stock": "MU",
-      "headline": "Intel to report Q3 earnings as chip stocks continue to rebound",
-      "url": "https://finnhub.io/api/news?id=344e11951a5e48991be1d30f94a41b7e1a40bd943e0113b198dfe400ec8c608f"
+      "headline": "Micron Is Trading for Less Than 6 Times Forward Earnings. Here's Why That's a Sign to Buy.",
+      "url": "https://finnhub.io/api/news?id=d4888062546af4f1f7f6792f1adadae11bc4269aa0fb72751902e9037529b128"
     },
     {
-      "stock": "TSM",
-      "headline": "Cathie Wood Extends Archer, Joby Buying Spree; Ark Sells More AMD, Taiwan Semiconductor Shares",
-      "url": "https://finnhub.io/api/news?id=70c293ac823e1f132e20d4e2046298410baa45e5c4c82ac015358ddc0490ab32"
+      "stock": "CRWD",
+      "headline": "Fortinet (FTNT) Stock Plunges After Q3 Earnings: Time to Buy the Dip?",
+      "url": "https://finnhub.io/api/news?id=72e40caf18a18fb6cab5590640a11ff96627e965f2b5ec9f1262e7da777cc3fe"
     },
     {
-      "stock": "AMZN",
-      "headline": "How Microsoft, Coca-Cola And Amazon Are Adapting Their Offices For AI Age",
-      "url": "https://finnhub.io/api/news?id=9991a00881e982458e7d5c9acff0ec3ecedc947047424d056337dff2d9478227"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "FLEX Q2 Earnings Beat Estimates on CPI Strength, Outlook Raised",
-      "url": "https://finnhub.io/api/news?id=c5fbd71114491bc32ec0213b3147e7c098bb8d96a533ffaa5c2fb06ceb295f32"
+      "stock": "COHR",
+      "headline": "After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall",
+      "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc"
     },
     {
       "stock": "ARM",
-      "headline": "Arm Holdings: Data Centers Will Continue To Offset Weak Mobile, But Upside Only In My Bull Case",
-      "url": "https://finnhub.io/api/news?id=7585eccba9b344ec4f4f63bc7a68f665892546895db1913a0ce4081bb55d0768"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Stock Market Today, Oct. 28: Oracle Surges on Fiscal 2030 Revenue Guidance of $225 Billion",
-      "url": "https://finnhub.io/api/news?id=5df2489513cdda568d6a80d15407b1c2aa63974678882a4d2beea3929d6d4cda"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Wells Fargo Maintains Overweight on Atlassian, Raises Price Target to $270",
-      "url": "https://finnhub.io/api/news?id=bbfc8a877451a0f50467fdd694462c57a2260fa33be32126a25f2ba1a95b9139"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Wife Bailed Out Husband’s Business ‘So Many Times, I Lost Count.’ He Buys A New Car, Then Admits He Has Another $10K In Credit Card Debt",
-      "url": "https://finnhub.io/api/news?id=f4f7ec4c89646dd873387bf3d13b4a0ac4f3dfae2df5c9462a5a2b8a20e9feda"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Jensen Huang Foresees Booming AI Demand, but Elon Musk's Warning Highlights a Different Risk",
-      "url": "https://finnhub.io/api/news?id=55b976ca49ae0ce085da03c21e5605804c1730a373f173fb35ac575b0d4ea939"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm: The Price Tag Remains Far Too Steep (Earnings Preview)",
-      "url": "https://finnhub.io/api/news?id=fc552e59b94d33c94f449355858c00fd650d7466627489efbfd87d424d1d975e"
-    },
-    {
-      "stock": "HON",
-      "headline": "What Honeywell Aerospace (HONA) Said on Its Q3 Earnings Call",
-      "url": "https://finnhub.io/api/news?id=975d683b16c3675b27688492d6ab5d801661cde77c6a1de639351a3c5d2dee97"
+      "headline": "Benzinga's Top ETF Gainers, September 13th (SOXL, TNA, TMV, TQQQ)",
+      "url": "https://finnhub.io/api/news?id=b4059c99b060fcf3769ee11d2b54836a35c5f9a3e7ccaf88598acbab88b89ea4"
     },
     {
       "stock": "IONQ",
-      "headline": "What to Expect From Rigetti Computing's Q3 2026 Earnings Results",
-      "url": "https://finnhub.io/api/news?id=b0f7c5c88b87db3eb960fdc09d7bb4eec7f2d55e01d406f74c2e21d8481a6c0b"
+      "headline": "IONQ Below Key Moving Averages: Buy, Hold or Sell Before Q3 Earnings?",
+      "url": "https://finnhub.io/api/news?id=a41882dc8e2babedee2ccf42be6ae805e4ad59253130972d4d80b2c667cd7c95"
     },
     {
       "stock": "AAOI",
-      "headline": "Impinj (PI) Q3 Earnings and Revenues Beat Estimates",
-      "url": "https://finnhub.io/api/news?id=c0dce200a3e2ba110b7a4c170eedfeb5d0a615d0185cb545172e5455e892c6c7"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Global Battery Warranty Analytics Market Report 2026: Size, Trends and Forecast to 2030 | Capitalize on AI-Led 15.3% CAGR With Siemens, IBM, SAP, TWAICE and ACCURE",
-      "url": "https://finnhub.io/api/news?id=de90c4511d101a22b34b05f862faab510c1cf38ad6de1d7897f7fbafbcf5c506"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Bitcoin weakens to $80k as hawkish Fed, mixed tech earnings weigh",
-      "url": "https://finnhub.io/api/news?id=94c95542a83f5cebe0cab3c26da41b79f71510a918a517a91d0247dceba83e5d"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Why Klaviyo (KVYO) Could Be the Standout AI Beneficiary in Software?",
-      "url": "https://finnhub.io/api/news?id=08c8be589e4f796f9087f5ed018b473a8d47bfa36fdcd61d0ce79054c7dd4a7c"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Etsy CEO has an unexpected message for shoppers",
-      "url": "https://finnhub.io/api/news?id=7a23e80ff626247be1f30a7a4198374dd108df89528cb10ff3baac5805ea25f6"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "How Much Could You Lose In Target Stock?",
-      "url": "https://finnhub.io/api/news?id=49ad968a2ab525132cdaad2e23687a2f70a0cff208d8bbcbd806bde88a76e5cf"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Musk Says A Tesla-SpaceX Merger Is “A Good Idea,” But Admits It Would Require 1.98 Billion “Yes” Votes. He Calls It “Quite A High Hurdle”",
-      "url": "https://finnhub.io/api/news?id=879ebb87cff2c79f4e7fdacd849b41c857766dd4e6d36cfbbde28742c88310a6"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Why Arm’s Q2 Earnings Could Spur a Recovery in Its Stock",
-      "url": "https://finnhub.io/api/news?id=0291b21832e79044a0f164ea58ae7c4c1015d5f5bdbb78e2d34e61c45b4f24c6"
-    },
-    {
-      "stock": "HON",
-      "headline": "Global Smart Defrost Control Market Report 2026 | Capitalize on a $3.59B Market by 2030 as Schneider Electric, Honeywell, Daikin, Emerson and Danfoss Accelerate IoT Refrigeration",
-      "url": "https://finnhub.io/api/news?id=2cf88eee50ec1338295b8865990ff224301f08608d62fed6d6f911df6ca411e2"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Halozyme Therapeutics (HALO) Reports Next Week: Wall Street Expects Earnings Growth",
-      "url": "https://finnhub.io/api/news?id=209628d4fe1f18c18247a725d530bdab9a49c53dee0c0ff4daf2af3b9f2dd93a"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "AAOI's CATV Business Gains Momentum: Can It Beat LITE and COHR?",
-      "url": "https://finnhub.io/api/news?id=ca1b8849270265a83e1f301d4dfb3a2a148e71741b53b84ed224f6fb83df2ef5"
+      "headline": "Optical Stocks Climb as Analysts Flag AI Bottleneck: Lumentum Rises 4%, Applied Optoelectronics and Corning Gain 3%, Coherent Sits Out the Rally",
+      "url": "https://finnhub.io/api/news?id=5aaaf3e4f5a5529cfa5fc067fcacee5e1febcfd033680c1d480d1a9e5cd4c990"
     },
     {
       "stock": "ADSK",
-      "headline": "UMC Q3 Earnings Miss Estimates Despite Higher Wafer Shipments",
-      "url": "https://finnhub.io/api/news?id=a091f8197ce08dc6131a73ff28cd9156b6629dc3b2232077276cc78b44494862"
+      "headline": "Autodesk (ADSK) Could Turn AI Disruption Concerns Into an Opportunity, Bell Global Equities Fund Says",
+      "url": "https://finnhub.io/api/news?id=38d4b43f38041227aa53ab6a1981296253578a260fe0d90b0bfec2a3c7a0d1c5"
     },
     {
-      "stock": "QBTS",
-      "headline": "What to Expect From Rigetti Computing's Q3 2026 Earnings Results",
-      "url": "https://finnhub.io/api/news?id=b0f7c5c88b87db3eb960fdc09d7bb4eec7f2d55e01d406f74c2e21d8481a6c0b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Google Sees Near-Term Search Risks, But AI Traffic Strength Gives Confidence, BofA Says",
-      "url": "https://finnhub.io/api/news?id=3229e90533b44ce5c736b12f72c35c53bbf1ddd5ee67c318496465436016cec8"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Monday.Com shares are trading lower after Jefferies downgraded the stock from Buy to Hold rating and lowered the price target from $260 to $80.",
-      "url": "https://finnhub.io/api/news?id=534a1af072b97124c32f48f28dfeca225a63f1916fbcd693a65465857f8cb221"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "The Battle That May Matter Most for Netflix Stock Isn't Against Disney",
-      "url": "https://finnhub.io/api/news?id=474255ee933dd34b9e9879c01ec102c6152ce043ddf43fd3e0b257c02777935c"
+      "stock": "IBM",
+      "headline": "IBM (IBM) Debuts AI Agent Security Controls For Hybrid Cloud",
+      "url": "https://finnhub.io/api/news?id=805ad502bdf9ffb938aebbac5c232e73c8a53050ee5d85787b99ac834afe5fb3"
     },
     {
       "stock": "RDDT",
-      "headline": "Is Meta Stock's Fall A Bargain Or A Warning?",
-      "url": "https://finnhub.io/api/news?id=85287d24c4a4708ff249332e6e1e183531f1bb981865589388fdf9aa8221c0d6"
+      "headline": "RDDT Stock Drops As Soft Q4 Revenue Guidance, Search Traffic Decline And Logged-In-Only Transition Weigh",
+      "url": "https://finnhub.io/api/news?id=2148556b9cd3f5f0b603668b46c4da1037f000940e4b4f5f0145110d1e4dab9b"
     }
   ]
 }
