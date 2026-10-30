@@ -45,6 +45,56 @@
       "stock": "RDDT",
       "headline": "RDDT Stock Drops As Soft Q4 Revenue Guidance, Search Traffic Decline And Logged-In-Only Transition Weigh",
       "url": "https://finnhub.io/api/news?id=2148556b9cd3f5f0b603668b46c4da1037f000940e4b4f5f0145110d1e4dab9b"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Asian tech stocks slump as AI rout deepens on disappointing U.S. earnings",
+      "url": "https://finnhub.io/api/news?id=e2aab4ad857049953af7d3fdef1971a8b2a85552cc23483601d631d7602cd565"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike (CRWD) Flags 129% Law Firm Attack Jump As AI Security Push Deepens",
+      "url": "https://finnhub.io/api/news?id=80a599f5b7b3aed557a0dfae3c796acd98aabf5cb5110cb09ab4ca86e07f8547"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "NVDA Stock Drops: Nvidia May Back Data Center Loan Its Own Customer, Analyst Sees Little Impact From Intel’s Weak Report",
+      "url": "https://finnhub.io/api/news?id=b599ef299c6f21cb13de346fe40c20fc70de2324fb560e4bd69af2aa92844679"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "The Case Against a SpaceX and Tesla Merger",
+      "url": "https://finnhub.io/api/news?id=88ab17534752bbf924b90cc37e81263a24a5c40b875e714ddbce57d49ffb89ec"
+    },
+    {
+      "stock": "HON",
+      "headline": "The Case Against a SpaceX and Tesla Merger",
+      "url": "https://finnhub.io/api/news?id=88ab17534752bbf924b90cc37e81263a24a5c40b875e714ddbce57d49ffb89ec"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "LITE's Transceivers Gain From AI Infrastructure Demand: What's Ahead?",
+      "url": "https://finnhub.io/api/news?id=9e673b622c4430b713e4e6a949007c67c742a5df29edc9f794b4c3a50827ab4e"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "TYL Q3 Earnings Beat Estimates on SaaS Growth and Margin Expansion",
+      "url": "https://finnhub.io/api/news?id=df6934e360eba89ceb4f67579dc74b4de95e6a9a8fc7312570cd3e5cd10f8fe1"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "IONQ Below Key Moving Averages: Buy, Hold or Sell Before Q3 Earnings?",
+      "url": "https://finnhub.io/api/news?id=a41882dc8e2babedee2ccf42be6ae805e4ad59253130972d4d80b2c667cd7c95"
+    },
+    {
+      "stock": "U",
+      "headline": "Roblox Is Up 21% in October: Will Earnings Derail the RBLX Stock Rally?",
+      "url": "https://finnhub.io/api/news?id=e319765bfd8fb689cc0fd06806519eda601826330f6683fdaeb3a462aebbf267"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Amazon, Intel earnings rattle investors",
+      "url": "https://finnhub.io/api/news?id=2640adcb5062ffb14a37734733bb1444666dec26e8441326bd0490a3b1d4c4ae"
     }
   ]
 }
