@@ -65,6 +65,56 @@
       "stock": "RDDT",
       "headline": "Keybanc Downgrades Reddit to Sector Weight from Overweight",
       "url": "https://finnhub.io/api/news?id=6e352f0906f80c85e0f6882fb40077a81e60a2ef7faf9506021dac9af3c5693b"
+    },
+    {
+      "stock": "TSM",
+      "headline": "If AI Spending Slows in 2027, These Semiconductor Stocks Could Hold Up Best",
+      "url": "https://finnhub.io/api/news?id=c5fc75ede5f0e1ee32e744cfcf2e297de9e7f8ddca579203353c9d373db90e9c"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Stock Fell 11% as Intel and Amazon Earnings Hit AI Hardware Stocks. Here’s Where the Stock Could Go",
+      "url": "https://finnhub.io/api/news?id=c406ddf6b44b6ead86cb1d7597111211089282dcf6fe8995f84a3b7d63193e8c"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "SpaceX Is Considering a Merger With Tesla. Here's Why That Would Be a Bad Move.",
+      "url": "https://finnhub.io/api/news?id=cc5ef083e6b21327a33ead4e0b20e5662aba9c5eb9faefc6410eb47a20fa969f"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Nasdaq Futures Plummet as Disappointing Amazon and Intel Earnings Deepen Tech Rout",
+      "url": "https://finnhub.io/api/news?id=dd736da29addeb6256afc6f939e49d450d4256a37777001659a80a0e2ee2c45e"
+    },
+    {
+      "stock": "HON",
+      "headline": "Defensives Lead Sectors In Friday Trading As Growth Trails",
+      "url": "https://finnhub.io/api/news?id=f4d64ec63c560cc28d71bf7f59bde599a6edb4c194f1f0b09e1d167501e7f28c"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ Sinks 8%, D-Wave Down 7%, Rigetti Down 7% as Intel and Amazon Earnings Extend Tech Selloff",
+      "url": "https://finnhub.io/api/news?id=2e73fa9da9690d097a6db3715afd413eb5db6c8bb3437e37bbad23eb5b5cd648"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Why Dumping Uber Stock Before Q3 Earnings May Not Be the Smartest Move",
+      "url": "https://finnhub.io/api/news?id=6b9e94ebb9e79bc561c792a22cda334eabbdc55c02b45527bf8e3e225b3f2b2a"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Marvell Sinks 13%, Lumentum Jumps 6% on Reported Acquisition Talks; Coherent Holds Flat, Applied Optoelectronics Drops 3%",
+      "url": "https://finnhub.io/api/news?id=0ab4bffd3f27853efd021c06508eced6c8469f2c048e227d9e3bb4618a3a2c18"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "IonQ vs. D-Wave: Which Quantum Stock to Buy Ahead of Q3 Earnings?",
+      "url": "https://finnhub.io/api/news?id=2e02f1bb9190c4b3c55411bb84c9538b505b757bc0ed170f16ded6a7323b2fe3"
+    },
+    {
+      "stock": "U",
+      "headline": "Roblox Plunges 19% as Daily Users Shrink and GTA VI Clouds Holiday Outlook; Unity Drops 4%, Take-Two Dips",
+      "url": "https://finnhub.io/api/news?id=7185c66fe92d32e624a49588303e1896a483d49e18945258308be47f85469c7b"
     }
   ]
 }
