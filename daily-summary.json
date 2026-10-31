@@ -115,6 +115,41 @@
       "stock": "U",
       "headline": "Roblox Plunges 19% as Daily Users Shrink and GTA VI Clouds Holiday Outlook; Unity Drops 4%, Take-Two Dips",
       "url": "https://finnhub.io/api/news?id=7185c66fe92d32e624a49588303e1896a483d49e18945258308be47f85469c7b"
+    },
+    {
+      "stock": "TSM",
+      "headline": "If the AI Bubble Scare Gets Worse, This Is the Chip Stock I'd Still Hold",
+      "url": "https://finnhub.io/api/news?id=8c5bcb02a4d5f20d3356448d2806bc1b1e0058b40c0a6f2e5378c5a2cffc5ffe"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon Is Borrowing Against Its Own Data Center Gear to Fund More Data Centers",
+      "url": "https://finnhub.io/api/news?id=66687a88aa2277b590ef30830abec06562cd19731444b650782099b696544d0f"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Apple Leads Packed Earnings Calendar As Investors Eye Tech, Pharma Results",
+      "url": "https://finnhub.io/api/news?id=830af5c87daf35a8f602c2ec6680ca3553df23bdc7beabc0bcac73d5ef2dce14"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ vs. D-Wave: Which Quantum Stock to Buy Ahead of Q3 Earnings?",
+      "url": "https://finnhub.io/api/news?id=2e02f1bb9190c4b3c55411bb84c9538b505b757bc0ed170f16ded6a7323b2fe3"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Apple Leads Packed Earnings Calendar As Investors Eye Tech, Pharma Results",
+      "url": "https://finnhub.io/api/news?id=830af5c87daf35a8f602c2ec6680ca3553df23bdc7beabc0bcac73d5ef2dce14"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Which Gives You More High-Margin Software Growth, PTC Or Fair Isaac?",
+      "url": "https://finnhub.io/api/news?id=2d11ddaee1d6a147cfc8b88c9b63b82e7173fd3ac2581509a95c59b5fb9387b6"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit stock plunges 29.2% as Google AI cuts US traffic",
+      "url": "https://finnhub.io/api/news?id=a9f85c7e48aa4b886994caf0f599608837ba09ebea57b754c05362ad435311d9"
     }
   ]
 }
