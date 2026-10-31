@@ -150,6 +150,21 @@
       "stock": "RDDT",
       "headline": "Reddit stock plunges 29.2% as Google AI cuts US traffic",
       "url": "https://finnhub.io/api/news?id=a9f85c7e48aa4b886994caf0f599608837ba09ebea57b754c05362ad435311d9"
+    },
+    {
+      "stock": "MU",
+      "headline": "OpenAI’s CEO Thinks Your Laptop’s Memory Should Be in a Data Center",
+      "url": "https://finnhub.io/api/news?id=28ca3c6fb60f6861c3dfe7f58a418b4196b0a198d1429d1f9932a9806efb96af"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike CEO Made Millions as Cybersecurity Stocks Rallied",
+      "url": "https://finnhub.io/api/news?id=8d31fc24cc838c44b3cea391cc979445278b0c20b56135658780d94620f8b08b"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Q3 Earnings Preview: The Buy Case Does Not Need A Rerating",
+      "url": "https://finnhub.io/api/news?id=4e9ea815fdf3426e478625a98e89494debe99758bea71428b254ff6fc629aa77"
     }
   ]
 }
