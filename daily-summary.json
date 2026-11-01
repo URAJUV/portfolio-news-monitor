@@ -5,6 +5,41 @@
       "stock": "COHR",
       "headline": "S&P 500 Top Movers: Gainers and Losers in Today's US Session",
       "url": "https://finnhub.io/api/news?id=a44171cddfb342446f40d46de2d93a46c7e83ee351259121874ff7dd3fb7086d"
+    },
+    {
+      "stock": "MU",
+      "headline": "US Hedge Funds Just Sold Every AI Stock They Bought Since 2025",
+      "url": "https://finnhub.io/api/news?id=879dc3d3a29de08a5176fb0eb1ea1e60cd400f763fe5f9bdb3398b2ce7856411"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor Manufacturing (TSM) Draws New Sunbelt Real Estate Fund Around Phoenix Fabs",
+      "url": "https://finnhub.io/api/news?id=c869f047ab09287a60c5a32300c5b57c7168fc6de437545b887b2290306ddd40"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "A big sell-off collides with more Big Tech earnings and a midterm election: What to watch this week",
+      "url": "https://finnhub.io/api/news?id=e3fc075388fa22e93319eb80a0d4b4b723e182fb6039f97cdb968f7f8473f8d6"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "The First U.S. Humanoid Robot Stock Starts Trading in November. Here's Why I'd Wait for the De-SPAC Dip.",
+      "url": "https://finnhub.io/api/news?id=a1e2e2c1ed1647ffd16306a1ac1a613d1b73d3dba42b8366f5cff37eda65683d"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave Sinks 9% in a Week to a New Low as AI Spending Fears Hit Quantum Stocks",
+      "url": "https://finnhub.io/api/news?id=b091420beee5de8c7f5834a7a3d768ac78890520882d211d2e4b7dd385b8d0c2"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "GOOGL Market Cap Drops Nearly $500B After Google Search Fell Below 50% Of Alphabet's Revenue — David Sacks Explains Why That's A Good Thing",
+      "url": "https://finnhub.io/api/news?id=216b93369ccde2517bdf8a4cddf06ea927c3d2fdaa748421169e5303eb55caa6"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Slides to a 52-Week Low as Its Ad Business Runs “a Bit Behind” Its $3 Billion Target",
+      "url": "https://finnhub.io/api/news?id=b1094c80bc507460cd3ad1808280dd3969498cc7c004e3c03438e0a17f37a531"
     }
   ]
 }
