@@ -40,6 +40,31 @@
       "stock": "NFLX",
       "headline": "Netflix Slides to a 52-Week Low as Its Ad Business Runs “a Bit Behind” Its $3 Billion Target",
       "url": "https://finnhub.io/api/news?id=b1094c80bc507460cd3ad1808280dd3969498cc7c004e3c03438e0a17f37a531"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Earnings Volatility Watch: 10 Stocks Are Set to Swing More Than 10% This Week",
+      "url": "https://finnhub.io/api/news?id=11580ea46adbde2a6243b452b62d658eeaae614850c1595b883ece0ea213f70f"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Rivian Earnings Don’t Mask Stock Collapse",
+      "url": "https://finnhub.io/api/news?id=779b90c63706f375025c29929982e948807476b57dd47bec37547f5812dcbfab"
+    },
+    {
+      "stock": "UBER",
+      "headline": "What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report And More",
+      "url": "https://finnhub.io/api/news?id=d16b8085ff0f4b19b91eb7fe8141f1f639bc465eefc1803211670631621e6991"
+    },
+    {
+      "stock": "IBM",
+      "headline": "CRWD, PANW, OKTA Stocks Have Doubled This Year — Here’s What’s Driving The Cybersecurity Rally",
+      "url": "https://finnhub.io/api/news?id=f6fd934e31e0b6ef232f58d03ffe992a4b9b83238b8f046973d38c40bcd4fd3c"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix's U.S. Audience Engagement Problem Is Hurting The Stock (Rating Downgrade)",
+      "url": "https://finnhub.io/api/news?id=53071be3b4514abb871a9dcf83a4e2ec316795e492ac4b9159c8c44da259635d"
     }
   ]
 }
