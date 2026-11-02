@@ -45,6 +45,61 @@
       "stock": "NFLX",
       "headline": "A Cinema Chain Is Trying Something Strange to Bring Back the First-Viewing Feeling",
       "url": "https://finnhub.io/api/news?id=693837393a371bb885a80699476989bec6bc7f24f03f9237855ef318354f3620"
+    },
+    {
+      "stock": "TSM",
+      "headline": "ASML Fell 6% in Intel’s Chip Rout. Its CEO Says Supply “Will Not Fully Meet the Demand”",
+      "url": "https://finnhub.io/api/news?id=f67e4e6fd88cb6a7f4a1759e7f48f8960f9ef024ec5eb9e7367cbf54840265b0"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Makes Three Major AI Security Moves",
+      "url": "https://finnhub.io/api/news?id=24550ccde6297c7b04f914a8f752c04cf33089585c1e92b69047ac89fc563f1b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "How Spangle Helps Enterprise Retailers Win the Shift in Product Discovery",
+      "url": "https://finnhub.io/api/news?id=2eca4b99895623939b89ab59d384de5c16da9c280efd2d9d1811666cc0882677"
+    },
+    {
+      "stock": "COHR",
+      "headline": "COHR Stock Draws Upgrade As Marvell’s $115B Lumentum Deal Highlights ‘Value Of Scarce AI Optics’",
+      "url": "https://finnhub.io/api/news?id=719c8dbbdf4f4e3bc3986ec3982fbc8d91732dcbdbd2ddc969d142cf328be7f2"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Why Musk's telecom play is no 'Hail Mary' fix",
+      "url": "https://finnhub.io/api/news?id=1cd4d0c77eccc544db49f1189c6760e4e468e23632b7946f47422271c100b815"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Stocks Decline 1.2% With Earnings Putting Royalty Mix Under Scrutiny",
+      "url": "https://finnhub.io/api/news?id=c0c2e489a38e29119cdeb28b993de207fd28077043df1de90458de061a9f9444"
+    },
+    {
+      "stock": "HON",
+      "headline": "TAT Technologies Ltd. Q3 2026 Earnings Call Summary",
+      "url": "https://finnhub.io/api/news?id=a56aff0399be8ec9a29b8592753c81d8da93b70759a923b0125881253f4de65c"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Quantum Stocks Face Earnings Reality Check After Selloff Exposes Profitability Divide",
+      "url": "https://finnhub.io/api/news?id=13115f0ccea78f020ddbdbbab2301237ae094356c0e31cef29b2bdfa812386fd"
+    },
+    {
+      "stock": "IBM",
+      "headline": "How Investors Are Reacting To IBM (IBM) AI Product Launches",
+      "url": "https://finnhub.io/api/news?id=a05bc88d9f9f436baca79f6133bb33a913919733b3affea860bb032d832b025c"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "What Is The Case For Waiting On Rigetti Computing Stock?",
+      "url": "https://finnhub.io/api/news?id=5f98949fcbf5421db304274b13895651c84d709904c71e6936d921b38ecd121c"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Wall Street Lunch: Big Tech Earnings Take Center Stage",
+      "url": "https://finnhub.io/api/news?id=007082f086a1a129c1b3cdf16cebea95d2da37514076358d0c2350da72369d09"
     }
   ]
 }
