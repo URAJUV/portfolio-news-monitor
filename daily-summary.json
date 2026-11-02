@@ -15,6 +15,36 @@
       "stock": "RDDT",
       "headline": "Reddit Stock Crashed 29%: Is Google AI Coming for More Stocks?",
       "url": "https://finnhub.io/api/news?id=2a7b51f237569433e197364b781c0be6aece6004c3bf52aae8e841bccb7ca4af"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Midterm Elections, Important Earnings and Other Key things to Watch this Week",
+      "url": "https://finnhub.io/api/news?id=bebb9b2ba175acee9f16711abce3c4295e7300508d8cbafcdff0f01ededfc715"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Stocktwits Tech Watch: Apple And Palantir To Kick Off Tech Earnings In Another Crucial Week, AMD To Settle Chip Debate After Intel’s Warning",
+      "url": "https://finnhub.io/api/news?id=96a711f14a98bcc85111e823c97f943286a0b396f40ec01068f0252972a39016"
+    },
+    {
+      "stock": "IBM",
+      "headline": "What Is The Case For Waiting On Rigetti Computing Stock?",
+      "url": "https://finnhub.io/api/news?id=5f98949fcbf5421db304274b13895651c84d709904c71e6936d921b38ecd121c"
+    },
+    {
+      "stock": "U",
+      "headline": "AppLovin Stock Is Struggling: 3 Things to Watch in Q3 Earnings That Could Get APP Back on Track",
+      "url": "https://finnhub.io/api/news?id=b474035ef1b24a712ddfa201479c1b2e0b0b8725458c5b29c3a74bed11b136f2"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Why JFrog Could Be the Software Infrastructure Company to Beat in the AI Boom",
+      "url": "https://finnhub.io/api/news?id=e66a58562306b8737cfe1fad18fdb6fead52e6f56d4308b54b822570e10e4942"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "A Cinema Chain Is Trying Something Strange to Bring Back the First-Viewing Feeling",
+      "url": "https://finnhub.io/api/news?id=693837393a371bb885a80699476989bec6bc7f24f03f9237855ef318354f3620"
     }
   ]
 }
