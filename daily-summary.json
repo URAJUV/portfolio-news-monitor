@@ -105,6 +105,41 @@
       "stock": "RDDT",
       "headline": "Reddit Sinks 34% in a Week on a Weak Outlook: “AI Mode Does Not Drive Traffic”",
       "url": "https://finnhub.io/api/news?id=6d3504f63f0ed09ed8b226a96d53b24be14d8fc668e04bb75beaafe874bfad2c"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron’s Real Risk: China’s CXMT Targets “20% by 2028,” Warns Dan Niles",
+      "url": "https://finnhub.io/api/news?id=c20a4a0a683a53e280162411eb659fec2de56613212f11cdd3fe4e39f601a628"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Makes $495 Million Bet on AI Security",
+      "url": "https://finnhub.io/api/news?id=9149ed989b37f443b522b65fb9b41bd1cf024aaf45325e410e7e55bb85f70656"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Should You Buy, Sell, or Hold AAOI Stock Ahead of Q3 Earnings?",
+      "url": "https://finnhub.io/api/news?id=03d6ab8ae6fe78eca6a79b88034d6251b7e92623a0b43763e86737908a980798"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Stocks Rise 3.94% Ahead of November 4 Earnings Test",
+      "url": "https://finnhub.io/api/news?id=30840c2480d90a05808d0bf0f48dcd344bc99f933069925dcfbaedc5b8c40cf5"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "B. Riley Securities Maintains Buy on IonQ, Lowers Price Target to $75",
+      "url": "https://finnhub.io/api/news?id=508d9471bfc734ad78bfcbae9b2c08d216e895645cd324b8c9d76ae5b8a9d4d2"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics Looks Great Ahead Of Earnings (Preview)",
+      "url": "https://finnhub.io/api/news?id=c65eea391d6d2096611f270f3b42df92ef828afba98644d3e4ed1635f401b927"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "B. Riley Securities Maintains Buy on D-Wave Quantum, Lowers Price Target to $27",
+      "url": "https://finnhub.io/api/news?id=509a6f197a1ae88bacd9de84c24c09c940ecab6070114b4f16b78b09eeb76581"
     }
   ]
 }
