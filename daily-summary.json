@@ -1,145 +1,55 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "items": [
     {
-      "stock": "CRWD",
-      "headline": "Stock Market Today, Nov. 2: CoreWeave Slides on Debt Concerns After CrowdStrike Partnership Expands",
-      "url": "https://finnhub.io/api/news?id=4d1746fe5a537fd252076e207e7a96a46e26b660a264216c54da4323c8c411f9"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Stocks mostly down as AI concerns top plunge in oil prices",
-      "url": "https://finnhub.io/api/news?id=ed58e2ef9b5485735e9f9dc1e1a08ef400854ad192ca37cfd76ee80e2f7357d7"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Cadence's Raised 2026 Outlook Tests the Strength of Its AI Demand",
-      "url": "https://finnhub.io/api/news?id=8c3a9c2076b4e826507250bc3f1218ff4e857aa8484d2fb39c59f2b641965675"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "ELEKTROS (OTC:ELEK) Advances Review of U.S. Lithium Opportunity as Critical Minerals Gain Strategic Attention",
-      "url": "https://finnhub.io/api/news?id=9e2f133115c80f7f10b98200cfe2f1593ba8575b7007db9af58aa07062fb707b"
-    },
-    {
-      "stock": "ARM",
-      "headline": "AI Earnings: 3 Reports to Watch This Week",
-      "url": "https://finnhub.io/api/news?id=b9370075fe0eb5d3d69914c7eedaa2959ca96696612857a955b34184a9d399a6"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Quantum Stocks Plunge in October: Can Q3 Earnings Halt the Slide?",
-      "url": "https://finnhub.io/api/news?id=d072649093d6787a4b1172471d47b4620309ea89f33cc7cf24bc7262d9fee76e"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Earnings live updates: Roku posts earnings beat ahead of acquisition by Fox",
-      "url": "https://finnhub.io/api/news?id=f405697ffef04bc26d1932b0481443c990f3546dc8912e24331cbdc1c2fc1ab2"
-    },
-    {
-      "stock": "DE",
-      "headline": "Alamo Group (ALG) Q3 Earnings and Revenues Lag Estimates",
-      "url": "https://finnhub.io/api/news?id=47762c6aba1d85275129b38edd2ac58919a9b12cfd33b4b40cd1bf6499d2d4f0"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Quantum Stocks Plunge in October: Can Q3 Earnings Halt the Slide?",
-      "url": "https://finnhub.io/api/news?id=d072649093d6787a4b1172471d47b4620309ea89f33cc7cf24bc7262d9fee76e"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Yardeni Says Analysts Still See S&P 500 Earnings Near $500 Per Share by 2028",
-      "url": "https://finnhub.io/api/news?id=5a0b5a18b49dd9abe4fb2810dd88a76d1d78787e5dc82a6534ff76041a39749a"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Global Enterprise Information Technology (IT) Management Tools Market 2026 | Capitalize on AI and Cloud Growth to $88.59B by 2030 with ServiceNow, Atlassian, Cisco and Datadog",
-      "url": "https://finnhub.io/api/news?id=2d0dfa65139590b148e963f9d12c9d052930bf6f8efb72311c0f2eaad40f4a86"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Lionsgate Studios Is a Takeover Target, and 3 Other Reasons to Own the Stock.",
-      "url": "https://finnhub.io/api/news?id=74311b0a7a7385d097e49f79e58dd33f809c5f3c694a349a35a74cbc558484dd"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike To Reportedly Buy AI Security Startups For $495M, Launches ‘Kill Switch’ For Rogue Agents",
-      "url": "https://finnhub.io/api/news?id=f7ca64144ff2516523114fede2391a6c9212bb7ee80ede4f99947686813d7236"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Apple earnings beat expectations, but rising chip costs worry investors",
-      "url": "https://finnhub.io/api/news?id=fe05defd490e575be45867c8a7a4bdb68cd2edd832b9498f308a1b47439d4a63"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Can Cadence's AI Momentum Offset Margin Pressure and Rich Valuation?",
-      "url": "https://finnhub.io/api/news?id=aa32916d91c1dbab42292a26fad76671ff9e2d1f3fa25a65b445fe5c1c353f12"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Quantum Computing and Communications Market Global Report 2026 | Capitalize on 35.2% CAGR Through 2030 as IBM, Quantinuum, IonQ and PsiQuantum Scale Secure Quantum Networks",
-      "url": "https://finnhub.io/api/news?id=34be0d7e2d4c31375bbd553800d89726640b84f960e8884651703bceb5a4b42b"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Oracle, Nike upgraded: Wall Street's top analyst calls",
-      "url": "https://finnhub.io/api/news?id=0222bf96c9b5337babfcbec3fe2b0db0ef5fc460033006df4f201b3b7b6617d9"
-    },
-    {
-      "stock": "DE",
-      "headline": "Caterpillar Crashed By 25% Over 6 Months But This Global Banking Giant Says 85% Gains Will Come",
-      "url": "https://finnhub.io/api/news?id=1ab763d7c2563bcc86ca2888211b3d1f0e6a3279b8c4b4fc1dbf190dcd630964"
-    },
-    {
-      "stock": "U",
-      "headline": "Should AppLovin Stock Be in Your Portfolio Before Q3 Earnings?",
-      "url": "https://finnhub.io/api/news?id=7b125e894c387b04eb06048bdc91dfb83b01b1219dc43c0cbd0fd9024f6e1797"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Cantor Fitzgerald Maintains Overweight on Atlassian, Raises Price Target to $252",
-      "url": "https://finnhub.io/api/news?id=cc2b0e27035af883218dcadd598dfc22f49115c157b65ebc9bee8816c0c35b83"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit Sinks 34% in a Week on a Weak Outlook: “AI Mode Does Not Drive Traffic”",
-      "url": "https://finnhub.io/api/news?id=6d3504f63f0ed09ed8b226a96d53b24be14d8fc668e04bb75beaafe874bfad2c"
-    },
-    {
       "stock": "MU",
-      "headline": "Micron’s Real Risk: China’s CXMT Targets “20% by 2028,” Warns Dan Niles",
-      "url": "https://finnhub.io/api/news?id=c20a4a0a683a53e280162411eb659fec2de56613212f11cdd3fe4e39f601a628"
+      "headline": "US tech stocks recover after selloff spooks investors over AI spending",
+      "url": "https://finnhub.io/api/news?id=f8e6bccb7e47a9a1770bad604e31251b18e31af88af3181f075f7843724b2e4c"
     },
     {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Makes $495 Million Bet on AI Security",
-      "url": "https://finnhub.io/api/news?id=9149ed989b37f443b522b65fb9b41bd1cf024aaf45325e410e7e55bb85f70656"
+      "stock": "TSM",
+      "headline": "AMD Soars After Huge Guidance News",
+      "url": "https://finnhub.io/api/news?id=6af11dbb3015be59907c1bb651301cf8e4f2c7b099f020c716ee8213a5f59bf2"
     },
     {
       "stock": "COHR",
+      "headline": "S&P 500 After-Hours Gainers: Tuesday Postmarket Movers",
+      "url": "https://finnhub.io/api/news?id=b841c0cf723b24b85d977911a7fc41eb245d56271544418191a11d5cc383e566"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Stock Market Election Night: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista Lead Earnings Winners (Live)",
+      "url": "https://finnhub.io/api/news?id=66a957fd9ea828523ddd20d41168ae0df47ca0ad1c179b59c013acc2a0811fbe"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Q4 QQQ Roadmap: Navigating AI Turbulence & Market Headwinds",
+      "url": "https://finnhub.io/api/news?id=041824fbece43af3d68ecd4999d536276956cccdefa16c904ec9c7beefe6dda2"
+    },
+    {
+      "stock": "HON",
+      "headline": "Is AI Platform Launch Altering The Investment Case For Honeywell (HON)?",
+      "url": "https://finnhub.io/api/news?id=4d5cb2ea2471bfee150a07942be72e6f5a4953199b083bb4f2b7c4f8ae9d7678"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Top 3 Streaming Stocks to Watch as Digital Entertainment Demand Grows",
+      "url": "https://finnhub.io/api/news?id=65bfb28eb2e47af5442008788fe122fe1253a2cb2dc1302c3c13d0659bd9035b"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Stock Market Today, Nov. 3: Grab Holdings Jumps 9% on Q3 Revenue Beat and Raised 2026 Outlook",
+      "url": "https://finnhub.io/api/news?id=ad62c738ff9f92f808e6fd6f7a6fcc290283072b86e524f6eaf4f375988e2571"
+    },
+    {
+      "stock": "AAOI",
       "headline": "Should You Buy, Sell, or Hold AAOI Stock Ahead of Q3 Earnings?",
       "url": "https://finnhub.io/api/news?id=03d6ab8ae6fe78eca6a79b88034d6251b7e92623a0b43763e86737908a980798"
     },
     {
-      "stock": "ARM",
-      "headline": "Arm Stocks Rise 3.94% Ahead of November 4 Earnings Test",
-      "url": "https://finnhub.io/api/news?id=30840c2480d90a05808d0bf0f48dcd344bc99f933069925dcfbaedc5b8c40cf5"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "B. Riley Securities Maintains Buy on IonQ, Lowers Price Target to $75",
-      "url": "https://finnhub.io/api/news?id=508d9471bfc734ad78bfcbae9b2c08d216e895645cd324b8c9d76ae5b8a9d4d2"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Applied Optoelectronics Looks Great Ahead Of Earnings (Preview)",
-      "url": "https://finnhub.io/api/news?id=c65eea391d6d2096611f270f3b42df92ef828afba98644d3e4ed1635f401b927"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "B. Riley Securities Maintains Buy on D-Wave Quantum, Lowers Price Target to $27",
-      "url": "https://finnhub.io/api/news?id=509a6f197a1ae88bacd9de84c24c09c940ecab6070114b4f16b78b09eeb76581"
+      "stock": "IBM",
+      "headline": "Salesforce vs. IBM: Comparing Consistent Revenue Expansion Against Slow Sales Growth",
+      "url": "https://finnhub.io/api/news?id=9fec38c438c95317c6f021897ca083eb70ec2fe1fa323932d08d3904424666d4"
     }
   ]
 }
