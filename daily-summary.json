@@ -90,6 +90,51 @@
       "stock": "TEAM",
       "headline": "TEAM Set to Report Q1 Earnings: What's in Store for the Stock?",
       "url": "https://finnhub.io/api/news?id=6a980c39707c4a3740b58a1e9191dce77b7b04d20f954c1f92248daf81284844"
+    },
+    {
+      "stock": "MU",
+      "headline": "Apple’s Pain Could Be Micron’s Gain as Memory Prices Surge",
+      "url": "https://finnhub.io/api/news?id=2321724eac92015c22f8907b33d76aabd63d078456f0bfe618cff2f3f7a4928e"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Launches Sovereign Cloud in Saudi Arabia, Bringing AI-Native Cybersecurity to the Kingdom",
+      "url": "https://finnhub.io/api/news?id=bb4c11cc4757ec80682d3a4220ed63ca1d91828e8051c29caf10bcd94a3fc227"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Shoals Technologies Gr Q3 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=39c1825afa7b1fef08f2930406d75243ff43eb0bd3a876464f9a3070f5754709"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Stocks Move Lower as Tonight's Earnings Face a $1.38 Billion Test",
+      "url": "https://finnhub.io/api/news?id=5a9d1a97fbc5c1885785ea589f656acba5d616d9b926427202395d1e4cb3bbb8"
+    },
+    {
+      "stock": "HON",
+      "headline": "Global Electric Regional Aircraft Market Report 2026: Size, Trends, and Forecast to 2030 | Airbus, Embraer, ZeroAvia, and Heart Aerospace Accelerate a $2.88B Hybrid-Electric Market",
+      "url": "https://finnhub.io/api/news?id=76a176711c60ecda310b546094096f223d99b725c18ef64e7726b7009984933f"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme Therapeutics (HALO) Q3 Earnings Preview: What You Should Know Beyond the Headline Estimates",
+      "url": "https://finnhub.io/api/news?id=216fe6766040323e8ea37978a4dd1804002525324110d8e6bc664d8fd6d566b5"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Quantinuum Q3 Preview: Should You Buy the Dip Ahead of Earnings?",
+      "url": "https://finnhub.io/api/news?id=3692157aaef92fcb3e5b8a7d3d299fad2e42ccc5288fdb635d20409affdfc48e"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Climbs 7% Despite Soft Profit Outlook as Delivery Strength Shines; Lyft Jumps 11%, DoorDash Gains 7%",
+      "url": "https://finnhub.io/api/news?id=aacec8e6a31ae825121110378b90b981cc2f6fbc2a9af5432d72494f516b04ce"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Should COHR Stock Be in Your Portfolio Before Q1 Earnings?",
+      "url": "https://finnhub.io/api/news?id=832b2771bad9ab0283c7bdfa510fa1361663a36c68c1dae0976722bd8b42004b"
     }
   ]
 }
