@@ -125,6 +125,41 @@
       "stock": "RDDT",
       "headline": "Reddit Stock Roars Back From AI Search Scare: Keep This On A Watchlist",
       "url": "https://finnhub.io/api/news?id=99bc818b5e45b5814771bca975c07d72f16f64234a94f1133bf8f3fda09f5746"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Palantir and CrowdStrike stocks tumble as Wall Street dumps software's AI winners",
+      "url": "https://finnhub.io/api/news?id=4bcb600406981224af0fa9ec5e6f66b89cf75a7f597f42456f27274628b2eb9b"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent (COHR) Q1 2027 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=ebd3bf5c0dbd28c712973ae7efa230f20bc7c0a7024fa21b57f0a82311011c90"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Array Technologies And Shoals Merger Creates Upside Potential",
+      "url": "https://finnhub.io/api/news?id=a499d159990e45cf2e2ea5da5fd13f40835c2776167ed670e5ffe33b14a5b362"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ (IONQ) Acquires Security Firm And Expands Quantum Access In Connecticut",
+      "url": "https://finnhub.io/api/news?id=06d1ec5c52749065e611770b0e680c269e532590fc9a1cada91a7462b1aa8e75"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Apple cuts employee AI budgets as new CEO looks to rein in costs",
+      "url": "https://finnhub.io/api/news?id=e1a1faf27290ce3d3870b147eee2070aee09bf19c70957534ab747cf78cb7a2b"
+    },
+    {
+      "stock": "IBM",
+      "headline": "D-Wave Sinks 8%, Rigetti Down 8%, IonQ Down 8% as Quantum Stocks Slide Again",
+      "url": "https://finnhub.io/api/news?id=313fe7481b519a02c0c2013ec41eb081136c29f7ec6ccf7dfcf414e81f615a82"
+    },
+    {
+      "stock": "U",
+      "headline": "Unity Software (NYSE:U) Q3 Earnings Beat and Above-Consensus Q4 Guidance Send Shares Higher",
+      "url": "https://finnhub.io/api/news?id=864e9d29c090445c6ece1379a8a46b1aa0b041d7fb49a6f18f1227f9256154b9"
     }
   ]
 }
