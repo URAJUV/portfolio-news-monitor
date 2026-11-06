@@ -125,6 +125,71 @@
       "stock": "TEAM",
       "headline": "Atlassian (NASDAQ:TEAM) Shares Fall 18% as Weak Guidance Overshadows Q1 Profit Beat",
       "url": "https://finnhub.io/api/news?id=a6f235fd9febe6e4dfe520f3a865593270efa03c25fd3980288e5a89e7abc5ec"
+    },
+    {
+      "stock": "MU",
+      "headline": "Michael Burry Takes Profits on Major AI Bear Bet",
+      "url": "https://finnhub.io/api/news?id=09cd1fa55c30264fcba2771b46cbc33e3f472ceaa266204a3bdb16c8bf35a426"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "AI Agents Are Joining the Workforce - Living Security Says Preemptive Security Starts With Human and Agent Risk Visibility",
+      "url": "https://finnhub.io/api/news?id=e825671a65250ec7932b5dc082e083612ccaad8270cf1b59310d9d68040b8d99"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong",
+      "url": "https://finnhub.io/api/news?id=6a3678b37970efe8baad52f39970c3572ec472ea6dfff26b6f6538f9bddd86a3"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Solar Stocks Had Their Best Rally Against Oil in 4 Years: Is the Clean Energy Trade Back?",
+      "url": "https://finnhub.io/api/news?id=c205226ba2823871556b19a2d9fc6632e619515613ccf17c9e7dee898dc37f91"
+    },
+    {
+      "stock": "ARM",
+      "headline": "The AI Chip Race Is Changing. This Could Matter More Than GPU Market Share",
+      "url": "https://finnhub.io/api/news?id=47f32c40d9b72141fb830bbd91107802bffb3317eabfd176bfaa0d3c40599314"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Split Up. Here’s Why Longtime Investors Are Getting Smaller Dividend Checks",
+      "url": "https://finnhub.io/api/news?id=c400d76bb07e956c83285b293fa60fbd6392bc7ce408b5d111b03b998a7241f1"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme Therapeutics (HALO) Following Record Results And Higher Guidance Is The Stock Still Undervalued",
+      "url": "https://finnhub.io/api/news?id=6bfa5acfc4a5213b53f075fa14358a976a2dbcffd770d0d74e9a16dbb7f19ae5"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Cantor Fitzgerald Maintains Overweight on IonQ, Lowers Price Target to $60",
+      "url": "https://finnhub.io/api/news?id=5bd072a064d0916e21a26aa85aac5794b9c450f4c9c5338d6c1d5924878e9546"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave Quantum Earnings Preview: Real Customers, But Bull Case Still Priced In",
+      "url": "https://finnhub.io/api/news?id=28f064886c6a6838e56cfb7bace4ad2961e5e47932b1842baf1a5fcbc51c36c8"
+    },
+    {
+      "stock": "U",
+      "headline": "Unity: Q3 Proved Me Wrong (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=8e52e81a5b3368ac9f2570cb7db508ce7512c731f568433b3c6d122a41b1857b"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Apple Is “the Anti-AI Large Cap Tech Trade,” Says Josh Brown. Now It’s Capping AI Spending",
+      "url": "https://finnhub.io/api/news?id=f2ac749267eccb059f97672938e3cd68181ea001062b69d9f76d919376395db6"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian: Gaining Seats In Competitive Displacements, 'Buy' The Dip",
+      "url": "https://finnhub.io/api/news?id=347d263ee8733a54d83149d713935bc9764244290f542c1cf2acc3e53e813cec"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "IMAX (IMAX) CEO Defends Offering Premium Screens To A High Profile Streaming Release",
+      "url": "https://finnhub.io/api/news?id=c90fc3a2a9945f0960330cb9adc11115ce035d32363ed7c550a8c6379753f794"
     }
   ]
 }
