@@ -1,165 +1,70 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "items": [
     {
       "stock": "MU",
-      "headline": "Q3 Earnings Scorecard: Solid Beats, Upward Revisions, and AI Drivers",
-      "url": "https://finnhub.io/api/news?id=4451421839d5c721b86e0e030b99101dc7e17dc55346bb204199bdc27ebba081"
+      "headline": "Midterms Could Deepen the K-Shaped AI Trade as Data Center Curbs Favor Big Tech Companies",
+      "url": "https://finnhub.io/api/news?id=c7f0b1ba0ddff777c82242d77735bd6e71c596968b79c363949180517e0c579b"
     },
     {
       "stock": "CRWD",
-      "headline": "AI Server Backlog Could Reshape The Dell Stock Story",
-      "url": "https://finnhub.io/api/news?id=df6aa4132aa467ce248ceb54e9ace38eda6b0f8faa589d5e6ca55000ae94dbdb"
+      "headline": "CrowdStrike Sinks 9%, Palo Alto Down 8%, Cloudflare Down 9% as AI Trade Unwinds",
+      "url": "https://finnhub.io/api/news?id=b8c9590d11b3131ed10099c3d4f727f98362921c8783a92f9b8e92c904c05c18"
     },
     {
       "stock": "COHR",
-      "headline": "Coherent Stock Climbs Back From AI Data Center Doom and Gloom",
-      "url": "https://finnhub.io/api/news?id=788d4e6f640df5f34751cdb1a6bce44d4e332f035ff10413a05323b74260f91d"
+      "headline": "Coherent (COHR) Stock Price Falls Despite Strong Q1 Earnings",
+      "url": "https://finnhub.io/api/news?id=ce15bb57659cd15de4d93690ee95796d1f6e1a6ec8ce2b0fe9951e06e88c0101"
     },
     {
       "stock": "SHLS",
-      "headline": "Shoals Technologies Group, Inc. (SHLS) Q3 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=21936583e09df81ed5e942bb7dc999afa3ca4273ce43eb7ac904d2fd99b9ee4f"
+      "headline": "Major Merger: How The Array And Shoals Business Combination Will Likely Play Out",
+      "url": "https://finnhub.io/api/news?id=58ee80ec48bc2a3747b48f92beb93dcd8ea3f76a36be690e502b8d7fc65aed8b"
     },
     {
-      "stock": "SNPS",
-      "headline": "5 Large Cap Tech Stocks to Buy According to Billionaires",
-      "url": "https://finnhub.io/api/news?id=2dc477639845c964c6f23176fbda4c1c8007a18f4767bcf42989fe42e97560b1"
+      "stock": "ARM",
+      "headline": "Arm Holdings (ARM) Q2 2027 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=c7fc9df318774bb7a98fce81c5753e8977b0ae21e9ddaa7cdc6f00c496df4426"
     },
     {
-      "stock": "TSLA",
-      "headline": "Apple Reportedly Tightens the Belt On Employee AI Budgets Amid Cost-Cutting Drive",
-      "url": "https://finnhub.io/api/news?id=a99462b27454107a4ea7ed17b64f0cc236dc02686a28f07b2233f6fcbfa8a976"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Quantum Stocks Tumble as Wall Street Bank Slashes Price Targets by Up to 32%",
-      "url": "https://finnhub.io/api/news?id=2c0d1966bf557c347fcc696afb9b159e07f28093ec86e8ebb8243b47eaf6b4ec"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Waymo Co-CEO Calls Uber Partnership 'Crapshoot' as Company Plots Its Exit",
-      "url": "https://finnhub.io/api/news?id=34b9a54a683068d2b6aceba6b3d3b62dac2a0e4c3f5397359c0feb5904ce1e48"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Coherent Rallies 6% Ahead of Earnings as Optical Stocks Rebound; Applied Optoelectronics Gains 5%, Lumentum Ticks Up",
-      "url": "https://finnhub.io/api/news?id=e8d139848da8b666dc920b34d4f2524c87ccdd4a279a6512d2fdf4e61f01b768"
-    },
-    {
-      "stock": "DE",
-      "headline": "Cummins Earnings Ahead: What Past Reactions Say About The Stock",
-      "url": "https://finnhub.io/api/news?id=44ff24d2585fbc1d967d18781de6fe3dbeb1def6f5cd7f69e0aaff45ff996536"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Did IBM Just Tell the Truth About AI?",
-      "url": "https://finnhub.io/api/news?id=6516e7d5fa21f453163b07db0ef78377f38052017fbf5ad973c6538a86461799"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Quantinuum Q3 Preview: Should You Buy the Dip Ahead of Earnings?",
-      "url": "https://finnhub.io/api/news?id=3692157aaef92fcb3e5b8a7d3d299fad2e42ccc5288fdb635d20409affdfc48e"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian (TEAM) Q1 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
-      "url": "https://finnhub.io/api/news?id=8ab8978adfc170bcdefe9df37f73d8ef84e105304ac234decef8e9e5ba63d784"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "AMC Posts Its Highest Revenue Quarter Ever. CEO Aron Says Critics ‘Were Wrong.’",
-      "url": "https://finnhub.io/api/news?id=cd84219e5d8ab6465fd61e977d8b55f5580a052f4041b379f3510a23203f665e"
-    },
-    {
-      "stock": "MU",
-      "headline": "Top 3 AI Stocks To Watch In November 2026",
-      "url": "https://finnhub.io/api/news?id=8b0b09ff45e56a9280033031c4b8353047e793f4967a533bd94202bf280f1705"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent (COHR) Raises Full Year Targets After Q1 Earnings Beat",
-      "url": "https://finnhub.io/api/news?id=21e768803ba8a454e116a7651dd5cba62896ff4a0c30b129405bc463935d3091"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "Shoals Technologies Group Q3 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=de2bc873b3b15c6998ae1104db565fdb3e97f3b4894b6389d020821ebccd9643"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "TSLA Stock Slips Overnight: Analysts Flag Political, Premium Risks To SpaceX Merger — Cathie Wood’s ARK Buys Anyway",
-      "url": "https://finnhub.io/api/news?id=498058635239f1764e9ffbb0b438d29854c9deefdf47c572cb89f7a2552a3f96"
+      "stock": "HON",
+      "headline": "Aircraft Computers - Global Strategic Business Report 2026-2032: Capitalize on the $10.1 Billion Market Led by Honeywell, BAE Systems, Safran, Thales, and Curtiss-Wright",
+      "url": "https://finnhub.io/api/news?id=be74b646c88eb64eac12c2c24da75fc6a7d288d6bc48a12c4cd3e7e64b00b917"
     },
     {
       "stock": "HALO",
-      "headline": "JP Morgan Maintains Neutral on Halozyme Therapeutics, Raises Price Target to $79",
-      "url": "https://finnhub.io/api/news?id=a0c89761d5cedf9e83e1a5f2111c57273888fd58d4c7995e98419b360ab4c0b2"
+      "headline": "Halozyme falls 6% as raised guidance fails to impress investors",
+      "url": "https://finnhub.io/api/news?id=1d061fdd902a04bca116029a1e4ea743ed3a674e8d17c34e54feb7eca1c280b8"
     },
     {
       "stock": "SONY",
-      "headline": "Sony raises annual profit forecast after strong Q2 results",
-      "url": "https://finnhub.io/api/news?id=94fdc2f0f9fb9cf1dea88a12ec29dbf4eadc75da14334104ad133fd26b61cfbf"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ vs. SoundHound AI: Which Technology Stock Is a Better Buy for 2027?",
-      "url": "https://finnhub.io/api/news?id=97db5acc4352c98e4f9d7c09c1b6d096f38bf68e650e236eb68cf019383718f5"
-    },
-    {
-      "stock": "IBM",
-      "headline": "VIG Vs. DIVB: Two Dividend ETFs, One Pick For A Skeptical Market",
-      "url": "https://finnhub.io/api/news?id=484bb8e21c56c0d84bb927c8c541a4679a370dc7d8910049577d54861797414b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Anthropic Is ‘Betting Its Entire Existence On Optimism’: Michael Burry Flags Risks After AI Firm’s Updated S-1, Says Won’t Pursue IPO Shares",
-      "url": "https://finnhub.io/api/news?id=efd40033914d9eb829f4be01944c611490a4184fc1f8715da271f2fa91cea2ce"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "3 Undervalued Stocks Trading Below Fair Value By At Least 25%",
-      "url": "https://finnhub.io/api/news?id=d514cbe8437da68e2d5deb3a5fee4f6f5a70a5a0513d7b9a72776ab3c7d7cbb3"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit Stock Roars Back From AI Search Scare: Keep This On A Watchlist",
-      "url": "https://finnhub.io/api/news?id=99bc818b5e45b5814771bca975c07d72f16f64234a94f1133bf8f3fda09f5746"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Palantir and CrowdStrike stocks tumble as Wall Street dumps software's AI winners",
-      "url": "https://finnhub.io/api/news?id=4bcb600406981224af0fa9ec5e6f66b89cf75a7f597f42456f27274628b2eb9b"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent (COHR) Q1 2027 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=ebd3bf5c0dbd28c712973ae7efa230f20bc7c0a7024fa21b57f0a82311011c90"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "Array Technologies And Shoals Merger Creates Upside Potential",
-      "url": "https://finnhub.io/api/news?id=a499d159990e45cf2e2ea5da5fd13f40835c2776167ed670e5ffe33b14a5b362"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ (IONQ) Acquires Security Firm And Expands Quantum Access In Connecticut",
-      "url": "https://finnhub.io/api/news?id=06d1ec5c52749065e611770b0e680c269e532590fc9a1cada91a7462b1aa8e75"
+      "headline": "Sony Group Corporation Reports Q2 FY2026 Results and Raises Full-Year Forecast",
+      "url": "https://finnhub.io/api/news?id=930bbaf4c5b62f77a409bdc1435eec315eae29472cf45f8161ba337c6e96221f"
     },
     {
       "stock": "UBER",
-      "headline": "Apple cuts employee AI budgets as new CEO looks to rein in costs",
-      "url": "https://finnhub.io/api/news?id=e1a1faf27290ce3d3870b147eee2070aee09bf19c70957534ab747cf78cb7a2b"
+      "headline": "Uber CEO reveals a problem that could impact every rider",
+      "url": "https://finnhub.io/api/news?id=0e3d5d9fbe5bc5e594ea4f0c4cf10eb9f36cd20c4c68c3b1741dbc09db63b12d"
     },
     {
-      "stock": "IBM",
-      "headline": "D-Wave Sinks 8%, Rigetti Down 8%, IonQ Down 8% as Quantum Stocks Slide Again",
-      "url": "https://finnhub.io/api/news?id=313fe7481b519a02c0c2013ec41eb081136c29f7ec6ccf7dfcf414e81f615a82"
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics (NASDAQ:AAOI) Q3 2026 Earnings: Slight Revenue Miss, EPS Beat, Shares Fall After Hours",
+      "url": "https://finnhub.io/api/news?id=1ffa0557e237261c31b3f71bb200497810aea0cc33abb449bc9c3469970a1af1"
     },
     {
-      "stock": "U",
-      "headline": "Unity Software (NYSE:U) Q3 Earnings Beat and Above-Consensus Q4 Guidance Send Shares Higher",
-      "url": "https://finnhub.io/api/news?id=864e9d29c090445c6ece1379a8a46b1aa0b041d7fb49a6f18f1227f9256154b9"
+      "stock": "ADSK",
+      "headline": "JFrog Ltd. (FROG) Q3 Earnings and Revenues Surpass Estimates",
+      "url": "https://finnhub.io/api/news?id=dc89035ec29848eeefef5508e4b384b5596ef174f31278c5adb9cebc36bfc44b"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D Wave Quantum (QBTS) Upgraded Its Stride Hybrid Solver",
+      "url": "https://finnhub.io/api/news?id=f490c8e1684511d51ace2fa45d15e26a495ef0a942a83cf3860b85774fd3c37f"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Dow Jones Futures Fall; Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
+      "url": "https://finnhub.io/api/news?id=b5f259a08cafeabcb7baa95c693afa494b1a20d608b9ca9a5f54b28f0f41e392"
     }
   ]
 }
