@@ -65,6 +65,66 @@
       "stock": "TEAM",
       "headline": "Dow Jones Futures Fall; Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
       "url": "https://finnhub.io/api/news?id=b5f259a08cafeabcb7baa95c693afa494b1a20d608b9ca9a5f54b28f0f41e392"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027",
+      "url": "https://finnhub.io/api/news?id=5f3e75bd4e615a43c6baa1175c4cf8edacd1d9db8e37ebfc2f72a03a9d71adee"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Dan Ives Remains Bullish on Palantir Despite Sector Weakness. What This Means for PLTR Stock.",
+      "url": "https://finnhub.io/api/news?id=ec32d7df460101aa0f9f7eb37b45775f4b54ed2075daf26ee6bdc6713a2d529e"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Corp (COHR) (Q1 2027) Earnings Call Highlights: Record $2. ...",
+      "url": "https://finnhub.io/api/news?id=03499795dd747ed850305738c9b1db720c6c961c7c0d0010d1ef9040ff4526e0"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys Announces Earnings Release Date For Fourth Quarter and Fiscal Year 2026",
+      "url": "https://finnhub.io/api/news?id=b1f891c10a5f88752c5c3f85c4c2a9226d2200314aa3765a44c455942f40656e"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "AI wipeout in focus; U.S. employment data ahead - what’s moving markets",
+      "url": "https://finnhub.io/api/news?id=15fa8883de17f47be409fd7612865b941968e87bab97fbb136ffd0aa11a079cf"
+    },
+    {
+      "stock": "HON",
+      "headline": "Is GE Vernova Stock A Real Bargain?",
+      "url": "https://finnhub.io/api/news?id=53b06b17a43e36b2b7e0be396b9af9e537911ec11f08ddd352c999ab42b92eb0"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme (HALO) Q3 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=5cfa2604b3cdaae42657ee8ad80614f43f8de31f207644b9659303f38265baab"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ Inc (IONQ) (Q3 2026) Earnings Call Highlights: Record Revenue, DARPA Milestone and ...",
+      "url": "https://finnhub.io/api/news?id=e89a564e692a432784adc2a0aea3ac26ac30bb4418d348af0c281417fd337e10"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "AOI Sales Up 127%, Gross Margin Stuck at 28%: Rapid Earnings Reaction",
+      "url": "https://finnhub.io/api/news?id=08c8f5663adc47aa8fcc8a6c440ade9ce867a49682c2d73a715b4c6a9e869e92"
+    },
+    {
+      "stock": "DE",
+      "headline": "Are eBay & Deere stocks under-the-radar AI beneficiaries?",
+      "url": "https://finnhub.io/api/news?id=b14133299a9d12b0c30c479be2b7464819f2fd6d469b684ae6c1cec9e50bedf2"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave Sinks 8%, Rigetti Down 8%, IonQ Down 8% as Quantum Stocks Slide Again",
+      "url": "https://finnhub.io/api/news?id=313fe7481b519a02c0c2013ec41eb081136c29f7ec6ccf7dfcf414e81f615a82"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian (NASDAQ:TEAM) Shares Fall 18% as Weak Guidance Overshadows Q1 Profit Beat",
+      "url": "https://finnhub.io/api/news?id=a6f235fd9febe6e4dfe520f3a865593270efa03c25fd3980288e5a89e7abc5ec"
     }
   ]
 }
