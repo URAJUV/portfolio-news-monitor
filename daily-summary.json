@@ -125,6 +125,96 @@
       "stock": "RDDT",
       "headline": "The Average Social Security Check Is Just $1,940 And 56% Can’t Afford To Miss Half A Payment — ‘This Is Why Seniors Are Bagging Groceries at 70’",
       "url": "https://finnhub.io/api/news?id=e16d9b0e9ffdd6058a14d6deb486a7719f720e473b07e6ee3e09980562e7c6ef"
+    },
+    {
+      "stock": "MU",
+      "headline": "Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks",
+      "url": "https://finnhub.io/api/news?id=bf1da8d5e8d34a150b4f2ed762821c66cb0ba1735cfe7c2ea16cda9d547d0f7b"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Down Isn't Cheap: How Far Can The AI Trade Still Fall?",
+      "url": "https://finnhub.io/api/news?id=d3cd5db3d429a0a005d4a5a8821335daef9b3eabaae694f7bc54bc6455a99364"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "George Kurtz Just Announced Incredible News for CrowdStrike Investors and the Artificial Intelligence (AI) Industry",
+      "url": "https://finnhub.io/api/news?id=b2827d6a9c4ec3d26dcb63c4e9b8817e1b94bfc451f6aac65b2be86336919652"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Shares of electrical equipment companies are higher after the US and China agreed to a temporary reduction in most tariffs on each other's goods. A reduction in tariffs could alleviate some supply chain concerns and improve macro sentiment as well as demand visibility.",
+      "url": "https://finnhub.io/api/news?id=b0743c42997b8e6218b0c5a1ef7972770e2ba8be086b44655ea862309f5f0eb5"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Chip Stocks Are Now Cheaper Than the S&P 500 — Something Unseen During the Entire AI Boom",
+      "url": "https://finnhub.io/api/news?id=13755d8dab97cbdd0dc9753d7ca08111ca0a8cda705eac43ee43e5ffe5175e0b"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Elon Musk reacts to Democrat call for AI pause — while $2T vanishes from tech stocks. Are you exposed?",
+      "url": "https://finnhub.io/api/news?id=4fa18eb2ee1d36e2748fe477956352d28adfcef1564c7e5b69c51b7635814ec4"
+    },
+    {
+      "stock": "HON",
+      "headline": "3M Cut Its Dividend After 64 Years of Raises. Is It Finally a Buy Again?",
+      "url": "https://finnhub.io/api/news?id=820b6dec00df97a2c370618e6d8ff1409abb1c6261a7bb1d53e35f68946568cf"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Leerink Partners Downgrades Halozyme Therapeutics to Market Perform, Raises Price Target to $117",
+      "url": "https://finnhub.io/api/news?id=6e98f4e4930d87bad0298b379a5f03e20a706c5ab6f303e0ac2f2fc830654209"
+    },
+    {
+      "stock": "SONY",
+      "headline": "SONY Q2 Earnings Call Highlights Raised Outlook and Gaming Growth",
+      "url": "https://finnhub.io/api/news?id=c6705fe2a6018d1d0378967f55747c3f5f42ae6460e49245d84fb858ce56f760"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics: The Selloff Changed My 2027 Playbook (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=5755b4a0922cb51fc8b92d62c3d1ecb3acdeba5366e49c530e56e1630928ada5"
+    },
+    {
+      "stock": "DE",
+      "headline": "How Will CNH Industrial Stock React To Its Upcoming Earnings?",
+      "url": "https://finnhub.io/api/news?id=84758975abed893f512891d49121a0cffc1fbc4d842ab18c4634f59096a5cd61"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth",
+      "url": "https://finnhub.io/api/news?id=d6c2d8311e80e499363328e31d436387786100b5a8afd235145a0b634ed99eca"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Anthropic IPO Roadshow Takes Center Stage As Earnings Take A Breather",
+      "url": "https://finnhub.io/api/news?id=f191515b97fdcac2987802edb0d6b323d6b7758989dd5c8a5bce51f79c987849"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "IonQ Beat and Raised. Can the Quantum Stock Buck the Tech Selloff?",
+      "url": "https://finnhub.io/api/news?id=f7d21fa6c9ee38b36d4a70ca671e8e2a0dd6027eacabc4f57d4cf307c3c781df"
+    },
+    {
+      "stock": "U",
+      "headline": "Freedom Capital Markets Maintains Buy on Unity Software, Raises Price Target to $62",
+      "url": "https://finnhub.io/api/news?id=9d2f527ef0470fed4e61ca2ad9eaa3f21a7cbe62bfb22b259bc729813dfd5bd1"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks",
+      "url": "https://finnhub.io/api/news?id=bf1da8d5e8d34a150b4f2ed762821c66cb0ba1735cfe7c2ea16cda9d547d0f7b"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "What Atlassian (TEAM) Said on Its Q1 Earnings Call",
+      "url": "https://finnhub.io/api/news?id=749d7990aacaa89f10942b180fb3d32ac392632e13ff21ebbbfa492940a06aaf"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Pinterest CEO: The EU Hit Was “Greater Than We Anticipated.” Its Q4 Guide Sits $70 Million Light",
+      "url": "https://finnhub.io/api/news?id=b4158cef95a874881da342365ea8e1b65a5e485dacdf2cfb15f6162b6d0cb5ab"
     }
   ]
 }
