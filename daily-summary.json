@@ -65,6 +65,66 @@
       "stock": "RDDT",
       "headline": "Reddit’s (RDDT) Short-Term Pains May Lead to Long-Term Gains",
       "url": "https://finnhub.io/api/news?id=1a92905ce41d80869458beb44ed94cd0167cd44c96e6ebb545e0cc881c30a697"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron stock flashes bargain pricing signal with costly catch",
+      "url": "https://finnhub.io/api/news?id=3b66ca5a8435626f81ac296741b9989ced39adc1d6b0b917c34f34d8af0a7b24"
+    },
+    {
+      "stock": "COHR",
+      "headline": "S&P 500 Top Movers: Nov. 6, 2026 Gainers and Losers",
+      "url": "https://finnhub.io/api/news?id=0398cd187515393b2ec1fa88b495f7621e74df47c69e4f2f9685e2c2bc9ca75f"
+    },
+    {
+      "stock": "HALO",
+      "headline": "Halozyme Stock Down Despite Q3 Earnings and Revenue Beat",
+      "url": "https://finnhub.io/api/news?id=ce70c5ac0bce37a6363efbd50dc0c1252e52cfced9b699860e48ea007befc3d5"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ, Inc. (IONQ) Q3 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=b0732ac5e03ffda61ff3df78eb459b0b378270d8e15e0c73bb1b3eae76328c61"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics Returns to GAAP Profit on AI Datacenter Demand",
+      "url": "https://finnhub.io/api/news?id=2f7b4ca65e35df67e33b83899cb244c1c536b84518ea5aa19cb848bd1a84697b"
+    },
+    {
+      "stock": "DE",
+      "headline": "Deere (DE) Could Be 2% Below Fair Value As Board Change Tests Premium",
+      "url": "https://finnhub.io/api/news?id=0186001f4e020c58fa40f307a17d574c20ee7fbbda14a37ae07587e816d81ca6"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Snowflake shares are trading lower. The company announced the appointment of Jonathan Beaulier as Chief Revenue Officer and reaffirmed its FY27 guidance.",
+      "url": "https://finnhub.io/api/news?id=32bf72c36bab6f5e4b49f08cd60e709fadc8a7b3ebe0aae6882cd8560ce7fb27"
+    },
+    {
+      "stock": "IBM",
+      "headline": "How Quantinuum Plans to Win Quantum Computing’s Long Game, According to Its CEO",
+      "url": "https://finnhub.io/api/news?id=10859721ac7947e8ff210c4251ed5fd31a253683a1f4765ac7e74eb30482282b"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Rigetti Soars 17%, D-Wave Up 17% as IonQ Raises Guidance to “An Industry Record”",
+      "url": "https://finnhub.io/api/news?id=432ef401c22a6ee4a47a1a6b04129f02c52f162077d5e41c995d4487bbe088de"
+    },
+    {
+      "stock": "U",
+      "headline": "Wedbush Maintains Outperform on Unity Software, Raises Price Target to $63",
+      "url": "https://finnhub.io/api/news?id=e4497c0b43a3781a33dd094440b1b5a756f51f6c86ffb5a16d04adcf89bfa32f"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix: Growth Slows, But Potential Remains Intact",
+      "url": "https://finnhub.io/api/news?id=551031380156d39e47bc118c343c35271b18b5321c924326c5853af5a55d336c"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "The Average Social Security Check Is Just $1,940 And 56% Can’t Afford To Miss Half A Payment — ‘This Is Why Seniors Are Bagging Groceries at 70’",
+      "url": "https://finnhub.io/api/news?id=e16d9b0e9ffdd6058a14d6deb486a7719f720e473b07e6ee3e09980562e7c6ef"
     }
   ]
 }
