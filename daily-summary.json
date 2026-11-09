@@ -1,180 +1,30 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "items": [
     {
       "stock": "MU",
-      "headline": "AI Stocks Are Falling; Bitcoin Is Holding Ground. Here's What Could Come Next.",
-      "url": "https://finnhub.io/api/news?id=7bedc41f495b86c1e762898a2b487fd84955a9426566f0f1b41039381bc41359"
+      "headline": "Dow Jones Futures Rise, Techs Slide A Nvidia Probes CEO Jensen Huang Spying Case",
+      "url": "https://finnhub.io/api/news?id=24653445a5a0e34e7dfc21bd125509eb61f0d042362e1adaf459de03fb6b6055"
     },
     {
       "stock": "TSM",
-      "headline": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
-      "url": "https://finnhub.io/api/news?id=d0ef3a14626388e18d9efc32d5fc66bd1b61d5d84620ef1acd0c7241ecb0081b"
+      "headline": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+      "url": "https://finnhub.io/api/news?id=315510a8fbce44fba2d59884eb08cb0205b74ff8e94c79be705600e080f2b7c4"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Palo Alto Networks and CrowdStrike Sink 17% in a Week, Zscaler 18%: Time to Buy Before Earnings?",
+      "url": "https://finnhub.io/api/news?id=3ed954aacab3093d06c3f43fe72b4ad1c12df1aaad9b52a24cdd4130e126f1ad"
     },
     {
       "stock": "AMZN",
-      "headline": "How to invest in AI amid AI spending worries?",
-      "url": "https://finnhub.io/api/news?id=7f1e5f0b11813081a4d14bb64f277dc5915838e4159fcb0e9c7b4dd168bfbf76"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent Soars 13% as Citi Lifts Target to $440, Lumentum Up 3% in AI Optics Rebound",
-      "url": "https://finnhub.io/api/news?id=bc5ddd35e1b06746b6cbde9b555267a1a07aaabf2d2806c950d3b240d78501d8"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm (ARM) Stock Sees Modest Fair Value Cut As Analysts Trim Multiples",
-      "url": "https://finnhub.io/api/news?id=dad52914bcc194b23c5efa7c10d7c469db39c363a54306003098d2be854db9f6"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Lionsgate Studios Corp. Q2 2027 Earnings Call Summary",
-      "url": "https://finnhub.io/api/news?id=01733b508cf6728b390630735d5ee5758168fe1263276565b4803601aeed2e75"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Is DoorDash (DASH) Undervalued Following Its New Lyft Partnership?",
-      "url": "https://finnhub.io/api/news?id=e95c5e28e0fcdc76ac09900f13659ac688fb2b289baa97fbe94a8ebda0fb0b04"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Applied Optoelectronics Says AI Demand Will Outrun Its Capacity Through 2027",
-      "url": "https://finnhub.io/api/news?id=328ee75d06b525f2404093e41962fae945685de5de032c52caf217fdad99dff2"
-    },
-    {
-      "stock": "IBM",
-      "headline": "He Inherited 8,000 IBM Shares Worth Nearly $2 Million at 52. The Often Overlooked IRS Rule That Decides Whether Most of It Is Taxed as Income or a Capital Gain",
-      "url": "https://finnhub.io/api/news?id=647ef40510db5d6dd4c1b2de867e73321273a5f9be35f7226cbaef49c4bf62c5"
-    },
-    {
-      "stock": "U",
-      "headline": "AppLovin Jumps 8% as Post-Earnings Rally Extends; Unity Climbs 7%, Trade Desk Dips",
-      "url": "https://finnhub.io/api/news?id=22631902ed7fb0fcd017d2d80cbc50aa771288331e3dc258b90db6c6d460437a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Alphabet's $15 Billion Investment in Malaysia Data Centers Shows That Midterm Results Won't Stop the AI Boom",
-      "url": "https://finnhub.io/api/news?id=c9e0d62a85e4caec45401642c9eb518977595b14072f1fd62f51f8dcb21ddef0"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "What Is Atlassian (TEAM) Telling Investors With Its AI Push And Cautious Outlook?",
-      "url": "https://finnhub.io/api/news?id=05eea9339c938eef51c69a98649593b7294d4b5b3b48ca56387b4b2e9d3d2fc8"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Lionsgate Studios Corp. Q2 2027 Earnings Call Summary",
-      "url": "https://finnhub.io/api/news?id=01733b508cf6728b390630735d5ee5758168fe1263276565b4803601aeed2e75"
-    },
-    {
-      "stock": "MU",
-      "headline": "3 AI Chip Stocks to Buy in November After the October Sell-Off",
-      "url": "https://finnhub.io/api/news?id=ad00916025c3bf42b4e63850adafc10519696704cfbe6d3f79a50da75ae79fd6"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI).",
-      "url": "https://finnhub.io/api/news?id=8a0e31e1d929089c24079101285f3084e51ef00e8896467070e357f7da5b2cd1"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent Is Up 21% in a Year as AI Goes “From Copper to Optical.” Is It a Buy?",
-      "url": "https://finnhub.io/api/news?id=20a4f74fbba500d3e4cb41a88e300b331cdba654b512f057a9d08b61491f9b97"
+      "headline": "Dow Jones Futures Rise, Techs Slide A Nvidia Probes CEO Jensen Huang Spying Case",
+      "url": "https://finnhub.io/api/news?id=24653445a5a0e34e7dfc21bd125509eb61f0d042362e1adaf459de03fb6b6055"
     },
     {
       "stock": "IONQ",
-      "headline": "What IonQ (IONQ) Said on Its Q3 Earnings Call",
-      "url": "https://finnhub.io/api/news?id=f77c0490202afe0c98bd520a8081befd93cc2d15f1dae0dc3b101b58a6495aac"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Uber: Robotaxi Path Remains Too Slow",
-      "url": "https://finnhub.io/api/news?id=0aa5a93511ed8239af814f6bbb966eda51d5bbb900e11ebc8853d157a8d5a87b"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Applied Optoelectronics Inc (AAOI) (Q3 2026) Earnings Call Highlights: Record Revenue, Return ...",
-      "url": "https://finnhub.io/api/news?id=87fb0f8d40def5702203aef98a3995400f8bdc33edc978873ed1c8ee3731088d"
-    },
-    {
-      "stock": "U",
-      "headline": "Citigroup Maintains Buy on Unity Software, Raises Price Target to $59",
-      "url": "https://finnhub.io/api/news?id=4b30e242f0c5f73f4c66d35a36eab0c5f3d3b45dadcf9fa4e628ef83fc35c7b3"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "These AI Stocks To Improve Your Portfolio In November 2026",
-      "url": "https://finnhub.io/api/news?id=984564c4aa7aa5881d9870dd8c6abfbf4690e8c64507068331b37d24c6427e4d"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian (TEAM) Could Be 33% Undervalued After Earnings Guidance Shock",
-      "url": "https://finnhub.io/api/news?id=2508bf88396ba25baf6b24e2ef58d723394c318b6c9199a0cb1b1b6324321197"
-    },
-    {
-      "stock": "MU",
-      "headline": "America’s AI Spending Boom Just Crossed a Staggering $1 Trillion Milestone",
-      "url": "https://finnhub.io/api/news?id=9cc50155db1a3a7c3ae63ca64d9d1fc1ca2652bad546af0319939cbb62ac2282"
-    },
-    {
-      "stock": "TSM",
-      "headline": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
-      "url": "https://finnhub.io/api/news?id=2feeb59a3593a2e49392d3bbdba7d98f35e095d2460fe313666ae3b79fb0972f"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Consumer Tech (Oct 2-6): Big Earnings Dominate Headline, Meta, Google Face Political And Regulatory Pressure Over AI Expansion & More",
-      "url": "https://finnhub.io/api/news?id=ec1338be3aebd5819f0885edec9c8dbc4bbd179f681c4e8187e4050fc245cade"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Consumer Tech (Oct 2-6): Big Earnings Dominate Headline, Meta, Google Face Political And Regulatory Pressure Over AI Expansion & More",
-      "url": "https://finnhub.io/api/news?id=ec1338be3aebd5819f0885edec9c8dbc4bbd179f681c4e8187e4050fc245cade"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Consumer Tech (Oct 2-6): Big Earnings Dominate Headline, Meta, Google Face Political And Regulatory Pressure Over AI Expansion & More",
-      "url": "https://finnhub.io/api/news?id=ec1338be3aebd5819f0885edec9c8dbc4bbd179f681c4e8187e4050fc245cade"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Could Investing $10,000 in IonQ Stock Make You a Millionaire?",
-      "url": "https://finnhub.io/api/news?id=b64a4d50cb84a8ee30c096443d4cad2dd764cd2066351e0295225913333e08d0"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Billionaire Bill Ackman Has Been All-In on Uber. Is Now the Time to Buy the Stock?",
-      "url": "https://finnhub.io/api/news?id=131a3e4df75014ac3181f4f7a8d124ffaadd403cb8745bf1438d31e2280552d1"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Consumer Tech (Oct 2-6): Big Earnings Dominate Headline, Meta, Google Face Political And Regulatory Pressure Over AI Expansion & More",
-      "url": "https://finnhub.io/api/news?id=ec1338be3aebd5819f0885edec9c8dbc4bbd179f681c4e8187e4050fc245cade"
-    },
-    {
-      "stock": "U",
-      "headline": "Unity Q3 Earnings Beat Estimates on Vector Strength and Margin Gains",
-      "url": "https://finnhub.io/api/news?id=3c7ec190421b72292d5a446d3393c6558992522e91ade45d230ebfbda9b1e68a"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "How sustainable is the AI investment boom after Thursday’s selloff?",
-      "url": "https://finnhub.io/api/news?id=def6c476f008a9b78908b5b02e978248f5cc2da1f287f9861587749aeb5fea8a"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Consumer Tech (Oct 2-6): Big Earnings Dominate Headline, Meta, Google Face Political And Regulatory Pressure Over AI Expansion & More",
-      "url": "https://finnhub.io/api/news?id=ec1338be3aebd5819f0885edec9c8dbc4bbd179f681c4e8187e4050fc245cade"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Lionsgate Studios Q2 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=01deb00b27022cd05c2249a2cfe87788177d69fb48d43e0990ec07688d00098c"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Consumer Tech (Oct 2-6): Big Earnings Dominate Headline, Meta, Google Face Political And Regulatory Pressure Over AI Expansion & More",
-      "url": "https://finnhub.io/api/news?id=ec1338be3aebd5819f0885edec9c8dbc4bbd179f681c4e8187e4050fc245cade"
+      "headline": "Rigetti Gained 19% Friday. Its $100 Million CHIPS Award Hasn’t Reached Revenue Yet",
+      "url": "https://finnhub.io/api/news?id=d6f5d2ea956a9f742db01d61949a98b0782ce0fa01a27946d913ceffd62d0db1"
     }
   ]
 }
