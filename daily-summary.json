@@ -25,6 +25,41 @@
       "stock": "IONQ",
       "headline": "Rigetti Gained 19% Friday. Its $100 Million CHIPS Award Hasn’t Reached Revenue Yet",
       "url": "https://finnhub.io/api/news?id=d6f5d2ea956a9f742db01d61949a98b0782ce0fa01a27946d913ceffd62d0db1"
+    },
+    {
+      "stock": "MU",
+      "headline": "Applied Materials, Cisco, Berkshire Hathaway, Nvidia, Micron and Alphabet are part of Zacks Earnings Preview",
+      "url": "https://finnhub.io/api/news?id=ef073076ea64f41b8d08b6c5e75de5ed45ad4c48b1ce674dc9e4975bd0424967"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Asian markets bounce back after a recovery for AI stocks on Wall Street",
+      "url": "https://finnhub.io/api/news?id=fb71ed4c6d634615c1588e5ff8632173e3adb1f0febee405186d6b71fb26f1d9"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "The 5 most interesting analyst questions from Shoals’s Q3 2026 earnings call",
+      "url": "https://finnhub.io/api/news?id=a6733bc4d8beca74e5df955c13afd913debb653e286d84fa33702069d91583ab"
+    },
+    {
+      "stock": "SONY",
+      "headline": "What Sony (SONY) Said on Its Q2 Earnings Call",
+      "url": "https://finnhub.io/api/news?id=206bc5c086efa3b2b06890b45494f986545eea6dad5db1d805583c45a4740a56"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ’s 2027 Superion Capacity Is Sold Out. Wall Street’s Average Target Implies 85% Upside",
+      "url": "https://finnhub.io/api/news?id=c8bca1b2f790fc3f71f945791ed61afd3b1d15054f6c3550e7a43607ca1ebe69"
+    },
+    {
+      "stock": "UBER",
+      "headline": "What Uber Technologies (UBER) Said on Its Q3 Earnings Call",
+      "url": "https://finnhub.io/api/news?id=8316ed5d1cfcd7732920c3d9f147c7c6c1411c781c42b7d6caf8b833add20ae8"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "TEAM Q3 CY2026 deep dive: management addresses cloud migration pace and AI monetization strategy",
+      "url": "https://finnhub.io/api/news?id=63c726c420e11cf47ddbb9f8b182c234bbb9e4c588bfd967a83c9f7e6d219cfa"
     }
   ]
 }
