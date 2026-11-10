@@ -1,115 +1,70 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Dow Jones Futures Rise, Techs Slide A Nvidia Probes CEO Jensen Huang Spying Case",
-      "url": "https://finnhub.io/api/news?id=24653445a5a0e34e7dfc21bd125509eb61f0d042362e1adaf459de03fb6b6055"
-    },
-    {
-      "stock": "TSM",
-      "headline": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
-      "url": "https://finnhub.io/api/news?id=315510a8fbce44fba2d59884eb08cb0205b74ff8e94c79be705600e080f2b7c4"
-    },
-    {
       "stock": "CRWD",
-      "headline": "Palo Alto Networks and CrowdStrike Sink 17% in a Week, Zscaler 18%: Time to Buy Before Earnings?",
-      "url": "https://finnhub.io/api/news?id=3ed954aacab3093d06c3f43fe72b4ad1c12df1aaad9b52a24cdd4130e126f1ad"
+      "headline": "3 High Growth Stocks With At Least 33% Earnings Growth",
+      "url": "https://finnhub.io/api/news?id=91dbbdeee8d52997f13b1db3d736869a5b81b2f688dca5b057ed8faf48610ff4"
     },
     {
       "stock": "AMZN",
-      "headline": "Dow Jones Futures Rise, Techs Slide A Nvidia Probes CEO Jensen Huang Spying Case",
-      "url": "https://finnhub.io/api/news?id=24653445a5a0e34e7dfc21bd125509eb61f0d042362e1adaf459de03fb6b6055"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Rigetti Gained 19% Friday. Its $100 Million CHIPS Award Hasn’t Reached Revenue Yet",
-      "url": "https://finnhub.io/api/news?id=d6f5d2ea956a9f742db01d61949a98b0782ce0fa01a27946d913ceffd62d0db1"
-    },
-    {
-      "stock": "MU",
-      "headline": "Applied Materials, Cisco, Berkshire Hathaway, Nvidia, Micron and Alphabet are part of Zacks Earnings Preview",
-      "url": "https://finnhub.io/api/news?id=ef073076ea64f41b8d08b6c5e75de5ed45ad4c48b1ce674dc9e4975bd0424967"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Asian markets bounce back after a recovery for AI stocks on Wall Street",
-      "url": "https://finnhub.io/api/news?id=fb71ed4c6d634615c1588e5ff8632173e3adb1f0febee405186d6b71fb26f1d9"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "The 5 most interesting analyst questions from Shoals’s Q3 2026 earnings call",
-      "url": "https://finnhub.io/api/news?id=a6733bc4d8beca74e5df955c13afd913debb653e286d84fa33702069d91583ab"
-    },
-    {
-      "stock": "SONY",
-      "headline": "What Sony (SONY) Said on Its Q2 Earnings Call",
-      "url": "https://finnhub.io/api/news?id=206bc5c086efa3b2b06890b45494f986545eea6dad5db1d805583c45a4740a56"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ’s 2027 Superion Capacity Is Sold Out. Wall Street’s Average Target Implies 85% Upside",
-      "url": "https://finnhub.io/api/news?id=c8bca1b2f790fc3f71f945791ed61afd3b1d15054f6c3550e7a43607ca1ebe69"
-    },
-    {
-      "stock": "UBER",
-      "headline": "What Uber Technologies (UBER) Said on Its Q3 Earnings Call",
-      "url": "https://finnhub.io/api/news?id=8316ed5d1cfcd7732920c3d9f147c7c6c1411c781c42b7d6caf8b833add20ae8"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "TEAM Q3 CY2026 deep dive: management addresses cloud migration pace and AI monetization strategy",
-      "url": "https://finnhub.io/api/news?id=63c726c420e11cf47ddbb9f8b182c234bbb9e4c588bfd967a83c9f7e6d219cfa"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Just Rebounded. Nvidia Didn’t. The Market Is Pricing a Discount on Jensen Huang",
-      "url": "https://finnhub.io/api/news?id=705a1c5922f169672bcec877a5ced83ef4b953f02fb448374ff4f57d932fa01c"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "AI Agents Are “an Existential Risk to DoorDash”? Seriously? I’ll Take the Under",
-      "url": "https://finnhub.io/api/news?id=8fa07a4e543f6b0e29ddb29d001b0c51bb34483e0da69d98c627826d5d35cda3"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Ferguson Beats Earnings Estimates. Why the HVAC Supplier Is Optimistic as Business Headwinds Persist.",
-      "url": "https://finnhub.io/api/news?id=7dfb3eefa5ae06746169408f9b17c35eee5cf48b67bb7a21d3794ae72eda81dc"
+      "headline": "Anthropic's S-1 Says It Will Expand Its Data Center Footprint. Here's Who Could Pour the Concrete, Wire the Power, and Cool the Chips.",
+      "url": "https://finnhub.io/api/news?id=ca33daa0c5877b2f257aa6d4c28f94412d472bb9447e68de6f50460111e5f7bd"
     },
     {
       "stock": "SNPS",
+      "headline": "Will Synopsys (SNPS) Beat Estimates Again in Its Next Earnings Report?",
+      "url": "https://finnhub.io/api/news?id=1c4e4ef9156eeb5d11f2b40dcf0c33b985d04da1a2685bf58cbe9b1039792f14"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Former Goldman Sachs CEO Slams 'Current Hysteria' to Block AI Data Centers, Calls it a 'Gift to China'—Patrick Moorhead Warns US Jobs, Tax Revenue Losses",
+      "url": "https://finnhub.io/api/news?id=844ea1c362b6973f57701002110a31f9ff3c9665fc3fee51902659e14ca6f496"
+    },
+    {
+      "stock": "HON",
+      "headline": "Dow Jones Gainers Today: Caterpillar, Cisco and Goldman Sachs Lead US Session",
+      "url": "https://finnhub.io/api/news?id=92116e6e259f79c5b099611cc06d2df36603031623883ef3b3e708a29e5fa995"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "D-Wave Rallied 18% on IonQ’s Guidance. Its Own November 10 Report Has to Earn It",
+      "url": "https://finnhub.io/api/news?id=2c751d8d5f5e8d8b578e84a9dd221ce3c87af657c97c763bec876e5d8c6f70bd"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Lucid’s Earnings Miss and Expanded Saudi Loan Sends Stock Lower",
+      "url": "https://finnhub.io/api/news?id=b69a37418799c69ce1ef6458ff25f349c848f048b083981ae11f3980a0d1b436"
+    },
+    {
+      "stock": "DE",
+      "headline": "CNH Industrial (CNH) Beats Q3 Earnings Estimates",
+      "url": "https://finnhub.io/api/news?id=d7b1cdfb23eed0e0126a77413507073b7e6be0ed2b1c315b405c2e3386edd2cb"
+    },
+    {
+      "stock": "ADSK",
       "headline": "Prediction: Synopsys Could Be a Bigger AI Winner Than Investors Expect",
       "url": "https://finnhub.io/api/news?id=7b74de7979b6b4241b20bce8bcc486c866c86e8571bb510044d6b9de8ee3dc63"
     },
     {
-      "stock": "TSLA",
-      "headline": "Elon Musk's Cybertruck pivot highlights the founder-CEO advantage",
-      "url": "https://finnhub.io/api/news?id=09df01648fb26a29d11eb40ca1078a7c455ecc21b59faf92d780eac70b17b446"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ Consensus Price Target Lowered by 16.18% to $55.70",
-      "url": "https://finnhub.io/api/news?id=1d0adad01d047f685bee6ac2058af33aee7af1c1da50d07db02f54991b967bb4"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Autodesk seen delivering another quarter of durable growth as Jefferies lifts target",
-      "url": "https://finnhub.io/api/news?id=92108caeb82ff9b3834eb4bef5ba7707156f9ae7dd0594d0abf4a6df2659d5bd"
-    },
-    {
       "stock": "QBTS",
-      "headline": "Rigetti Stock Jumped 17% on IonQ’s Guidance Raise. Here’s What Its November 10 Report Has to Show",
-      "url": "https://finnhub.io/api/news?id=62ea633d147f566f0ff7d943008ea0c20074dd3aca3ac1821c10e8ced04512d5"
+      "headline": "Earnings live updates: 'Grand Theft Auto VI' preorders hit 'unprecedented levels,' Take-Two CEO says",
+      "url": "https://finnhub.io/api/news?id=2624c74db093186f9a8bee5d3bb31e7e2b09b344f20f36305d90d13af087b675"
     },
     {
       "stock": "U",
-      "headline": "U Q3 2026 deep dive: AI-driven product momentum and new creator platforms underpin growth",
-      "url": "https://finnhub.io/api/news?id=c93a2a3a38c5c70625fdae4c4eb98185adbef7f39b4638cf65c7c51d1fa0e1c3"
+      "headline": "What Unity Software (U) Said on Its Q3 Earnings Call",
+      "url": "https://finnhub.io/api/news?id=777545b17e23fc926417ffd3e5bbe751e8b0c4d15a6ba7c6a758e889c5df17bd"
     },
     {
-      "stock": "GOOGL",
-      "headline": "Reindeer Launches on Google Cloud Marketplace, Expanding Collaboration with Google Cloud to Help Enterprises Move Agentic AI into Core Operations",
-      "url": "https://finnhub.io/api/news?id=d48eb4757a6c7a8eca673606f68f92db9a257c4fbae6931ae942aa140a9de156"
+      "stock": "NFLX",
+      "headline": "Tracking Baillie Gifford's 13F Portfolio - Q3 2026 Update",
+      "url": "https://finnhub.io/api/news?id=2fbdbfd0d19b4c1d915f31e77b02ab245f9002e2663568d6f2ee00b7802fddfa"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit Consensus Price Target Decreased by 10.41% to $156.95",
+      "url": "https://finnhub.io/api/news?id=0a139ebf18b1f9fe0d15f02d373d9826a7ee578d18847d7712cc6086ac9154ba"
     }
   ]
 }
