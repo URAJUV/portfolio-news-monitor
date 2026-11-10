@@ -65,6 +65,56 @@
       "stock": "RDDT",
       "headline": "Reddit Consensus Price Target Decreased by 10.41% to $156.95",
       "url": "https://finnhub.io/api/news?id=0a139ebf18b1f9fe0d15f02d373d9826a7ee578d18847d7712cc6086ac9154ba"
+    },
+    {
+      "stock": "MU",
+      "headline": "Micron Cratered Losing 30% in 1 Month: 240% Gains Lie Ahead According to This Wall Street Pro",
+      "url": "https://finnhub.io/api/news?id=a3448b85571083b81e0a971adbb5b0567f1dce57fa1d6a0f46484ecdaa93259d"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Sinks 10% Two Days After a $495 Million Bet on Policing AI Agents",
+      "url": "https://finnhub.io/api/news?id=fd6a2e2db472baf0517859d607a7aa1d0b5ec1bb7840a5675d9514839736ef43"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Array Technologies' Merger With Shoals Expected to Boost Cash Flow, RBC Capital Markets Says",
+      "url": "https://finnhub.io/api/news?id=fcb89e832db0b711a7efc80f207423e325027604c5743e3079c021e5a3d080bb"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "3 AI Infrastructure Stocks Riding The Next Data Center Spending Wave",
+      "url": "https://finnhub.io/api/news?id=4a845f2b76060b6ff7375a483a6fc2268420182fd5e5c1c76b6a059adffadf32"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Dan Ives Says Microsoft Amazon and Meta Win Big as Data Center Slowdown Looms",
+      "url": "https://finnhub.io/api/news?id=1e22ce3eac160652a2da783748a267bb619ba0348c7540697c1ba616cd55706c"
+    },
+    {
+      "stock": "ARM",
+      "headline": "ARM Just Dropped 13% After Earnings. Is It Time to Sell, or Load Up?",
+      "url": "https://finnhub.io/api/news?id=55f925ef194c4bffa5adc68e54d556ff2c30b95dfb130607706966cdb15f1a2e"
+    },
+    {
+      "stock": "HALO",
+      "headline": "IBRX Q3 Earnings Miss, Anktiva Sales Decline Q/Q, Stock Down 18%",
+      "url": "https://finnhub.io/api/news?id=b5b7e042d7813556427bb47ef910a5d87feb00112b04402f61900d7dd7e15581"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber’s (NYSE:UBER) Q3 2026 earnings results: revenue in line with expectations",
+      "url": "https://finnhub.io/api/news?id=e5b1849a225df832f33872b5ff3f23a42bd9bb77434cf426fdf1ee7e7a4c7054"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Coherent Jumps 13% as Optical Stocks Extend AI Rebound; Lumentum Surges 11%, Applied Optoelectronics Rises 4%",
+      "url": "https://finnhub.io/api/news?id=f29ee5214dcafe59a3580bb6060f1934a492e6c11879ed54f47a83a1d9f1f0cb"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Physical AI: Robotics Heading Into 2027",
+      "url": "https://finnhub.io/api/news?id=32c7c07ffb23e348a9cba8d942c721bb254d57b9c9377fe5064dcb237d209e9c"
     }
   ]
 }
