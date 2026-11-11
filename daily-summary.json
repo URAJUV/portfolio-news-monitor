@@ -45,6 +45,61 @@
       "stock": "GOOGL",
       "headline": "Citigroup CEO offers bold S&P 500 prediction",
       "url": "https://finnhub.io/api/news?id=58f429f015d8b182cd4f9bd32e80837c31f066a40fd0f29d040b69c4f5ff00f0"
+    },
+    {
+      "stock": "TSM",
+      "headline": "3 AI Chip Stocks Facing Yield Pressure And Demand Strength",
+      "url": "https://finnhub.io/api/news?id=4478106807dab91cc71e2805a6002115872fb3b6ec5767b7eac675e9709d8526"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Microsoft Stock Falls as Anthropic Takes Aim at Office Work With New Claude Tools",
+      "url": "https://finnhub.io/api/news?id=d727b1fbe84197cd271f4c94e6ef167b42c9a32ccd8bbc4f0abd88e2f198e75e"
+    },
+    {
+      "stock": "AMPX",
+      "headline": "Amprius Technologies falls 7% on third quarter earnings miss",
+      "url": "https://finnhub.io/api/news?id=20e2d6d364c65c88cdc63a882cc7e6daec18b9ae7be684b2324cd7c0971de265"
+    },
+    {
+      "stock": "HALO",
+      "headline": "TGTX Q3 Earnings & Revenues Beat Estimates, 2026 View Raised, Stock Up",
+      "url": "https://finnhub.io/api/news?id=313cf0e2238951eb836358a014f8d7d088f7ccc5e7d0296f56dad9f08a821326"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Raised Guidance Might Change The Case For Investing In IonQ Stock (IONQ)",
+      "url": "https://finnhub.io/api/news?id=5eff987490ea2cfdd2f94cc0b01b4cdeaa6b8544fe957c75769b407d61630500"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Musk: Cybercab Will Do “a Majority of All Passenger Miles.” Uber’s Tiny Margin Is the Target",
+      "url": "https://finnhub.io/api/news?id=7bfc30a4ec277595a824b975624bc244a4a927ce99dd10ee0c9246d1e89148f7"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Draganfly (DPRO) Q3 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=3b42b8710de2d1396e4cdbd4f50d7b75401a578648595e3bf9e27b72c82023b0"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Rigetti Computing CEO Says Focus on Quantum Milestones, Not Sales Numbers",
+      "url": "https://finnhub.io/api/news?id=d9a02a9e75929a4b9f1e639aaae6709f7727e64ff3c430d57a87858fe827c5c2"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave Quantum Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "url": "https://finnhub.io/api/news?id=14f196ecf265e857bf85815030725cc5b83e0160c5abb5dda9e1dc1d911dd8d1"
+    },
+    {
+      "stock": "U",
+      "headline": "Unity Software (NYSE:U) Meets Minervini Trend Template but Awaits a Clean Entry",
+      "url": "https://finnhub.io/api/news?id=ce40af4a49d0aa61303028b4c74c87186b69f7e8aa3def7db874fdb0f634c465"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian: AI Growth Keeps The Bull Case Alive",
+      "url": "https://finnhub.io/api/news?id=7dd192f694008a301188a7b72ad73c624bd2ec2e8fbf08b9f0fecb3a3299d55d"
     }
   ]
 }
