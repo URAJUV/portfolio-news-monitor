@@ -1,170 +1,55 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Is Seagate A Better Way Than Apple To Own AI Hardware Demand?",
-      "url": "https://finnhub.io/api/news?id=f4f895b24464ae0cab5b27dea7998ead981045bbec7d595b39ce34243e26a3a0"
-    },
-    {
       "stock": "TSM",
-      "headline": "Taiwan Semiconductor Sales Jump 60% In October As AI Boom Continues",
-      "url": "https://finnhub.io/api/news?id=f7e44980f0b5f28ceeb02bc823ad7a41e60f7663e885140786ee80083f03bbcf"
+      "headline": "Dell Technologies vs. Taiwan Semiconductor: Which Technology Stock Is a Better Buy for 2027?",
+      "url": "https://finnhub.io/api/news?id=f4304f9a9af91eecf1a08fb3f39eeb07533009fb60b0471004336ff89a794b2e"
     },
     {
-      "stock": "AMZN",
-      "headline": "Is Seagate A Better Way Than Apple To Own AI Hardware Demand?",
-      "url": "https://finnhub.io/api/news?id=f4f895b24464ae0cab5b27dea7998ead981045bbec7d595b39ce34243e26a3a0"
-    },
-    {
-      "stock": "COHR",
-      "headline": "S&P 500 Top Gainers and Losers for Today's Session",
-      "url": "https://finnhub.io/api/news?id=6fce76dd7876e030d37b388ebacf02dc819d615b61dee883f327a61f69708576"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Halozyme Therapeutics, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-      "url": "https://finnhub.io/api/news?id=63866d7cd2fc1089761f88993beac0d35790c00a06607b90754ce7723ef8cc11"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "D-Wave Stock Sinks as Earnings Lay Bare Quantum’s Commercial Growing Pains",
-      "url": "https://finnhub.io/api/news?id=7e918b7e3b86d935d4de6c76809aa12f5be30aa3ad62304fb81a6c774f3e7d5e"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "What Draganfly (DPRO) Said on Its Q3 Earnings Call",
-      "url": "https://finnhub.io/api/news?id=23f2a9c3924435492208ea4c628f098e34f7910de96c6a64b198e96d2737e6b7"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Rigetti Computing CEO Says Focus on Quantum Milestones, Not Sales Numbers",
-      "url": "https://finnhub.io/api/news?id=d9a02a9e75929a4b9f1e639aaae6709f7727e64ff3c430d57a87858fe827c5c2"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Citigroup CEO offers bold S&P 500 prediction",
-      "url": "https://finnhub.io/api/news?id=58f429f015d8b182cd4f9bd32e80837c31f066a40fd0f29d040b69c4f5ff00f0"
-    },
-    {
-      "stock": "TSM",
-      "headline": "3 AI Chip Stocks Facing Yield Pressure And Demand Strength",
-      "url": "https://finnhub.io/api/news?id=4478106807dab91cc71e2805a6002115872fb3b6ec5767b7eac675e9709d8526"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Microsoft Stock Falls as Anthropic Takes Aim at Office Work With New Claude Tools",
-      "url": "https://finnhub.io/api/news?id=d727b1fbe84197cd271f4c94e6ef167b42c9a32ccd8bbc4f0abd88e2f198e75e"
+      "stock": "SHLS",
+      "headline": "Earnings Jump May Reshape The Case For Shoals Technologies Group Stock (SHLS)",
+      "url": "https://finnhub.io/api/news?id=90bf6c354f3061da02d21f5c4265b0b5a193dcbbbc73ae13355bd2811f7a8a60"
     },
     {
       "stock": "AMPX",
-      "headline": "Amprius Technologies falls 7% on third quarter earnings miss",
-      "url": "https://finnhub.io/api/news?id=20e2d6d364c65c88cdc63a882cc7e6daec18b9ae7be684b2324cd7c0971de265"
+      "headline": "Amprius (AMPX) Q3 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=5905bc97e322f4d9dbc0480414473c7fdcd47a39e3a895c9a5797bd8d26dbd61"
     },
     {
-      "stock": "HALO",
-      "headline": "TGTX Q3 Earnings & Revenues Beat Estimates, 2026 View Raised, Stock Up",
-      "url": "https://finnhub.io/api/news?id=313cf0e2238951eb836358a014f8d7d088f7ccc5e7d0296f56dad9f08a821326"
+      "stock": "ARM",
+      "headline": "Analysts Just Slashed Their Price Targets on These 5 Stocks",
+      "url": "https://finnhub.io/api/news?id=0c8810c8bbfd8146f3c2e17d49bd0733360dc168753be6e5c694c37268a527b1"
     },
     {
-      "stock": "IONQ",
-      "headline": "Raised Guidance Might Change The Case For Investing In IonQ Stock (IONQ)",
-      "url": "https://finnhub.io/api/news?id=5eff987490ea2cfdd2f94cc0b01b4cdeaa6b8544fe957c75769b407d61630500"
+      "stock": "SONY",
+      "headline": "Are Consumer Discretionary Stocks Lagging  Airbnb (ABNB) This Year?",
+      "url": "https://finnhub.io/api/news?id=b96cfaa29e15a2a211ef924f48e9bf25347b28d1bfc52843050b69cf58aa4a5f"
     },
     {
       "stock": "UBER",
-      "headline": "Musk: Cybercab Will Do “a Majority of All Passenger Miles.” Uber’s Tiny Margin Is the Target",
-      "url": "https://finnhub.io/api/news?id=7bfc30a4ec277595a824b975624bc244a4a927ce99dd10ee0c9246d1e89148f7"
+      "headline": "Where Does Uber Technologies (UBER) Fair Value Sit Today?",
+      "url": "https://finnhub.io/api/news?id=315ebc9e31b137cba75ea3a9a4354d83794709ebbd00c651f21ea5d9320882a3"
     },
     {
       "stock": "DPRO",
-      "headline": "Draganfly (DPRO) Q3 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=3b42b8710de2d1396e4cdbd4f50d7b75401a578648595e3bf9e27b72c82023b0"
+      "headline": "Draganfly Inc. (DPRO) Q3 2026 Earnings Call Transcript",
+      "url": "https://finnhub.io/api/news?id=9b95012a52fb137ae8472bdaa1b6c320605e8437f8d254cb41b74898d37493a3"
     },
     {
       "stock": "IBM",
-      "headline": "Rigetti Computing CEO Says Focus on Quantum Milestones, Not Sales Numbers",
-      "url": "https://finnhub.io/api/news?id=d9a02a9e75929a4b9f1e639aaae6709f7727e64ff3c430d57a87858fe827c5c2"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "D-Wave Quantum Inc. 2026 Q3 - Results - Earnings Call Presentation",
-      "url": "https://finnhub.io/api/news?id=14f196ecf265e857bf85815030725cc5b83e0160c5abb5dda9e1dc1d911dd8d1"
-    },
-    {
-      "stock": "U",
-      "headline": "Unity Software (NYSE:U) Meets Minervini Trend Template but Awaits a Clean Entry",
-      "url": "https://finnhub.io/api/news?id=ce40af4a49d0aa61303028b4c74c87186b69f7e8aa3def7db874fdb0f634c465"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian: AI Growth Keeps The Bull Case Alive",
-      "url": "https://finnhub.io/api/news?id=7dd192f694008a301188a7b72ad73c624bd2ec2e8fbf08b9f0fecb3a3299d55d"
-    },
-    {
-      "stock": "TSM",
-      "headline": "The AI Trade Deconstructed: AI Builders, AI Suppliers And AI Product Firms",
-      "url": "https://finnhub.io/api/news?id=6641435c945aad1cf70f3b81616bbc6fff2ba528969271678dc9abad88a172ce"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Here’s Why Baron Fund Maintains High Conviction in CrowdStrike (CRWD)",
-      "url": "https://finnhub.io/api/news?id=96139e24d0ee07bc3318ee5f10a818dd65d08978fa8b54376436c521306808a9"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "United Is the Latest to Block AI Agents Like Muse. These Stocks Have a Mini Relief Rally.",
-      "url": "https://finnhub.io/api/news?id=6fdd00c104889e999f3a063943a86bb6b319882f95a981895521afd7101c621d"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent (COHR) Could Be 45% Undervalued On Strong Q1 Results And Guidance",
-      "url": "https://finnhub.io/api/news?id=874dfecd8b4c6f1dff65d58097f102ce3cfe8e22a9e7f22ac3e5451d485b49fe"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys at $460: Appealing Ahead of Dec. 8 Earnings",
-      "url": "https://finnhub.io/api/news?id=80d2548b8ec724e075de2cd82c374c841796f917c15d323af3cbb2901c560650"
-    },
-    {
-      "stock": "AMPX",
-      "headline": "Amprius Technologies, Inc. (AMPX) Q3 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=dfcef4ed3301ae5fd6169b480fc2aefb100af4583b3657b10d99e057e486da7d"
-    },
-    {
-      "stock": "HON",
-      "headline": "Can 3M Sustain Operating Margin Momentum Amid Sales Growth?",
-      "url": "https://finnhub.io/api/news?id=e3976d2cbc60d9d2e95f05aeec3e3c62fca83a5ced7e47df2728a82f8e1d2105"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Rigetti Computing CEO Says Focus on Quantum Milestones, Not Sales Numbers",
-      "url": "https://finnhub.io/api/news?id=d9a02a9e75929a4b9f1e639aaae6709f7727e64ff3c430d57a87858fe827c5c2"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Applied Optoelectronics Remains Under Pressure After Last Week’s Q4 Guidance Miss",
-      "url": "https://finnhub.io/api/news?id=64423232c886ecae5186083d4eb72c172ade61b2c6721d69883d7b29c04fb85b"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Needham Maintains Buy on Draganfly, Lowers Price Target to $6",
-      "url": "https://finnhub.io/api/news?id=58c8b90ad787cb26c3da8c7d2f10f7f4d80c3177da8834e0cb917feea9070563"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Evercore ISI Group Maintains Outperform on D-Wave Quantum, Lowers Price Target to $27",
-      "url": "https://finnhub.io/api/news?id=030ab9fb72076c133f8dd0389d2f30fc567af15449ca885b46dbac1655f5dedb"
-    },
-    {
-      "stock": "U",
-      "headline": "APP Stock Surges 51% After Q3 Earnings: Is it Still a Buy?",
-      "url": "https://finnhub.io/api/news?id=d1de5bc83eef7d7e5c21cba3efb8dd1bdb36c0a60306f4420f2a0be287fc2a7a"
+      "headline": "Is Dell Stock Priced Right Against Its Peers?",
+      "url": "https://finnhub.io/api/news?id=825afe4818a1adcb767552dc041f4b23716414a3d3407e5e949b66fb6aa3f5f0"
     },
     {
       "stock": "GOOGL",
-      "headline": "Booking Holdings vs. Target: Which Consumer Stock Is a Better Buy for 2027?",
-      "url": "https://finnhub.io/api/news?id=4ba14f8bd0c77120d2f9f85fd6db91e7c66faded5877953972bb6c1eafc69524"
+      "headline": "Nvidia Turmoil Lifts AMD, Broadcom on Bets for Business Gains",
+      "url": "https://finnhub.io/api/news?id=d0d2b1ba8ae6ca0ae31028f8a649c4e131d8ab4ebfe8ae7f312ed7dc9b9d85a7"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "S&P 500 After-Hours Movers: MNST, RDDT Among Gainers; VEEV, LLY Among Losers in Latest Session",
+      "url": "https://finnhub.io/api/news?id=06de5c4551d7b705cba423430683dacc7cdf38df3419851f1401334c05734b82"
     }
   ]
 }
