@@ -120,6 +120,51 @@
       "stock": "RDDT",
       "headline": "S&P 500 Top Movers: Gainers and Losers on Nov. 12, 2026",
       "url": "https://finnhub.io/api/news?id=8d72580f24855ff04af7f0752cd818ab15909885e271639988acb5b9006eddb8"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Palo Alto Stock Upgraded to Buy After 20% Dip",
+      "url": "https://finnhub.io/api/news?id=2606cd9c54f9712ee939f2e1a69b0ff04d7746a61326d9c42b8bc3fbf2e26497"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Amazon Prime and Uber Eats partnership: $0 delivery fees on $25+ orders for Prime members",
+      "url": "https://finnhub.io/api/news?id=54c9e65c2148f98694aec210e32a8507d2a2d62131fc006202a05b6037e49f34"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "NVIDIA Stocks Fall 2.27% as Interim CEO Kress Faces Tuesday Earnings Test",
+      "url": "https://finnhub.io/api/news?id=8bc50fd0303d561fbdd78eb7e994696ce6382346c71f608eb2a33a15de8e8b45"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Elon Musk's SpaceX–Tesla Merger 'Almost Inconceivable' to Avoid, Biographer Says",
+      "url": "https://finnhub.io/api/news?id=e4f61a0f21d946c7c70be5b67c86c47ab73b015e44629fa000d0d7e5976807fb"
+    },
+    {
+      "stock": "AMPX",
+      "headline": "B. Riley Securities Maintains Buy on Amprius Technologies, Lowers Price Target to $16",
+      "url": "https://finnhub.io/api/news?id=369736fe250ae76793fa2160286963521fa8f0988bc636dfa14d47a03c6e960b"
+    },
+    {
+      "stock": "HON",
+      "headline": "Synthetic Zeolites - Global Strategic Business Report: Secure Share of a $7.3 Billion Market by 2030 as Tariffs Reshape BASF, Honeywell, Clariant, Albemarle, and Arkema Strategies",
+      "url": "https://finnhub.io/api/news?id=9f944719c49228662dad1670248ad6b139b5e08d97296e17978507ec55e4a853"
+    },
+    {
+      "stock": "DE",
+      "headline": "Decisive Dividend Corporation Announces December 2026 Dividend and Issuance of Equity Incentive Awards",
+      "url": "https://finnhub.io/api/news?id=e75baf2f9ccbeb8a5d69af8c9c09ccba117450c82f03ebf19fd483c315a4d605"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "SpaceX initiated, Lululemon downgraded: Wall Street's top analyst calls",
+      "url": "https://finnhub.io/api/news?id=10d75e966d521449cb435e791208bb5a18a79c4ff41421920a9bd92a572ae747"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Said To Eye 'Channel Store,' May Bundle With Fox One",
+      "url": "https://finnhub.io/api/news?id=99f3bc4dd5491aae26432c9f3f156cf07ba51d254e7a0aae10f6947f6e35be16"
     }
   ]
 }
