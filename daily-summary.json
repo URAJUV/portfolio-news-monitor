@@ -1,180 +1,65 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "items": [
     {
       "stock": "TSM",
-      "headline": "Dell Technologies vs. Taiwan Semiconductor: Which Technology Stock Is a Better Buy for 2027?",
-      "url": "https://finnhub.io/api/news?id=f4304f9a9af91eecf1a08fb3f39eeb07533009fb60b0471004336ff89a794b2e"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "Earnings Jump May Reshape The Case For Shoals Technologies Group Stock (SHLS)",
-      "url": "https://finnhub.io/api/news?id=90bf6c354f3061da02d21f5c4265b0b5a193dcbbbc73ae13355bd2811f7a8a60"
-    },
-    {
-      "stock": "AMPX",
-      "headline": "Amprius (AMPX) Q3 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=5905bc97e322f4d9dbc0480414473c7fdcd47a39e3a895c9a5797bd8d26dbd61"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Analysts Just Slashed Their Price Targets on These 5 Stocks",
-      "url": "https://finnhub.io/api/news?id=0c8810c8bbfd8146f3c2e17d49bd0733360dc168753be6e5c694c37268a527b1"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Are Consumer Discretionary Stocks Lagging  Airbnb (ABNB) This Year?",
-      "url": "https://finnhub.io/api/news?id=b96cfaa29e15a2a211ef924f48e9bf25347b28d1bfc52843050b69cf58aa4a5f"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Where Does Uber Technologies (UBER) Fair Value Sit Today?",
-      "url": "https://finnhub.io/api/news?id=315ebc9e31b137cba75ea3a9a4354d83794709ebbd00c651f21ea5d9320882a3"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Draganfly Inc. (DPRO) Q3 2026 Earnings Call Transcript",
-      "url": "https://finnhub.io/api/news?id=9b95012a52fb137ae8472bdaa1b6c320605e8437f8d254cb41b74898d37493a3"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Is Dell Stock Priced Right Against Its Peers?",
-      "url": "https://finnhub.io/api/news?id=825afe4818a1adcb767552dc041f4b23716414a3d3407e5e949b66fb6aa3f5f0"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Nvidia Turmoil Lifts AMD, Broadcom on Bets for Business Gains",
-      "url": "https://finnhub.io/api/news?id=d0d2b1ba8ae6ca0ae31028f8a649c4e131d8ab4ebfe8ae7f312ed7dc9b9d85a7"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "S&P 500 After-Hours Movers: MNST, RDDT Among Gainers; VEEV, LLY Among Losers in Latest Session",
-      "url": "https://finnhub.io/api/news?id=06de5c4551d7b705cba423430683dacc7cdf38df3419851f1401334c05734b82"
-    },
-    {
-      "stock": "MU",
-      "headline": "Nvidia, AMD, CoreWeave, Nebius, Tesla, Strategy, and More Stocks That Explain Today’s Market",
-      "url": "https://finnhub.io/api/news?id=70f13ef23f96413dc789a38f244a443b04be18620e75dc257d47ff4199bb9927"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Jensen Huang's exit puts Nvidia's $530 billion web of AI deals under the microscope",
-      "url": "https://finnhub.io/api/news?id=bf27ad4f7235c65958a14da035d95c6d23cad48f2f1b76dc97898229705f002b"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "He Joined Nvidia’s Board in 1993, the Year It Was Founded. Today Harvey Jones Became Its First-Ever Chair. He Handed a Company to a Founder Once Before",
-      "url": "https://finnhub.io/api/news?id=cbe76ca405fa6ef6f22561fb69cfc290db2392531e3045ce02907de0ffea44bd"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Rivian CEO says robotaxis won't end car ownership — he's betting on both",
-      "url": "https://finnhub.io/api/news?id=5f1e7184c340a5e9141d7a5a915f4bfeec0849ec99d4f94a79f4099cc38584c9"
-    },
-    {
-      "stock": "AMPX",
-      "headline": "Amprius Technologies Q3 Earnings Call Highlights",
-      "url": "https://finnhub.io/api/news?id=fa88dfa34eeb62e5c80fd7cc1a709e29e42f1220130b9273dcc4af484544a2fc"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Nvidia book author said there are only two real candidates to replace Jensen Huang",
-      "url": "https://finnhub.io/api/news?id=c367206420d65c9e56c9a2a5671808a7d421fe9035cfaaf37a665256cf8046e7"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Halozyme Therapeutics (HALO) Stock Gets Fair Value Boost After Q3 Analyst Revisions",
-      "url": "https://finnhub.io/api/news?id=a4985b54546820104360f4c12da4d24b3f8d476e56b3da82eb9eaa046b3687d4"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Norwest pushes deeper into AI with new $4B fund",
-      "url": "https://finnhub.io/api/news?id=2d1d01c56f986ca0369046c3549ee61cd41d1c9aba857ce077cb48e54a78f223"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Digital Grid Solutions Market Report 2026: Size, Share, Trends, and Forecast to 2030 | Accelerate AI, Cloud, and Renewable Integration with Siemens, Hitachi Energy, IBM, and Cisco",
-      "url": "https://finnhub.io/api/news?id=ba843467caf7aa075291710623f715423d94070c5ecce0207b6f0860bd082f10"
-    },
-    {
-      "stock": "U",
-      "headline": "AI Is Helping Unity Software Now, But Could Cause Big Problems for U Stock Down the Road",
-      "url": "https://finnhub.io/api/news?id=6e67216d769b399cb357d55f2db65fa0db7da6fe592fdd115d667c33d3d672ca"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Meta Nose-Dived 12% Over a Month: This Pro Analyst Expects 60% Gains Within 12 Months",
-      "url": "https://finnhub.io/api/news?id=13bc69e187c76f64e173f9d2e93a5fea5ff68b1b9bff92f5b7f97e5ad8371177"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Here’s Why Truist’s Miller Jump Cut His Target on Atlassian (TEAM) Despite a Buy Rating",
-      "url": "https://finnhub.io/api/news?id=6cd3df2f1bd4678c715b3985bc6ed2a5f9b19fca03636c4db0e7bba219769f3d"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit Sinks 6% as Traffic Falls 13% on Google’s AI Overviews: “Not Traffic Drivers”",
-      "url": "https://finnhub.io/api/news?id=9d47b1ae171b5a8410f8ae80809a252406b4e155f7787b0764d8ce550aa3917e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Why Jensen's Resignation Rotates The AI Trade Instead Of Ending It",
-      "url": "https://finnhub.io/api/news?id=0611c918a470af3241bbaf0dae7b6350e1e00f64f1b97c937c710d34ddbddfb4"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Why CrowdStrike CEO George Kurtz is looking forward to Anthropic and OpenAI going public",
-      "url": "https://finnhub.io/api/news?id=51949fafa7791cc613bb26479665b0acd4f1dcd2e2825d4951019b5e198bb476"
+      "headline": "Bernstein’s Mark Li Raised His Taiwan Semiconductor Manufacturing (TSM) Target to $600. Here’s What Changed",
+      "url": "https://finnhub.io/api/news?id=e38f9afa48842b1c40c1ad755a4a1377a049a8afffc7c756a96acc42e60d68a8"
     },
     {
       "stock": "AMZN",
-      "headline": "AI Debt Binge Hits a Wall As Global Bond Markets Reach Saturation Point, Wells Fargo Warns",
-      "url": "https://finnhub.io/api/news?id=9cc5160a2ebbc741b7bb755b0106c2e460c494be74f1523adbd24f7348b85482"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent Named to Forbes America's Best Companies List for Second Consecutive Year",
-      "url": "https://finnhub.io/api/news?id=492f7055ac967a03648cfa92da6c47cc5db69feba366b34a83309527e51a9aff"
+      "headline": "LiveOne Inc (LVO) (Q2 2027) Earnings Call Highlights: Record EBITDA, Major B2B Partnerships and ...",
+      "url": "https://finnhub.io/api/news?id=ebb21eaf3c32d5d37a43a1a3f87f6b1e29eeea87a02b912f036d55a378fdbb26"
     },
     {
       "stock": "SNPS",
-      "headline": "Nvidia CEO Jensen Huang resigns as $700 billion crisis deepens",
-      "url": "https://finnhub.io/api/news?id=da71b1cfd0d1143252c1e37e9cdd9b1d4dd740330a55fa28b9c0d55ba3fb2afd"
+      "headline": "Nvidia CEO Jensen Huang Steps Down After 33 Years at the Helm",
+      "url": "https://finnhub.io/api/news?id=b7318fd3e68dded5bd8218d1e62265080cc5f586af6158874cbcbcee79d1b376"
     },
     {
       "stock": "TSLA",
-      "headline": "Cathie Wood: After Huang, AI push isn’t ‘going to stop’",
-      "url": "https://finnhub.io/api/news?id=96a3c94e620a3cdd8be380153753add42b7976f2c99c68d0337d459531d2c518"
+      "headline": "Cathie Wood Calls Humanoid Robots a '$26 Trillion Opportunity' Over the Next 15 Years: 'Embodied AI' Could Eventually Equal '20% of Global GDP'",
+      "url": "https://finnhub.io/api/news?id=121236996a63f20c4d6cce9b68192771a6b5bdd699109a56994abc7e044df84b"
     },
     {
       "stock": "AMPX",
-      "headline": "Amprius Technologies, Inc. Q3 2026 Earnings Call Summary",
-      "url": "https://finnhub.io/api/news?id=f405f5991f1abfba02f5ac645c30598e6e86f25d4eb08be06b5a97a1d80b08c0"
+      "headline": "Amprius Technologies (AMPX) Lifted Its 2026 Outlook, Is It A Bargain?",
+      "url": "https://finnhub.io/api/news?id=b81bdc2ffab3dc3042b4168edc21963f4eab54903b5384df744fc862838e61eb"
     },
     {
-      "stock": "UBER",
-      "headline": "He’s Betting Against Uber’s Entire Business Model",
-      "url": "https://finnhub.io/api/news?id=e9cfceb24985379c4bdb144b951561981bab7be64756b7c408905d4dbce9021e"
+      "stock": "ARM",
+      "headline": "Who could replace the departed Jensen Huang as Nvidia CEO?",
+      "url": "https://finnhub.io/api/news?id=85e5036a9c7f0bb198983b1bbb8c7955d31780ae8bbcc74dbe36fd4bb4e73b84"
     },
     {
-      "stock": "QBTS",
-      "headline": "Rigetti Falls 5% as Q3 Revenue Misses by Nearly 60% and Mizuho Flags “Soft” Guidance",
-      "url": "https://finnhub.io/api/news?id=137c713f76d0a5253132914454944fb77cee8a3d2b06d79db465a49e74749e13"
+      "stock": "HON",
+      "headline": "China Eastern Airlines Signs 23 Procurement Agreements, Unveils Latest Innovations at 9th CIIE",
+      "url": "https://finnhub.io/api/news?id=5382678255e39bcb8681af5bd6214fabcd9e77594eb5d063f4baab9f597600ea"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ Is Up 3% in a Week. Is Its “Industry Record” Guidance Really That Good?",
+      "url": "https://finnhub.io/api/news?id=d07c839111132de0250309d2a289544dd2495a4025f278836aa4524362d9a066"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Draganfly Inc. Q3 2026 Earnings Call Summary",
+      "url": "https://finnhub.io/api/news?id=e2af21e5f8c1a9383814a1bcb8ebf94205155b7895d490ca2ba1f7bd820b2607"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Disrupting AI Infrastructure: Vedant Dwivedi Makes the Case for Sovereign AI",
+      "url": "https://finnhub.io/api/news?id=585a91da07234507658a6dc13a411299beff302671c79334e44430081cad9c0d"
     },
     {
       "stock": "GOOGL",
-      "headline": "2 No-Brainer Warren Buffett Stocks to Buy in the Post-Election Market Sell-Off and Hold Forever",
-      "url": "https://finnhub.io/api/news?id=ae04a92c68088971daa1da6c5a1be973dcf2f33db7d88a9ae10a0459aef98bdf"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Billionaire investor Bill Ackman on why he's staying bullish on Netflix",
-      "url": "https://finnhub.io/api/news?id=494d53ce91bfa517de80779ecf12199e5fd5bcbbd9d8ae3626526155046f25ff"
+      "headline": "American Electric Power Company (AEP) Stock Looks Above Fair Value On Dividends",
+      "url": "https://finnhub.io/api/news?id=7766cee1973a4821db01b71e4fe90c131b331b0183e4940ba336d43011e33178"
     },
     {
       "stock": "RDDT",
-      "headline": "Reddit CEO Steve Huffman explains the 'paradox' of AI for his company",
-      "url": "https://finnhub.io/api/news?id=157f19ca781d51f298b1b227cf026113ba2d571c9adc73d8588ecb257cc2e8b5"
+      "headline": "S&P 500 Top Movers for Nov. 12, 2026: AMD and AVGO Gain, GPN and NVDA Fall",
+      "url": "https://finnhub.io/api/news?id=6df1ed164784a9c1004bf9ddc8ddd88b274e7ab7b23b279e74cc42528d0f86ff"
     }
   ]
 }
