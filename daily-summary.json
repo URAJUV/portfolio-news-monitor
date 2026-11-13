@@ -60,6 +60,66 @@
       "stock": "RDDT",
       "headline": "S&P 500 Top Movers for Nov. 12, 2026: AMD and AVGO Gain, GPN and NVDA Fall",
       "url": "https://finnhub.io/api/news?id=6df1ed164784a9c1004bf9ddc8ddd88b274e7ab7b23b279e74cc42528d0f86ff"
+    },
+    {
+      "stock": "MU",
+      "headline": "AI Chips Update - Micron Highlights AI Leadership At Investor Events",
+      "url": "https://finnhub.io/api/news?id=0d9b346d455f3220475ea12e6bfd8a4c07e840c28901704a84c385871cb7ee7a"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor Manufacturing Company Limited Reports Unauthorized Access of Employee Personal Data",
+      "url": "https://finnhub.io/api/news?id=2f2fdc771240720152c4ae32d8ce53a44702b6a6ed6be69a5d214debd143c2ea"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "S&P 500 Premarket Movers: Travelers, Palo Alto Networks Gain; Cisco, AMD Fall",
+      "url": "https://finnhub.io/api/news?id=09203bb194b481564c1c98458464545d818ab702b1d01de2b36ef8ddc668627f"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Major streaming services have raised prices by 207% since 2019. Is it still worth it, or is ‘streamflation’ too much?",
+      "url": "https://finnhub.io/api/news?id=2976353128f5d2ff7932add070aba1d7f956e142257088ab013068c4ec91747e"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "CORSAIR PRO to Optimize Engineering Workstations, Servers and Clusters for Ansys Simulation",
+      "url": "https://finnhub.io/api/news?id=5ae30541a55c27bd68d8511de2ef3811f1be08a9efb423b717f0c47af4ec0367"
+    },
+    {
+      "stock": "AMPX",
+      "headline": "Amprius Q3 Earnings Call Highlights Margin Push and U.S. Expansion",
+      "url": "https://finnhub.io/api/news?id=021324632ac7fae2e43c658f8e17ae3d24fcc9403aa7ce2473b0514a3e0190f1"
+    },
+    {
+      "stock": "UBER",
+      "headline": "This Stock Is One of the Largest Holdings in Billionaire Bill Ackman's Portfolio, and It Could Be a Huge Winner",
+      "url": "https://finnhub.io/api/news?id=7a8e45a70a4ccadce69cace8a9d36aec549156b69185b842e4f453112a6f92b5"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics Surges 12%, Lumentum Jumps 11% as CoreWeave’s Results Revive AI Trade; Coherent Climbs 7%",
+      "url": "https://finnhub.io/api/news?id=b165b48dafd8fe7598a6464d00f0bf87079f92866600bc0b21c227d811fbd3c5"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Loop Capital Upgrades Autodesk to Buy, Announces $310 Price Target",
+      "url": "https://finnhub.io/api/news?id=0cd3a9b7f47d23e436f81dd90231121baa99f59630efec92f5b7958406362155"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Microsoft (MSFT) Unveiled An Enterprise AI Agent Platform",
+      "url": "https://finnhub.io/api/news?id=70ea0d5bca517a57ba0c7843531756bc3703f1e93b4c0f19651a8fe114d4177d"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Wall Street Slashes D-Wave Stock Targets by Up to 55%",
+      "url": "https://finnhub.io/api/news?id=33358caddd17d83376984012c0adeb78ffeeddf42e1b5cf0ea7fb3eeaba30830"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "S&P 500 Top Movers: Gainers and Losers on Nov. 12, 2026",
+      "url": "https://finnhub.io/api/news?id=8d72580f24855ff04af7f0752cd818ab15909885e271639988acb5b9006eddb8"
     }
   ]
 }
