@@ -65,6 +65,41 @@
       "stock": "GOOGL",
       "headline": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 103% Last Quarter While the Gemini App Reached 1 Billion Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
       "url": "https://finnhub.io/api/news?id=2d07ade3dd77a1245eb8851944948953b92d2d49be389af003c925259f4d5ac1"
+    },
+    {
+      "stock": "TSM",
+      "headline": "$1000 Invested In Taiwan Semiconductor 5 Years Ago Would Be Worth This Much Today",
+      "url": "https://finnhub.io/api/news?id=20b3d92941e718f13c1faa955d49c7f5d1cd5c90aa884bac81bd436adac8400c"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Palo Alto Networks Sank Nearly 10% in a Day. Arora Still Sees AI as “Durable Tailwinds”",
+      "url": "https://finnhub.io/api/news?id=06b598e94df72251d8ce998858a8970c2d60db7b8fd6e4d19e79988d04ca1778"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Anthropic’s $1.4 Trillion IPO Is Nov. 19. U.S. AI Giants Are Trouncing China 10-to-1",
+      "url": "https://finnhub.io/api/news?id=903bf309c05b3b6dcdc4f12da127f74fda96c206911028f773cce73acac473f7"
+    },
+    {
+      "stock": "COHR",
+      "headline": "TTM Technologies And 2 AI Infrastructure Stocks To Own",
+      "url": "https://finnhub.io/api/news?id=cab2a302cb85195ff895dea9f0cd3b02d1a70ab0c26dc88892485e2fc8d94eb9"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ Files Prospectus Related To The Resale By Certain Selling Stockholders Of An Aggregate Of 34,580,646 Shares Of Company Common Stock",
+      "url": "https://finnhub.io/api/news?id=9f52b85e214dcd1a0c75a4249c32288b7ca582ac9b22d88477e21aab83187b69"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Anthropic’s $1.4 Trillion IPO Is Nov. 19. U.S. AI Giants Are Trouncing China 10-to-1",
+      "url": "https://finnhub.io/api/news?id=903bf309c05b3b6dcdc4f12da127f74fda96c206911028f773cce73acac473f7"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit Sinks 29% in a Day as Huffman Says Google’s AI Mode “Does Not Drive Traffic”",
+      "url": "https://finnhub.io/api/news?id=6af650553f19132c4fd033b7d490f72f8824fd7342ea331bec3a82a8ddba6bfc"
     }
   ]
 }
