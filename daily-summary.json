@@ -35,6 +35,36 @@
       "stock": "RDDT",
       "headline": "Should You Wait Before Buying Reddit Stock?",
       "url": "https://finnhub.io/api/news?id=4f614c38bc943db4b96cf35b68897f6070e181344442c21a61e52af3b92be5fb"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor (NYSE:TSM): High Growth and Improving Fundamentals Pass the Screen",
+      "url": "https://finnhub.io/api/news?id=7ba0ccbfb3cca78443e4c8d8eccd3fc8974969819b86a2f569a5dd9a7baa9527"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Why CrowdStrike (CRWD), a Jim Cramer Holding, Wants Fiddler AI",
+      "url": "https://finnhub.io/api/news?id=0d819ae7de0243f393cedcd15fc5484af418dc65043b0d5a20606694ae1a5a5e"
+    },
+    {
+      "stock": "COHR",
+      "headline": "6 Big Funds Bought MKS. It’s 52% Below Its High. Bargain or Trap?",
+      "url": "https://finnhub.io/api/news?id=ff90b02276320763f9e4ea9e2a1fc9f9a9799ccc9c564f3575ef907bf2f6f6f1"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Cadence Stock And 2 AI Software Names With Stronger Governance Profiles",
+      "url": "https://finnhub.io/api/news?id=d45072aa0cf40883943d0b73068b0b077e69b83c4cba69be39c55228a24fa791"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Rigetti Falls 5% After CEO Admits Quantum Can’t Yet Prove ROI; IonQ Sinks 8%, D-Wave Slides 5%",
+      "url": "https://finnhub.io/api/news?id=5b945623e0b1f0380f5702e158b7e4089a60b4c5a6254a548aedd15e34a93991"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 103% Last Quarter While the Gemini App Reached 1 Billion Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
+      "url": "https://finnhub.io/api/news?id=2d07ade3dd77a1245eb8851944948953b92d2d49be389af003c925259f4d5ac1"
     }
   ]
 }
