@@ -30,6 +30,36 @@
       "stock": "GOOGL",
       "headline": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
       "url": "https://finnhub.io/api/news?id=f108095735710df780cee5d95409e144ce4f3de40be2a78e4c0e20c0bb6ab9a8"
+    },
+    {
+      "stock": "MU",
+      "headline": "Samsung’s $34 Billion HBM Bet Raises Memory Glut Risks",
+      "url": "https://finnhub.io/api/news?id=bd6677fb69eaf0e264bc28837cedbb9eaafaa13c70c548e6922edac2e9ef6d5f"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "‘Tesla of China’ could make cars in Britain as Burnham considers tariffs",
+      "url": "https://finnhub.io/api/news?id=a8043e4806f892a1b5ae43b199e5303cec6df49f77240f099c3a9ee71e390bf2"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Xanadu Breakthroughs & Partnerships Advance Roadmap – Quarterly Update Report",
+      "url": "https://finnhub.io/api/news?id=f76acc422cca30fb7197c517ad5554515e35839ce91baa541b2033398f40dd55"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Ondas Q3 Earnings Show Wider Loss, Revenues Beat Estimates",
+      "url": "https://finnhub.io/api/news?id=657c38e8bfe727a7aeebd9a13f04951f5ba140d66f2641392caf2277649f0aba"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Xanadu Breakthroughs & Partnerships Advance Roadmap – Quarterly Update Report",
+      "url": "https://finnhub.io/api/news?id=f76acc422cca30fb7197c517ad5554515e35839ce91baa541b2033398f40dd55"
+    },
+    {
+      "stock": "U",
+      "headline": "Unity (U) Stock Sees Fair Value Lift After Q3 Spurs Higher Analyst Targets",
+      "url": "https://finnhub.io/api/news?id=ef3f3bd89d93b99390b2255e95196a689a027e2733a58360afe981495fe8dfd1"
     }
   ]
 }
