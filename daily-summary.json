@@ -60,6 +60,41 @@
       "stock": "U",
       "headline": "Unity (U) Stock Sees Fair Value Lift After Q3 Spurs Higher Analyst Targets",
       "url": "https://finnhub.io/api/news?id=ef3f3bd89d93b99390b2255e95196a689a027e2733a58360afe981495fe8dfd1"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Consumer Tech (Nov 9-13): Jensen Resigns From Nvidia Amid Affair Controvery, Microsoft Faces Massive Outage & More",
+      "url": "https://finnhub.io/api/news?id=893a165d0928fdc58d83ee73bf65ef865c793c1778bd5f82b7e6a30bbb97d1bb"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Consumer Tech (Nov 9-13): Jensen Resigns From Nvidia Amid Affair Controvery, Microsoft Faces Massive Outage & More",
+      "url": "https://finnhub.io/api/news?id=893a165d0928fdc58d83ee73bf65ef865c793c1778bd5f82b7e6a30bbb97d1bb"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Nvidia Yet to Hire Search Firm for Jensen Huang's Successor as Arm CEO Rene Haas Reportedly Emerges as Potential Contender",
+      "url": "https://finnhub.io/api/news?id=1bf07f0f51c7650a12a322b546b11b45f16277d2bf9d4894386b2173fedfaa82"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Consumer Tech (Nov 9-13): Jensen Resigns From Nvidia Amid Affair Controvery, Microsoft Faces Massive Outage & More",
+      "url": "https://finnhub.io/api/news?id=893a165d0928fdc58d83ee73bf65ef865c793c1778bd5f82b7e6a30bbb97d1bb"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "This Palo Alto Analyst Turns Bullish; Here Are Top 5 Upgrades For Friday",
+      "url": "https://finnhub.io/api/news?id=e55317326c6bdc776b7ac69f200f5b1f025f6568b1fb9fda977ed79e87618d8b"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix, Disney, HBO, and Peacock keep raising streaming prices",
+      "url": "https://finnhub.io/api/news?id=7df143b911e6a1c2683858d4a868fb3735bb353cef3b4b19f3b2ef01041149ee"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "2 Retirees in Their Mid-70s Want $500,000 From Their IRA in an Annuity. Cashed Out, It Could Raise Each Medicare Premium $446.30 a Month",
+      "url": "https://finnhub.io/api/news?id=d5feaef40135c35d77fc15fc43bddf7932f77d10308aecba6bc76563e201709e"
     }
   ]
 }
