@@ -1,105 +1,35 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "items": [
     {
       "stock": "CRWD",
-      "headline": "Top 3 AI Security Stocks With Earnings Growth Over 29%",
-      "url": "https://finnhub.io/api/news?id=f1ba1862a9ee3706beae48e1f6978e920d4cc9c9e1456313351c8c9f23a01f50"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Sell Alert: 5 Stocks Analysts Downgraded on Wednesday",
-      "url": "https://finnhub.io/api/news?id=2f73a9909f1d9c298f51ad7d374389877a04d0c8da05a3130cc3d203cd3896cd"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Rigetti Falls 5% After CEO Admits Quantum Can’t Yet Prove ROI; IonQ Sinks 8%, D-Wave Slides 5%",
-      "url": "https://finnhub.io/api/news?id=5b945623e0b1f0380f5702e158b7e4089a60b4c5a6254a548aedd15e34a93991"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM’s cybersecurity move raises new questions for investors",
-      "url": "https://finnhub.io/api/news?id=208d5bb7cfade96a195d9211d10ad6d78dd0f1c6c7b9b0b90805373403545169"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "IonQ Is Up 3% in a Week. Is Its “Industry Record” Guidance Really That Good?",
-      "url": "https://finnhub.io/api/news?id=d07c839111132de0250309d2a289544dd2495a4025f278836aa4524362d9a066"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Walt Disney vs. Netflix: Which Is the Better Entertainment Stock to Buy Going Into 2027?",
-      "url": "https://finnhub.io/api/news?id=d87600c7cbc1400454804ce257d6990d96cc8bf17639bd8c2798be9eb633e9ae"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Should You Wait Before Buying Reddit Stock?",
-      "url": "https://finnhub.io/api/news?id=4f614c38bc943db4b96cf35b68897f6070e181344442c21a61e52af3b92be5fb"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor (NYSE:TSM): High Growth and Improving Fundamentals Pass the Screen",
-      "url": "https://finnhub.io/api/news?id=7ba0ccbfb3cca78443e4c8d8eccd3fc8974969819b86a2f569a5dd9a7baa9527"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Why CrowdStrike (CRWD), a Jim Cramer Holding, Wants Fiddler AI",
-      "url": "https://finnhub.io/api/news?id=0d819ae7de0243f393cedcd15fc5484af418dc65043b0d5a20606694ae1a5a5e"
+      "headline": "CrowdStrike Doubles Down on AI Agents With $495 Million in Deals After a Record $333 Million ARR Quarter",
+      "url": "https://finnhub.io/api/news?id=e042bd83276c111c6b6b19d67b948da1516d06c8e31c3ef143cdaae14cdbe9ac"
     },
     {
       "stock": "COHR",
-      "headline": "6 Big Funds Bought MKS. It’s 52% Below Its High. Bargain or Trap?",
-      "url": "https://finnhub.io/api/news?id=ff90b02276320763f9e4ea9e2a1fc9f9a9799ccc9c564f3575ef907bf2f6f6f1"
+      "headline": "S&P 500 Top Movers for Nov. 13, 2026: Charter Communications Leads Gainers, AMD Leads Losers",
+      "url": "https://finnhub.io/api/news?id=be3fdb8d07915e0be2cd4515b98267b2b4974a4811a7553772ecbabacec06658"
     },
     {
-      "stock": "IBM",
-      "headline": "Cadence Stock And 2 AI Software Names With Stronger Governance Profiles",
-      "url": "https://finnhub.io/api/news?id=d45072aa0cf40883943d0b73068b0b077e69b83c4cba69be39c55228a24fa791"
+      "stock": "HON",
+      "headline": "Consumer Staples Leads Sectors As Technology Trails",
+      "url": "https://finnhub.io/api/news?id=7f9779f971d8dc620fdc3b643c358ba3269c83c2baf60f55c16be9d284c4d18d"
     },
     {
-      "stock": "QBTS",
-      "headline": "Rigetti Falls 5% After CEO Admits Quantum Can’t Yet Prove ROI; IonQ Sinks 8%, D-Wave Slides 5%",
-      "url": "https://finnhub.io/api/news?id=5b945623e0b1f0380f5702e158b7e4089a60b4c5a6254a548aedd15e34a93991"
+      "stock": "AAOI",
+      "headline": "3 US AI Infrastructure Stocks Retail Investors Should Watch Now",
+      "url": "https://finnhub.io/api/news?id=eeb7898def7603de815451acf8c2c4e0b357f9a7697d9dd57ee72505f2448428"
     },
     {
-      "stock": "GOOGL",
-      "headline": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 103% Last Quarter While the Gemini App Reached 1 Billion Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
-      "url": "https://finnhub.io/api/news?id=2d07ade3dd77a1245eb8851944948953b92d2d49be389af003c925259f4d5ac1"
-    },
-    {
-      "stock": "TSM",
-      "headline": "$1000 Invested In Taiwan Semiconductor 5 Years Ago Would Be Worth This Much Today",
-      "url": "https://finnhub.io/api/news?id=20b3d92941e718f13c1faa955d49c7f5d1cd5c90aa884bac81bd436adac8400c"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Palo Alto Networks Sank Nearly 10% in a Day. Arora Still Sees AI as “Durable Tailwinds”",
-      "url": "https://finnhub.io/api/news?id=06b598e94df72251d8ce998858a8970c2d60db7b8fd6e4d19e79988d04ca1778"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Anthropic’s $1.4 Trillion IPO Is Nov. 19. U.S. AI Giants Are Trouncing China 10-to-1",
-      "url": "https://finnhub.io/api/news?id=903bf309c05b3b6dcdc4f12da127f74fda96c206911028f773cce73acac473f7"
-    },
-    {
-      "stock": "COHR",
-      "headline": "TTM Technologies And 2 AI Infrastructure Stocks To Own",
-      "url": "https://finnhub.io/api/news?id=cab2a302cb85195ff895dea9f0cd3b02d1a70ab0c26dc88892485e2fc8d94eb9"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ Files Prospectus Related To The Resale By Certain Selling Stockholders Of An Aggregate Of 34,580,646 Shares Of Company Common Stock",
-      "url": "https://finnhub.io/api/news?id=9f52b85e214dcd1a0c75a4249c32288b7ca582ac9b22d88477e21aab83187b69"
+      "stock": "DPRO",
+      "headline": "Can Ondas Convert Its $835M Backlog Into Sustainable Growth?",
+      "url": "https://finnhub.io/api/news?id=8d2ae5d80fd3c0228b2fc66b521f3209c8355bcb2c7021f3dbfd3eff6e6ef18b"
     },
     {
       "stock": "GOOGL",
-      "headline": "Anthropic’s $1.4 Trillion IPO Is Nov. 19. U.S. AI Giants Are Trouncing China 10-to-1",
-      "url": "https://finnhub.io/api/news?id=903bf309c05b3b6dcdc4f12da127f74fda96c206911028f773cce73acac473f7"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit Sinks 29% in a Day as Huffman Says Google’s AI Mode “Does Not Drive Traffic”",
-      "url": "https://finnhub.io/api/news?id=6af650553f19132c4fd033b7d490f72f8824fd7342ea331bec3a82a8ddba6bfc"
+      "headline": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
+      "url": "https://finnhub.io/api/news?id=f108095735710df780cee5d95409e144ce4f3de40be2a78e4c0e20c0bb6ab9a8"
     }
   ]
 }
