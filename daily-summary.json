@@ -25,6 +25,41 @@
       "stock": "TSLA",
       "headline": "Market Chatter: Nvidia's Jensen Huang Discusses Return as CEO With Allies",
       "url": "https://finnhub.io/api/news?id=6ab46ef5f66af8fac0404ec1080459d0fc08a7547220052b4b720ddc2ee2bc70"
+    },
+    {
+      "stock": "TSM",
+      "headline": "EXCLUSIVE: Huang’s Exit Echoes Profumo, but Intelligence Expert Says Chip CEOs Are the New Spy Targets",
+      "url": "https://finnhub.io/api/news?id=8cbf5ef1b6a531fd2edb5b082c482f2b624dc4abbf1f2f1e0d6809003534cad3"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike Named the Frost Radar™ Visionary Leader for AI Security Operations Centers",
+      "url": "https://finnhub.io/api/news?id=d6097f56e2bcacd48742baf7aeb4269fe0e595516ad200c761c02aa14c8d8a01"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Dan Ives Has One IPO in Mind as a Test for AI Stocks",
+      "url": "https://finnhub.io/api/news?id=aff7b325c220d923408ad0d45d1c81bf23664719e2d7087248c682bb71a86fd1"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Lucid Sinks 8% in Tech Selloff as CEO Tempers EV Hopes: “Anything Positive, We’ll Take It”",
+      "url": "https://finnhub.io/api/news?id=13edf46af0eebacfc729e539075b784955633a499213220740976eef9c542a35"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Stocks Slide 6.72% as Nvidia CEO Search Keeps Rene Haas in Focus",
+      "url": "https://finnhub.io/api/news?id=633c8270864934076fad96a0bc394efaed83d27591590b02481cda157000fdbb"
+    },
+    {
+      "stock": "HON",
+      "headline": "What Are Wall Street Analysts' Target Price for Honeywell International Stock?",
+      "url": "https://finnhub.io/api/news?id=cca02e972f340d55d520352c9df01094f13b0954ae784c00e1555a6659f58344"
+    },
+    {
+      "stock": "DE",
+      "headline": "Caterpillar’s 34% Slump Over 6 Months: Wall Street Desk Says It Sets Up 90% Gains Within a Year",
+      "url": "https://finnhub.io/api/news?id=3467d721411eb7366154b3c792882ede67eef517bdad2aaa2d307e4fa356ca9d"
     }
   ]
 }
