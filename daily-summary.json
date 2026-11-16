@@ -1,100 +1,10 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "items": [
     {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Doubles Down on AI Agents With $495 Million in Deals After a Record $333 Million ARR Quarter",
-      "url": "https://finnhub.io/api/news?id=e042bd83276c111c6b6b19d67b948da1516d06c8e31c3ef143cdaae14cdbe9ac"
-    },
-    {
-      "stock": "COHR",
-      "headline": "S&P 500 Top Movers for Nov. 13, 2026: Charter Communications Leads Gainers, AMD Leads Losers",
-      "url": "https://finnhub.io/api/news?id=be3fdb8d07915e0be2cd4515b98267b2b4974a4811a7553772ecbabacec06658"
-    },
-    {
-      "stock": "HON",
-      "headline": "Consumer Staples Leads Sectors As Technology Trails",
-      "url": "https://finnhub.io/api/news?id=7f9779f971d8dc620fdc3b643c358ba3269c83c2baf60f55c16be9d284c4d18d"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "3 US AI Infrastructure Stocks Retail Investors Should Watch Now",
-      "url": "https://finnhub.io/api/news?id=eeb7898def7603de815451acf8c2c4e0b357f9a7697d9dd57ee72505f2448428"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Can Ondas Convert Its $835M Backlog Into Sustainable Growth?",
-      "url": "https://finnhub.io/api/news?id=8d2ae5d80fd3c0228b2fc66b521f3209c8355bcb2c7021f3dbfd3eff6e6ef18b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
-      "url": "https://finnhub.io/api/news?id=f108095735710df780cee5d95409e144ce4f3de40be2a78e4c0e20c0bb6ab9a8"
-    },
-    {
-      "stock": "MU",
-      "headline": "Samsung’s $34 Billion HBM Bet Raises Memory Glut Risks",
-      "url": "https://finnhub.io/api/news?id=bd6677fb69eaf0e264bc28837cedbb9eaafaa13c70c548e6922edac2e9ef6d5f"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "‘Tesla of China’ could make cars in Britain as Burnham considers tariffs",
-      "url": "https://finnhub.io/api/news?id=a8043e4806f892a1b5ae43b199e5303cec6df49f77240f099c3a9ee71e390bf2"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Xanadu Breakthroughs & Partnerships Advance Roadmap – Quarterly Update Report",
-      "url": "https://finnhub.io/api/news?id=f76acc422cca30fb7197c517ad5554515e35839ce91baa541b2033398f40dd55"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Ondas Q3 Earnings Show Wider Loss, Revenues Beat Estimates",
-      "url": "https://finnhub.io/api/news?id=657c38e8bfe727a7aeebd9a13f04951f5ba140d66f2641392caf2277649f0aba"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "Xanadu Breakthroughs & Partnerships Advance Roadmap – Quarterly Update Report",
-      "url": "https://finnhub.io/api/news?id=f76acc422cca30fb7197c517ad5554515e35839ce91baa541b2033398f40dd55"
-    },
-    {
-      "stock": "U",
-      "headline": "Unity (U) Stock Sees Fair Value Lift After Q3 Spurs Higher Analyst Targets",
-      "url": "https://finnhub.io/api/news?id=ef3f3bd89d93b99390b2255e95196a689a027e2733a58360afe981495fe8dfd1"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Consumer Tech (Nov 9-13): Jensen Resigns From Nvidia Amid Affair Controvery, Microsoft Faces Massive Outage & More",
-      "url": "https://finnhub.io/api/news?id=893a165d0928fdc58d83ee73bf65ef865c793c1778bd5f82b7e6a30bbb97d1bb"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Consumer Tech (Nov 9-13): Jensen Resigns From Nvidia Amid Affair Controvery, Microsoft Faces Massive Outage & More",
-      "url": "https://finnhub.io/api/news?id=893a165d0928fdc58d83ee73bf65ef865c793c1778bd5f82b7e6a30bbb97d1bb"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Nvidia Yet to Hire Search Firm for Jensen Huang's Successor as Arm CEO Rene Haas Reportedly Emerges as Potential Contender",
-      "url": "https://finnhub.io/api/news?id=1bf07f0f51c7650a12a322b546b11b45f16277d2bf9d4894386b2173fedfaa82"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Consumer Tech (Nov 9-13): Jensen Resigns From Nvidia Amid Affair Controvery, Microsoft Faces Massive Outage & More",
-      "url": "https://finnhub.io/api/news?id=893a165d0928fdc58d83ee73bf65ef865c793c1778bd5f82b7e6a30bbb97d1bb"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "This Palo Alto Analyst Turns Bullish; Here Are Top 5 Upgrades For Friday",
-      "url": "https://finnhub.io/api/news?id=e55317326c6bdc776b7ac69f200f5b1f025f6568b1fb9fda977ed79e87618d8b"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix, Disney, HBO, and Peacock keep raising streaming prices",
-      "url": "https://finnhub.io/api/news?id=7df143b911e6a1c2683858d4a868fb3735bb353cef3b4b19f3b2ef01041149ee"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "2 Retirees in Their Mid-70s Want $500,000 From Their IRA in an Annuity. Cashed Out, It Could Raise Each Medicare Premium $446.30 a Month",
-      "url": "https://finnhub.io/api/news?id=d5feaef40135c35d77fc15fc43bddf7932f77d10308aecba6bc76563e201709e"
+      "stock": "AMZN",
+      "headline": "Rigetti Computing vs. SoundHound AI: Which Technology Stock Is a Better Buy for 2027?",
+      "url": "https://finnhub.io/api/news?id=902a884d49100305dacc3567c6df1b56a24093230d955c99691d714fe901cceb"
     }
   ]
 }
