@@ -40,6 +40,51 @@
       "stock": "GOOGL",
       "headline": "Elon Musk says Larry Page’s ‘Five Nines’ AI prediction is right, despite their decade-long feud",
       "url": "https://finnhub.io/api/news?id=3416103fdf8de4f5270b1c0b68f544661c72c30eb0519d09ab4eadbcfd8abe25"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Has The AI Bubble Popped?",
+      "url": "https://finnhub.io/api/news?id=0d44c1694e2273a09fd9fc3c87affa40a935c8889218a742fce116865bfdf9bf"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Oracle’s 40% 6 Month Slide Continues: This Analyst Maintains His Buy Rating, Predicting 230% Returns",
+      "url": "https://finnhub.io/api/news?id=1e5c6f5ed5cd40920e3ad78cf629553fe804fe468bdfcf973b1c71473903cbdd"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "This Aclaris Therapeutics Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Tuesday",
+      "url": "https://finnhub.io/api/news?id=5c69cc38b4fca00361d5ac6aaa1f5328b50a616d2805ba5cae0cd128d88de825"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Michael Burry Still Bearish On Nvidia, AI Trade, Buys These Software Names",
+      "url": "https://finnhub.io/api/news?id=38c82447ac0bbc8e6219e996590034cb1b6559310b558bf3f3b2165e84db6d73"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell Technologies Helps Vanderbilt Health Modernize Security Infrastructure Across Nashville-Based Health System",
+      "url": "https://finnhub.io/api/news?id=b388d66707d83d713d1f436d7becc8f6aeaabab28585bd597613646f88a548fb"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Quantum Stocks Face Earnings Reckoning as Loss-Making Pure Plays Lag Profitable Peers",
+      "url": "https://finnhub.io/api/news?id=50302c32618ee885daed406ef5abc4fd90e4a20fac285dff2cb3f8cba02ed43d"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "Quantum Stocks Face Earnings Reckoning as Loss-Making Pure Plays Lag Profitable Peers",
+      "url": "https://finnhub.io/api/news?id=50302c32618ee885daed406ef5abc4fd90e4a20fac285dff2cb3f8cba02ed43d"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Fed Chair Kevin Warsh Outlined 3 Possible Futures for AI Yesterday. One Could Be Devastating for Stocks",
+      "url": "https://finnhub.io/api/news?id=048d4273ae299955494b7558e3c5588f624cb2ae8852dc614377ef729bed1b6e"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Citi names top infrastructure software stocks amid rising AI standards",
+      "url": "https://finnhub.io/api/news?id=7a2d9400d7edb2194592a4cb5dda6498b90f70b3a5c908cd13d4699b2c640910"
     }
   ]
 }
