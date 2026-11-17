@@ -1,65 +1,45 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "items": [
     {
-      "stock": "AMZN",
-      "headline": "Rigetti Computing vs. SoundHound AI: Which Technology Stock Is a Better Buy for 2027?",
-      "url": "https://finnhub.io/api/news?id=902a884d49100305dacc3567c6df1b56a24093230d955c99691d714fe901cceb"
-    },
-    {
       "stock": "MU",
-      "headline": "Market Chatter: Micron, Samsung, SK Hynix Fail to Get DRAM Price-Fixing Lawsuit Dismissed",
-      "url": "https://finnhub.io/api/news?id=9ea7ff9fb634f80d44fbe5453c70288e61536ec0805fd69212c4e8aafc51a4a4"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Jim Cramer: Anthropic’s “Next $100 Billion in Revenue” Might Be Cybersecurity. CrowdStrike Should Worry",
-      "url": "https://finnhub.io/api/news?id=fdd2c9ecade07a04677780f1bfa87e1212574c4127e266374d38c5e2e1658b66"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Market Chatter: Nvidia, Amazon, Microsoft, OpenAI and Anthropic To Be Named AI National Champs By White House",
-      "url": "https://finnhub.io/api/news?id=d7a172a740533d18c879bebb06501bd148eb21e68d1232ba94e650c494eac3c5"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Market Chatter: Nvidia's Jensen Huang Discusses Return as CEO With Allies",
-      "url": "https://finnhub.io/api/news?id=6ab46ef5f66af8fac0404ec1080459d0fc08a7547220052b4b720ddc2ee2bc70"
+      "headline": "AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China",
+      "url": "https://finnhub.io/api/news?id=8a92b4c2545d8d70c68ad35f90f8f42bd16df0d3e930dc3ac111bfa11df7518d"
     },
     {
       "stock": "TSM",
-      "headline": "EXCLUSIVE: Huang’s Exit Echoes Profumo, but Intelligence Expert Says Chip CEOs Are the New Spy Targets",
-      "url": "https://finnhub.io/api/news?id=8cbf5ef1b6a531fd2edb5b082c482f2b624dc4abbf1f2f1e0d6809003534cad3"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike Named the Frost Radar™ Visionary Leader for AI Security Operations Centers",
-      "url": "https://finnhub.io/api/news?id=d6097f56e2bcacd48742baf7aeb4269fe0e595516ad200c761c02aa14c8d8a01"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Dan Ives Has One IPO in Mind as a Test for AI Stocks",
-      "url": "https://finnhub.io/api/news?id=aff7b325c220d923408ad0d45d1c81bf23664719e2d7087248c682bb71a86fd1"
+      "headline": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Hit A Revenue High, Is The Stock Fully Valued?",
+      "url": "https://finnhub.io/api/news?id=c7b748a16f1670e43cc5a44f03734a0900029ef24ff57d3e14f44ce3fcf8f715"
     },
     {
       "stock": "TSLA",
-      "headline": "Lucid Sinks 8% in Tech Selloff as CEO Tempers EV Hopes: “Anything Positive, We’ll Take It”",
-      "url": "https://finnhub.io/api/news?id=13edf46af0eebacfc729e539075b784955633a499213220740976eef9c542a35"
+      "headline": "Nvidia set for first earnings call since Jensen Huang's resignation",
+      "url": "https://finnhub.io/api/news?id=a2de43d6ac67f225afb542be855a0e156c22d8d06a2706be6683fdfe6e396537"
     },
     {
-      "stock": "ARM",
-      "headline": "Arm Stocks Slide 6.72% as Nvidia CEO Search Keeps Rene Haas in Focus",
-      "url": "https://finnhub.io/api/news?id=633c8270864934076fad96a0bc394efaed83d27591590b02481cda157000fdbb"
+      "stock": "IONQ",
+      "headline": "D-Wave Quantum Falls 7% as Post-Earnings Selloff Deepens on Weak Bookings; IonQ Sinks 8%, Rigetti Slides 5%",
+      "url": "https://finnhub.io/api/news?id=38f55d5b1a3a0471ca5554506b3f0b89b8376e47defb3ec9f3b82e69dd9499fd"
     },
     {
-      "stock": "HON",
-      "headline": "What Are Wall Street Analysts' Target Price for Honeywell International Stock?",
-      "url": "https://finnhub.io/api/news?id=cca02e972f340d55d520352c9df01094f13b0954ae784c00e1555a6659f58344"
+      "stock": "UBER",
+      "headline": "He Starts Driving for a Delivery App at 64 amid Same-Day Delivery Frenzy, and Expects $30,000 in Payouts to Cost Him Social Security. The Earnings Test Counts Net Profit, So Mileage Deductions Drop Him Below $25,560 Limit",
+      "url": "https://finnhub.io/api/news?id=2c3f702ee266606aa934b8f984145627fceb85f722f92f83847865c5048cc2a1"
     },
     {
-      "stock": "DE",
-      "headline": "Caterpillar’s 34% Slump Over 6 Months: Wall Street Desk Says It Sets Up 90% Gains Within a Year",
-      "url": "https://finnhub.io/api/news?id=3467d721411eb7366154b3c792882ede67eef517bdad2aaa2d307e4fa356ca9d"
+      "stock": "IBM",
+      "headline": "IBM Study: Chief AI Officers See Where AI Creates Value, but Few Control Investment Decisions",
+      "url": "https://finnhub.io/api/news?id=661ebf99626a45af6e267688a28a41d09db6665222c55095ae7b297d795cc009"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave Quantum Falls 7% as Post-Earnings Selloff Deepens on Weak Bookings; IonQ Sinks 8%, Rigetti Slides 5%",
+      "url": "https://finnhub.io/api/news?id=38f55d5b1a3a0471ca5554506b3f0b89b8376e47defb3ec9f3b82e69dd9499fd"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Elon Musk says Larry Page’s ‘Five Nines’ AI prediction is right, despite their decade-long feud",
+      "url": "https://finnhub.io/api/news?id=3416103fdf8de4f5270b1c0b68f544661c72c30eb0519d09ab4eadbcfd8abe25"
     }
   ]
 }
