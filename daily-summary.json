@@ -50,6 +50,71 @@
       "stock": "TEAM",
       "headline": "Can Atlassian’s Earnings Catch Up With Its Valuation?",
       "url": "https://finnhub.io/api/news?id=09a57ca610d46ca6a9e98bb10f6c7297f92acd0bf9b1f498ed559c4b2a3a15d4"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC: The Biggest Loser From The Nvidia Debacle (Rating Downgrade)",
+      "url": "https://finnhub.io/api/news?id=3173fe7902fc844d92aea18fb822043dab59d6f888e56a3f0087e72b4abb75e0"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Cantor Fitzgerald Raises Its CrowdStrike Target to $275. Is It Still Too Low?",
+      "url": "https://finnhub.io/api/news?id=57c922089062b34377ee6a56543cdefed5de343b7fc18a6f9703113868d94756"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Bernstein Is Holding Its $350 Coherent Target With the Stock 52% Off Its High",
+      "url": "https://finnhub.io/api/news?id=0fd44b53f428ec037b5890df56b51de0155bb4e1299b2c503c17e6cd66d5bb4d"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Nvidia Stock And 3 AI Semiconductor Picks For The Next Chip Demand Wave",
+      "url": "https://finnhub.io/api/news?id=3b58c61c153394544bbefee39c40bca0ae92bc01d591f4ad7f098e102d036f42"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Nvidia taps Heidrick & Struggles to lead CEO search, WSJ reports",
+      "url": "https://finnhub.io/api/news?id=98bd1da0340a11a61eb3fe8478338cf0c21432f177dbc8b6be3d482f9585975b"
+    },
+    {
+      "stock": "HON",
+      "headline": "Honeywell (HON) Stock Looks Above Fair Value On Cash Flow",
+      "url": "https://finnhub.io/api/news?id=60738b1e72d300dc28c6ca1d90e57472b4a8b4900bfb494e851f283d655d50df"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ's Post-Earnings Rally Fades: Should Investors Book Profits Now?",
+      "url": "https://finnhub.io/api/news?id=2f7866971c895da2f67059485a9de36bb547724fdd7d9b4dfb65bb8fc58cceb5"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Ondas' Aggressive Acquisition Spree: Can It Fuel Sustained Growth?",
+      "url": "https://finnhub.io/api/news?id=ca9305770aea64e71f9c315a4fb7422f770cdbf844969c66f52cc04c01bcbb93"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Stock Market Today: Dow Slides Ahead Of Retail Sales; Nvidia Rises With Earnings Report On Tap (Live Coverage)",
+      "url": "https://finnhub.io/api/news?id=925cd36377e0b788d5493604a7c322b8108f4a3c63fbd0fc5603e0f825798a2b"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "IonQ's Post-Earnings Rally Fades: Should Investors Book Profits Now?",
+      "url": "https://finnhub.io/api/news?id=2f7866971c895da2f67059485a9de36bb547724fdd7d9b4dfb65bb8fc58cceb5"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Market Chatter: Korea Regulator Cites Customer Complaints, Orders Apple, Google, Alibaba, OpenAI to Designate Legal Representatives by January",
+      "url": "https://finnhub.io/api/news?id=7cf4597fbe2b5036eddf12decfa852c866f7306e1d55d597b7d16c9e02c4b461"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Exalate Appoints New CEO to Expand Its Enterprise Integration Business",
+      "url": "https://finnhub.io/api/news?id=a8dd121495a671ace7b0c19c78722923ab13345b9566eed3beadb3d115894c30"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Today's S&P 500 Top Movers: Reddit Leads Gainers, Salesforce Leads Decliners",
+      "url": "https://finnhub.io/api/news?id=90f634a4176d3015e7a44e5a47ae402b8945426602647f63744156f9a7e05b2e"
     }
   ]
 }
