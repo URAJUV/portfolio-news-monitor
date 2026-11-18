@@ -115,6 +115,51 @@
       "stock": "RDDT",
       "headline": "Today's S&P 500 Top Movers: Reddit Leads Gainers, Salesforce Leads Decliners",
       "url": "https://finnhub.io/api/news?id=90f634a4176d3015e7a44e5a47ae402b8945426602647f63744156f9a7e05b2e"
+    },
+    {
+      "stock": "TSM",
+      "headline": "What Anthropic's IPO Reveals About The AI Buildout",
+      "url": "https://finnhub.io/api/news?id=9ed51aa50d26bd3c6baa1aa06b2bf103c1a5a8274a3e6038552ba2dadee02166"
+    },
+    {
+      "stock": "COHR",
+      "headline": "AAOI Rides on AI-Led Optical Demand: Can It Beat Fabrinet and Coherent?",
+      "url": "https://finnhub.io/api/news?id=4731a9b4a26fd4e5356d547d2ac0757a29a9f7758f1f5ca62467dd8a6383cc93"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "3 Software Stocks to Add to Your Portfolio on AI, Cloud Tailwinds",
+      "url": "https://finnhub.io/api/news?id=b9fad156271d208d13c839592b48cc75ae2bac7ed1812e136d877a1200933b18"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Stock Is Still a High-Stakes Bet on the Future. Here’s My Price Target",
+      "url": "https://finnhub.io/api/news?id=1a58d606bbbed16b13e21fe4a33e0df3e611ecaaa1962a5a23db7cbea93671ac"
+    },
+    {
+      "stock": "ARM",
+      "headline": "AI Data Center Growth Might Change The Case For Investing In Arm (ARM)",
+      "url": "https://finnhub.io/api/news?id=0e74851bcd41d5478709505f85dfe34a586931ce230643bd7394e935c007451c"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Buy Alert: 5 Stocks Analysts Upgraded on Friday",
+      "url": "https://finnhub.io/api/news?id=9c7b6fdb12ab03f8c536a8affb32e658274bb6b009a4e434e112d0c598ab0b89"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "How to find AI winners beyond Nvidia & the Mag-7",
+      "url": "https://finnhub.io/api/news?id=7973629ea3e3bbdab626dd179b246e9fc03174d7024799dd98062d9a278c907a"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "What Explains The Move In Atlassian Stock?",
+      "url": "https://finnhub.io/api/news?id=7d37cb538b656a685a758f475fb64ba890bd9be0bfa9e79c507b52a3f2204ecb"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit (RDDT) Moves to Protect Human Data in an Increasingly AI-Written Web",
+      "url": "https://finnhub.io/api/news?id=ca39849a4975d62d791e3031131d4cb5fb297951b7fd286afe24b44227cdaa99"
     }
   ]
 }
