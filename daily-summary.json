@@ -25,6 +25,56 @@
       "stock": "NFLX",
       "headline": "Josh Brown Says Netflix Trades at 16 Times Next Year’s Earnings After a 50% Drop. Is It a Buy?",
       "url": "https://finnhub.io/api/news?id=145aaf881d0a1017339e778f5b3cb685671bf7fc31b41b4ca300bffe30df9f8e"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "‘Unprecedented Results’: AMD Packs a Year of Chip Progress Into 5 Months Using OpenAI, Greg Brockman Says",
+      "url": "https://finnhub.io/api/news?id=99c435e0e72959dcd8754336e4ed510ca0814bc4b305bdfde85f7424689811d5"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm CEO Rene Haas Reportedly Approached By Recruitment Agency Hired By Nvidia Board",
+      "url": "https://finnhub.io/api/news?id=cd18c7740bcf5be9cfbab0a716bf97527445178e5eed5560676f7fa96a2759e8"
+    },
+    {
+      "stock": "HON",
+      "headline": "Dow Jones Gainers and Losers: Top Movers in Nov. 18, 2026 US Session",
+      "url": "https://finnhub.io/api/news?id=96fd5e32831eafb5792d0dc056ef2e93f5e80c0793dbfc7a95b8dcbb9a92f466"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ: Crashing On Dilution Pain",
+      "url": "https://finnhub.io/api/news?id=0c7e9da14ccc8ea3c044831ec3fa65dc73d7e2486c26536f0cf7588df809713a"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Lyft Sees Strong Start to Quarter as Rider Incentives Pay Off, but CEO Urges Caution",
+      "url": "https://finnhub.io/api/news?id=6ba486b0fad372e35cb4cae5b04d958aa6b617aff6515fcc94e655fad7f2ac33"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Nvidia, Take-Two, Palo Alto, Applied Optoelectronics, TJX, and More Stocks That Explain Today’s Market",
+      "url": "https://finnhub.io/api/news?id=abbb2af4c98cf160d1a15924ca36aebc0b5fc9516bdf9b11684e79231fed40f6"
+    },
+    {
+      "stock": "U",
+      "headline": "AppLovin: AXON Upgrades Reignite Growth, But Competitive Risks Remain",
+      "url": "https://finnhub.io/api/news?id=44aaa195aa4647a43a15c4f0a852851d29ec67c02a6d7d1186b105d08b068750"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian Down 34%: What Would Its CEO Say?",
+      "url": "https://finnhub.io/api/news?id=8d5f037a4bd68b3efb76912befd1db7a7e88bad25ee88fdc00889ce57eb9d894"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Disney Rises 5% as 10 Analysts Raise Targets on Earnings Beat and $3 Billion Savings Plan",
+      "url": "https://finnhub.io/api/news?id=0e600e7fa9087394475a8852071e09553ab1e97f946d777df206e7df270125d7"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Is Reddit Stock's Fall A Bargain Or A Warning?",
+      "url": "https://finnhub.io/api/news?id=585980e4b80f6411959478abbae359edb7c5a712024250faf37221c40de7b0e1"
     }
   ]
 }
