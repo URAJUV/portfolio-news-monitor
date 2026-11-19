@@ -75,6 +75,66 @@
       "stock": "RDDT",
       "headline": "Is Reddit Stock's Fall A Bargain Or A Warning?",
       "url": "https://finnhub.io/api/news?id=585980e4b80f6411959478abbae359edb7c5a712024250faf37221c40de7b0e1"
+    },
+    {
+      "stock": "MU",
+      "headline": "Memory supply constraints will be even 'tighter' in 2027: Micron CTO",
+      "url": "https://finnhub.io/api/news?id=19c488dbdf1e1183e387fb8445bd5292ab7c9bd2bc4e232c353092219cf4338b"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Chip Stocks Waver On Anthropic IPO, AI Prospects",
+      "url": "https://finnhub.io/api/news?id=f5afc29cf60f65e42492f235928d1d83302143f1a1ca6d75efb57e6d287d816b"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Elon Musk Wants More Teslas From Shanghai as China Sales Fall",
+      "url": "https://finnhub.io/api/news?id=76e14aa5eb7f3d0754aea260d8e6eb8ed144c8966ea8cb79125849529184a9d2"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Nvidia reportedly approaches Arm CEO Rene Haas in search for Jensen Huang successor",
+      "url": "https://finnhub.io/api/news?id=7bc5c81336a35355664487f753f499ed94a6bf5037b428c3185eca0551957fc7"
+    },
+    {
+      "stock": "SONY",
+      "headline": "GTA VI: Why the 13-year wait could be worth $8 billion",
+      "url": "https://finnhub.io/api/news?id=806e921d208493f248b7bf74688fc1d6c9f7fed9e9e00f250f3a43be694b0735"
+    },
+    {
+      "stock": "UBER",
+      "headline": "$100K In Anthropic Stock: Buy Now Or Wait?",
+      "url": "https://finnhub.io/api/news?id=2973eced62c2247f92bc7999d58401a4c9457239fbea02cec302f075fbb3910e"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "POET Technologies: Too Cheap To Ignore, Despite The Risks (Rating Upgrade)",
+      "url": "https://finnhub.io/api/news?id=128c58c137f2a4f6b8c8111d299beaa9c9b8c556331863c27c9eb68badfc6531"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Global Job Costing Market Report 2026 | Capitalize on AI and Cloud as Market Hits $4.68 Billion by 2030 at 9.2% CAGR; Microsoft, Oracle, SAP, Intuit, and Autodesk Lead",
+      "url": "https://finnhub.io/api/news?id=0b2744c7e0a421ee3733abc16e4628ad881ca69254b4253644ae57e81c1ba12a"
+    },
+    {
+      "stock": "IBM",
+      "headline": "4 Tech Dividend Stocks Yielding Over 2% That Retirees Can Own for Growth and Income",
+      "url": "https://finnhub.io/api/news?id=0dc51ffb9239cc093b35a0a662aabde40317709b82625651f2f42a58df821bfb"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "IonQ's SkyWater Acquisition Boosts Q3 Revenues and Expands RPO",
+      "url": "https://finnhub.io/api/news?id=f5850ee94a774f3be8e604e7edbf0cc14079d07653202f18805074a428530835"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Anthropic Is Leasing Its Own Data Centers to Cut Its Reliance on Amazon and Google. Here’s Who Wires, Cools, and Powers Them.",
+      "url": "https://finnhub.io/api/news?id=fe72d18a56a70600c91c950646d6989b66c3258329d5099102fdf64d4b7759c6"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Is GitLab Stock Worth The Wait?",
+      "url": "https://finnhub.io/api/news?id=061131a9ad8913efefaac416fe8169c3ba08d8b2c0d03b0c0c379065e3b0f5bb"
     }
   ]
 }
