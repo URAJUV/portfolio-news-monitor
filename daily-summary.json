@@ -35,6 +35,26 @@
       "stock": "TEAM",
       "headline": "Atlassian’s CEO Puts $8 Million Into the Stock While Other Executives Sell. Here’s What That Tells Investors",
       "url": "https://finnhub.io/api/news?id=8451101e2bf56026ffa074525277ab6ec0b70e332d95a6b68d8b21d2c362354e"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Cracks in the \"AI\" Cap-Ex Boom Have Emerged",
+      "url": "https://finnhub.io/api/news?id=628cfec3cf9ce5b6d5b9083f93593770fd8af420e67f96c5936a6bbe3fd1e3eb"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Stocks Jump 10.78% After $2 Billion Buyback Authorization",
+      "url": "https://finnhub.io/api/news?id=653d18ca59089f29a02888691923e4c1c0bc044683bc9604b0b4e7b37fba5aef"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys (SNPS) Stock May Be 17% Overvalued As Guidance Improves",
+      "url": "https://finnhub.io/api/news?id=6f92fe11d8f8d2d300a61372f25837a45265e066bf94acd86e5e89c31bb2b1d4"
+    },
+    {
+      "stock": "ARM",
+      "headline": "At AI Summit, Industry Titans Wave Off Market Woes—and Defend Jensen Huang",
+      "url": "https://finnhub.io/api/news?id=e825bf6bbc69998e51749805a83f0e52db1eb913e548582fe18fe01aad4d0ee1"
     }
   ]
 }
