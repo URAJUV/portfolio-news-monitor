@@ -55,6 +55,21 @@
       "stock": "ARM",
       "headline": "At AI Summit, Industry Titans Wave Off Market Woes—and Defend Jensen Huang",
       "url": "https://finnhub.io/api/news?id=e825bf6bbc69998e51749805a83f0e52db1eb913e548582fe18fe01aad4d0ee1"
+    },
+    {
+      "stock": "TSM",
+      "headline": "16 ETFs Add to Taiwan Semiconductor (TSM) on Wednesday",
+      "url": "https://finnhub.io/api/news?id=0a30f7b88b5365860d7d69fd52e30ada426fddfe535099a7eba03e802a726f02"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Simulation as a Service Market Report 2026: Global Size, Trends, and Forecast to 2030 | Capitalize on AI and Digital Twins with Siemens, Dassault Systèmes, Synopsys, Autodesk",
+      "url": "https://finnhub.io/api/news?id=452531f2a16822ea320427dda561ba213e4fd5288dd83635c01f015095830601"
+    },
+    {
+      "stock": "IBM",
+      "headline": "Why Is IBM (IBM) Down 11.2% Since Last Earnings Report?",
+      "url": "https://finnhub.io/api/news?id=87a33261222b4763f0433d79fd6db67d071b163a448f0c13d1b408a5c3c785de"
     }
   ]
 }
