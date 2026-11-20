@@ -1,140 +1,40 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "items": [
     {
       "stock": "TSM",
-      "headline": "Anthropic to debut amid security worries and SpaceX to finance GPU rentals",
-      "url": "https://finnhub.io/api/news?id=93189af6191db226b6350801128365d7e08b551b74c4fa3186dda307e5b64510"
+      "headline": "TSMC halts advanced chip orders from Chinese designers in Taiwan",
+      "url": "https://finnhub.io/api/news?id=7d6149caf42466a536399958f230b0a8b09ff6159fbf8ff707c35782ffa5a587"
     },
     {
-      "stock": "CRWD",
-      "headline": "S&P 500 Postmarket Gainers: PANW, CRWD and OKTA Extend After-Hours Gains",
-      "url": "https://finnhub.io/api/news?id=1d6bf1fd640b7c27cd5a128e9d18bb88f72692d1b6629e6f7c9022002285f253"
+      "stock": "SHLS",
+      "headline": "5 Stocks Analysts Downgraded On Tuesday",
+      "url": "https://finnhub.io/api/news?id=b3f83350724ff52d87852f251790c3ab4a7f048e52b8d3a915646b69ccdaf976"
     },
     {
-      "stock": "HON",
-      "headline": "Did AI Building Launches Just Shift Honeywell's (HON) Investment Narrative?",
-      "url": "https://finnhub.io/api/news?id=601d7d58b34d23df347dce1334dc445dfeaf6af48c6e4be7bbb7232e3011d62b"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Dan Ives’ Top 10 AI Revolution Stock Picks: Inside The IVES ETF",
-      "url": "https://finnhub.io/api/news?id=b1e7c5215050a4a108162b041b2bbc213ddaa0db7fb25672050188fd1e852572"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Josh Brown Says Netflix Trades at 16 Times Next Year’s Earnings After a 50% Drop. Is It a Buy?",
-      "url": "https://finnhub.io/api/news?id=145aaf881d0a1017339e778f5b3cb685671bf7fc31b41b4ca300bffe30df9f8e"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "‘Unprecedented Results’: AMD Packs a Year of Chip Progress Into 5 Months Using OpenAI, Greg Brockman Says",
-      "url": "https://finnhub.io/api/news?id=99c435e0e72959dcd8754336e4ed510ca0814bc4b305bdfde85f7424689811d5"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm CEO Rene Haas Reportedly Approached By Recruitment Agency Hired By Nvidia Board",
-      "url": "https://finnhub.io/api/news?id=cd18c7740bcf5be9cfbab0a716bf97527445178e5eed5560676f7fa96a2759e8"
-    },
-    {
-      "stock": "HON",
-      "headline": "Dow Jones Gainers and Losers: Top Movers in Nov. 18, 2026 US Session",
-      "url": "https://finnhub.io/api/news?id=96fd5e32831eafb5792d0dc056ef2e93f5e80c0793dbfc7a95b8dcbb9a92f466"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ: Crashing On Dilution Pain",
-      "url": "https://finnhub.io/api/news?id=0c7e9da14ccc8ea3c044831ec3fa65dc73d7e2486c26536f0cf7588df809713a"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Lyft Sees Strong Start to Quarter as Rider Incentives Pay Off, but CEO Urges Caution",
-      "url": "https://finnhub.io/api/news?id=6ba486b0fad372e35cb4cae5b04d958aa6b617aff6515fcc94e655fad7f2ac33"
+      "stock": "HALO",
+      "headline": "Sector Update: Healthcare Stocks Softer in Afternoon Trading",
+      "url": "https://finnhub.io/api/news?id=9b3285df69666ca3b7acf443ee1b4322e9e8d7c4c1e4119793c0ca5ee1b52fa1"
     },
     {
       "stock": "AAOI",
-      "headline": "Nvidia, Take-Two, Palo Alto, Applied Optoelectronics, TJX, and More Stocks That Explain Today’s Market",
-      "url": "https://finnhub.io/api/news?id=abbb2af4c98cf160d1a15924ca36aebc0b5fc9516bdf9b11684e79231fed40f6"
-    },
-    {
-      "stock": "U",
-      "headline": "AppLovin: AXON Upgrades Reignite Growth, But Competitive Risks Remain",
-      "url": "https://finnhub.io/api/news?id=44aaa195aa4647a43a15c4f0a852851d29ec67c02a6d7d1186b105d08b068750"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian Down 34%: What Would Its CEO Say?",
-      "url": "https://finnhub.io/api/news?id=8d5f037a4bd68b3efb76912befd1db7a7e88bad25ee88fdc00889ce57eb9d894"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Disney Rises 5% as 10 Analysts Raise Targets on Earnings Beat and $3 Billion Savings Plan",
-      "url": "https://finnhub.io/api/news?id=0e600e7fa9087394475a8852071e09553ab1e97f946d777df206e7df270125d7"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Is Reddit Stock's Fall A Bargain Or A Warning?",
-      "url": "https://finnhub.io/api/news?id=585980e4b80f6411959478abbae359edb7c5a712024250faf37221c40de7b0e1"
-    },
-    {
-      "stock": "MU",
-      "headline": "Memory supply constraints will be even 'tighter' in 2027: Micron CTO",
-      "url": "https://finnhub.io/api/news?id=19c488dbdf1e1183e387fb8445bd5292ab7c9bd2bc4e232c353092219cf4338b"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Chip Stocks Waver On Anthropic IPO, AI Prospects",
-      "url": "https://finnhub.io/api/news?id=f5afc29cf60f65e42492f235928d1d83302143f1a1ca6d75efb57e6d287d816b"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Elon Musk Wants More Teslas From Shanghai as China Sales Fall",
-      "url": "https://finnhub.io/api/news?id=76e14aa5eb7f3d0754aea260d8e6eb8ed144c8966ea8cb79125849529184a9d2"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Nvidia reportedly approaches Arm CEO Rene Haas in search for Jensen Huang successor",
-      "url": "https://finnhub.io/api/news?id=7bc5c81336a35355664487f753f499ed94a6bf5037b428c3185eca0551957fc7"
-    },
-    {
-      "stock": "SONY",
-      "headline": "GTA VI: Why the 13-year wait could be worth $8 billion",
-      "url": "https://finnhub.io/api/news?id=806e921d208493f248b7bf74688fc1d6c9f7fed9e9e00f250f3a43be694b0735"
-    },
-    {
-      "stock": "UBER",
-      "headline": "$100K In Anthropic Stock: Buy Now Or Wait?",
-      "url": "https://finnhub.io/api/news?id=2973eced62c2247f92bc7999d58401a4c9457239fbea02cec302f075fbb3910e"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "POET Technologies: Too Cheap To Ignore, Despite The Risks (Rating Upgrade)",
-      "url": "https://finnhub.io/api/news?id=128c58c137f2a4f6b8c8111d299beaa9c9b8c556331863c27c9eb68badfc6531"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Global Job Costing Market Report 2026 | Capitalize on AI and Cloud as Market Hits $4.68 Billion by 2030 at 9.2% CAGR; Microsoft, Oracle, SAP, Intuit, and Autodesk Lead",
-      "url": "https://finnhub.io/api/news?id=0b2744c7e0a421ee3733abc16e4628ad881ca69254b4253644ae57e81c1ba12a"
+      "headline": "Coherent Soars 6% on New $2 Billion Buyback as Anthropic IPO Revives AI Trade",
+      "url": "https://finnhub.io/api/news?id=d5c65e399a718374979f4ca1c407280e6ac2ccaef1210212a5bc097c11b15156"
     },
     {
       "stock": "IBM",
-      "headline": "4 Tech Dividend Stocks Yielding Over 2% That Retirees Can Own for Growth and Income",
-      "url": "https://finnhub.io/api/news?id=0dc51ffb9239cc093b35a0a662aabde40317709b82625651f2f42a58df821bfb"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "IonQ's SkyWater Acquisition Boosts Q3 Revenues and Expands RPO",
-      "url": "https://finnhub.io/api/news?id=f5850ee94a774f3be8e604e7edbf0cc14079d07653202f18805074a428530835"
+      "headline": "IBM (IBM) Stock May Be 27% Below Fair Value On Quantum Platform News",
+      "url": "https://finnhub.io/api/news?id=8a9be27bad3b2776432131fc7b3c08d1f9748bbaa6a5f7c51d1e1bb67ef9395e"
     },
     {
       "stock": "GOOGL",
-      "headline": "Anthropic Is Leasing Its Own Data Centers to Cut Its Reliance on Amazon and Google. Here’s Who Wires, Cools, and Powers Them.",
-      "url": "https://finnhub.io/api/news?id=fe72d18a56a70600c91c950646d6989b66c3258329d5099102fdf64d4b7759c6"
+      "headline": "Is Your VOO Fund Secretly An AI Bet?",
+      "url": "https://finnhub.io/api/news?id=a84cb0af38b4db0b1a93b068ca3f457cf4b052302ff50dd4a9e7bb392c639711"
     },
     {
       "stock": "TEAM",
-      "headline": "Is GitLab Stock Worth The Wait?",
-      "url": "https://finnhub.io/api/news?id=061131a9ad8913efefaac416fe8169c3ba08d8b2c0d03b0c0c379065e3b0f5bb"
+      "headline": "Atlassian’s CEO Puts $8 Million Into the Stock While Other Executives Sell. Here’s What That Tells Investors",
+      "url": "https://finnhub.io/api/news?id=8451101e2bf56026ffa074525277ab6ec0b70e332d95a6b68d8b21d2c362354e"
     }
   ]
 }
