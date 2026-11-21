@@ -1,75 +1,60 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "items": [
     {
       "stock": "TSM",
-      "headline": "TSMC halts advanced chip orders from Chinese designers in Taiwan",
-      "url": "https://finnhub.io/api/news?id=7d6149caf42466a536399958f230b0a8b09ff6159fbf8ff707c35782ffa5a587"
+      "headline": "Top 5 Stocks to Buy According to Billionaire George Soros",
+      "url": "https://finnhub.io/api/news?id=4a077acbd47dd06441eee14ead442dee8323d5f1ccca353898d9a45162a20695"
     },
     {
-      "stock": "SHLS",
-      "headline": "5 Stocks Analysts Downgraded On Tuesday",
-      "url": "https://finnhub.io/api/news?id=b3f83350724ff52d87852f251790c3ab4a7f048e52b8d3a915646b69ccdaf976"
+      "stock": "CRWD",
+      "headline": "CrowdStrike, Zscaler Merger Would Create Cybersecurity Giant",
+      "url": "https://finnhub.io/api/news?id=8db09f48a9a0d3285ad7db8b1609f2f3e7a3f02e77d91e03993324f1d8c4e7a6"
     },
     {
-      "stock": "HALO",
-      "headline": "Sector Update: Healthcare Stocks Softer in Afternoon Trading",
-      "url": "https://finnhub.io/api/news?id=9b3285df69666ca3b7acf443ee1b4322e9e8d7c4c1e4119793c0ca5ee1b52fa1"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Coherent Soars 6% on New $2 Billion Buyback as Anthropic IPO Revives AI Trade",
-      "url": "https://finnhub.io/api/news?id=d5c65e399a718374979f4ca1c407280e6ac2ccaef1210212a5bc097c11b15156"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM (IBM) Stock May Be 27% Below Fair Value On Quantum Platform News",
-      "url": "https://finnhub.io/api/news?id=8a9be27bad3b2776432131fc7b3c08d1f9748bbaa6a5f7c51d1e1bb67ef9395e"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Is Your VOO Fund Secretly An AI Bet?",
-      "url": "https://finnhub.io/api/news?id=a84cb0af38b4db0b1a93b068ca3f457cf4b052302ff50dd4a9e7bb392c639711"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian’s CEO Puts $8 Million Into the Stock While Other Executives Sell. Here’s What That Tells Investors",
-      "url": "https://finnhub.io/api/news?id=8451101e2bf56026ffa074525277ab6ec0b70e332d95a6b68d8b21d2c362354e"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Cracks in the \"AI\" Cap-Ex Boom Have Emerged",
-      "url": "https://finnhub.io/api/news?id=628cfec3cf9ce5b6d5b9083f93593770fd8af420e67f96c5936a6bbe3fd1e3eb"
-    },
-    {
-      "stock": "COHR",
-      "headline": "Coherent Stocks Jump 10.78% After $2 Billion Buyback Authorization",
-      "url": "https://finnhub.io/api/news?id=653d18ca59089f29a02888691923e4c1c0bc044683bc9604b0b4e7b37fba5aef"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Synopsys (SNPS) Stock May Be 17% Overvalued As Guidance Improves",
-      "url": "https://finnhub.io/api/news?id=6f92fe11d8f8d2d300a61372f25837a45265e066bf94acd86e5e89c31bb2b1d4"
+      "stock": "AMZN",
+      "headline": "Generac Stock In Focus After Earnings Beat And Amazon Supply Deal",
+      "url": "https://finnhub.io/api/news?id=5850d7247851659fe14bd0e69ea670d8e74eb776ce92ef4f51a0f0a84253dc25"
     },
     {
       "stock": "ARM",
-      "headline": "At AI Summit, Industry Titans Wave Off Market Woes—and Defend Jensen Huang",
-      "url": "https://finnhub.io/api/news?id=e825bf6bbc69998e51749805a83f0e52db1eb913e548582fe18fe01aad4d0ee1"
+      "headline": "Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History",
+      "url": "https://finnhub.io/api/news?id=f42b6b0936e5b436cf568eaee0a53500e3ccf3c4459b53880f1ae1ebca984852"
     },
     {
-      "stock": "TSM",
-      "headline": "16 ETFs Add to Taiwan Semiconductor (TSM) on Wednesday",
-      "url": "https://finnhub.io/api/news?id=0a30f7b88b5365860d7d69fd52e30ada426fddfe535099a7eba03e802a726f02"
+      "stock": "HALO",
+      "headline": "HC Wainwright & Co. Reiterates Buy on Halozyme Therapeutics, Maintains $130 Price Target",
+      "url": "https://finnhub.io/api/news?id=864d0083e0de5a6787ba1967f4651a98cdbbecc63a55409d2cd840e3db702a36"
     },
     {
-      "stock": "SNPS",
-      "headline": "Simulation as a Service Market Report 2026: Global Size, Trends, and Forecast to 2030 | Capitalize on AI and Digital Twins with Siemens, Dassault Systèmes, Synopsys, Autodesk",
-      "url": "https://finnhub.io/api/news?id=452531f2a16822ea320427dda561ba213e4fd5288dd83635c01f015095830601"
+      "stock": "IONQ",
+      "headline": "Boxlight shares are trading higher after the company announced it regained Nasdaq compliance.",
+      "url": "https://finnhub.io/api/news?id=1f199b8ddee39bcd66673ffa709bc60e4fd539df9a3bf8bf0606eeec2a6cf63f"
     },
     {
-      "stock": "IBM",
-      "headline": "Why Is IBM (IBM) Down 11.2% Since Last Earnings Report?",
-      "url": "https://finnhub.io/api/news?id=87a33261222b4763f0433d79fd6db67d071b163a448f0c13d1b408a5c3c785de"
+      "stock": "DE",
+      "headline": "Earnings Calendar and Analysis for This Week (June 8-12)",
+      "url": "https://finnhub.io/api/news?id=216d128b83f71d76e6bce40b8b46e11723d78dea2fbe2da4a9c9e36d4bf5b412"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Autodesk Set to Report Q3 Earnings: What's in Store for the Stock?",
+      "url": "https://finnhub.io/api/news?id=ebe5c52cb1d8e09e17cc6d44de126f0c6b567716e9e687d61f8e66b4dfe4c432"
+    },
+    {
+      "stock": "U",
+      "headline": "SAIHEAT Secured Patent For \"Waste Heat Recovery System And Method\".",
+      "url": "https://finnhub.io/api/news?id=68e86b7789f68115f5d3ecc121c4a78745cb7148d28591d41669a7f6d5ca56ec"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Has AI's honeymoon ended on Wall Street?",
+      "url": "https://finnhub.io/api/news?id=756f37927d322199d5e8977084eeb5e39a3ad9648b693b5264e2ab73fc0323fc"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Outside of Social Security, my parents have absolutely nothing for retirement and I’ll be stuck financing their retirement – is this normal?",
+      "url": "https://finnhub.io/api/news?id=22a2fd84b1c637322bae4eaf3c431ece5c961c7748943044f776a5d9e8cc9c00"
     }
   ]
 }
