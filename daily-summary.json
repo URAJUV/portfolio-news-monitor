@@ -105,6 +105,51 @@
       "stock": "TEAM",
       "headline": "Atlassian (TEAM) Stock May Trade Below Fair Value Following CEO Share Purchase",
       "url": "https://finnhub.io/api/news?id=2d51f4ea618e1877c922bc58569ee93a082616338a16d58f2b6e3ca7708e37e5"
+    },
+    {
+      "stock": "COHR",
+      "headline": "S&P 500 After-Hours Gainers: DDOG, HBAN Lead Postmarket Session",
+      "url": "https://finnhub.io/api/news?id=f31d983d4a478498cc13b273ad7c4c34ac24a575287b228e6a527a3580ed5444"
+    },
+    {
+      "stock": "SONY",
+      "headline": "Grand Theft Auto VI Arrives: Why Take-Two Is a Waiting Game",
+      "url": "https://finnhub.io/api/news?id=6e710e7955d5350f61f3ec2e2607adb733fccc70ed6c9b0f6f99ccbf63e18694"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "3 AI Infrastructure Stocks With Up To 68% Revenue Growth",
+      "url": "https://finnhub.io/api/news?id=07388f6b892b3dc6f8d384ce25319df199dca1337ae4b45595c22fc729fcdf49"
+    },
+    {
+      "stock": "DE",
+      "headline": "3 Machinery Dividend Stocks to Buy in December After a Brutal Selloff",
+      "url": "https://finnhub.io/api/news?id=54cb6f30bea71183470d8ddad656b9bfb54dd0fd486c5665857c12ab5e8db86c"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Simulation as a Service Market Report 2026: Global Size, Trends, and Forecast to 2030 | Capitalize on AI and Digital Twins with Siemens, Dassault Systèmes, Synopsys, Autodesk",
+      "url": "https://finnhub.io/api/news?id=452531f2a16822ea320427dda561ba213e4fd5288dd83635c01f015095830601"
+    },
+    {
+      "stock": "IBM",
+      "headline": "D-Wave CEO: No Quantum Rival Has Produced “Even One Logical Qubit”",
+      "url": "https://finnhub.io/api/news?id=bb338b9eb4650276ba5f7efb023fcf9d1433897307567cd747455ad2905594a4"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "D-Wave CEO: No Quantum Rival Has Produced “Even One Logical Qubit”",
+      "url": "https://finnhub.io/api/news?id=bb338b9eb4650276ba5f7efb023fcf9d1433897307567cd747455ad2905594a4"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "AI May Have Just Broken Meta’s Climate Promise",
+      "url": "https://finnhub.io/api/news?id=c2d9d19030f7fef7c082669e93da88e5832f37c2c157a7219a30203db2a21b8c"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Cathie Wood Has a Warning for Reddit and Shopify. AI Agents Could Make Their Apps Obsolete",
+      "url": "https://finnhub.io/api/news?id=eada773e5501ca9559ceb0945dad65d3768a7f2060881d6282eec700ec0756d3"
     }
   ]
 }
