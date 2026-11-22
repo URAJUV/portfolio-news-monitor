@@ -80,6 +80,31 @@
       "stock": "NFLX",
       "headline": "Netflix Falls Below $60. Bill Ackman Explains Why That’s an Incredible Investment Opportunity.",
       "url": "https://finnhub.io/api/news?id=ca2db37414d1440eb3178b7d21d1975cb1804c53cdfd3615771c815d383dcb86"
+    },
+    {
+      "stock": "TSM",
+      "headline": "OpenAI’s Greg Brockman: AI Delivered “Roughly an Additional Year of Progress” on AMD’s Chip in Under 5 Months",
+      "url": "https://finnhub.io/api/news?id=4d573c7c490e4fcde0bee7492b13b718edbb2a3bb65f35a8a5987a05f1dc203b"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Arm Sinks 20% in a Week as Chips Slide and Nvidia’s Headhunters Approach CEO Rene Haas. Time to Buy?",
+      "url": "https://finnhub.io/api/news?id=c80e7d4c8035531e0fae3980a9f3dac4f55f061be041b52615dc422a4db0bb9a"
+    },
+    {
+      "stock": "DE",
+      "headline": "Earnings Volatility Watch: Dell And 9 Other Stocks Are Priced For Swings Of 9% Or More",
+      "url": "https://finnhub.io/api/news?id=2726c0775dc4e7d0a362b4843e6283d6002c3bd2e397d2d16aceacd6af7dd5ac"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Earnings Volatility Watch: Dell And 9 Other Stocks Are Priced For Swings Of 9% Or More",
+      "url": "https://finnhub.io/api/news?id=2726c0775dc4e7d0a362b4843e6283d6002c3bd2e397d2d16aceacd6af7dd5ac"
+    },
+    {
+      "stock": "U",
+      "headline": "3 Top AI Stocks With At Least 14% ROE",
+      "url": "https://finnhub.io/api/news?id=3a76dcbc992d10a1478851b383d8bcdb29c29b0c4f3c815de62dc75385db058c"
     }
   ]
 }
