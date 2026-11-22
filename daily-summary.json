@@ -40,6 +40,46 @@
       "stock": "QBTS",
       "headline": "D-WAVE QUANTUM (QBTS) Upgraded to Buy: Here's Why",
       "url": "https://finnhub.io/api/news?id=398e088475f52f1d808b32f1ec06fb30d1b263a15abaa434851870099ecfd5d0"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival ‘More Formidable’ Against Palo Alto Networks, Says Jefferies",
+      "url": "https://finnhub.io/api/news?id=8ab105f87cd33d9a1f0a863861d32940736ce288d0368bab3dc36062a02373cf"
+    },
+    {
+      "stock": "COHR",
+      "headline": "S&P 500 Session Movers: Fair Isaac Leads Gainers, Coherent Leads Decliners",
+      "url": "https://finnhub.io/api/news?id=c4289eca8a84b691fe9ea866c88c8d631304a3bc02fda9bba9334321d3204432"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Tesla Just Started Selling Cybercabs, Here's What It Means for a SpaceX and Tesla Merger .",
+      "url": "https://finnhub.io/api/news?id=0f9ebea23be65e9205b16a37db9cfa0fd6692572a71eb5d8ccdd7aefb9a663c1"
+    },
+    {
+      "stock": "HALO",
+      "headline": "JP Morgan Maintains Neutral on Halozyme Therapeutics, Raises Price Target to $81",
+      "url": "https://finnhub.io/api/news?id=8432530fa9ba05afd7c78f403ceb50040a24b36a812ae0479ff2b213991e918d"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "IonQ (IONQ) Stock Looks Overvalued As Its 83% 3 Year Gain Continues",
+      "url": "https://finnhub.io/api/news?id=5415c2e99fa07c18d2e6dd077be5ac7f37ccafcef1f97cd0ac0b878b07480ab0"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Sheryl Sandberg steps in to rescue Britain’s $35bn AI hope",
+      "url": "https://finnhub.io/api/news?id=8a07c0a82ab270efac4f98db917ed944703ae3ad033a5361b876645535e9357d"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off?",
+      "url": "https://finnhub.io/api/news?id=0ea98f01fac40607d329fb52873ed2f8519c8a3f99000c927c9284f21c3d0dd8"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Netflix Falls Below $60. Bill Ackman Explains Why That’s an Incredible Investment Opportunity.",
+      "url": "https://finnhub.io/api/news?id=ca2db37414d1440eb3178b7d21d1975cb1804c53cdfd3615771c815d383dcb86"
     }
   ]
 }
