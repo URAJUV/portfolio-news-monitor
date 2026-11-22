@@ -1,155 +1,45 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "Top 5 Stocks to Buy According to Billionaire George Soros",
-      "url": "https://finnhub.io/api/news?id=4a077acbd47dd06441eee14ead442dee8323d5f1ccca353898d9a45162a20695"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike, Zscaler Merger Would Create Cybersecurity Giant",
-      "url": "https://finnhub.io/api/news?id=8db09f48a9a0d3285ad7db8b1609f2f3e7a3f02e77d91e03993324f1d8c4e7a6"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Generac Stock In Focus After Earnings Beat And Amazon Supply Deal",
-      "url": "https://finnhub.io/api/news?id=5850d7247851659fe14bd0e69ea670d8e74eb776ce92ef4f51a0f0a84253dc25"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History",
-      "url": "https://finnhub.io/api/news?id=f42b6b0936e5b436cf568eaee0a53500e3ccf3c4459b53880f1ae1ebca984852"
-    },
-    {
-      "stock": "HALO",
-      "headline": "HC Wainwright & Co. Reiterates Buy on Halozyme Therapeutics, Maintains $130 Price Target",
-      "url": "https://finnhub.io/api/news?id=864d0083e0de5a6787ba1967f4651a98cdbbecc63a55409d2cd840e3db702a36"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Boxlight shares are trading higher after the company announced it regained Nasdaq compliance.",
-      "url": "https://finnhub.io/api/news?id=1f199b8ddee39bcd66673ffa709bc60e4fd539df9a3bf8bf0606eeec2a6cf63f"
-    },
-    {
-      "stock": "DE",
-      "headline": "Earnings Calendar and Analysis for This Week (June 8-12)",
-      "url": "https://finnhub.io/api/news?id=216d128b83f71d76e6bce40b8b46e11723d78dea2fbe2da4a9c9e36d4bf5b412"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Autodesk Set to Report Q3 Earnings: What's in Store for the Stock?",
-      "url": "https://finnhub.io/api/news?id=ebe5c52cb1d8e09e17cc6d44de126f0c6b567716e9e687d61f8e66b4dfe4c432"
-    },
-    {
-      "stock": "U",
-      "headline": "SAIHEAT Secured Patent For \"Waste Heat Recovery System And Method\".",
-      "url": "https://finnhub.io/api/news?id=68e86b7789f68115f5d3ecc121c4a78745cb7148d28591d41669a7f6d5ca56ec"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Has AI's honeymoon ended on Wall Street?",
-      "url": "https://finnhub.io/api/news?id=756f37927d322199d5e8977084eeb5e39a3ad9648b693b5264e2ab73fc0323fc"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Outside of Social Security, my parents have absolutely nothing for retirement and I’ll be stuck financing their retirement – is this normal?",
-      "url": "https://finnhub.io/api/news?id=22a2fd84b1c637322bae4eaf3c431ece5c961c7748943044f776a5d9e8cc9c00"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Fear Erupts, AI Stocks Tank, But So Do Gold, Silver, Cryptos, Nearly Everything But Treasuries",
-      "url": "https://finnhub.io/api/news?id=8f5c5b888012ab587748e27937a8caa16cb0e8522adfca808f1ccd55a205a2e1"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "Zscaler (ZS) Draws Takeover Interest In Reported Acquisition Talks",
-      "url": "https://finnhub.io/api/news?id=dd05bc05957586193df0dae9d6bb2727dda2a0136e692ab5cf2c2dc990efc62e"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "South Korea’s Lee urges faster AI investment during $5.2bn data center visit",
-      "url": "https://finnhub.io/api/news?id=83df95e390113b7d469c2637110ba77801d4fa5a457494449cec0d9b99de2e8e"
+      "stock": "MU",
+      "headline": "Renaissance Technologies Grew Its SanDisk Stake More Than 55-Fold to $481 Million",
+      "url": "https://finnhub.io/api/news?id=add8b9846ae8b1f142e2e8e1fea2288abd9a9853b95a8579782cb6dc2f16ee7a"
     },
     {
       "stock": "COHR",
-      "headline": "Fabrinet Stock Gets An AI Infrastructure Boost",
-      "url": "https://finnhub.io/api/news?id=8c4e1e24cccd95bef25bae3d9fe87f914b7700013d70ddc8933d62c4cf0dd708"
+      "headline": "S&P 500 Top Movers: Today's Biggest Gainers and Losers",
+      "url": "https://finnhub.io/api/news?id=d09676729c70a496256562b1040b34ec4f22f10b26beb684f564aa4491d03648"
     },
     {
       "stock": "SNPS",
-      "headline": "Micron’s President Says AI Could Let It Do “Twice as Many Designs” With the Same Number of People",
-      "url": "https://finnhub.io/api/news?id=78ace47a68a407558d0fd65c0fa4c94b2144792f7828e53c79f4ec50a7ac3c7a"
+      "headline": "Global Simulation Table Market Report 2026 | Capitalize on 9.2% CAGR to 2030 as Siemens, Schneider Electric, Rockwell Automation and Synopsys Accelerate AI and Cloud Platforms",
+      "url": "https://finnhub.io/api/news?id=4cee7e4ef1c182f746cb8819ada0939bac61b466b7da100b52a27df8f71ee053"
     },
     {
-      "stock": "TSLA",
-      "headline": "MKBHD Says He Will Honor Tesla Cybercab’s 2024 Bet, Elon Musk Says ‘Fair Enough’: ‘I Will Accept Delivery…’",
-      "url": "https://finnhub.io/api/news?id=9c842855e37c26dc6429c09d1563d5f5d88350111c6fa8e239189f99a6a9143e"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Billionaire Bill Ackman’s Top 5 Stocks After Selling Stakes to Open a Brand-New Position",
-      "url": "https://finnhub.io/api/news?id=e5c4ea0223297e04921da09ba89a491acd565a7c6be166e6e6674a3081cb461c"
-    },
-    {
-      "stock": "DE",
-      "headline": "Deere (DE) Nears Earnings, Is It A Bargain Or Fully Priced?",
-      "url": "https://finnhub.io/api/news?id=a1b9d6fb55015bc01ce3ea17bd8e40874ceac12dfa3eceeb9636ff49ca98509b"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "3 Data Center Power Stocks Down More Than a Third From Their Records to Buy Now and Hold Through 2030",
-      "url": "https://finnhub.io/api/news?id=c8bc2de7332673aa40829086c54e6f4e23af001ee27f4e9d6ff14959c2943cf6"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian (TEAM) Stock May Trade Below Fair Value Following CEO Share Purchase",
-      "url": "https://finnhub.io/api/news?id=2d51f4ea618e1877c922bc58569ee93a082616338a16d58f2b6e3ca7708e37e5"
-    },
-    {
-      "stock": "COHR",
-      "headline": "S&P 500 After-Hours Gainers: DDOG, HBAN Lead Postmarket Session",
-      "url": "https://finnhub.io/api/news?id=f31d983d4a478498cc13b273ad7c4c34ac24a575287b228e6a527a3580ed5444"
-    },
-    {
-      "stock": "SONY",
-      "headline": "Grand Theft Auto VI Arrives: Why Take-Two Is a Waiting Game",
-      "url": "https://finnhub.io/api/news?id=6e710e7955d5350f61f3ec2e2607adb733fccc70ed6c9b0f6f99ccbf63e18694"
+      "stock": "HON",
+      "headline": "Global Push-to-Talk Rugged Device Market Report 2026-2030 | Capitalize on 5G and Wearables as Motorola Solutions, Samsung Electronics, Hytera and Honeywell Target $9.05B",
+      "url": "https://finnhub.io/api/news?id=e52e8dbfe8c1abd5cadfe6da626e1b2af0b67a57fd96404b39f46791e8c87611"
     },
     {
       "stock": "AAOI",
-      "headline": "3 AI Infrastructure Stocks With Up To 68% Revenue Growth",
-      "url": "https://finnhub.io/api/news?id=07388f6b892b3dc6f8d384ce25319df199dca1337ae4b45595c22fc729fcdf49"
-    },
-    {
-      "stock": "DE",
-      "headline": "3 Machinery Dividend Stocks to Buy in December After a Brutal Selloff",
-      "url": "https://finnhub.io/api/news?id=54cb6f30bea71183470d8ddad656b9bfb54dd0fd486c5665857c12ab5e8db86c"
+      "headline": "Nasdaq 100 Tumbles Over 3% Amid Tech Bloodbath, Nvidia Sinks 7% on 7th Straight Weekly Loss: Stock Market Today",
+      "url": "https://finnhub.io/api/news?id=a58aaed7446e6d4c0abf65ef3222b678c4ef20c707e35bbc269fc87440a6a73b"
     },
     {
       "stock": "ADSK",
-      "headline": "Simulation as a Service Market Report 2026: Global Size, Trends, and Forecast to 2030 | Capitalize on AI and Digital Twins with Siemens, Dassault Systèmes, Synopsys, Autodesk",
-      "url": "https://finnhub.io/api/news?id=452531f2a16822ea320427dda561ba213e4fd5288dd83635c01f015095830601"
+      "headline": "Three-Dimensional (3D) Modeling Software for Architecture Global Market Report 2026 | Capitalize on 9.6% CAGR as Autodesk, Hexagon, Trimble and Bentley Scale AI, Cloud and BIM",
+      "url": "https://finnhub.io/api/news?id=e8e42b6e7ea0d029d13f1f5d44f8c7965db0e60cc1421fbb2abe09f8a7c8bfd5"
     },
     {
       "stock": "IBM",
-      "headline": "D-Wave CEO: No Quantum Rival Has Produced “Even One Logical Qubit”",
-      "url": "https://finnhub.io/api/news?id=bb338b9eb4650276ba5f7efb023fcf9d1433897307567cd747455ad2905594a4"
+      "headline": "Is Dell Stock's Steep Fall A Bargain Or A Warning?",
+      "url": "https://finnhub.io/api/news?id=9dc69a9afbf6b1eaa7385ea1d8f7d643fbbefa2fd5795e71110cec536a8a6771"
     },
     {
       "stock": "QBTS",
-      "headline": "D-Wave CEO: No Quantum Rival Has Produced “Even One Logical Qubit”",
-      "url": "https://finnhub.io/api/news?id=bb338b9eb4650276ba5f7efb023fcf9d1433897307567cd747455ad2905594a4"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "AI May Have Just Broken Meta’s Climate Promise",
-      "url": "https://finnhub.io/api/news?id=c2d9d19030f7fef7c082669e93da88e5832f37c2c157a7219a30203db2a21b8c"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Cathie Wood Has a Warning for Reddit and Shopify. AI Agents Could Make Their Apps Obsolete",
-      "url": "https://finnhub.io/api/news?id=eada773e5501ca9559ceb0945dad65d3768a7f2060881d6282eec700ec0756d3"
+      "headline": "D-WAVE QUANTUM (QBTS) Upgraded to Buy: Here's Why",
+      "url": "https://finnhub.io/api/news?id=398e088475f52f1d808b32f1ec06fb30d1b263a15abaa434851870099ecfd5d0"
     }
   ]
 }
