@@ -1,110 +1,25 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "items": [
     {
-      "stock": "MU",
-      "headline": "Renaissance Technologies Grew Its SanDisk Stake More Than 55-Fold to $481 Million",
-      "url": "https://finnhub.io/api/news?id=add8b9846ae8b1f142e2e8e1fea2288abd9a9853b95a8579782cb6dc2f16ee7a"
+      "stock": "TSM",
+      "headline": "Taiwan stocks suffer worst week since 1990 as AI rout drains emerging Asia",
+      "url": "https://finnhub.io/api/news?id=91a47ffe0e74a52429f0ff4a4dcab6ac87c493e7cb480154322cf6d7a9f6e68f"
     },
     {
       "stock": "COHR",
-      "headline": "S&P 500 Top Movers: Today's Biggest Gainers and Losers",
-      "url": "https://finnhub.io/api/news?id=d09676729c70a496256562b1040b34ec4f22f10b26beb684f564aa4491d03648"
+      "headline": "3 AI Hardware Stocks Down More Than 30% From Their Records to Buy Now and Hold Through 2030",
+      "url": "https://finnhub.io/api/news?id=3580885d91050b339cb93bb64b6189bac1db4aa09475eaf1c9dd227cea77faa3"
     },
     {
-      "stock": "SNPS",
-      "headline": "Global Simulation Table Market Report 2026 | Capitalize on 9.2% CAGR to 2030 as Siemens, Schneider Electric, Rockwell Automation and Synopsys Accelerate AI and Cloud Platforms",
-      "url": "https://finnhub.io/api/news?id=4cee7e4ef1c182f746cb8819ada0939bac61b466b7da100b52a27df8f71ee053"
-    },
-    {
-      "stock": "HON",
-      "headline": "Global Push-to-Talk Rugged Device Market Report 2026-2030 | Capitalize on 5G and Wearables as Motorola Solutions, Samsung Electronics, Hytera and Honeywell Target $9.05B",
-      "url": "https://finnhub.io/api/news?id=e52e8dbfe8c1abd5cadfe6da626e1b2af0b67a57fd96404b39f46791e8c87611"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Nasdaq 100 Tumbles Over 3% Amid Tech Bloodbath, Nvidia Sinks 7% on 7th Straight Weekly Loss: Stock Market Today",
-      "url": "https://finnhub.io/api/news?id=a58aaed7446e6d4c0abf65ef3222b678c4ef20c707e35bbc269fc87440a6a73b"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Three-Dimensional (3D) Modeling Software for Architecture Global Market Report 2026 | Capitalize on 9.6% CAGR as Autodesk, Hexagon, Trimble and Bentley Scale AI, Cloud and BIM",
-      "url": "https://finnhub.io/api/news?id=e8e42b6e7ea0d029d13f1f5d44f8c7965db0e60cc1421fbb2abe09f8a7c8bfd5"
-    },
-    {
-      "stock": "IBM",
-      "headline": "Is Dell Stock's Steep Fall A Bargain Or A Warning?",
-      "url": "https://finnhub.io/api/news?id=9dc69a9afbf6b1eaa7385ea1d8f7d643fbbefa2fd5795e71110cec536a8a6771"
-    },
-    {
-      "stock": "QBTS",
-      "headline": "D-WAVE QUANTUM (QBTS) Upgraded to Buy: Here's Why",
-      "url": "https://finnhub.io/api/news?id=398e088475f52f1d808b32f1ec06fb30d1b263a15abaa434851870099ecfd5d0"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival ‘More Formidable’ Against Palo Alto Networks, Says Jefferies",
-      "url": "https://finnhub.io/api/news?id=8ab105f87cd33d9a1f0a863861d32940736ce288d0368bab3dc36062a02373cf"
-    },
-    {
-      "stock": "COHR",
-      "headline": "S&P 500 Session Movers: Fair Isaac Leads Gainers, Coherent Leads Decliners",
-      "url": "https://finnhub.io/api/news?id=c4289eca8a84b691fe9ea866c88c8d631304a3bc02fda9bba9334321d3204432"
+      "stock": "SHLS",
+      "headline": "3 Stocks Riding The AI Data Center Power Buildout",
+      "url": "https://finnhub.io/api/news?id=d8ad9c5b64268e696171dd1317aa1a70df7346e47af09c31ba6c93d76495cd19"
     },
     {
       "stock": "TSLA",
-      "headline": "Tesla Just Started Selling Cybercabs, Here's What It Means for a SpaceX and Tesla Merger .",
-      "url": "https://finnhub.io/api/news?id=0f9ebea23be65e9205b16a37db9cfa0fd6692572a71eb5d8ccdd7aefb9a663c1"
-    },
-    {
-      "stock": "HALO",
-      "headline": "JP Morgan Maintains Neutral on Halozyme Therapeutics, Raises Price Target to $81",
-      "url": "https://finnhub.io/api/news?id=8432530fa9ba05afd7c78f403ceb50040a24b36a812ae0479ff2b213991e918d"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "IonQ (IONQ) Stock Looks Overvalued As Its 83% 3 Year Gain Continues",
-      "url": "https://finnhub.io/api/news?id=5415c2e99fa07c18d2e6dd077be5ac7f37ccafcef1f97cd0ac0b878b07480ab0"
-    },
-    {
-      "stock": "UBER",
-      "headline": "Sheryl Sandberg steps in to rescue Britain’s $35bn AI hope",
-      "url": "https://finnhub.io/api/news?id=8a07c0a82ab270efac4f98db917ed944703ae3ad033a5361b876645535e9357d"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off?",
-      "url": "https://finnhub.io/api/news?id=0ea98f01fac40607d329fb52873ed2f8519c8a3f99000c927c9284f21c3d0dd8"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Netflix Falls Below $60. Bill Ackman Explains Why That’s an Incredible Investment Opportunity.",
-      "url": "https://finnhub.io/api/news?id=ca2db37414d1440eb3178b7d21d1975cb1804c53cdfd3615771c815d383dcb86"
-    },
-    {
-      "stock": "TSM",
-      "headline": "OpenAI’s Greg Brockman: AI Delivered “Roughly an Additional Year of Progress” on AMD’s Chip in Under 5 Months",
-      "url": "https://finnhub.io/api/news?id=4d573c7c490e4fcde0bee7492b13b718edbb2a3bb65f35a8a5987a05f1dc203b"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Arm Sinks 20% in a Week as Chips Slide and Nvidia’s Headhunters Approach CEO Rene Haas. Time to Buy?",
-      "url": "https://finnhub.io/api/news?id=c80e7d4c8035531e0fae3980a9f3dac4f55f061be041b52615dc422a4db0bb9a"
-    },
-    {
-      "stock": "DE",
-      "headline": "Earnings Volatility Watch: Dell And 9 Other Stocks Are Priced For Swings Of 9% Or More",
-      "url": "https://finnhub.io/api/news?id=2726c0775dc4e7d0a362b4843e6283d6002c3bd2e397d2d16aceacd6af7dd5ac"
-    },
-    {
-      "stock": "ADSK",
-      "headline": "Earnings Volatility Watch: Dell And 9 Other Stocks Are Priced For Swings Of 9% Or More",
-      "url": "https://finnhub.io/api/news?id=2726c0775dc4e7d0a362b4843e6283d6002c3bd2e397d2d16aceacd6af7dd5ac"
-    },
-    {
-      "stock": "U",
-      "headline": "3 Top AI Stocks With At Least 14% ROE",
-      "url": "https://finnhub.io/api/news?id=3a76dcbc992d10a1478851b383d8bcdb29c29b0c4f3c815de62dc75385db058c"
+      "headline": "Should You Buy Tesla or SpaceX Stock Before Their Potential Merger?",
+      "url": "https://finnhub.io/api/news?id=131443fcf6e684626624398f0a78f7b06dc9a3c135c971f4f4c65b77d8d4d43f"
     }
   ]
 }
