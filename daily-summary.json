@@ -1,105 +1,45 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "Taiwan stocks suffer worst week since 1990 as AI rout drains emerging Asia",
-      "url": "https://finnhub.io/api/news?id=91a47ffe0e74a52429f0ff4a4dcab6ac87c493e7cb480154322cf6d7a9f6e68f"
-    },
-    {
-      "stock": "COHR",
-      "headline": "3 AI Hardware Stocks Down More Than 30% From Their Records to Buy Now and Hold Through 2030",
-      "url": "https://finnhub.io/api/news?id=3580885d91050b339cb93bb64b6189bac1db4aa09475eaf1c9dd227cea77faa3"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "3 Stocks Riding The AI Data Center Power Buildout",
-      "url": "https://finnhub.io/api/news?id=d8ad9c5b64268e696171dd1317aa1a70df7346e47af09c31ba6c93d76495cd19"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Should You Buy Tesla or SpaceX Stock Before Their Potential Merger?",
-      "url": "https://finnhub.io/api/news?id=131443fcf6e684626624398f0a78f7b06dc9a3c135c971f4f4c65b77d8d4d43f"
-    },
-    {
-      "stock": "DE",
-      "headline": "Tech and AI Sentiment, Thanksgiving and Other Key Things to Watch this Week",
-      "url": "https://finnhub.io/api/news?id=46ab53d47fddcb4d4cb75bd882035a2e000f4bfce190590df119f458feee0a80"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "“Congress Needs to Act”: Cory Booker Sounds the Alarm on AI Recursive Self-Improvement as AI Backlash Grows",
-      "url": "https://finnhub.io/api/news?id=906a84b8e0f0c28bdeedc54d61ca527a9407e929f3779ebf4487079d85d9cdba"
-    },
-    {
       "stock": "MU",
-      "headline": "Jensen Huang’s Return Just Added About $500 Billion to Micron, Dell, TSMC and the AI Stocks That Depend on Nvidia",
-      "url": "https://finnhub.io/api/news?id=d0e13968a9cd407de3bbd6e4281847394f71cf489c6693620b7cd21d19ebe70a"
-    },
-    {
-      "stock": "TSM",
-      "headline": "ASML Stock Fell 25% In The AI Selloff, But Its Outlook Hasn't Budged",
-      "url": "https://finnhub.io/api/news?id=b3fdb14a7c548357fa7d200917e65154d7b87dce413b46747080d701b497f05a"
-    },
-    {
-      "stock": "CRWD",
-      "headline": "US Equity Markets Rise After Nvidia Reinstates Jensen Huang as CEO",
-      "url": "https://finnhub.io/api/news?id=b5bd7603168316952b25dcd5569352e329d54c66629fd636c43398e7ba707341"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "China Is “Only 12 Hours” Behind US AI Labs. ByteDance’s Reported Azure Deal Puts Microsoft in the Middle",
-      "url": "https://finnhub.io/api/news?id=f8dbebf4e131a0ffd18695dd13f5c7af6438756832dcc8b07c1f555b7226d20f"
+      "headline": "Watch these chip stocks for bargain buys after Nvidia’s post-reinstatement rally",
+      "url": "https://finnhub.io/api/news?id=32d3efd4f8e2b8560c0c5e9fa268869ff25ae9c5ca71aeeae4607e6a01554c12"
     },
     {
       "stock": "COHR",
-      "headline": "Coherent Is the Real Winner of Huang’s Return. Nvidia Paid $2 Billion for Its Stock",
-      "url": "https://finnhub.io/api/news?id=33a3af7399c69e09df2f8a05b656b6e8c0dd3a66f2f1296346dc819415dbcc90"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Has Buying The Dip In Synopsys Stock Paid Off?",
-      "url": "https://finnhub.io/api/news?id=568779120a911e29ccce2971c7401bb1a852f56471129969ab8f3f018f52302c"
+      "headline": "S&P 500 Top Movers: Today's US Session Gainers and Losers",
+      "url": "https://finnhub.io/api/news?id=d33a321c4f0d63865b5020981f259c6f0c7c6d8770044a22c5790270da2d8417"
     },
     {
       "stock": "TSLA",
-      "headline": "Elon Musk on his support for Jensen Huang: 'Fair-weather friends are worthless'",
-      "url": "https://finnhub.io/api/news?id=9b19d112768177516eaa0aee135a317e06efb38db1704c35423b7a63f01b987f"
+      "headline": "SpaceX, Tesla directors negotiate potential $3.5 trillion merger, FT reports",
+      "url": "https://finnhub.io/api/news?id=9b3c6774a83c9c99fc201e40586f732df6e54871eadd6ef872ae4aa765e7651c"
     },
     {
-      "stock": "HON",
-      "headline": "Dow Jones Top Gainers Today: NVDA, CAT, GOOGL Lead",
-      "url": "https://finnhub.io/api/news?id=8bafd04d062dc134173abbf5dd1aeaa1fc02b00f990aa74f29a319f51606d0a5"
-    },
-    {
-      "stock": "HALO",
-      "headline": "Patients Gain New Treatment Options in a Busy Month for Drug Approvals",
-      "url": "https://finnhub.io/api/news?id=24066e7d1c41ecc3be88b6e7f56ae55ab48b1284cf784a5357b8dc058dc8a39c"
-    },
-    {
-      "stock": "DE",
-      "headline": "Key earnings reports to watch this holiday-shortened week",
-      "url": "https://finnhub.io/api/news?id=6b50de11f3b04a499fee7906e2d92c54bbb75ca3dae33131f1a9ee105d6ed7f8"
+      "stock": "AAOI",
+      "headline": "Applied Optoelectronics and Lumentum Soar 22% as Jensen Huang’s Return to NVIDIA Sparks AI Optics Rebound; Coherent Jumps 19%",
+      "url": "https://finnhub.io/api/news?id=0fa3bc2818ca19361123e599e12707b33f511b8aab21e842630f3de16cb49cc4"
     },
     {
       "stock": "ADSK",
-      "headline": "Option Volatility and Earnings Report For Nov 23-27",
-      "url": "https://finnhub.io/api/news?id=cfe206747e9c9c746c549ff240e815ed132d9eeb8c5c31fb34839050a90f3181"
+      "headline": "Cantor Fitzgerald Reiterates Neutral on Autodesk, Maintains $215 Price Target",
+      "url": "https://finnhub.io/api/news?id=22596d91b6d33d17be01a8718f3a6f84933ef04f9d9b3ce6860c7439f2905348"
     },
     {
       "stock": "DPRO",
-      "headline": "Draganfly Announces Strategic Cooperation Agreement With TAF Industries To Explore Development, Manufacture And Integration Of Ukrainian Unmanned Systems Technologies In Canada",
-      "url": "https://finnhub.io/api/news?id=6b0a6919f0b04fd610c4eced82a34880ba0885759ec4cb8ad88bd9c4d9c54b0b"
+      "headline": "Draganfly Signs Two Agreements at Canadian Embassy in Kyiv to Advance Canada–Ukraine Unmanned Systems Collaboration",
+      "url": "https://finnhub.io/api/news?id=573c8fdf82ce1003659f8eaed589b8f1840d0741dcc083365af86bbfa18e92e9"
     },
     {
-      "stock": "GOOGL",
-      "headline": "Plot Twist: Cathie Wood Sold Nvidia Over “Losing Jensen.” Nvidia Just Rehired Him, but Her Other Worry Remains",
-      "url": "https://finnhub.io/api/news?id=2d415468040bde72ff572d8e686b7ce97389157d61f5d83bdf29c0835a1782b3"
+      "stock": "U",
+      "headline": "What Is The Case For Waiting On Roblox Stock?",
+      "url": "https://finnhub.io/api/news?id=de8131bbfba16af2fcda037cd52e8b9233bf4409f60303ab549ebefde23b0488"
     },
     {
-      "stock": "NFLX",
-      "headline": "Bill Ackman Likes Netflix Under $60. Michael Burry Is Waiting for the High $30s. Who’s Right?",
-      "url": "https://finnhub.io/api/news?id=80f407f4ab26df3c7729e09c6e459d7db004087b1af5cda2dbc6f3b1486d7f46"
+      "stock": "TEAM",
+      "headline": "3 Growth Stocks With Earnings Growth Up To 72%",
+      "url": "https://finnhub.io/api/news?id=87b475d28031785290eb0c1b5f7ab91da2b2019eacc3e020ca70151fde36e35f"
     }
   ]
 }
