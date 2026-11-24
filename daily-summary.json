@@ -40,6 +40,56 @@
       "stock": "TEAM",
       "headline": "3 Growth Stocks With Earnings Growth Up To 72%",
       "url": "https://finnhub.io/api/news?id=87b475d28031785290eb0c1b5f7ab91da2b2019eacc3e020ca70151fde36e35f"
+    },
+    {
+      "stock": "MU",
+      "headline": "Nvidia, Chip Stocks Fall As Data Center Spending Fears Return",
+      "url": "https://finnhub.io/api/news?id=9a0f04063c522622d5af5c33d534269437d3725c861a32003a70ada427b403f2"
+    },
+    {
+      "stock": "TSM",
+      "headline": "TSMC: Amazing Chance To Double Down On The AI Market Panic",
+      "url": "https://finnhub.io/api/news?id=583080a066d9daca735474eb2e32bb107e356985b283e63921a2c4a4db5d0cf7"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Nike Sells Shoes. Can It Stop Paying For AI?",
+      "url": "https://finnhub.io/api/news?id=9377cbd05c3447905d4e409550db73bd3931cdc2609f761ed6c4b0a27887f5f2"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "This CrowdStrike Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday",
+      "url": "https://finnhub.io/api/news?id=c8c2718ea78b8c957b26780c4fc80f45bcdd55e8909446541c1b419b423bca35"
+    },
+    {
+      "stock": "AMPX",
+      "headline": "XCHG Limited Announces Its First European Assembly Plant In Spain To Diversify Its Global Supply Chain And Accelerate R&D In Grid-Independent Charging Technology",
+      "url": "https://finnhub.io/api/news?id=228c7eb2035ad966d185308419dee982f384069dd89fb3c2ed1381a144db4b39"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Draganfly and TAF Industries Announce Strategic Collaboration to Advance Canada–Ukraine Defence Manufacturing Capabilities",
+      "url": "https://finnhub.io/api/news?id=924ee9ea8fb3c26a89c79c5b8b958cb45aa97a32347dfc7319af955461a7b1f0"
+    },
+    {
+      "stock": "U",
+      "headline": "AppLovin Q3 Beat & Q4 Guidance Put AI Growth & Margins to the Test",
+      "url": "https://finnhub.io/api/news?id=876bacd62221d04ba0f5792e63f7a9e5869ddd545f6a960d34b68c015038d58d"
+    },
+    {
+      "stock": "GOOGL",
+      "headline": "Nike Sells Shoes. Can It Stop Paying For AI?",
+      "url": "https://finnhub.io/api/news?id=9377cbd05c3447905d4e409550db73bd3931cdc2609f761ed6c4b0a27887f5f2"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Atlassian: Business Is Doing Better Than Headline Guidance Implies, Buy The Dip",
+      "url": "https://finnhub.io/api/news?id=43be6fd535c3fef57f5b7857dcb8f90d680f29052a744e74a8a223633842158a"
+    },
+    {
+      "stock": "NFLX",
+      "headline": "Stocks give back gains as Anthropic dips below IPO price",
+      "url": "https://finnhub.io/api/news?id=7a818833a1c617f7042e7f231d6c9971250edac4caa4597061bc959152da8838"
     }
   ]
 }
