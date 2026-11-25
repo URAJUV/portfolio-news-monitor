@@ -1,95 +1,35 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "items": [
     {
       "stock": "MU",
-      "headline": "Watch these chip stocks for bargain buys after Nvidia’s post-reinstatement rally",
-      "url": "https://finnhub.io/api/news?id=32d3efd4f8e2b8560c0c5e9fa268869ff25ae9c5ca71aeeae4607e6a01554c12"
+      "headline": "3 AI Investment Stocks We’re Buying Today And Why We’re Selling On Micron",
+      "url": "https://finnhub.io/api/news?id=a4cd568928d6c4981a41a0b6aa7e78435e4ff325e0a5c076f8bfe13df7fda50d"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "7 Firms Downgraded Zscaler After CrowdStrike’s $43.9 Billion Deal. Is There Still Money to Make?",
+      "url": "https://finnhub.io/api/news?id=1e1ebdc72af10774f211fa88a8cff937bfa36912fa3e975b07d5ec8a2f029189"
     },
     {
       "stock": "COHR",
-      "headline": "S&P 500 Top Movers: Today's US Session Gainers and Losers",
-      "url": "https://finnhub.io/api/news?id=d33a321c4f0d63865b5020981f259c6f0c7c6d8770044a22c5790270da2d8417"
+      "headline": "Why MKS (MKSI) Stock Is Down Today: Chip Stocks Slide on AI Selloff",
+      "url": "https://finnhub.io/api/news?id=0ca0ce0fb52a888ba69c012e7151d544d346cfe95b03650659b589eed71e543a"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Synopsys’ $1 Billion-Plus Silicon Deal Offers a Different Route Into AI Spending",
+      "url": "https://finnhub.io/api/news?id=4a2d783c5eb75c89aadf2bdba1f9280ce6ed682b6cae33aef46a8573f3bde105"
     },
     {
       "stock": "TSLA",
-      "headline": "SpaceX, Tesla directors negotiate potential $3.5 trillion merger, FT reports",
-      "url": "https://finnhub.io/api/news?id=9b3c6774a83c9c99fc201e40586f732df6e54871eadd6ef872ae4aa765e7651c"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Applied Optoelectronics and Lumentum Soar 22% as Jensen Huang’s Return to NVIDIA Sparks AI Optics Rebound; Coherent Jumps 19%",
-      "url": "https://finnhub.io/api/news?id=0fa3bc2818ca19361123e599e12707b33f511b8aab21e842630f3de16cb49cc4"
+      "headline": "He Lets His Tesla Drive at 93, Trusting the Brand. A $400,000 Crash Judgment Could Reach His Savings, While His $2,800 Social Security Check Stays Off-Limits to the Victim",
+      "url": "https://finnhub.io/api/news?id=53a72f59efd02f90d318592a8ecfc95dbe35ceb75db699643ab4fe4093472f04"
     },
     {
       "stock": "ADSK",
-      "headline": "Cantor Fitzgerald Reiterates Neutral on Autodesk, Maintains $215 Price Target",
-      "url": "https://finnhub.io/api/news?id=22596d91b6d33d17be01a8718f3a6f84933ef04f9d9b3ce6860c7439f2905348"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Draganfly Signs Two Agreements at Canadian Embassy in Kyiv to Advance Canada–Ukraine Unmanned Systems Collaboration",
-      "url": "https://finnhub.io/api/news?id=573c8fdf82ce1003659f8eaed589b8f1840d0741dcc083365af86bbfa18e92e9"
-    },
-    {
-      "stock": "U",
-      "headline": "What Is The Case For Waiting On Roblox Stock?",
-      "url": "https://finnhub.io/api/news?id=de8131bbfba16af2fcda037cd52e8b9233bf4409f60303ab549ebefde23b0488"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "3 Growth Stocks With Earnings Growth Up To 72%",
-      "url": "https://finnhub.io/api/news?id=87b475d28031785290eb0c1b5f7ab91da2b2019eacc3e020ca70151fde36e35f"
-    },
-    {
-      "stock": "MU",
-      "headline": "Nvidia, Chip Stocks Fall As Data Center Spending Fears Return",
-      "url": "https://finnhub.io/api/news?id=9a0f04063c522622d5af5c33d534269437d3725c861a32003a70ada427b403f2"
-    },
-    {
-      "stock": "TSM",
-      "headline": "TSMC: Amazing Chance To Double Down On The AI Market Panic",
-      "url": "https://finnhub.io/api/news?id=583080a066d9daca735474eb2e32bb107e356985b283e63921a2c4a4db5d0cf7"
-    },
-    {
-      "stock": "AMZN",
-      "headline": "Nike Sells Shoes. Can It Stop Paying For AI?",
-      "url": "https://finnhub.io/api/news?id=9377cbd05c3447905d4e409550db73bd3931cdc2609f761ed6c4b0a27887f5f2"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "This CrowdStrike Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday",
-      "url": "https://finnhub.io/api/news?id=c8c2718ea78b8c957b26780c4fc80f45bcdd55e8909446541c1b419b423bca35"
-    },
-    {
-      "stock": "AMPX",
-      "headline": "XCHG Limited Announces Its First European Assembly Plant In Spain To Diversify Its Global Supply Chain And Accelerate R&D In Grid-Independent Charging Technology",
-      "url": "https://finnhub.io/api/news?id=228c7eb2035ad966d185308419dee982f384069dd89fb3c2ed1381a144db4b39"
-    },
-    {
-      "stock": "DPRO",
-      "headline": "Draganfly and TAF Industries Announce Strategic Collaboration to Advance Canada–Ukraine Defence Manufacturing Capabilities",
-      "url": "https://finnhub.io/api/news?id=924ee9ea8fb3c26a89c79c5b8b958cb45aa97a32347dfc7319af955461a7b1f0"
-    },
-    {
-      "stock": "U",
-      "headline": "AppLovin Q3 Beat & Q4 Guidance Put AI Growth & Margins to the Test",
-      "url": "https://finnhub.io/api/news?id=876bacd62221d04ba0f5792e63f7a9e5869ddd545f6a960d34b68c015038d58d"
-    },
-    {
-      "stock": "GOOGL",
-      "headline": "Nike Sells Shoes. Can It Stop Paying For AI?",
-      "url": "https://finnhub.io/api/news?id=9377cbd05c3447905d4e409550db73bd3931cdc2609f761ed6c4b0a27887f5f2"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Atlassian: Business Is Doing Better Than Headline Guidance Implies, Buy The Dip",
-      "url": "https://finnhub.io/api/news?id=43be6fd535c3fef57f5b7857dcb8f90d680f29052a744e74a8a223633842158a"
-    },
-    {
-      "stock": "NFLX",
-      "headline": "Stocks give back gains as Anthropic dips below IPO price",
-      "url": "https://finnhub.io/api/news?id=7a818833a1c617f7042e7f231d6c9971250edac4caa4597061bc959152da8838"
+      "headline": "What Autodesk (ADSK) Said on Its Q3 Earnings Call",
+      "url": "https://finnhub.io/api/news?id=1d60dca910634f8c9b8a3680fdf903006c3ec43d5bdc677bfd35ecf39d74670d"
     }
   ]
 }
