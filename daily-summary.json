@@ -40,6 +40,46 @@
       "stock": "RDDT",
       "headline": "Reddit’s Ad Sales Grew 54% as U.S. Daily Users Fell. What’s Doing the Work?",
       "url": "https://finnhub.io/api/news?id=a1f777933c0786012fd226b30f38db953ff8363aa06d054f4dd5c6d9cfb771bb"
+    },
+    {
+      "stock": "MU",
+      "headline": "Stock Market Today: Nasdaq (QQQ) Plunges 4.5%, Then Claws Back Most of It as Hot PCE Data Meets an AI Scare",
+      "url": "https://finnhub.io/api/news?id=4a578c7ae1c96f5e9fa759786c2763f8c090772ee280803389f1c81f88177d5b"
+    },
+    {
+      "stock": "TSM",
+      "headline": "Taiwan shares tumble 4.8% as AI chip stocks slump",
+      "url": "https://finnhub.io/api/news?id=6fc72c3b2135b1c9429ae5a7cfa752f62b40b68c42fee8fd06f7af1fb9b2fda5"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "Ainos shares are trading lower. The company announced interim results from its ongoing multi-dose clinical trial evaluating VELDONA for the treatment of Feline Chronic Gingivostomatitis.",
+      "url": "https://finnhub.io/api/news?id=9223f2cde1bdaf792d10b376971c210695eeead8df0b6cb78b232c9d7fa911d1"
+    },
+    {
+      "stock": "TSLA",
+      "headline": "Cathie Wood Buys More SpaceX Amid Tesla Merger Talks — Ron Baron Says SpaceX Could Make $50B A Year From One Data Center",
+      "url": "https://finnhub.io/api/news?id=e20a1c6864b0638103683a558a2c7228a0744bf93030d68b2b61b1dbc26e5cd8"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Chip stocks tumble as Nvidia-led AI rally unravels, tariff fears weigh",
+      "url": "https://finnhub.io/api/news?id=def71aa294487ea9009da6b6b795485d4ea12ed1b008d1f0145f3b0b816b900d"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Lucid Group (LCID) Starts Driverless Robotaxi Testing, Is It A Bargain?",
+      "url": "https://finnhub.io/api/news?id=1bd3f6ee8586dfefa0bbd1fd726837a1a350bb10831b3eb0241a33d62fb79955"
+    },
+    {
+      "stock": "AAOI",
+      "headline": "Coherent Sinks 10% Despite $15 Million Director Buy, Applied Optoelectronics Plunges 12% as AI Selloff Deepens; Lumentum Tumbles 10%",
+      "url": "https://finnhub.io/api/news?id=4db5e321c2f7c04f74845f3462b2ac0fb709fe0d3df109d6963b6b90a3188588"
+    },
+    {
+      "stock": "DE",
+      "headline": "Stock Market Today: Nasdaq (QQQ) Plunges 4.5%, Then Claws Back Most of It as Hot PCE Data Meets an AI Scare",
+      "url": "https://finnhub.io/api/news?id=4a578c7ae1c96f5e9fa759786c2763f8c090772ee280803389f1c81f88177d5b"
     }
   ]
 }
