@@ -80,6 +80,46 @@
       "stock": "DE",
       "headline": "Stock Market Today: Nasdaq (QQQ) Plunges 4.5%, Then Claws Back Most of It as Hot PCE Data Meets an AI Scare",
       "url": "https://finnhub.io/api/news?id=4a578c7ae1c96f5e9fa759786c2763f8c090772ee280803389f1c81f88177d5b"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "SpaceX Stocks Rise 1.3% as FCC Approves 1 Million Orbital Data Center Satellites",
+      "url": "https://finnhub.io/api/news?id=d8fed1f936d21ab5dcf0c37ad2bc3fc5adf7e5a6b195b7175f3efb23276feb2b"
+    },
+    {
+      "stock": "SHLS",
+      "headline": "Citigroup Upgrades Shoals Technologies Group to Buy, Raises Price Target to $11.85",
+      "url": "https://finnhub.io/api/news?id=3f9c651be2bc875490800fd65466947209c89dfa4219d3bfb4d1b7c587a7cf44"
+    },
+    {
+      "stock": "SNPS",
+      "headline": "SNPS vs. VICR: Which Stock Stands to Gain From AI Power Demand?",
+      "url": "https://finnhub.io/api/news?id=b2b08f91f34d9a66c92548ca233c8aa1e5af2cd0ace1d408ce2c454e9130cf26"
+    },
+    {
+      "stock": "ARM",
+      "headline": "Is Astera Labs, Inc. (ALAB) One of the Best Oversold AI Semiconductor Stocks to Buy?",
+      "url": "https://finnhub.io/api/news?id=8de951fa6035972766f1fee65d43dfc944ceda0b84304501448767aad0ecd2b7"
+    },
+    {
+      "stock": "IONQ",
+      "headline": "Huang Is Back as NVDA CEO: Quantum ETFs to Buy Before the Next AI Surge",
+      "url": "https://finnhub.io/api/news?id=84a98efb0982efdfa78243ca72a9e5eafb39bbf04cd58ff815b565e9b17443ba"
+    },
+    {
+      "stock": "IBM",
+      "headline": "IBM Stocks Climb 3.33% as Wedbush Starts Coverage at Outperform With $276 Target",
+      "url": "https://finnhub.io/api/news?id=b58a5489e014ff6c7ffe7c8f80c4ce34e4f11bbc1d4bca1c2194e446eac98ab7"
+    },
+    {
+      "stock": "TEAM",
+      "headline": "Cathie Wood Says OpenAI and Anthropic Have 'Stolen the Show,' but Criticizes Dario Amodei's 'Negative Headlines' on Human Extinction Odds and Job Losses",
+      "url": "https://finnhub.io/api/news?id=93ec3eda5b5767f52f3616777acbe09bfdc2e28b560e3589b6a2dc172239f48e"
+    },
+    {
+      "stock": "RDDT",
+      "headline": "Reddit's 2027 Outlook: Scaling Advertising Business Drives Sustained Growth",
+      "url": "https://finnhub.io/api/news?id=2fbf9c804298243832929b3aa9501c058b22f8a3108a3d8f0cf19b8da252e01d"
     }
   ]
 }
