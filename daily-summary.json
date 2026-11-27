@@ -50,6 +50,61 @@
       "stock": "NFLX",
       "headline": "NFL's Thanksgiving Boom Raises Stakes for Disney, Netflix",
       "url": "https://finnhub.io/api/news?id=1a19450f491fc7e50fdefa2d8aadf7130c37c8d20e81140d23582a9729d89a92"
+    },
+    {
+      "stock": "MU",
+      "headline": "Anthropic Jumps Back Above Its IPO Price As AI Stocks Rebound",
+      "url": "https://finnhub.io/api/news?id=d7871a6cd69e66c009716e3229dfd0ad9c997627cf6e480ad1a9692a4c06fcbc"
+    },
+    {
+      "stock": "TSM",
+      "headline": "What Is Going on With Taiwan Semiconductor Stock on Friday?",
+      "url": "https://finnhub.io/api/news?id=8ca80a354288651f4f0c7607f2336ace40b3b1492568c462543cbf2a66372c58"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Palantir Raised Its 2026 Growth Outlook to 91%. Could the Stock Have More Room to Run?",
+      "url": "https://finnhub.io/api/news?id=b6fc544dd60fd5b0a7d7ad749c53b5d8215a032fbff490bb9b05fa05e1968222"
+    },
+    {
+      "stock": "AMZN",
+      "headline": "Oracle Has Frustrated Me, but Even With Zero AI Revenue the Stock Is Worth $133—So I’m Buying at $104",
+      "url": "https://finnhub.io/api/news?id=3f399fcf14a2962c86a6bd2df47d240a7e43b501d9610241b203ea886a39f926"
+    },
+    {
+      "stock": "COHR",
+      "headline": "Coherent Jumps 12% as Optical Stocks Rebound From Wednesday’s AI Selloff; Applied Optoelectronics and Lumentum Rise 7%",
+      "url": "https://finnhub.io/api/news?id=9532cb77ebe7bc819d9ded3fc36555a3ae63dc33a6cb1f108a7ebeaa615bb9a1"
+    },
+    {
+      "stock": "ARM",
+      "headline": "PLTR vs. ARM: Which AI-Tech Stock is Better Positioned Now?",
+      "url": "https://finnhub.io/api/news?id=9f462ce194c77a6fb712ba32b926b3f7937a573a58d9220621cc0829f742d8e1"
+    },
+    {
+      "stock": "HON",
+      "headline": "Why Is Carlisle (CSL) Up 10.8% Since Last Earnings Report?",
+      "url": "https://finnhub.io/api/news?id=24c096c84047a220591f57840f5a856bd40f32dc69294aacde84d60ff52e7caa"
+    },
+    {
+      "stock": "UBER",
+      "headline": "Uber Moves Closer To Delivery Hero Acquisition With 87% Stake",
+      "url": "https://finnhub.io/api/news?id=43afa9aec888d95f7a91623bdf3f5847629ef59ea295462db3e4fe5d0d98f475"
+    },
+    {
+      "stock": "ADSK",
+      "headline": "Adobe’s 33% 2026 Slide is Worth Buying Says Wall Street Analyst Predicting 60% Gains After Recent Re-Rating",
+      "url": "https://finnhub.io/api/news?id=53b3a0e878cf16a59c8c5d7dcb1c759e46bcbdb35fcecd4c5bd452215c81edf4"
+    },
+    {
+      "stock": "DPRO",
+      "headline": "Can Draganfly's AI Partnership Boost Its Unmanned Systems Business?",
+      "url": "https://finnhub.io/api/news?id=7192f80d895bbbdff19529bce4fb66da7c83572193c64f9638b47777f94b0af6"
+    },
+    {
+      "stock": "QBTS",
+      "headline": "IonQ Lost 25% of Its Value Over One Month: Near 200% Gains to Materialize According to This Wall Street Pro",
+      "url": "https://finnhub.io/api/news?id=8d350e39526bb544b8bfee0ac89a483470cb2d14b350bea99d76fb39c29f559f"
     }
   ]
 }
