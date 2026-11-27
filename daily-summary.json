@@ -1,125 +1,55 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "items": [
     {
-      "stock": "TSM",
-      "headline": "Taiwan Semiconductor Manufacturing Company Limited Announces Adjustment to Cash Dividend Per Share",
-      "url": "https://finnhub.io/api/news?id=d4a0a213e02ac618665ca8085340974c594eb4601d4e35087c0b4b91656b5f8b"
+      "stock": "MU",
+      "headline": "Micron (MU) Has Secured $32 Billion in Customer Commitments. Here’s Why That Matters",
+      "url": "https://finnhub.io/api/news?id=a5483850d4d088cb5e543381c95c21ef94d4bb0719d71b36f56bdc5a7af4413c"
     },
     {
-      "stock": "AMZN",
-      "headline": "Musk's Plan To Put 1 Million AI Satellites In Orbit Gets US Approval. Amazon Questions Whether It Can Be Done.",
-      "url": "https://finnhub.io/api/news?id=1941f15a07a41c34a8084c1a2b761aff803fe78d8f61ebbbb01e846ba6c475a6"
+      "stock": "TSM",
+      "headline": "Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout",
+      "url": "https://finnhub.io/api/news?id=1e6a29ce5409656c864a8a62bd700fa2582dc2a47471bcbac706428c3ead3e0a"
+    },
+    {
+      "stock": "CRWD",
+      "headline": "Nvidia Wins Three Wall Street Upgrades as Jensen Huang Returns as CEO",
+      "url": "https://finnhub.io/api/news?id=57e4372dd65b6fa8b1824e7800c1d48adc7733f0d3b3eb24f5ee9a53896d0847"
     },
     {
       "stock": "COHR",
-      "headline": "Coherent (COHR) Authorizes A $2.0b Buyback, Is The 47% Undervaluation Case Intact?",
-      "url": "https://finnhub.io/api/news?id=1b760b5f41da7ddfcea5294e7de1b41332772abbf485b5ef04c388dd1ad5bc99"
-    },
-    {
-      "stock": "SHLS",
-      "headline": "HCA Healthcare, GoodRx downgraded: Wall Street's top analyst calls",
-      "url": "https://finnhub.io/api/news?id=84be8c234817c06514224e066fe2e3e98870f382ae60a48c1b681f126f51524b"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Autodesk Q3 Earnings Beat on Strong Renewals, Revenues Rise Y/Y",
-      "url": "https://finnhub.io/api/news?id=c65e52763c6a7cbfb2f21a06370fc4e1d1d40f683206b26a0f1d77be841446ef"
-    },
-    {
-      "stock": "HON",
-      "headline": "Radio Frequency Identification (RFID) Track and Trace Solutions Global Market Report 2026 | Capitalize on AI, Cloud and Automation with Honeywell, Impinj, Zebra and Avery Dennison",
-      "url": "https://finnhub.io/api/news?id=cda6849e1ba644d34940645b59f83c5561ee75f924fa6c98da1f91728ddf768c"
-    },
-    {
-      "stock": "U",
-      "headline": "Unity Software (U) Upgraded to Strong Buy: Here's What You Should Know",
-      "url": "https://finnhub.io/api/news?id=7b2d6f8fd0e3b367600cd850fff79612d36b90a5e7c6f049172607bb7fc93d33"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit’s Ad Sales Grew 54% as U.S. Daily Users Fell. What’s Doing the Work?",
-      "url": "https://finnhub.io/api/news?id=a1f777933c0786012fd226b30f38db953ff8363aa06d054f4dd5c6d9cfb771bb"
-    },
-    {
-      "stock": "MU",
-      "headline": "Stock Market Today: Nasdaq (QQQ) Plunges 4.5%, Then Claws Back Most of It as Hot PCE Data Meets an AI Scare",
-      "url": "https://finnhub.io/api/news?id=4a578c7ae1c96f5e9fa759786c2763f8c090772ee280803389f1c81f88177d5b"
-    },
-    {
-      "stock": "TSM",
-      "headline": "Taiwan shares tumble 4.8% as AI chip stocks slump",
-      "url": "https://finnhub.io/api/news?id=6fc72c3b2135b1c9429ae5a7cfa752f62b40b68c42fee8fd06f7af1fb9b2fda5"
-    },
-    {
-      "stock": "SNPS",
-      "headline": "Ainos shares are trading lower. The company announced interim results from its ongoing multi-dose clinical trial evaluating VELDONA for the treatment of Feline Chronic Gingivostomatitis.",
-      "url": "https://finnhub.io/api/news?id=9223f2cde1bdaf792d10b376971c210695eeead8df0b6cb78b232c9d7fa911d1"
-    },
-    {
-      "stock": "TSLA",
-      "headline": "Cathie Wood Buys More SpaceX Amid Tesla Merger Talks — Ron Baron Says SpaceX Could Make $50B A Year From One Data Center",
-      "url": "https://finnhub.io/api/news?id=e20a1c6864b0638103683a558a2c7228a0744bf93030d68b2b61b1dbc26e5cd8"
+      "headline": "Coherent Targets $250 Million in Quarterly PhotonLink Sales. Can Capacity Keep Up?",
+      "url": "https://finnhub.io/api/news?id=e4c45aac5dca0a79e5e8cc421346e0ed5cf9f856a412b694f37eed78426f8f9e"
     },
     {
       "stock": "ARM",
-      "headline": "Chip stocks tumble as Nvidia-led AI rally unravels, tariff fears weigh",
-      "url": "https://finnhub.io/api/news?id=def71aa294487ea9009da6b6b795485d4ea12ed1b008d1f0145f3b0b816b900d"
+      "headline": "3 AI Infrastructure Stocks Retail Investors Are Watching As Compute Spending Shifts",
+      "url": "https://finnhub.io/api/news?id=b4507b41d7ce9c536053a09ba14b3ee113dd930ecd0a0be6f6472e440f5b488c"
     },
     {
       "stock": "UBER",
-      "headline": "Lucid Group (LCID) Starts Driverless Robotaxi Testing, Is It A Bargain?",
-      "url": "https://finnhub.io/api/news?id=1bd3f6ee8586dfefa0bbd1fd726837a1a350bb10831b3eb0241a33d62fb79955"
-    },
-    {
-      "stock": "AAOI",
-      "headline": "Coherent Sinks 10% Despite $15 Million Director Buy, Applied Optoelectronics Plunges 12% as AI Selloff Deepens; Lumentum Tumbles 10%",
-      "url": "https://finnhub.io/api/news?id=4db5e321c2f7c04f74845f3462b2ac0fb709fe0d3df109d6963b6b90a3188588"
+      "headline": "Lucid Sinks 13% in a Week as the Tech Selloff Hits EV Stocks. Seaport Sets a $1 Target",
+      "url": "https://finnhub.io/api/news?id=cfb26b49c9fb75a37cd6d61d4295d104110437dbebc6705e50ebd5584b44f035"
     },
     {
       "stock": "DE",
-      "headline": "Stock Market Today: Nasdaq (QQQ) Plunges 4.5%, Then Claws Back Most of It as Hot PCE Data Meets an AI Scare",
-      "url": "https://finnhub.io/api/news?id=4a578c7ae1c96f5e9fa759786c2763f8c090772ee280803389f1c81f88177d5b"
+      "headline": "CNH Industrial Stock Gains Attention As Deere Lifts Farm Equipment Outlook",
+      "url": "https://finnhub.io/api/news?id=79f8f9a372ff6b7f6bd83926ba3a56d286c8de227bf5633bcf7b3fabf54b87ed"
     },
     {
-      "stock": "AMZN",
-      "headline": "SpaceX Stocks Rise 1.3% as FCC Approves 1 Million Orbital Data Center Satellites",
-      "url": "https://finnhub.io/api/news?id=d8fed1f936d21ab5dcf0c37ad2bc3fc5adf7e5a6b195b7175f3efb23276feb2b"
+      "stock": "ADSK",
+      "headline": "Autodesk earnings analysis: questions answered and next catalysts",
+      "url": "https://finnhub.io/api/news?id=d7857007a8b39fced07ffa8fb3c5f79514908889a1715c1e6c7ab330228e214a"
     },
     {
-      "stock": "SHLS",
-      "headline": "Citigroup Upgrades Shoals Technologies Group to Buy, Raises Price Target to $11.85",
-      "url": "https://finnhub.io/api/news?id=3f9c651be2bc875490800fd65466947209c89dfa4219d3bfb4d1b7c587a7cf44"
+      "stock": "DPRO",
+      "headline": "LUNR Aerospace Appoints Draganfly CEO Cameron Chell to Board of Directors",
+      "url": "https://finnhub.io/api/news?id=35c0295fe741e85871b77e56a7cfbc8c9096a37726916cad1492c547654b9550"
     },
     {
-      "stock": "SNPS",
-      "headline": "SNPS vs. VICR: Which Stock Stands to Gain From AI Power Demand?",
-      "url": "https://finnhub.io/api/news?id=b2b08f91f34d9a66c92548ca233c8aa1e5af2cd0ace1d408ce2c454e9130cf26"
-    },
-    {
-      "stock": "ARM",
-      "headline": "Is Astera Labs, Inc. (ALAB) One of the Best Oversold AI Semiconductor Stocks to Buy?",
-      "url": "https://finnhub.io/api/news?id=8de951fa6035972766f1fee65d43dfc944ceda0b84304501448767aad0ecd2b7"
-    },
-    {
-      "stock": "IONQ",
-      "headline": "Huang Is Back as NVDA CEO: Quantum ETFs to Buy Before the Next AI Surge",
-      "url": "https://finnhub.io/api/news?id=84a98efb0982efdfa78243ca72a9e5eafb39bbf04cd58ff815b565e9b17443ba"
-    },
-    {
-      "stock": "IBM",
-      "headline": "IBM Stocks Climb 3.33% as Wedbush Starts Coverage at Outperform With $276 Target",
-      "url": "https://finnhub.io/api/news?id=b58a5489e014ff6c7ffe7c8f80c4ce34e4f11bbc1d4bca1c2194e446eac98ab7"
-    },
-    {
-      "stock": "TEAM",
-      "headline": "Cathie Wood Says OpenAI and Anthropic Have 'Stolen the Show,' but Criticizes Dario Amodei's 'Negative Headlines' on Human Extinction Odds and Job Losses",
-      "url": "https://finnhub.io/api/news?id=93ec3eda5b5767f52f3616777acbe09bfdc2e28b560e3589b6a2dc172239f48e"
-    },
-    {
-      "stock": "RDDT",
-      "headline": "Reddit's 2027 Outlook: Scaling Advertising Business Drives Sustained Growth",
-      "url": "https://finnhub.io/api/news?id=2fbf9c804298243832929b3aa9501c058b22f8a3108a3d8f0cf19b8da252e01d"
+      "stock": "NFLX",
+      "headline": "NFL's Thanksgiving Boom Raises Stakes for Disney, Netflix",
+      "url": "https://finnhub.io/api/news?id=1a19450f491fc7e50fdefa2d8aadf7130c37c8d20e81140d23582a9729d89a92"
     }
   ]
 }
